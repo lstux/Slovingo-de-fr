@@ -1,0 +1,114 @@
+{
+  "target_lang": {
+    "code": "de",
+    "name": "Deutsch",
+    "tts_code": "de-DE",
+    "flag": "🇩🇪",
+    "css_class": "col-target",
+    "voice_hint": "german",
+    "tts_sample_phrase": "Willkommen zu Slovingo, lerne Deutsch!"
+  },
+  "native_lang": {
+    "code": "fr",
+    "name": "français",
+    "tts_code": "fr-FR",
+    "flag": "🇫🇷",
+    "css_class": "col-native"
+  },
+  "site": {
+    "title": "Slovingo - Allemand pour enfants",
+    "short_name": "Slovingo de-fr",
+    "description": "Apprenez l'allemand de manière ludique — fiches, dialogues et exercices pour enfants",
+    "theme_color": "#003399",
+    "storage_prefix": "de-fr",
+    "url_path": "/slovingo/de-fr/",
+    "user_name_default": "Enfant",
+    "user_name_placeholder": "Ton nom",
+    "deploy_host": "www.lslinux.org",
+    "deploy_path": "/var/www/lslinux.org/htdocs/slovingo/de-fr/"
+  },
+  "categories": {
+    "introduction": "Avant de commencer",
+    "series": "Séries",
+    "dialog": "Dialogues",
+    "vocabulary": "Vocabulaire",
+    "annex": "Annexes"
+  },
+  "subgroups": {
+    "series_intro": "Introduction",
+    "series_kit": "Kit de Survie"
+  },
+  "ui": {
+    "home": "Accueil",
+    "exercises": "Exercices",
+    "sheet": "Fiche",
+    "toggle_translations": "Traductions",
+    "tts_unavailable": "Désolé, cette voix n'est pas disponible sur cet appareil.",
+    "exercises_coming_soon": "Les exercices arrivent bientôt !",
+    "settings": "Paramètres",
+    "voice": "Voix",
+    "voice_automatic": "Automatique",
+    "playback_speed": "Vitesse de lecture",
+    "slow_playback_speed": "Lecture lente",
+    "of_normal_speed": "de la vitesse normale",
+    "settings_audio": "Son",
+    "default_question_count": "Nombre de questions par défaut",
+    "default_direction": "Direction par défaut",
+    "default_types": "Types d'exercices par défaut",
+    "default_answer_mode": "Mode de réponse par défaut",
+    "answer_mode_choice": "Choix multiple",
+    "answer_mode_type": "Saisie libre",
+    "settings_exercises": "Exercices",
+    "reset_progress": "🗑️ Réinitialiser ma progression",
+    "reset_progress_confirm": "Supprimer tous les scores enregistrés sur cet appareil ?",
+    "reset_settings": "↩️ Réinitialiser les paramètres",
+    "reset_settings_confirm": "Réinitialiser tous les paramètres à leurs valeurs par défaut ?",
+    "settings_data": "Données",
+    "voice_pitch": "Tonalité",
+    "settings_characters": "Personnages",
+    "voice_use_default": "Voix par défaut",
+    "appearance": "Apparence",
+    "theme_mode": "Thème",
+    "theme_system": "Système",
+    "theme_light": "Clair",
+    "theme_dark": "Sombre",
+    "settings_profile": "Profil",
+    "profile_name": "Ton nom",
+    "settings_dialogue": "Lecture des dialogues",
+    "dialogue_mode": "Mode de lecture",
+    "dialogue_auto": "Automatique (lecture séquentielle auto)",
+    "dialogue_manual": "Manuel (cliquez pour continuer)",
+    "dialogue_pause": "Pause entre les répliques",
+    "play_dialogue": "Lire le dialogue",
+    "dialogue_continue": "Continuer (Espace)"
+  },
+  "generator": {
+    "target_headers": [
+      "german",
+      "deutsch",
+      "allemand",
+      "de",
+      "Deutsch",
+      "German",
+      "Allemand"
+    ],
+    "target_header_roots": [
+      "german",
+      "deutsch",
+      "allemand"
+    ],
+    "native_headers": [
+      "french",
+      "français",
+      "francais",
+      "fr",
+      "French",
+      "Français"
+    ],
+    "native_header_roots": [
+      "french",
+      "français",
+      "francais"
+    ]
+  }
+}
