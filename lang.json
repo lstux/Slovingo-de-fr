@@ -36,7 +36,8 @@
   },
   "subgroups": {
     "kitsurvie": "Kit de Survie",
-    "familie": "Familie"
+    "familie": "Familie",
+    "haus": "Haus"
   },
   "ui": {
     "home": "Accueil",
