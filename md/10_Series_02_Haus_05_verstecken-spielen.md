@@ -17,59 +17,59 @@ Retour chez Lea ! Cette fois, on joue à cache-cache dans toute la maison. Aucun
 
 ## Le dialogue
 
-🐰 ! Spielen wir Verstecken?
+! 🐰 Spielen wir Verstecken?
 > On joue à cache-cache ?
 > Spielen wir Verstecken = on joue à cache-cache
 + Mot nouveau signalé : {{Verstecken}} = cache-cache.
 
-🦊 ! Ja, gern! Wo ist ein gutes Versteck?
+! 🦊 Ja, gern! Wo ist ein gutes Versteck?
 > Oui, avec plaisir ! Où est une bonne cachette ?
 > Wo ist ein gutes Versteck = où est une bonne cachette
 
-🐨 ! Es gibt viele Zimmer im Haus!
+! 🐨 Es gibt viele Zimmer im Haus!
 > Il y a plein de pièces dans la maison !
 > Es gibt viele Zimmer = il y a plein de pièces
 > im Haus = dans la maison
 
-🐰 ! Ich verstecke mich im Schrank!
+! 🐰 Ich verstecke mich im Schrank!
 > Je me cache dans l'armoire !
 > Ich verstecke mich = je me cache
 > im Schrank = dans l'armoire
 
-🦊 ! Und ich sitze hinter dem Sofa!
+! 🦊 Und ich sitze hinter dem Sofa!
 > Et moi, je m'assois derrière le canapé !
 > hinter dem Sofa = derrière le canapé
 + Mot nouveau signalé : {{hinter}} = derrière.
 
-🐨 ! Ich bin unter dem Bett!
+! 🐨 Ich bin unter dem Bett!
 > Moi, je suis sous le lit !
 > unter dem Bett = sous le lit
 + Mot nouveau signalé : {{unter}} = sous.
 
-🦉 ! Wo seid ihr? Ich suche euch!
+! 🦉 Wo seid ihr? Ich suche euch!
 > Où êtes-vous ? Je vous cherche !
 > Wo seid ihr = où êtes-vous
 > Ich suche euch = je vous cherche
 
-🐰 ! Ich bin hier, im Schrank!
+! 🐰 Ich bin hier, im Schrank!
 > Je suis là, dans l'armoire !
 > Ich bin hier = je suis là
 
-🦉 ! Ich sehe dich! Und wo ist [USER_NAME]?
+! 🦉 Ich sehe dich! Und wo ist [USER_NAME]?
 > Je te vois ! Et où est [USER_NAME] ?
 > Ich sehe dich = je te vois
 
-🦊 ! Hier bin ich, hinter dem Sofa!
+! 🦊 Hier bin ich, hinter dem Sofa!
 > Me voilà, derrière le canapé !
 > Hier bin ich = me voilà
 
-🦉 ! Gefunden! Das war lustig!
+! 🦉 Gefunden! Das war lustig!
 > Trouvé ! C'était drôle !
 > Gefunden = trouvé
 > Das war lustig = c'était drôle
 + Mot nouveau signalé : {{lustig}} = drôle, amusant.
 
-🐨 ! Noch einmal? Ich verstecke mich jetzt!
+! 🐨 Noch einmal? Ich verstecke mich jetzt!
 > Encore une fois ? Je me cache maintenant !
 > Noch einmal = encore une fois
 + Mot nouveau signalé : {{Noch einmal}} = encore une fois.

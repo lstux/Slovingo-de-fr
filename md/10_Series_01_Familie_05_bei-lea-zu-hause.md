@@ -17,68 +17,68 @@ Tu es invité chez Lea ! Tu rencontres son ami Tom et sa grand-mère, Oma Hilde.
 
 ## Le dialogue
 
-🐰 ! Hallo! Willkommen! Das ist mein Haus.
+! 🐰 Hallo! Willkommen! Das ist mein Haus.
 > Salut ! Bienvenue ! C'est ma maison.
 > Willkommen = bienvenue
 > Das ist mein Haus = c'est ma maison
 
-🦊 ! Danke! Dein Garten ist groß!
+! 🦊 Danke! Dein Garten ist groß!
 > Merci ! Ton jardin est grand !
 > Dein Garten ist groß = ton jardin est grand
 
-🐰 ! Das ist mein Freund Tom.
+! 🐰 Das ist mein Freund Tom.
 > Voici mon ami Tom.
 > Das ist mein Freund = voici mon ami
 
-🐨 ! Hallo! Wie heißt du?
+! 🐨 Hallo! Wie heißt du?
 > Salut ! Comment tu t'appelles ?
 > Wie heißt du = comment tu t'appelles
 
-🦊 ! Ich heiße [ASK_USER_NAME]. Wie alt bist du?
+! 🦊 Ich heiße [ASK_USER_NAME]. Wie alt bist du?
 > Je m'appelle [dis-nous ton prénom]. Quel âge as-tu ?
 > Wie alt bist du = quel âge as-tu
 
-🐨 ! Ich bin neun Jahre alt. Und du?
+! 🐨 Ich bin neun Jahre alt. Und du?
 > J'ai neuf ans. Et toi ?
 > Ich bin neun Jahre alt = j'ai neuf ans
 > Und du = et toi
 
-🦊 ! Ich bin acht Jahre alt.
+! 🦊 Ich bin acht Jahre alt.
 > J'ai huit ans.
 
-🦉 ! Hallo, [USER_NAME]! Ich bin Oma Hilde. Ich habe einen Kuchen!
+! 🦉 Hallo, [USER_NAME]! Ich bin Oma Hilde. Ich habe einen Kuchen!
 > Salut, [USER_NAME] ! Je suis Mamie Hilde. J'ai un gâteau !
 > Ich habe einen Kuchen = j'ai un gâteau
 
-🦊 ! Danke, Oma Hilde! Ich liebe Kuchen!
+! 🦊 Danke, Oma Hilde! Ich liebe Kuchen!
 > Merci, Mamie Hilde ! J'aime le gâteau !
 > Ich liebe Kuchen = j'aime le gâteau
 
-🐰 ! Spielen wir zusammen?
+! 🐰 Spielen wir zusammen?
 > On joue ensemble ?
 > Spielen wir zusammen = on joue ensemble
 
-🦊 ! Ja, gern!
+! 🦊 Ja, gern!
 > Oui, avec plaisir !
 > Ja, gern = oui, avec plaisir
 
-🐨 ! Ich singe auch gern. Singen wir!
+! 🐨 Ich singe auch gern. Singen wir!
 > J'aime aussi chanter. On chante !
 > Ich singe auch gern = j'aime aussi chanter
 > Singen wir = on chante
 
-🐰 ! Wir lachen viel zusammen, [USER_NAME]!
+! 🐰 Wir lachen viel zusammen, [USER_NAME]!
 > On rit beaucoup ensemble, [USER_NAME] !
 > Wir lachen = on rit
 > viel = beaucoup
 > zusammen = ensemble
 
-🦊 ! Das ist ein toller Tag! Danke für alles!
+! 🦊 Das ist ein toller Tag! Danke für alles!
 > C'est une chouette journée ! Merci pour tout !
 > Das ist ein toller Tag = c'est une chouette journée
 + Petit mot nouveau signalé : {{toll}} veut dire « génial, chouette ». Tu l'as déjà croisé dans « ein tolles Spiel » à la fiche précédente !
 
-🦉 ! Tschüss, [USER_NAME]! Bis bald!
+! 🦉 Tschüss, [USER_NAME]! Bis bald!
 > Salut, [USER_NAME] ! À bientôt !
 > Bis bald = à bientôt
 + Mot nouveau signalé : {{Bis bald}}, une jolie façon de dire au revoir en promettant de se revoir vite.

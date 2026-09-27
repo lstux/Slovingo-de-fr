@@ -17,74 +17,74 @@ Une sortie au zoo avec Oma Hilde. Tout le vocabulaire de la série est réutilis
 
 ## Le dialogue
 
-🦉 ! Wir sind im Zoo! Was möchtet ihr sehen?
+! 🦉 Wir sind im Zoo! Was möchtet ihr sehen?
 > Nous sommes au zoo ! Qu'est-ce que vous voulez voir ?
 > Wir sind im Zoo = nous sommes au zoo
 > Was möchtet ihr sehen = qu'est-ce que vous voulez voir
 
-🐰 ! Ich möchte die Giraffen sehen!
+! 🐰 Ich möchte die Giraffen sehen!
 > Je veux voir les girafes !
 > Ich möchte = je voudrais
 > die Giraffen sehen = voir les girafes
 
-🐨 ! Schau mal, ein Elefant!
+! 🐨 Schau mal, ein Elefant!
 > Regarde, un éléphant !
 > Schau mal = regarde
 + Mot nouveau signalé : {{Schau mal}} = regarde.
 
-🦊 ! Er ist so groß! Größer als ein Haus!
+! 🦊 Er ist so groß! Größer als ein Haus!
 > Il est tellement grand ! Plus grand qu'une maison !
 > Er ist so groß = il est tellement grand
 > Größer als ein Haus = plus grand qu'une maison
 
-🦉 ! Die Löwen sind da drüben, im Gehege.
+! 🦉 Die Löwen sind da drüben, im Gehege.
 > Les lions sont là-bas, dans l'enclos.
 > Die Löwen sind da drüben = les lions sont là-bas
 > im Gehege = dans l'enclos
 + Mot nouveau signalé : {{das Gehege}} = l'enclos.
 
-🐰 ! Der Löwe schläft.
+! 🐰 Der Löwe schläft.
 > Le lion dort.
 > Der Löwe schläft = le lion dort
 
-🐨 ! Die Affen sind lustig, sie springen viel!
+! 🐨 Die Affen sind lustig, sie springen viel!
 > Les singes sont drôles, ils sautent beaucoup !
 > Die Affen sind lustig = les singes sont drôles
 > sie springen viel = ils sautent beaucoup
 
-🦊 ! Ich mag die Zebras. Die Streifen sind schön.
+! 🦊 Ich mag die Zebras. Die Streifen sind schön.
 > J'aime les zèbres. Les rayures sont belles.
 > Ich mag die Zebras = j'aime les zèbres
 > Die Streifen sind schön = les rayures sont belles
 
-🦉 ! Möchtet ihr die Ziegen füttern? Im Streichelzoo darf man das!
+! 🦉 Möchtet ihr die Ziegen füttern? Im Streichelzoo darf man das!
 > Vous voulez nourrir les chèvres ? Au mini-zoo, on a le droit !
 > Möchtet ihr die Ziegen füttern = vous voulez nourrir les chèvres
 > Im Streichelzoo = au mini-zoo (le zoo où on peut caresser)
 > darf man das = on a le droit
 + Mot nouveau signalé : {{der Streichelzoo}}. Ailleurs dans le zoo, on ne donne jamais à manger aux animaux !
 
-🐰 ! Ja, gern! Wo ist der Streichelzoo?
+! 🐰 Ja, gern! Wo ist der Streichelzoo?
 > Oui, avec plaisir ! Où est le mini-zoo ?
 > Wo ist der Streichelzoo = où est le mini-zoo
 
-🦉 ! Da drüben, neben dem Teich. Schau mal, die Enten schwimmen!
+! 🦉 Da drüben, neben dem Teich. Schau mal, die Enten schwimmen!
 > Là-bas, à côté de l'étang. Regarde, les canards nagent !
 > Da drüben = là-bas
 > neben dem Teich = à côté de l'étang
 > die Enten schwimmen = les canards nagent
 + Mot nouveau signalé : {{der Teich}} = l'étang.
 
-🐨 ! Das ist toll!
+! 🐨 Das ist toll!
 > C'est génial !
 > Das ist toll = c'est génial
 
-🦊 ! Danke, Oma Hilde! Der Zoo ist super!
+! 🦊 Danke, Oma Hilde! Der Zoo ist super!
 > Merci, Oma Hilde ! Le zoo est génial !
 > Danke, Oma Hilde = merci, Oma Hilde
 > Der Zoo ist super = le zoo est génial
 
-🦉 ! Gern geschehen! Kommt, wir gehen in die Eisdiele.
+! 🦉 Gern geschehen! Kommt, wir gehen in die Eisdiele.
 > Je vous en prie ! Venez, on va au glacier.
 > Gern geschehen = je vous en prie
 > Kommt = venez
