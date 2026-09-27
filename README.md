@@ -62,7 +62,7 @@ Projet familial : mon fils (8 ans) est le cobaye principal. Le format et le cont
 
 ---
 
-**Statut** : 🚀 En tout début de démarrage. Structure et docs en place, premières fiches (Kit de Survie) à venir.
+**Statut** : ✍️ Introduction, Kit de Survie et 6 séries écrites (Familie, Haus, Essen, Stadt, Tiere, Spiele — 44 fiches). À venir : illustrations, vérification des exercices, séries suivantes.
 
 ---
 

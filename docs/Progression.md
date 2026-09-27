@@ -15,45 +15,51 @@ Ce document décrit notre approche pédagogique.
 ## Structure générale
 
 **Phases :**
-- **Phase 1 : Kit de Survie** (Série 00) — 4-5 fiches de phrases essentielles
-- **Phase 2 : La vie quotidienne** (Séries 01-03) — Familie, Haus, Essen (~15 fiches)
-- **Phase 3 : En dehors de la maison** (Séries 04-06) — Stadt, Tiere, Spiele (~15 fiches)
-- **Phase 4 : Extension** (Séries 07+) — fêtes, loisirs, culture approfondie
+- **Phase 0 : Introduction** — 4 fiches (pays, langue, prononciation, nombres)
+- **Phase 1 : Kit de Survie** (Série 00) — 3 fiches + 1 extra de phrases essentielles
+- **Phase 2 : La vie quotidienne** (Séries 01-03) — Familie, Haus, Essen (18 fiches) ✅
+- **Phase 3 : En dehors de la maison** (Séries 04-06) — Stadt, Tiere, Spiele (18 fiches) ✅
+- **Phase 4 : Extension** (Séries 07+) — fêtes et moments de l'année, école, couleurs, corps, vêtements, météo
 
-Chaque série = 1 à 2 semaines d'apprentissage décontracté (5-6 fiches, une par jour + jours de pause).
+Chaque série = 1 à 2 semaines d'apprentissage décontracté (6 fiches, une par jour + jours de pause).
 
 ---
 
 ## Stratégie de vocabulaire
 
-### Vocabulaire cœur par série : ~14 mots
+### Par fiche : ~7 essentiels + 2-3 complémentaires
 
-- **7 essentiels** : mots utilisés dans chaque exercice, fortement renforcés
-- **7 complémentaires** : mots liés, moins souvent sollicités
+- **6-7 mots essentiels** (« Les nouveaux mots ») : ceux qu'on retrouve dans les phrases, le dialogue et les exercices
+- **2-3 mots complémentaires** : bonus, moins sollicités
+- **2-3 mots signalés** dans le dialogue, au maximum
+
+Soit **~40 mots par série** au total dans le tableau de la fiche extra, dont ~28 essentiels. C'est un plafond : au-delà, un enfant de 8 ans décroche. Les mots transparents (Musik, Puzzle, Zoo…) coûtent moins cher que les autres.
 
 ### Apprentissage cumulatif
 
 Chaque série doit :
-- Réutiliser tout le vocabulaire des séries précédentes dans sa fiche 05 (dialogue)
+- Réutiliser le vocabulaire des séries précédentes dans ses rubriques « On révise » et dans son dialogue
 - Réutiliser l'essentiel du vocabulaire de la série en cours dans sa fiche 06 (extra)
-- Garder des phrases courtes (5-6 mots maximum) pour favoriser la mémorisation
+- Garder des phrases courtes (5-6 mots, 7-8 au maximum à partir de la série 03)
+- Marquer « (rappel) » un mot déjà vu qu'on remet dans « Les nouveaux mots »
 
-### Exemple : Série 01 — Familie (la famille)
+---
 
-**Vocabulaire essentiel :**
-- Mutter (mère), Vater (père), Bruder (frère), Schwester (sœur)
-- Oma (mamie), Opa (papi)
-- *(Ich heiße / Wie heißt du sont déjà vus dans le Kit de Survie via le mécanisme USER_NAME — ici on révise plutôt qu'on découvre)*
+## Progression de la grammaire (ce qui est déjà vu, et où)
 
-**Vocabulaire complémentaire :**
-- Eltern (parents), Familie (famille)
-- Großeltern (grands-parents), Tante (tante), Onkel (oncle)
-- Diminutifs affectueux pour frère/sœur
+Pour écrire une nouvelle série, s'appuyer sur ce qui existe déjà — et ne pas le « redécouvrir ».
 
-**Grammaire :**
-- Pronoms sujets : ich, du, er, sie
-- Présent simple : « Ich bin... », « Du heißt... », « Er/Sie heißt... »
-- Possessifs : mein, meine, dein, deine (introduits, pas de façon exhaustive)
+| Série | Points de grammaire |
+|-------|---------------------|
+| Kit de Survie | schémas figés : wie heißt du / ich heiße, sprichst du, kein (« pas de »), du / Sie (culture) |
+| Familie | mein/meine, dein/deine, **sein** (ich bin…), **haben**, âge avec sein, adjectif invariable après sein (≠ devant le nom), **ein → einen**, verbes réguliers au présent, **gern** |
+| Haus | der/die/das (le dernier mot d'un mot composé décide), es gibt, im / in der, wo ist / wo sind, pluriels (die au pluriel), **nicht**, **verbes à ressort** (aufräumen), schlafen → schläfst |
+| Essen | essen (isst), trinken, pas d'article partitif, **möchten**, zum Frühstück (verbe en 2ᵉ position), schmecken, **mögen** + kein, nehmen (nimmst) |
+| Stadt | in der / im, fahren (fährst) vs gehen, mit dem Bus, impératif **geh!** + nach links, um die Ecke, neben, sehen/treffen, **Was kostet das?** |
+| Tiere | pluriels (Vögel, -chen invariable et neutre), **comparatif** größer als / stärker, essen vs **fressen**, laufen (läufst) |
+| Spiele | spielen mit (dem/der), jeu sans article (Fußball spielen), **können** (+ savoir faire), Wer ist dran?, **Wollen wir…?**, verbes à ressort (mitmachen, einladen, anfangen) |
+
+**Pas encore abordés** (à introduire en douceur plus tard) : le passé (*Perfekt* : « ich habe gespielt » — c'est le passé de l'oral, bien plus utile qu'un passé « écrit »), les jours et l'heure, les couleurs (seuls rot, grün, braun, rosa sont apparus), le vouvoiement actif (*Sie* conjugué), les terminaisons d'adjectifs devant un nom.
 
 ---
 
@@ -61,54 +67,46 @@ Chaque série doit :
 
 ### Série 00 : Kit de Survie — Grand débutant
 
-**Objectif :** dire bonjour, au revoir, merci, être poli, poser une question simple
+**Objectif :** dire bonjour, au revoir, merci, être poli, se présenter, dire qu'on ne comprend pas
 
-- Phrases très courtes (1 à 3 mots)
+- Phrases très courtes (1 à 4 mots)
 - Accent mis sur la prononciation
 - Pas d'explication de grammaire (juste des schémas répétés)
 - Beaucoup d'encouragements
 
-**Exemple :**
-```
-! Hallo!
-> Bonjour !
-```
+### Séries 01-03 : Fondations
 
-### Séries 01-02 : Fondations — Début élémentaire
-
-**Objectif :** introduire les verbes, les pronoms, le vocabulaire pratique du quotidien
+**Objectif :** les verbes de base, les pronoms, le vocabulaire de la maison et de la table
 
 - Phrases jusqu'à 5-6 mots
-- Présent simple (sein, heißen, mögen)
-- Vocabulaire de survie + famille, maison, nourriture
-- Cartes audio plus riches mais répétitives
+- sein, haben, verbes réguliers, gern, möchten, mögen
+- Cartes décomposées morceau par morceau
 
 **Exemple :**
 ```
-! Ich heiße Anna und ich bin 8 Jahre alt.
-> Je m'appelle Anna et j'ai 8 ans.
+! Ich heiße Anna und ich bin acht Jahre alt.
+> Je m'appelle Anna et j'ai huit ans.
 > Ich heiße Anna = je m'appelle Anna
 > und = et
 > ich bin = je suis
-> 8 Jahre alt = 8 ans
+> acht Jahre alt = huit ans
 ```
 
-### Séries 03-04 : Consolidation
+### Séries 04-06 : En dehors de la maison
 
-**Objectif :** passé, questions, négations, dialogues plus élaborés
+**Objectif :** se débrouiller dehors — se déplacer, demander son chemin, acheter, jouer avec d'autres enfants
 
 - Jusqu'à 7-8 mots par phrase
-- Prétérit ou passé simple introduit en douceur
-- Vocabulaire de série + ville, animaux, sport
-- Dialogues plus naturels, moins répétitifs
+- Impératif, comparatif, können, wollen
+- Dialogues plus vivants (se perdre, gagner, perdre…)
 
-### Séries 05+ : Extension
+### Séries 07+ : Extension
 
-**Objectif :** approfondir la culture, textes plus longs, expression personnelle
+**Objectif :** fêtes, école, expression personnelle
 
-- L'enfant peut former ses propres phrases simples
-- Le coin culturel s'enrichit (traditions, personnages connus, jeux)
-- Optionnel : dialogues vidéo, correspondance, écriture créative
+- Introduire le *Perfekt* pour raconter (« Ich habe… gespielt »)
+- L'enfant forme ses propres phrases simples
+- Le coin culturel s'enrichit (traditions, fêtes, personnages connus)
 
 ---
 
@@ -171,6 +169,8 @@ Pour rendre le cours moins scolaire, on introduit des personnages récurrents d�
 - **🐨 Tom** (9 ans, allemand) — ami de Lea
 - **🦉 Oma Hilde** — grand-mère de Lea
 
+**Traits déjà établis** (à respecter pour la cohérence) : Lea n'aime pas la viande (Essen 05) ; Tom adore l'escalope et lance bien le dé ; Oma Hilde adore cuisiner et joue pour gagner ; tout le monde se retrouve au glacier (Stadt 05, Tiere 05). On tutoie Oma Hilde.
+
 L'enfant rencontre Lea dès la fiche 03 du Kit de Survie (Série 00) : c'est ce dialogue qui justifie les phrases « je ne comprends pas » et « tu parles français ? », et qui introduit aussi « comment tu t'appelles / je m'appelle » via le mécanisme USER_NAME. Les personnages reviennent dans la fiche 05 (dialogue) à partir de la série 01, et plus tard dans les sections culturelles (« Oma Hilde t'explique... »).
 
 Le texte narratif continue de les décrire comme des enfants et une grand-mère (Lea reste « une copine allemande », pas une lapine à proprement parler) : seul l'avatar visuel dans les dialogues est un animal, pas l'univers de l'histoire.
@@ -225,12 +225,12 @@ Si des adaptations de code sont nécessaires (UI enfant, nouveaux types d'exerci
 
 ## Prochaines étapes
 
-1. **Écrire la série 00** (Kit de Survie) — 4-5 fiches
-2. **Recueillir les retours** — test avec mon fils, itérer
-3. **Écrire la série 01** (Familie) — 6 fiches
-4. **Ajouter les exercices** — une fois les séries 0-1 stabilisées
-5. **Construire la gamification** — si on constate que ça aide à l'engagement
-6. **Étendre et affiner** — selon ce qui fonctionne
+1. ~~Écrire l'introduction, le Kit de Survie et les séries 01-06~~ ✅
+2. **Illustrations** — toutes les fiches sont encore en `TODO_img`
+3. **Recueillir les retours** — test avec mon fils, ajuster le rythme et la quantité de vocabulaire
+4. **Vérifier les exercices générés**
+5. **Série 07+** — fêtes, école, couleurs, corps, vêtements, météo ; introduire le *Perfekt*
+6. **Construire la gamification** — si on constate que ça aide à l'engagement
 
 ---
 
@@ -238,7 +238,7 @@ Si des adaptations de code sont nécessaires (UI enfant, nouveaux types d'exerci
 
 - **[Format-de-fr.md](./Format-de-fr.md)** — structure détaillée du contenu
 - **[Documentation Slovingo](https://github.com/lstux/Slovingo/tree/main/docs)** — format technique, système de build
-- **[Cours existants](https://github.com/lstux/Slovingo/tree/main/langs)** — référence : sk-fr (adulte), fr-sk (adulte), bzh-fr (débutant)
+- **Cours existants** — [Slovingo-sk-fr](https://github.com/lstux/Slovingo-sk-fr) (le plus abouti, bon modèle de structure), [Slovingo-fr-sk](https://github.com/lstux/Slovingo-fr-sk), [Slovingo-bzh-fr](https://github.com/lstux/Slovingo-bzh-fr)
 
 ---
 

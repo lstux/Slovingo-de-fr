@@ -37,7 +37,8 @@ Bienvenue ! Ce dossier contient les guides pour comprendre et contribuer au proj
 2. Ouvrir **[Format-de-fr.md](./Format-de-fr.md)** pour voir le gabarit
 3. Écrire la fiche dans `/md/` en respectant le schéma de nommage
 4. Ajouter une illustration dans `/img/`
-5. Commit et push sur le dépôt
+5. Parcourir la check-list en bas de [Format-de-fr.md](./Format-de-fr.md) (notamment la syntaxe des dialogues `! 🐰 …` et le tableau « Pièges déjà rencontrés »)
+6. Commit et push sur le dépôt
 
 ### Pour ajouter des exercices :
 
