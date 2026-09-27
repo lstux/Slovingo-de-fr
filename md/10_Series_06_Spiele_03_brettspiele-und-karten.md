@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (jeu de société, dés, cartes à jouer...) sur Wikimedia Commons
 
-Les jeux de société et les cartes. Et un nouveau venu très utile : le verbe **können** (pouvoir).
+Jeux de société et cartes ! Gagner, perdre, lancer le dé, savoir à qui c'est le tour… Et un verbe très utile : **können** (pouvoir, savoir faire).
 
 ---
 
@@ -10,96 +10,92 @@ Les jeux de société et les cartes. Et un nouveau venu très utile : le verbe *
 
 | Deutsch | Français |
 |---------|----------|
-| würfeln | lancer le dé |
 | der Würfel | le dé |
-| die Karte | la carte à jouer |
+| würfeln | lancer le dé |
+| die Karte | la carte |
 | gewinnen | gagner |
 | verlieren | perdre |
-| können | pouvoir |
-| dran sein | être à son tour |
+| können | pouvoir, savoir (faire) |
+| dran sein | être son tour |
 
 ---
 
 ## Aujourd'hui on apprend...
 
-### Können — pouvoir
+### Können — pouvoir, savoir
 
 | Deutsch | Français |
 |---------|----------|
-| ich kann | je peux |
-| du kannst | tu peux |
-| er/sie kann | il/elle peut |
+| ich kann | je peux, je sais |
+| du kannst | tu peux, tu sais |
+| er/sie kann | il/elle peut, il/elle sait |
 
-! Ich kann würfeln.
-> Je peux lancer le dé.
-> Ich kann würfeln = je peux lancer le dé
+Attention : pas de « e » ni de « t » pour {{ich kann}} et {{er kann}} ! Et comme avec {{möchten}}, le deuxième verbe part **à la fin** : {{Ich kann gut würfeln}}.
 
-Comme avec **möchten**, le deuxième verbe part à la fin de la phrase, à l'infinitif.
+{{können}} veut aussi dire « savoir faire » : {{Ich kann schwimmen}} = je sais nager.
 
-### Wer ist dran?
+### Wer ist dran? — C'est à qui ?
 
-! Ich bin dran.
-> C'est mon tour.
-> Ich bin dran = c'est mon tour
-
-! Du bist dran!
-> C'est ton tour !
-> Du bist dran = c'est ton tour
+| Deutsch | Français |
+|---------|----------|
+| Wer ist dran? | C'est à qui ? |
+| Ich bin dran! | C'est à moi ! |
+| Du bist dran! | C'est à toi ! |
 
 ---
 
 ## Des phrases
 
-! Ich kann würfeln.
-> Je peux lancer le dé.
-> Ich kann würfeln = je peux lancer le dé
+! Wer ist dran?
+> C'est à qui ?
+> Wer = qui
+> ist dran = c'est son tour
 
-! Kannst du gewinnen?
-> Tu peux gagner ?
-> Kannst du gewinnen = tu peux gagner
+! Du bist dran. Würfle!
+> C'est à toi. Lance le dé !
+> Du bist dran = c'est à toi
+> Würfle = lance le dé
 
 ! Ich habe eine gute Karte.
 > J'ai une bonne carte.
-> Ich habe eine gute Karte = j'ai une bonne carte
+> Ich habe = j'ai
+> eine gute Karte = une bonne carte
 
-! Mein Bruder gewinnt oft.
-> Mon frère gagne souvent.
-> Mein Bruder gewinnt oft = mon frère gagne souvent
+! Kannst du schwimmen?
+> Tu sais nager ?
+> Kannst du = tu sais
+> schwimmen = nager
+
+! Ich gewinne!
+> Je gagne !
+> Ich gewinne = je gagne
 
 ! Ich verliere nicht gern.
 > Je n'aime pas perdre.
-> Ich verliere nicht gern = je n'aime pas perdre
-
-! Du bist dran, würfle!
-> C'est ton tour, lance le dé !
-> Du bist dran = c'est ton tour
-> würfle = lance le dé
-
-! Wer ist dran?
-> C'est à qui ?
-> Wer ist dran = c'est à qui
+> Ich verliere = je perds
+> nicht gern = je n'aime pas
 
 ---
 
 ## On révise
 
-! Ich kann gut würfeln, aber ich verliere trotzdem oft!
-> Je sais bien lancer le dé, mais je perds quand même souvent !
-> Ich kann gut würfeln = je sais bien lancer le dé
-> aber ich verliere trotzdem oft = mais je perds quand même souvent
+! Tom kann gut würfeln.
+> Tom sait bien lancer le dé.
+> Tom kann = Tom sait
+> gut würfeln = bien lancer le dé
 
-! Jetzt bin ich dran. Ich möchte gewinnen!
-> Maintenant c'est mon tour. Je veux gagner !
-> Jetzt bin ich dran = maintenant c'est mon tour
-> Ich möchte gewinnen = je veux gagner
+! Wer gewinnt? Lea oder Oma?
+> Qui gagne ? Lea ou Mamie ?
+> Wer gewinnt = qui gagne
+> oder = ou
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Le pays des jeux de société.** L'Allemagne est réputée pour ses jeux de société — beaucoup de jeux très connus dans le monde entier ont été créés ici, et un grand prix récompense chaque année le meilleur jeu de l'année, le {{Spiel des Jahres}}.
+**Le pays des jeux de société.** L'Allemagne adore les jeux de société ! Chaque année, un grand prix récompense le meilleur jeu de l'année : le {{Spiel des Jahres}}. Il y a même un prix spécial pour les jeux d'enfants, le {{Kinderspiel des Jahres}}.
 
-**Mensch ärgere dich nicht, un classique familial.** Ce jeu de dés et de pions, dont le nom veut dire « ne te fâche pas », est l'un des jeux de société les plus populaires en Allemagne depuis plus de cent ans — un peu l'équivalent du Petits Chevaux en France.
+**Mensch ärgere dich nicht.** C'est le jeu de dés et de pions le plus célèbre d'Allemagne, un peu comme nos Petits Chevaux. Son nom veut dire « Ne t'énerve pas ! » — parce qu'on s'énerve toujours quand un pion se fait manger !
 
 ---
 
@@ -107,12 +103,9 @@ Comme avec **möchten**, le deuxième verbe part à la fin de la phrase, à l'in
 
 | Deutsch | Français |
 |---------|----------|
-| das Spiel | le jeu |
-| die Regel | la règle |
-| der Spieler | le joueur |
-| ziehen | tirer, avancer un pion |
+| die Regel | la règle (du jeu) |
+| So ein Pech! | Pas de chance ! |
 | noch einmal | encore une fois |
-| Pech | la malchance |
 
 ---
 
@@ -120,16 +113,14 @@ Comme avec **möchten**, le deuxième verbe part à la fin de la phrase, à l'in
 
 ! Kennst du die Regeln?
 > Tu connais les règles ?
-> Kennst du die Regeln = tu connais les règles
-
-! Ich ziehe meine Karte.
-> Je tire ma carte.
-> Ich ziehe meine Karte = je tire ma carte
+> Kennst du = tu connais
+> die Regeln = les règles
 
 ! So ein Pech!
 > Pas de chance !
 > So ein Pech = pas de chance
 
 ! Spielen wir noch einmal?
-> On rejoue encore une fois ?
-> Spielen wir noch einmal = on rejoue encore une fois
+> On refait une partie ?
+> Spielen wir = on joue
+> noch einmal = encore une fois

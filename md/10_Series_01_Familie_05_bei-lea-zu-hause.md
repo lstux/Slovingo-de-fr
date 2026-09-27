@@ -69,7 +69,9 @@ Tu es invité chez Lea ! Tu rencontres son ami Tom et sa grand-mère, Oma Hilde.
 
 🐰 ! Wir lachen viel zusammen, [USER_NAME]!
 > On rit beaucoup ensemble, [USER_NAME] !
-> Wir lachen viel zusammen = on rit beaucoup ensemble
+> Wir lachen = on rit
+> viel = beaucoup
+> zusammen = ensemble
 
 🦊 ! Das ist ein toller Tag! Danke für alles!
 > C'est une chouette journée ! Merci pour tout !
@@ -95,11 +97,13 @@ Tu es invité chez Lea ! Tu rencontres son ami Tom et sa grand-mère, Oma Hilde.
 
 ! Tom und Lea spielen gern zusammen.
 > Tom et Lea aiment jouer ensemble.
-> Tom und Lea spielen gern zusammen = Tom et Lea aiment jouer ensemble
+> spielen gern = aiment jouer
+> zusammen = ensemble
 
 ! Oma Hildes Kuchen ist toll!
 > Le gâteau de Mamie Hilde est génial !
-> Oma Hildes Kuchen ist toll = le gâteau de Mamie Hilde est génial
+> Oma Hildes Kuchen = le gâteau de Mamie Hilde
+> ist toll = est génial
 + Comme en anglais, l'allemand peut ajouter un « s » après un nom pour montrer la possession : {{Oma Hildes Kuchen}} = le gâteau d'Oma Hilde.
 
 ! Bis morgen, Freunde!

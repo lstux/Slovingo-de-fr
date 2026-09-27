@@ -22,7 +22,7 @@ On visite la maison ! Les pièces, et une formule magique qui ne change jamais d
 
 ### Der, die, das — les trois genres
 
-En allemand, il y a trois « genres » pour les mots : **der** (masculin), **die** (féminin), **das** (neutre). Pas de règle fiable pour deviner lequel — il faut apprendre le mot avec son article, comme pour le français ! Bonne nouvelle : beaucoup de pièces de la maison sont neutres (**das**), donc plus faciles à retenir en bloc.
+En allemand, il y a trois « genres » pour les mots : **der** (masculin), **die** (féminin), **das** (neutre). Pas de règle fiable pour deviner lequel — il faut apprendre le mot avec son article, comme pour le français ! Mais voici une astuce : quand un mot est fait de plusieurs mots collés, c'est **le dernier** qui décide ! {{das Zimmer}} → {{das Wohnzimmer}}, {{das Schlafzimmer}}, {{das Badezimmer}}. Toutes ces pièces sont neutres parce qu'elles finissent par {{Zimmer}}.
 
 | Deutsch | Français |
 |---------|----------|
@@ -97,11 +97,13 @@ Une formule pratique : **{{es gibt}}** ne change JAMAIS de forme, peu importe ce
 
 ! Der Flur ist lang.
 > Le couloir est long.
-> Der Flur ist lang = le couloir est long
+> Der Flur = le couloir
+> ist lang = est long
 
 ! Es gibt einen Keller.
 > Il y a une cave.
-> Es gibt einen Keller = il y a une cave
+> Es gibt = il y a
+> einen Keller = une cave
 
 ! Wir haben einen Balkon.
 > On a un balcon.
@@ -110,4 +112,5 @@ Une formule pratique : **{{es gibt}}** ne change JAMAIS de forme, peu importe ce
 
 ! Der Keller ist dunkel.
 > La cave est sombre.
-> Der Keller ist dunkel = la cave est sombre
+> Der Keller = la cave
+> ist dunkel = est sombre

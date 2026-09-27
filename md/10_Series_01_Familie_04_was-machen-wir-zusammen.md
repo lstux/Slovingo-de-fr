@@ -58,15 +58,19 @@ Ajoute **{{gern}}** après un verbe pour dire que tu aimes faire quelque chose :
 
 ! Meine Mutter kocht gern.
 > Ma mère aime cuisiner.
-> Meine Mutter kocht gern = ma mère aime cuisiner
+> Meine Mutter = ma mère
+> kocht gern = aime cuisiner
 
 ! Mein Vater singt gern.
 > Mon père aime chanter.
-> Mein Vater singt gern = mon père aime chanter
+> Mein Vater = mon père
+> singt gern = aime chanter
 
 ! Wir lachen viel zusammen.
 > On rit beaucoup ensemble.
-> Wir lachen viel zusammen = on rit beaucoup ensemble
+> Wir lachen = on rit
+> viel = beaucoup
+> zusammen = ensemble
 
 ! Kochst du gern?
 > Tu aimes cuisiner ?
@@ -116,12 +120,15 @@ Ajoute **{{gern}}** après un verbe pour dire que tu aimes faire quelque chose :
 
 ! Meine Schwester malt gern.
 > Ma sœur aime dessiner.
-> Meine Schwester malt gern = ma sœur aime dessiner
+> Meine Schwester = ma sœur
+> malt gern = aime dessiner
 
 ! Ich höre gern Musik.
 > J'aime écouter de la musique.
-> Ich höre gern Musik = j'aime écouter de la musique
+> Ich höre gern = j'aime écouter
+> Musik = de la musique
 
 ! Das ist ein tolles Spiel!
 > C'est un jeu génial !
-> Das ist ein tolles Spiel = c'est un jeu génial
+> Das ist = c'est
+> ein tolles Spiel = un jeu génial

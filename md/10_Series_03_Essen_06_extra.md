@@ -1,6 +1,6 @@
 # Série Essen (extra) — Alles zusammen
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (grande table bien garnie, buffet...) sur Wikimedia Commons
+@ TODO_img/choisir-image.jpg | TODO : choisir une image (grande table bien garnie, pique-nique...) sur Wikimedia Commons
 
 Pas de mot nouveau ici. Tout le vocabulaire de la série Essen est réuni, puis recombiné dans de nouvelles phrases.
 
@@ -19,140 +19,130 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Essen est réuni, puis 
 | das Fleisch | la viande |
 | das Obst | les fruits |
 | das Gemüse | les légumes |
-| die Butter | le beurre |
-| das Ei | l'œuf |
-| das Salz | le sel |
-| die Suppe | la soupe |
-| die Kartoffel | la pomme de terre |
+| der Apfel | la pomme |
 | der Hunger | la faim |
 | der Durst | la soif |
 | das Frühstück | le petit-déjeuner |
 | das Mittagessen | le déjeuner |
 | das Abendessen | le dîner |
 | möchten | vouloir (poliment) |
+| das Brötchen | le petit pain |
 | noch | encore |
-| hungrig | affamé |
-| durstig | assoiffé |
-| satt | rassasié |
-| wenig | peu |
-| viel | beaucoup |
-| jetzt | maintenant |
-| dann | ensuite |
-| gut | bon |
-| lecker | délicieux |
+| satt | rassasié, plus faim |
+| lecker | délicieux, trop bon |
 | süß | sucré |
 | salzig | salé |
-| sauer | acide |
 | warm | chaud |
 | kalt | froid |
-| heiß | brûlant |
-| frisch | frais |
-| schlecht | mauvais |
-| sehr | très |
-| ein bisschen | un peu |
 | schmecken | avoir un goût |
-| probieren | goûter, essayer |
+| mögen | aimer bien |
+| heiß | très chaud, brûlant |
+| sehr | très |
+| probieren | goûter |
 | die Brezel | le bretzel |
 | die Wurst | la saucisse |
-| der Apfelstrudel | le strudel aux pommes |
 | das Schnitzel | l'escalope panée |
+| die Kartoffel | la pomme de terre |
 | der Apfelsaft | le jus de pomme |
-| der Kuchen | le gâteau |
-| nehmen | prendre |
 | das Eis | la glace |
-| die Limonade | la limonade |
-| der Pfannkuchen | la crêpe |
-| das Brötchen | le petit pain |
-| die Sahne | la crème |
-| der Honig | le miel |
-| die Marmelade | la confiture |
+| nehmen | prendre |
+| die Pommes | les frites |
+| der Apfelstrudel | le strudel aux pommes |
+| fertig | prêt |
+| jetzt | maintenant |
 | Guten Appetit | bon appétit |
-| mögen / ich mag | aimer bien |
 
 ---
 
 ## Les phrases
 
-! Zum Frühstück esse ich Brot mit Butter und Honig.
-> Au petit-déjeuner, je mange du pain avec du beurre et du miel.
-> Zum Frühstück esse ich = au petit-déjeuner, je mange
-> Brot mit Butter und Honig = du pain avec du beurre et du miel
+! Ich habe Hunger!
+> J'ai faim !
+> Ich habe = j'ai
+> Hunger = faim
 
-! Ich habe Durst. Ich möchte einen Apfelsaft.
-> J'ai soif. Je voudrais un jus de pomme.
-> Ich habe Durst = j'ai soif
-> Ich möchte einen Apfelsaft = je voudrais un jus de pomme
+! Ich möchte Wasser, bitte.
+> Je voudrais de l'eau, s'il te plaît.
+> Ich möchte = je voudrais
+> Wasser = de l'eau
 
-! Die Suppe ist warm und salzig.
-> La soupe est chaude et salée.
-> Die Suppe ist warm und salzig = la soupe est chaude et salée
+! Zum Frühstück esse ich ein Brötchen.
+> Au petit-déjeuner, je mange un petit pain.
+> Zum Frühstück = au petit-déjeuner
+> esse ich = je mange
+> ein Brötchen = un petit pain
 
-! Ich mag Käse, aber ich mag kein Fleisch.
-> J'aime le fromage, mais je n'aime pas la viande.
-> Ich mag Käse = j'aime le fromage
-> aber ich mag kein Fleisch = mais je n'aime pas la viande
+! Magst du Käse?
+> Tu aimes le fromage ?
+> Magst du = tu aimes
+> Käse = le fromage
 
-! Nimmst du noch eine Brezel oder ein Brötchen?
-> Tu prends encore un bretzel ou un petit pain ?
-> Nimmst du noch eine Brezel oder ein Brötchen = tu prends encore un bretzel ou un petit pain
+! Ich mag kein Fleisch.
+> Je n'aime pas la viande.
+> Ich mag kein = je n'aime pas
+> Fleisch = la viande
 
-! Der Apfelstrudel ist süß und sehr lecker.
-> Le strudel aux pommes est sucré et vraiment délicieux.
-> Der Apfelstrudel ist süß und sehr lecker = le strudel aux pommes est sucré et vraiment délicieux
+! Die Brezel ist warm und lecker.
+> Le bretzel est chaud et délicieux.
+> Die Brezel = le bretzel
+> warm und lecker = chaud et délicieux
 
-! Ich esse viel zum Mittagessen, aber wenig zum Abendessen.
-> Je mange beaucoup au déjeuner, mais peu au dîner.
-> Ich esse viel zum Mittagessen = je mange beaucoup au déjeuner
-> aber wenig zum Abendessen = mais peu au dîner
-+ Comme beaucoup d'Allemands avec leur {{Abendbrot}} !
+! Das Eis ist sehr kalt!
+> La glace est très froide !
+> Das Eis = la glace
+> sehr kalt = très froide
 
-! Das Wasser ist kalt und frisch.
-> L'eau est froide et fraîche.
-> Das Wasser ist kalt und frisch = l'eau est froide et fraîche
+! Ich nehme Wurst mit Pommes.
+> Je prends une saucisse-frites.
+> Ich nehme = je prends
+> Wurst mit Pommes = saucisse avec frites
 
-! Meine Oma kocht sehr gut, ich mag ihr Schnitzel.
-> Ma grand-mère cuisine très bien, j'aime bien son escalope.
-> Meine Oma kocht sehr gut = ma grand-mère cuisine très bien
-> ich mag ihr Schnitzel = j'aime bien son escalope
+! Tom nimmt einen Apfelsaft.
+> Tom prend un jus de pomme.
+> nimmt = prend
+> einen Apfelsaft = un jus de pomme
 
-! Ich habe Hunger. Ich nehme eine Suppe und ein Ei.
-> J'ai faim. Je prends une soupe et un œuf.
-> Ich habe Hunger = j'ai faim
-> Ich nehme eine Suppe und ein Ei = je prends une soupe et un œuf
+! Wie schmeckt das? Süß oder salzig?
+> C'est comment ? Sucré ou salé ?
+> Wie schmeckt das = c'est comment
+> Süß oder salzig = sucré ou salé
++ {{oder}} = ou.
 
-! Der Kuchen ist süß, aber die Wurst ist salzig.
-> Le gâteau est sucré, mais la saucisse est salée.
-> Der Kuchen ist süß = le gâteau est sucré
-> aber die Wurst ist salzig = mais la saucisse est salée
+! Probier mal! Das schmeckt gut.
+> Goûte un peu ! C'est bon.
+> Probier mal = goûte un peu
+> Das schmeckt gut = c'est bon
 
-! Probier das Gemüse! Es schmeckt sehr gut.
-> Goûte les légumes ! C'est très bon.
-> Probier das Gemüse = goûte les légumes
-> Es schmeckt sehr gut = c'est très bon
+! Achtung, die Kartoffeln sind heiß!
+> Attention, les pommes de terre sont brûlantes !
+> Achtung = attention
+> die Kartoffeln = les pommes de terre
+> sind heiß = sont brûlantes
 
-! Ich bin nicht mehr hungrig, ich bin satt.
-> Je n'ai plus faim, je suis rassasié.
-> Ich bin nicht mehr hungrig = je n'ai plus faim
-> ich bin satt = je suis rassasié
+! Möchtest du noch Obst?
+> Tu veux encore des fruits ?
+> Möchtest du = tu veux
+> noch Obst = encore des fruits
 
-! Möchtest du noch ein bisschen Sahne?
-> Tu veux encore un peu de crème ?
-> Möchtest du noch ein bisschen Sahne = tu veux encore un peu de crème
+! Nein danke, ich bin satt.
+> Non merci, je n'ai plus faim.
+> Nein danke = non merci
+> ich bin satt = je n'ai plus faim
 
-! Guten Appetit! Ich nehme Kartoffeln und Gemüse.
-> Bon appétit ! Je prends des pommes de terre et des légumes.
+! Das Abendessen ist fertig!
+> Le dîner est prêt !
+> Das Abendessen = le dîner
+> ist fertig = est prêt
+
+! Guten Appetit! Lecker!
+> Bon appétit ! Trop bon !
 > Guten Appetit = bon appétit
-> Ich nehme Kartoffeln und Gemüse = je prends des pommes de terre et des légumes
-
-! Das Eis ist kalt und süß, ich mag es sehr gern.
-> La glace est froide et sucrée, je l'aime beaucoup.
-> Das Eis ist kalt und süß = la glace est froide et sucrée
-> ich mag es sehr gern = je l'aime beaucoup
+> Lecker = trop bon
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Tu sais maintenant parler de nourriture en allemand !** Manger, boire, avoir faim ou soif, décrire un goût, commander un plat — de quoi te débrouiller à table, chez Oma Hilde ou ailleurs.
+**Tu sais maintenant parler de nourriture en allemand !** Dire que tu as faim ou soif, ce que tu aimes, si c'est bon, et commander ta Brezel ou tes Pommes — de quoi te débrouiller à table, chez Oma Hilde ou au restaurant.
 
-**Prêt pour la suite.** La prochaine série t'emmène en ville : les endroits qu'on y trouve, comment se repérer, et comment demander son chemin !
+**Prêt pour la suite.** La prochaine série t'emmène en ville : les endroits où on va, comment on s'y déplace, et comment demander son chemin !

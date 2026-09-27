@@ -26,15 +26,18 @@ Les animaux qu'on a à la maison. Et une petite surprise : au pluriel, certains 
 
 ! Ich habe einen Hund.
 > J'ai un chien.
-> Ich habe einen Hund = j'ai un chien
+> Ich habe = j'ai
+> einen Hund = un chien
 
 ! Hast du eine Katze?
 > Tu as un chat ?
-> Hast du eine Katze = tu as un chat
+> Hast du = tu as
+> eine Katze = un chat
 
 ! Ich habe kein Haustier.
 > Je n'ai pas d'animal.
-> Ich habe kein Haustier = je n'ai pas d'animal
+> Ich habe kein = je n'ai pas de
+> Haustier = animal
 
 ### Le pluriel des animaux — pas toujours pareil
 
@@ -46,7 +49,7 @@ Les animaux qu'on a à la maison. Et une petite surprise : au pluriel, certains 
 | das Kaninchen | die Kaninchen | les lapins |
 | das Meerschweinchen | die Meerschweinchen | les cochons d'Inde |
 
-**Un détail amusant** : Vogel devient Vögel au pluriel — la voyelle change complètement ! Mais Kaninchen et Meerschweinchen, eux, ne changent jamais : tous les mots qui se terminent par **-chen** restent identiques au pluriel.
+**Un détail amusant** : Vogel devient Vögel au pluriel — la voyelle change complètement ! Mais Kaninchen et Meerschweinchen, eux, ne changent jamais : tous les mots qui se terminent par **-chen** restent identiques au pluriel. Et autre cadeau : ils sont **tous neutres** ({{das}}) !
 
 ---
 
@@ -54,31 +57,38 @@ Les animaux qu'on a à la maison. Et une petite surprise : au pluriel, certains 
 
 ! Ich habe einen Hund.
 > J'ai un chien.
-> Ich habe einen Hund = j'ai un chien
+> Ich habe = j'ai
+> einen Hund = un chien
 
 ! Hast du eine Katze?
 > Tu as un chat ?
-> Hast du eine Katze = tu as un chat
+> Hast du = tu as
+> eine Katze = un chat
 
 ! Mein Hamster ist klein.
 > Mon hamster est petit.
-> Mein Hamster ist klein = mon hamster est petit
+> Mein Hamster = mon hamster
+> ist klein = est petit
 
 ! Ich habe kein Haustier.
 > Je n'ai pas d'animal.
-> Ich habe kein Haustier = je n'ai pas d'animal
+> Ich habe kein = je n'ai pas de
+> Haustier = animal
 
 ! Der Vogel ist klein.
 > L'oiseau est petit.
-> Der Vogel ist klein = l'oiseau est petit
+> Der Vogel = l'oiseau
+> ist klein = est petit
 
 ! Das Kaninchen ist süß.
 > Le lapin est mignon.
-> Das Kaninchen ist süß = le lapin est mignon
+> Das Kaninchen = le lapin
+> ist süß = est mignon
 
 ! Wir haben zwei Meerschweinchen.
 > Nous avons deux cochons d'Inde.
-> Wir haben zwei Meerschweinchen = nous avons deux cochons d'Inde
+> Wir haben = nous avons
+> zwei Meerschweinchen = deux cochons d'Inde
 
 ---
 
@@ -98,7 +108,7 @@ Les animaux qu'on a à la maison. Et une petite surprise : au pluriel, certains 
 
 ## 🇩🇪 Coin allemand
 
-**-chen, le petit mot qui rend tout mignon.** Ajouter **-chen** à un mot allemand le rend petit et adorable : {{Hund}} (chien) devient {{Hündchen}} (petit chien, toutou). C'est aussi pour ça que Kaninchen et Meerschweinchen sonnent si mignons !
+**-chen, le petit mot qui rend tout mignon.** Ajouter **-chen** à un mot allemand le rend petit et adorable : {{Hund}} (chien) devient {{Hündchen}} (petit chien, toutou). C'est aussi pour ça que Kaninchen et Meerschweinchen sonnent si mignons ! Et c'est pour ça que {{das Mädchen}} (la fille) est neutre : c'est à l'origine une « petite demoiselle ».
 
 **Le hamster et le cochon d'Inde, stars des chambres d'enfants.** Ce sont deux des animaux domestiques les plus populaires chez les enfants en Allemagne, avec le chien et le chat bien sûr.
 
@@ -113,7 +123,6 @@ Les animaux qu'on a à la maison. Et une petite surprise : au pluriel, certains 
 | das Aquarium | l'aquarium |
 | füttern | nourrir |
 | streicheln | caresser |
-| das Futter | la nourriture (pour animaux) |
 
 ---
 
@@ -121,16 +130,20 @@ Les animaux qu'on a à la maison. Et une petite surprise : au pluriel, certains 
 
 ! Ich füttere meinen Hamster.
 > Je nourris mon hamster.
-> Ich füttere meinen Hamster = je nourris mon hamster
+> Ich füttere = je nourris
+> meinen Hamster = mon hamster
 
 ! Ich streichle die Katze.
 > Je caresse le chat.
-> Ich streichle die Katze = je caresse le chat
+> Ich streichle = je caresse
+> die Katze = le chat
 
 ! Der Fisch ist im Aquarium.
 > Le poisson est dans l'aquarium.
-> Der Fisch ist im Aquarium = le poisson est dans l'aquarium
+> Der Fisch = le poisson
+> im Aquarium = dans l'aquarium
 
 ! Die Schildkröte ist langsam.
 > La tortue est lente.
-> Die Schildkröte ist langsam = la tortue est lente
+> Die Schildkröte = la tortue
+> ist langsam = est lente

@@ -77,7 +77,8 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Familie est réuni, pui
 
 ! Ich liebe mein Haustier!
 > J'aime mon animal de compagnie !
-> Ich liebe mein Haustier = j'aime mon animal de compagnie
+> Ich liebe = j'aime
+> mein Haustier = mon animal de compagnie
 
 ! Meine Tante und mein Onkel haben zwei Kinder.
 > Ma tante et mon oncle ont deux enfants.
@@ -91,24 +92,30 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Familie est réuni, pui
 
 ! Wann ist dein Geburtstag?
 > C'est quand, ton anniversaire ?
-> Wann ist dein Geburtstag = c'est quand ton anniversaire
+> Wann = quand
+> dein Geburtstag = ton anniversaire
 
 ! Wir spielen gern zusammen.
 > On aime jouer ensemble.
-> Wir spielen gern zusammen = on aime jouer ensemble
+> Wir spielen gern = on aime jouer
+> zusammen = ensemble
 
 ! Meine Mutter kocht gern, und mein Vater singt gern.
 > Ma mère aime cuisiner, et mon père aime chanter.
-> Meine Mutter kocht gern = ma mère aime cuisiner
+> Meine Mutter = ma mère
+> kocht gern = aime cuisiner
 > mein Vater singt gern = mon père aime chanter
 
 ! Meine Schwester tanzt und malt gern.
 > Ma sœur aime danser et dessiner.
-> Meine Schwester tanzt und malt gern = ma sœur aime danser et dessiner
+> Meine Schwester = ma sœur
+> tanzt und malt gern = aime danser et dessiner
 
 ! Wir lachen viel zusammen.
 > On rit beaucoup ensemble.
-> Wir lachen viel zusammen = on rit beaucoup ensemble
+> Wir lachen = on rit
+> viel = beaucoup
+> zusammen = ensemble
 
 ! Oma ist alt, aber sie ist nicht müde.
 > Mamie est âgée, mais elle n'est pas fatiguée.
@@ -117,11 +124,13 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Familie est réuni, pui
 
 ! Ich höre gern Musik und ich spiele gern.
 > J'aime écouter de la musique et j'aime jouer.
-> Ich höre gern Musik = j'aime écouter de la musique
+> Ich höre gern = j'aime écouter
+> Musik = de la musique
 
 ! Das ist ein tolles Spiel!
 > C'est un jeu génial !
-> Das ist ein tolles Spiel = c'est un jeu génial
+> Das ist = c'est
+> ein tolles Spiel = un jeu génial
 
 ! Meine Großeltern lieben Kuchen am Sonntag.
 > Mes grands-parents adorent le gâteau le dimanche.

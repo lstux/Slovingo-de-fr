@@ -1,6 +1,6 @@
 # Série Stadt (extra) — Alles zusammen
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (vue d'ensemble d'une ville allemande...) sur Wikimedia Commons
+@ TODO_img/choisir-image.jpg | TODO : choisir une image (vue d'ensemble d'une petite ville allemande, place avec enfants...) sur Wikimedia Commons
 
 Pas de mot nouveau ici. Tout le vocabulaire de la série Stadt est réuni, puis recombiné dans de nouvelles phrases.
 
@@ -11,142 +11,135 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Stadt est réuni, puis 
 | Deutsch | Français |
 |---------|----------|
 | die Stadt | la ville |
-| der Platz | la place |
 | die Straße | la rue |
-| die Brücke | le pont |
 | der Park | le parc |
-| die Kirche | l'église |
-| das Theater | le théâtre |
-| das Museum | le musée |
-| die Post | la poste |
-| die Bank | la banque |
-| die Bibliothek | la bibliothèque |
-| das Krankenhaus | l'hôpital |
-| das Rathaus | la mairie |
-| der Brunnen | la fontaine |
-| die Statue | la statue |
+| die Schule | l'école |
+| die Bäckerei | la boulangerie |
+| der Supermarkt | le supermarché |
+| das Schwimmbad | la piscine |
+| das Kino | le cinéma |
+| die Eisdiele | le glacier |
+| der Spielplatz | l'aire de jeux |
 | der Bus | le bus |
 | die Straßenbahn | le tram |
 | der Zug | le train |
-| die Haltestelle | l'arrêt |
-| die Fahrkarte | le ticket |
-| fahren | se déplacer (en véhicule) |
-| gehen | aller (à pied) |
-| zu Fuß | à pied |
 | das Fahrrad | le vélo |
 | das Auto | la voiture |
-| das Taxi | le taxi |
+| fahren | rouler, aller (en véhicule) |
+| zu Fuß | à pied |
+| die Haltestelle | l'arrêt |
 | der Bahnhof | la gare |
-| die Richtung | la direction |
-| geh | va |
-| geradeaus | tout droit |
 | links | à gauche |
 | rechts | à droite |
+| geradeaus | tout droit |
 | die Ecke | le coin |
-| vor | devant |
 | neben | à côté de |
-| weiter | plus loin |
-| zurück | en arrière |
-| die Kreuzung | le carrefour |
-| die Ampel | les feux |
-| der Gehweg | le trottoir |
-| nah | proche |
-| weit | loin |
+| geh | va (à pied) |
+| die Ampel | le feu |
+| rot | rouge |
+| grün | vert |
 | sehen | voir |
-| besuchen | visiter |
-| spazieren gehen | se promener |
-| treffen | rencontrer |
-| das Café | le café |
-| das Restaurant | le restaurant |
-| das Kino | le cinéma |
-| die Ausstellung | l'exposition |
-| das Konzert | le concert |
-| das Programm | le programme |
-| interessant | intéressant |
-| langweilig | ennuyeux |
+| treffen | retrouver |
+| kaufen | acheter |
+| kosten | coûter |
+| das Geld | l'argent |
+| der Euro | l'euro |
+| das Taschengeld | l'argent de poche |
+| teuer | cher |
+| billig | pas cher |
 | sich verlaufen | se perdre (à pied) |
-| vielleicht | peut-être |
-| Viel Spaß | amuse-toi bien |
+| einfach | facile |
+| weit | loin |
 
 ---
 
 ## Les phrases
 
-! Ich gehe zur Post, dann zur Bank.
-> Je vais à la poste, ensuite à la banque.
-> Ich gehe zur Post = je vais à la poste
-> dann zur Bank = ensuite à la banque
+! Wo ist das Schwimmbad?
+> Où est la piscine ?
+> Wo ist = où est
+> das Schwimmbad = la piscine
 
-! Geh geradeaus, die Bibliothek ist neben dem Rathaus.
-> Va tout droit, la bibliothèque est à côté de la mairie.
+! Geh geradeaus, dann nach rechts.
+> Va tout droit, ensuite à droite.
 > Geh geradeaus = va tout droit
-> die Bibliothek ist neben dem Rathaus = la bibliothèque est à côté de la mairie
+> dann nach rechts = ensuite à droite
 
-! Ich gehe gern im Park spazieren, aber ins Theater fahre ich mit dem Bus.
-> J'aime me promener dans le parc, mais au théâtre j'y vais en bus.
-> Ich gehe gern im Park spazieren = j'aime me promener dans le parc
-> aber ins Theater fahre ich mit dem Bus = mais au théâtre j'y vais en bus
+! Die Schule ist um die Ecke.
+> L'école est juste au coin.
+> Die Schule = l'école
+> um die Ecke = juste au coin
 
-! Die Haltestelle ist um die Ecke, neben dem Brunnen.
-> L'arrêt est juste au coin, près de la fontaine.
-> Die Haltestelle ist um die Ecke = l'arrêt est juste au coin
-> neben dem Brunnen = près de la fontaine
+! Der Spielplatz ist neben dem Park.
+> L'aire de jeux est à côté du parc.
+> Der Spielplatz = l'aire de jeux
+> neben dem Park = à côté du parc
 
-! Ich sehe die Statue auf dem Platz. Sie ist interessant.
-> Je vois la statue sur la place. Elle est intéressante.
-> Ich sehe die Statue auf dem Platz = je vois la statue sur la place
-> Sie ist interessant = elle est intéressante
+! Ich fahre mit dem Fahrrad in die Stadt.
+> Je vais en ville à vélo.
+> Ich fahre = je vais (en véhicule)
+> mit dem Fahrrad = à vélo
+> in die Stadt = en ville
 
-! Wir möchten das Museum besuchen und dann ins Café gehen.
-> Nous voulons visiter le musée et ensuite aller au café.
-> Wir möchten das Museum besuchen = nous voulons visiter le musée
-> und dann ins Café gehen = et ensuite aller au café
+! Wo ist die Haltestelle? Der Bus kommt!
+> Où est l'arrêt ? Le bus arrive !
+> die Haltestelle = l'arrêt
+> Der Bus kommt = le bus arrive
 
-! Das Kino ist neben der Brücke, gegenüber dem Krankenhaus.
-> Le cinéma est à côté du pont, en face de l'hôpital.
-> Das Kino ist neben der Brücke = le cinéma est à côté du pont
-> gegenüber dem Krankenhaus = en face de l'hôpital
-+ « gegenüber » veut dire en face de.
+! Ist das Kino weit? Nein, wir gehen zu Fuß.
+> Le cinéma, c'est loin ? Non, on y va à pied.
+> Ist das Kino weit = le cinéma est loin
+> wir gehen zu Fuß = on y va à pied
 
-! Geh links an der Kreuzung, dann geradeaus.
-> Va à gauche au carrefour, puis tout droit.
-> Geh links an der Kreuzung = va à gauche au carrefour
-> dann geradeaus = puis tout droit
+! Die Ampel ist rot. Wir warten.
+> Le feu est rouge. On attend.
+> Die Ampel ist rot = le feu est rouge
+> Wir warten = on attend
++ {{warten}} = attendre.
 
-! Das Konzert war langweilig, aber die Ausstellung war interessant.
-> Le concert était ennuyeux, mais l'exposition était intéressante.
-> Das Konzert war langweilig = le concert était ennuyeux
-> aber die Ausstellung war interessant = mais l'exposition était intéressante
+! Was kostet eine Brezel?
+> Combien coûte un bretzel ?
+> Was kostet = combien coûte
+> eine Brezel = un bretzel
 
-! Wir treffen uns am Brunnen.
-> On se retrouve près de la fontaine.
-> Wir treffen uns am Brunnen = on se retrouve près de la fontaine
+! Das kostet einen Euro.
+> Ça coûte un euro.
+> Das kostet = ça coûte
+> einen Euro = un euro
 
-! Ich gehe im Park spazieren und sehe die Statuen.
-> Je me promène dans le parc et je vois les statues.
-> Ich gehe im Park spazieren = je me promène dans le parc
-> und sehe die Statuen = et je vois les statues
+! Das Eis ist nicht teuer.
+> La glace n'est pas chère.
+> Das Eis = la glace
+> nicht teuer = pas cher
 
-! Die Straße ist eng, geh zu Fuß.
-> La rue est étroite, vas-y à pied.
-> Die Straße ist eng = la rue est étroite
-> geh zu Fuß = vas-y à pied
+! Ich kaufe Brot im Supermarkt.
+> J'achète du pain au supermarché.
+> Ich kaufe = j'achète
+> im Supermarkt = au supermarché
 
-! Der Zug hat Verspätung, also fahre ich mit dem Taxi.
-> Le train est en retard, alors j'y vais en taxi.
-> Der Zug hat Verspätung = le train est en retard
-> also fahre ich mit dem Taxi = alors j'y vais en taxi
-+ « Verspätung haben » veut dire être en retard (pour un transport).
+! Siehst du den Zug?
+> Tu vois le train ?
+> Siehst du = tu vois
+> den Zug = le train
 
-! Das Restaurant ist vor der Kirche, an der Ecke.
-> Le restaurant est devant l'église, au coin de la rue.
-> Das Restaurant ist vor der Kirche = le restaurant est devant l'église
-> an der Ecke = au coin de la rue
+! Ich treffe Tom in der Eisdiele.
+> Je retrouve Tom au glacier.
+> Ich treffe = je retrouve
+> in der Eisdiele = au glacier
+
+! Ich habe mich verlaufen!
+> Je me suis perdu !
+> Ich habe mich verlaufen = je me suis perdu
+
+! Das ist einfach!
+> C'est facile !
+> Das ist = c'est
+> einfach = facile
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Tu sais maintenant te repérer en ville !** Les lieux, les transports, demander son chemin, dire ce qu'on aime faire — de quoi explorer une ville allemande sans être perdu bien longtemps.
+**Tu sais maintenant te débrouiller en ville !** Trouver l'école ou la piscine, prendre le bus ou le vélo, suivre un chemin, attendre au feu rouge et acheter ta glace — une vraie petite aventure en allemand.
 
-**Prêt pour la suite.** La prochaine série t'emmène à la découverte des animaux — ceux qu'on a à la maison, et ceux qu'on croise à la ferme ou au zoo !
+**Prêt pour la suite.** La prochaine série t'emmène voir les animaux : ceux de la maison, ceux de la ferme et ceux du zoo !

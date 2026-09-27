@@ -22,7 +22,6 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Tiere est réuni, puis 
 | das Aquarium | l'aquarium |
 | füttern | nourrir |
 | streicheln | caresser |
-| das Futter | la nourriture (pour animaux) |
 | der Bauernhof | la ferme |
 | die Kuh | la vache |
 | das Pferd | le cheval |
@@ -35,7 +34,6 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Tiere est réuni, puis 
 | stark | fort |
 | schnell | rapide |
 | rosa | rose |
-| laut | bruyant |
 | der Zoo | le zoo |
 | der Löwe | le lion |
 | der Elefant | l'éléphant |
@@ -47,16 +45,13 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Tiere est réuni, puis 
 | braun | brun |
 | das Fell | le pelage, la fourrure |
 | der Schwanz | la queue |
-| das Horn | la corne |
 | fressen | manger (pour un animal) |
 | laufen | courir |
 | fliegen | voler |
 | schwimmen | nager |
 | springen | sauter |
 | der Flügel | l'aile |
-| die Flosse | la nageoire |
 | die Ente | le canard |
-| das Nest | le nid |
 | der Schnabel | le bec |
 | Schau mal | regarde |
 | das Gehege | l'enclos |
@@ -70,21 +65,28 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Tiere est réuni, puis 
 
 ! Ich habe einen Hund und eine Katze zu Hause.
 > J'ai un chien et un chat à la maison.
-> Ich habe einen Hund und eine Katze zu Hause = j'ai un chien et un chat à la maison
+> Ich habe = j'ai
+> einen Hund und eine Katze = un chien et un chat
+> zu Hause = à la maison
 
 ! Auf dem Bauernhof gibt es Kühe, Schweine und Hühner.
 > À la ferme, il y a des vaches, des cochons et des poules.
-> Auf dem Bauernhof gibt es Kühe, Schweine und Hühner = à la ferme, il y a des vaches, des cochons et des poules
+> Auf dem Bauernhof = à la ferme
+> gibt es = il y a
+> Kühe, Schweine und Hühner = des vaches, des cochons et des poules
 
 ! Der Löwe ist stark, aber der Elefant ist stärker.
 > Le lion est fort, mais l'éléphant est plus fort.
-> Der Löwe ist stark = le lion est fort
+> Der Löwe = le lion
+> ist stark = est fort
 > aber der Elefant ist stärker = mais l'éléphant est plus fort
 + Comme {{groß}} → {{größer}}, {{stark}} prend un tréma : {{stärker}}.
 
 ! Die Giraffe ist größer als das Pferd.
 > La girafe est plus grande que le cheval.
-> Die Giraffe ist größer als das Pferd = la girafe est plus grande que le cheval
+> Die Giraffe = la girafe
+> ist größer als = est plus grande que
+> das Pferd = le cheval
 
 ! Die Enten schwimmen im Teich, und die Vögel fliegen.
 > Les canards nagent dans l'étang, et les oiseaux volent.
@@ -103,7 +105,8 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Tiere est réuni, puis 
 
 ! Das Zebra hat Streifen, der Bär hat Fell.
 > Le zèbre a des rayures, l'ours a du pelage.
-> Das Zebra hat Streifen = le zèbre a des rayures
+> Das Zebra hat = le zèbre a
+> Streifen = des rayures
 > der Bär hat Fell = l'ours a du pelage
 
 ! Möchtest du die Ziegen füttern? Schau mal, sie haben Hunger!
@@ -112,18 +115,22 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Tiere est réuni, puis 
 > Schau mal = regarde
 > sie haben Hunger = elles ont faim
 
-! Der Vogel hat Flügel und fliegt zum Nest.
-> L'oiseau a des ailes et vole jusqu'au nid.
-> Der Vogel hat Flügel = l'oiseau a des ailes
-> und fliegt zum Nest = et vole jusqu'au nid
+! Der Vogel hat Flügel und fliegt.
+> L'oiseau a des ailes et il vole.
+> Der Vogel hat = l'oiseau a
+> Flügel = des ailes
+> und fliegt = et il vole
 
 ! Die Ziege frisst Gras im Gehege.
 > La chèvre mange de l'herbe dans l'enclos.
-> Die Ziege frisst Gras im Gehege = la chèvre mange de l'herbe dans l'enclos
+> Die Ziege frisst = la chèvre mange
+> Gras = de l'herbe
+> im Gehege = dans l'enclos
 
 ! Das Schaf ist auf der Wiese, das Pferd läuft schnell.
 > Le mouton est dans le pré, le cheval court vite.
-> Das Schaf ist auf der Wiese = le mouton est dans le pré
+> Das Schaf = le mouton
+> auf der Wiese = dans le pré
 > das Pferd läuft schnell = le cheval court vite
 
 ---

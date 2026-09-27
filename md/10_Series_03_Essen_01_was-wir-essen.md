@@ -1,8 +1,8 @@
 # Série Essen (1/5) — Was wir essen
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (table avec pain, fromage, fruits, légumes...) sur Wikimedia Commons
+@ TODO_img/choisir-image.jpg | TODO : choisir une image (table avec pain, fromage, lait, fruits...) sur Wikimedia Commons
 
-Les aliments de base, et deux verbes indispensables : **essen** (manger) et **trinken** (boire). Et une bonne nouvelle : contrairement au français, l'allemand ne met presque jamais de petit mot devant les aliments !
+À table ! Les aliments de base, et deux verbes indispensables : **essen** (manger) et **trinken** (boire).
 
 ---
 
@@ -22,7 +22,7 @@ Les aliments de base, et deux verbes indispensables : **essen** (manger) et **tr
 
 ## Aujourd'hui on apprend...
 
-### Essen — manger (un petit changement de voyelle)
+### Essen — manger
 
 | Deutsch | Français |
 |---------|----------|
@@ -30,9 +30,9 @@ Les aliments de base, et deux verbes indispensables : **essen** (manger) et **tr
 | du isst | tu manges |
 | er/sie isst | il/elle mange |
 
-**Un détail amusant** : « isst » est exactement pareil pour « du » et pour « er/sie » — un seul mot à retenir pour les deux ! Tu as déjà croisé ce genre de petit changement de voyelle avec **sprichst du** (Kit de Survie) et **schläfst du** (Haus) — essen fait partie de la même famille de verbes.
+Avec « du » et « er/sie », le **e** devient **i** : {{isst}}. Et c'est le même mot pour les deux — un seul à retenir !
 
-### Trinken — boire (beaucoup plus simple)
+### Trinken — boire
 
 | Deutsch | Français |
 |---------|----------|
@@ -40,11 +40,11 @@ Les aliments de base, et deux verbes indispensables : **essen** (manger) et **tr
 | du trinkst | tu bois |
 | er/sie trinkt | il/elle boit |
 
-Ici, aucune surprise : trinken se conjugue tout simplement, comme les verbes vus dans la série Familie.
+Aucune surprise ici : comme {{spielen}} dans la série Familie.
 
-### Pas de petit mot devant les aliments !
+### Pas de « du » ni de « de l' » !
 
-En français, il faut toujours ajouter un petit mot devant un aliment : « je mange **du** pain », « je bois **de l'**eau ». En allemand... il ne faut rien du tout !
+En français, on dit « je mange **du** pain », « je bois **de l'**eau ». En allemand, on ne met rien du tout :
 
 | Deutsch | Français |
 |---------|----------|
@@ -60,51 +60,53 @@ En français, il faut toujours ajouter un petit mot devant un aliment : « je ma
 > Ich esse = je mange
 > Brot = du pain
 
-! Ich trinke Wasser.
-> Je bois de l'eau.
+! Ich trinke Milch.
+> Je bois du lait.
 > Ich trinke = je bois
+> Milch = du lait
+
+! Isst du Käse?
+> Tu manges du fromage ?
+> Isst du = tu manges
+> Käse = du fromage
+
+! Tom trinkt Wasser.
+> Tom boit de l'eau.
+> trinkt = boit
 > Wasser = de l'eau
 
 ! Ich esse gern Käse.
 > J'aime manger du fromage.
 > Ich esse gern = j'aime manger
-> Käse = du fromage
++ Tu te souviens de {{gern}} ? Verbe + {{gern}} = aimer faire quelque chose.
 
-! Meine Schwester trinkt Milch.
-> Ma sœur boit du lait.
-> Meine Schwester trinkt = ma sœur boit
-> Milch = du lait
-
-! Isst du gern Fleisch?
-> Tu aimes manger de la viande ?
-> Isst du gern = tu aimes manger
-> Fleisch = de la viande
-
-! Ich esse nicht gern Fleisch.
-> Je n'aime pas manger de la viande.
-> Ich esse nicht gern = je n'aime pas manger
+! Lea isst nicht gern Fleisch.
+> Lea n'aime pas manger de viande.
+> isst nicht gern = n'aime pas manger
 > Fleisch = de la viande
 
 ---
 
 ## On révise
 
-! Mein Bruder isst gern Käse, aber ich esse lieber Brot.
-> Mon frère aime manger du fromage, mais moi je préfère le pain.
-> Mein Bruder isst gern Käse = mon frère aime manger du fromage
-> aber ich esse lieber Brot = mais moi je préfère le pain
+! Mein Bruder isst Brot und Käse.
+> Mon frère mange du pain et du fromage.
+> Mein Bruder = mon frère
+> isst = mange
+> und = et
 
-! Wir trinken Wasser und Milch.
-> Nous buvons de l'eau et du lait.
-> Wir trinken Wasser und Milch = nous buvons de l'eau et du lait
+! Wir trinken Milch zusammen.
+> On boit du lait ensemble.
+> Wir trinken = on boit
+> zusammen = ensemble
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Obst et Gemüse, toujours au singulier.** En français, on dit « les fruits », « les légumes » — toujours au pluriel. En allemand, {{das Obst}} et {{das Gemüse}} sont toujours au singulier, même quand on parle de plein de fruits différents ! Un peu à l'envers de ce à quoi tu es habitué.
+**Le pays du pain.** En Allemagne, il existe plus de 3 000 sortes de pain ! Pain noir, pain aux graines, pain de seigle… Les Allemands en sont si fiers que leur culture du pain est officiellement classée « patrimoine culturel » du pays.
 
-**Le pays du pain.** L'Allemagne est réputée pour la variété de ses pains — certains disent qu'il en existe plus de 3000 sortes différentes ! De quoi donner raison au dicton : chaque région a son pain.
+**Obst et Gemüse, toujours au singulier.** En français, on dit « **les** fruits », « **les** légumes ». En allemand, {{das Obst}} et {{das Gemüse}} restent au singulier, même pour un panier entier !
 
 ---
 
@@ -114,30 +116,23 @@ En français, il faut toujours ajouter un petit mot devant un aliment : « je ma
 |---------|----------|
 | das Obst | les fruits |
 | das Gemüse | les légumes |
-| die Butter | le beurre |
-| das Ei | l'œuf |
-| das Salz | le sel |
-| die Suppe | la soupe |
-| die Kartoffel | la pomme de terre |
+| der Apfel | la pomme |
 
 ---
 
 ## Encore quelques phrases
 
-! Ich esse Brot mit Butter.
-> Je mange du pain avec du beurre.
-> Ich esse Brot mit Butter = je mange du pain avec du beurre
+! Ich esse einen Apfel.
+> Je mange une pomme.
+> Ich esse = je mange
+> einen Apfel = une pomme
 
-! Wir essen Kartoffeln und Gemüse.
-> Nous mangeons des pommes de terre et des légumes.
-> Wir essen Kartoffeln und Gemüse = nous mangeons des pommes de terre et des légumes
+! Isst du gern Obst?
+> Tu aimes manger des fruits ?
+> Isst du gern = tu aimes manger
+> Obst = des fruits
 
-! Der Käse ist auf dem Tisch.
-> Le fromage est sur la table.
-> Der Käse ist auf dem Tisch = le fromage est sur la table
-
-! Ich esse gern Eier, aber mein Bruder isst nicht gern Eier.
-> J'aime manger des œufs, mais mon frère n'aime pas ça.
-> Ich esse gern Eier = j'aime manger des œufs
-> mein Bruder isst nicht gern Eier = mon frère n'aime pas ça
-+ Eier = des œufs (pluriel de {{Ei}}).
+! Oma isst gern Gemüse.
+> Mamie aime manger des légumes.
+> isst gern = aime manger
+> Gemüse = des légumes

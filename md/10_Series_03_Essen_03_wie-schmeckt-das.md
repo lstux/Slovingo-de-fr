@@ -1,8 +1,8 @@
 # Série Essen (3/5) — Wie schmeckt das?
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (assiette variée, plats chauds/froids...) sur Wikimedia Commons
+@ TODO_img/choisir-image.jpg | TODO : choisir une image (enfant qui goûte, grimace ou sourire...) sur Wikimedia Commons
 
-Décrire ce qu'on a dans l'assiette. Sept adjectifs de goût, et un rappel utile : après **sein**, l'adjectif ne change jamais.
+Miam ou beurk ? Dire si c'est bon, sucré, salé, chaud ou froid — et dire ce qu'on aime avec **ich mag**.
 
 ---
 
@@ -10,86 +10,100 @@ Décrire ce qu'on a dans l'assiette. Sept adjectifs de goût, et un rappel utile
 
 | Deutsch | Français |
 |---------|----------|
-| gut | bon |
-| lecker | délicieux |
+| lecker | délicieux, trop bon |
 | süß | sucré |
 | salzig | salé |
-| sauer | acide |
 | warm | chaud |
 | kalt | froid |
+| schmecken | avoir un goût |
+| mögen | aimer bien |
 
 ---
 
 ## Aujourd'hui on apprend...
 
-### Les adjectifs après sein — toujours pareils (rappel)
-
-Comme tu l'as vu dans la série Familie, l'adjectif après **sein** ne s'accorde jamais — même si Suppe est féminin (die) et Wasser neutre (das), l'adjectif reste identique. Rien à accorder !
+### Das schmeckt gut! — C'est bon !
 
 | Deutsch | Français |
 |---------|----------|
-| Die Suppe ist warm. | La soupe est chaude. |
-| Das Wasser ist kalt. | L'eau est froide. |
-| Der Käse ist salzig. | Le fromage est salé. |
+| Wie schmeckt das? | C'est comment ? (quel goût ça a ?) |
+| Das schmeckt gut! | C'est bon ! |
+| Das schmeckt nicht gut. | Ce n'est pas bon. |
 
-### Wie schmeckt das? — comment c'est, le goût ?
+Et pour dire que c'est vraiment très bon : **{{Lecker!}}** — le mot préféré des enfants allemands !
 
-**{{Es schmeckt gut}}** est une formule toute faite pour dire « c'est bon » (littéralement « ça a un goût bon »). Retiens-la comme un bloc, pas besoin d'analyser chaque mot pour l'instant.
+### Ich mag — j'aime bien
+
+| Deutsch | Français |
+|---------|----------|
+| ich mag | j'aime bien |
+| du magst | tu aimes bien |
+| er/sie mag | il/elle aime bien |
+
+Pour dire ce que tu n'aimes pas, on utilise {{kein}}, comme dans le Kit de Survie : {{Ich mag kein Fleisch}} (je n'aime pas la viande).
+
+**Rappel** : après **sein**, l'adjectif ne change pas. {{Die Milch ist kalt}}, {{Der Käse ist salzig}} — {{kalt}} et {{salzig}} restent pareils.
 
 ---
 
 ## Des phrases
 
-! Die Suppe ist warm und lecker.
-> La soupe est chaude et délicieuse.
-> Die Suppe ist warm und lecker = la soupe est chaude et délicieuse
-
-! Das Wasser ist kalt.
-> L'eau est froide.
-> Das Wasser ist kalt = l'eau est froide
-
-! Der Käse ist salzig.
-> Le fromage est salé.
-> Der Käse ist salzig = le fromage est salé
-
-! Ist der Käse gut? Ja, er ist sehr lecker!
-> Le fromage est bon ? Oui, il est vraiment délicieux !
-> Ist der Käse gut = le fromage est bon
-> er ist sehr lecker = il est vraiment délicieux
-
-! Das Obst ist süß.
-> Les fruits sont sucrés.
-> Das Obst ist süß = les fruits sont sucrés
+! Wie schmeckt das?
+> C'est comment ?
+> Wie = comment
+> schmeckt das = ça a un goût
 
 ! Das schmeckt gut!
 > C'est bon !
-> Das schmeckt gut = c'est bon
+> Das schmeckt = ça a un goût
+> gut = bon
 
-! Das schmeckt nicht gut.
-> Ce n'est pas bon.
-> Das schmeckt nicht gut = ce n'est pas bon
+! Lecker!
+> Trop bon !
+> Lecker = délicieux, trop bon
+
+! Die Milch ist kalt.
+> Le lait est froid.
+> Die Milch = le lait
+> ist kalt = est froid
+
+! Der Käse ist salzig.
+> Le fromage est salé.
+> Der Käse = le fromage
+> ist salzig = est salé
+
+! Ich mag Käse.
+> J'aime bien le fromage.
+> Ich mag = j'aime bien
+> Käse = le fromage
+
+! Magst du Milch?
+> Tu aimes le lait ?
+> Magst du = tu aimes
+> Milch = le lait
 
 ---
 
 ## On révise
 
-! Die Suppe ist warm und lecker, aber der Käse ist sehr salzig.
-> La soupe est chaude et délicieuse, mais le fromage est très salé.
-> Die Suppe ist warm und lecker = la soupe est chaude et délicieuse
-> aber der Käse ist sehr salzig = mais le fromage est très salé
+! Das Brot ist warm und lecker.
+> Le pain est chaud et délicieux.
+> Das Brot = le pain
+> ist warm = est chaud
+> und lecker = et délicieux
 
-! Das Obst ist süß, ich esse gern Obst.
-> Les fruits sont sucrés, j'aime en manger.
-> Das Obst ist süß = les fruits sont sucrés
-> ich esse gern Obst = j'aime en manger
+! Ich mag Obst, es ist süß.
+> J'aime bien les fruits, c'est sucré.
+> Ich mag Obst = j'aime bien les fruits
+> es ist süß = c'est sucré
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Sauer, comme dans « Sauerkraut ».** Le mot {{sauer}} (acide) se retrouve dans un plat très connu : {{das Sauerkraut}}, la choucroute — littéralement « le chou acide » !
+**Süß, c'est aussi « mignon ».** Un chaton, un bébé, un dessin peuvent être {{süß}} ! Et quand quelque chose est trop mignon, on dit {{Wie süß!}}
 
-**Süß, ce n'est pas que pour le goût.** En allemand courant, {{süß}} veut aussi dire « mignon » — un bébé, un chaton, ou même un dessin peuvent être {{süß}}, pas seulement un aliment sucré !
+**Sauer comme dans Sauerkraut.** {{sauer}} veut dire « acide ». Tu le retrouves dans {{Sauerkraut}}, la choucroute — littéralement « le chou acide » !
 
 ---
 
@@ -97,33 +111,26 @@ Comme tu l'as vu dans la série Familie, l'adjectif après **sein** ne s'accorde
 
 | Deutsch | Français |
 |---------|----------|
-| heiß | brûlant |
-| frisch | frais |
-| schlecht | mauvais |
+| heiß | très chaud, brûlant |
 | sehr | très |
-| ein bisschen | un peu |
-| schmecken | avoir un goût |
-| probieren | goûter, essayer |
+| probieren | goûter |
 
 ---
 
 ## Encore quelques phrases
 
-! Die Suppe ist sehr heiß, Achtung!
-> La soupe est très chaude, attention !
-> Die Suppe ist sehr heiß = la soupe est très chaude
+! Achtung, heiß!
+> Attention, c'est très chaud !
 > Achtung = attention
+> heiß = très chaud
++ {{Achtung}} = attention. Utile à table, et partout ailleurs !
 
-! Das Brot ist frisch.
-> Le pain est frais.
-> Das Brot ist frisch = le pain est frais
+! Das ist sehr lecker!
+> C'est vraiment délicieux !
+> sehr = très
+> lecker = délicieux
 
-! Der Käse ist nicht schlecht, er ist sehr lecker.
-> Le fromage n'est pas mauvais, il est vraiment délicieux.
-> Der Käse ist nicht schlecht = le fromage n'est pas mauvais
-> er ist sehr lecker = il est vraiment délicieux
-
-! Probier das! Es schmeckt gut.
-> Goûte ça ! C'est bon.
-> Probier das = goûte ça
-> Es schmeckt gut = c'est bon
+! Probier mal!
+> Goûte un peu !
+> Probier = goûte
+> mal = un peu (pour rendre la phrase plus gentille)

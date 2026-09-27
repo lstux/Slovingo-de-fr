@@ -47,27 +47,33 @@ Bonne nouvelle : au pluriel, l'article devient toujours **{{die}}**, quel que so
 
 ! Wo ist mein Buch?
 > Où est mon livre ?
-> Wo ist mein Buch = où est mon livre
+> Wo ist = où est
+> mein Buch = mon livre
 
 ! Mein Buch ist auf dem Tisch.
 > Mon livre est sur la table.
-> Mein Buch ist auf dem Tisch = mon livre est sur la table
+> Mein Buch = mon livre
+> auf dem Tisch = sur la table
 
 ! Wo ist mein Spielzeug?
 > Où est mon jouet ?
-> Wo ist mein Spielzeug = où est mon jouet
+> Wo ist = où est
+> mein Spielzeug = mon jouet
 
 ! Die Lampe ist im Schlafzimmer.
 > La lampe est dans la chambre.
-> Die Lampe ist im Schlafzimmer = la lampe est dans la chambre
+> Die Lampe = la lampe
+> im Schlafzimmer = dans la chambre
 
 ! Das Fenster ist groß.
 > La fenêtre est grande.
-> Das Fenster ist groß = la fenêtre est grande
+> Das Fenster = la fenêtre
+> ist groß = est grande
 
 ! Die Tür ist offen.
 > La porte est ouverte.
-> Die Tür ist offen = la porte est ouverte
+> Die Tür = la porte
+> ist offen = est ouverte
 
 ---
 
@@ -80,7 +86,8 @@ Bonne nouvelle : au pluriel, l'article devient toujours **{{die}}**, quel que so
 
 ! Meine Spielzeuge sind auf dem Teppich.
 > Mes jouets sont sur le tapis.
-> Meine Spielzeuge sind auf dem Teppich = mes jouets sont sur le tapis
+> Meine Spielzeuge = mes jouets
+> auf dem Teppich = sur le tapis
 
 ---
 
@@ -112,7 +119,8 @@ Bonne nouvelle : au pluriel, l'article devient toujours **{{die}}**, quel que so
 
 ! Die Tür ist geschlossen.
 > La porte est fermée.
-> Die Tür ist geschlossen = la porte est fermée
+> Die Tür = la porte
+> ist geschlossen = est fermée
 
 ! Das Fenster ist offen, aber die Tür ist geschlossen.
 > La fenêtre est ouverte, mais la porte est fermée.

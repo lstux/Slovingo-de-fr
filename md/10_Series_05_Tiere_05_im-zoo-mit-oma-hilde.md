@@ -24,7 +24,8 @@ Une sortie au zoo avec Oma Hilde. Tout le vocabulaire de la série est réutilis
 
 🐰 ! Ich möchte die Giraffen sehen!
 > Je veux voir les girafes !
-> Ich möchte die Giraffen sehen = je veux voir les girafes
+> Ich möchte = je voudrais
+> die Giraffen sehen = voir les girafes
 
 🐨 ! Schau mal, ein Elefant!
 > Regarde, un éléphant !
@@ -83,10 +84,11 @@ Une sortie au zoo avec Oma Hilde. Tout le vocabulaire de la série est réutilis
 > Danke, Oma Hilde = merci, Oma Hilde
 > Der Zoo ist super = le zoo est génial
 
-🦉 ! Gern geschehen! Kommt, wir gehen ins Café.
-> Je vous en prie ! Venez, on va au café.
+🦉 ! Gern geschehen! Kommt, wir gehen in die Eisdiele.
+> Je vous en prie ! Venez, on va au glacier.
 > Gern geschehen = je vous en prie
-> Kommt, wir gehen ins Café = venez, on va au café
+> Kommt = venez
+> wir gehen in die Eisdiele = on va au glacier
 + Mot nouveau signalé : {{Gern geschehen}} = je t'en prie, de rien.
 
 ---
@@ -103,12 +105,16 @@ Une sortie au zoo avec Oma Hilde. Tout le vocabulaire de la série est réutilis
 
 ! Der Affe ist auf dem Baum.
 > Le singe est sur l'arbre.
-> Der Affe ist auf dem Baum = le singe est sur l'arbre
+> Der Affe = le singe
+> auf dem Baum = sur l'arbre
 
 ! Die Giraffe frisst Blätter.
 > La girafe mange des feuilles.
-> Die Giraffe frisst Blätter = la girafe mange des feuilles
+> Die Giraffe frisst = la girafe mange
+> Blätter = des feuilles
 
 ! Wir sehen viele Tiere im Zoo.
 > Nous voyons beaucoup d'animaux au zoo.
-> Wir sehen viele Tiere im Zoo = nous voyons beaucoup d'animaux au zoo
+> Wir sehen = nous voyons
+> viele Tiere = beaucoup d'animaux
+> im Zoo = au zoo

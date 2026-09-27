@@ -32,7 +32,9 @@ Les grands animaux du zoo. Et une première : comparer deux choses avec **-er al
 
 ! Der Elefant ist größer als der Affe.
 > L'éléphant est plus grand que le singe.
-> Der Elefant ist größer als der Affe = l'éléphant est plus grand que le singe
+> Der Elefant = l'éléphant
+> ist größer als = est plus grand que
+> der Affe = le singe
 
 **Un détail à repérer** : certains adjectifs courts prennent un tréma (¨) au comparatif — groß devient größer, pas « grosser ». Ça se voit surtout à l'usage, pas de règle à apprendre par cœur maintenant.
 
@@ -42,23 +44,29 @@ Les grands animaux du zoo. Et une première : comparer deux choses avec **-er al
 
 ! Der Elefant ist groß.
 > L'éléphant est grand.
-> Der Elefant ist groß = l'éléphant est grand
+> Der Elefant = l'éléphant
+> ist groß = est grand
 
 ! Der Affe ist klein und schnell.
 > Le singe est petit et rapide.
-> Der Affe ist klein und schnell = le singe est petit et rapide
+> Der Affe = le singe
+> klein und schnell = petit et rapide
 
 ! Die Giraffe ist größer als das Zebra.
 > La girafe est plus grande que le zèbre.
-> Die Giraffe ist größer als das Zebra = la girafe est plus grande que le zèbre
+> Die Giraffe = la girafe
+> ist größer als = est plus grande que
+> das Zebra = le zèbre
 
 ! Der Löwe ist stark.
 > Le lion est fort.
-> Der Löwe ist stark = le lion est fort
+> Der Löwe = le lion
+> ist stark = est fort
 
 ! Der Bär ist braun.
 > L'ours est brun.
-> Der Bär ist braun = l'ours est brun
+> Der Bär = l'ours
+> ist braun = est brun
 
 ! Ich mag Affen, sie sind lustig!
 > J'aime les singes, ils sont drôles !
@@ -67,7 +75,8 @@ Les grands animaux du zoo. Et une première : comparer deux choses avec **-er al
 
 ! Das Zebra hat Streifen.
 > Le zèbre a des rayures.
-> Das Zebra hat Streifen = le zèbre a des rayures
+> Das Zebra hat = le zèbre a
+> Streifen = des rayures
 
 ---
 
@@ -80,7 +89,9 @@ Les grands animaux du zoo. Et une première : comparer deux choses avec **-er al
 
 ! Im Zoo sehe ich Affen, Löwen und Giraffen.
 > Au zoo, je vois des singes, des lions et des girafes.
-> Im Zoo sehe ich Affen, Löwen und Giraffen = au zoo, je vois des singes, des lions et des girafes
+> Im Zoo = au zoo
+> sehe ich = je vois
+> Affen, Löwen und Giraffen = des singes, des lions et des girafes
 
 ---
 
@@ -100,7 +111,6 @@ Les grands animaux du zoo. Et une première : comparer deux choses avec **-er al
 | braun | brun |
 | das Fell | le pelage, la fourrure |
 | der Schwanz | la queue |
-| das Horn | la corne |
 
 ---
 
@@ -113,12 +123,11 @@ Les grands animaux du zoo. Et une première : comparer deux choses avec **-er al
 
 ! Das Zebra hat Streifen.
 > Le zèbre a des rayures.
-> Das Zebra hat Streifen = le zèbre a des rayures
+> Das Zebra hat = le zèbre a
+> Streifen = des rayures
 
-! Manche Tiere haben ein Horn.
-> Certains animaux ont une corne.
-> Manche Tiere haben ein Horn = certains animaux ont une corne
 
 ! Der Löwe hat einen Schwanz.
 > Le lion a une queue.
-> Der Löwe hat einen Schwanz = le lion a une queue
+> Der Löwe hat = le lion a
+> einen Schwanz = une queue

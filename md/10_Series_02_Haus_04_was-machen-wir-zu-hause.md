@@ -29,6 +29,19 @@ En français, la négation a deux morceaux (**ne... pas**) qui entourent le verb
 | Ich schlafe nicht. | je ne dors pas. |
 | Ich räume nicht auf. | je ne range pas. |
 
+### Les verbes à ressort : aufräumen
+
+Certains verbes ont un petit morceau au début — {{auf}}räumen, {{auf}}wachen — qui **saute à la fin de la phrase** quand on conjugue :
+
+| Deutsch | Français |
+|---------|----------|
+| aufräumen | ranger |
+| Ich räume mein Zimmer **auf**. | Je range ma chambre. |
+| aufwachen | se réveiller |
+| Ich wache **auf**. | Je me réveille. |
+
+Imagine un ressort : le petit morceau est éjecté tout au bout ! Tu en rencontreras d'autres (mitmachen, einladen…).
+
 ### Un petit piège : schlafen change de voyelle
 
 La plupart des verbes suivent le schéma simple vu dans la série Familie, mais **{{schlafen}}** change un peu au milieu :
@@ -114,7 +127,8 @@ Pas de panique : ce genre de petit changement de voyelle concerne quelques verbe
 
 ! Ich helfe meiner Mutter.
 > J'aide ma mère.
-> Ich helfe meiner Mutter = j'aide ma mère
+> Ich helfe = j'aide
+> meiner Mutter = ma mère
 
 ! Ich wache auf und ich öffne das Fenster.
 > Je me réveille et j'ouvre la fenêtre.
@@ -123,4 +137,5 @@ Pas de panique : ce genre de petit changement de voyelle concerne quelques verbe
 
 ! Ich helfe gern beim Aufräumen.
 > J'aime aider à ranger.
-> Ich helfe gern beim Aufräumen = j'aime aider à ranger
+> Ich helfe gern = j'aime aider
+> beim Aufräumen = à ranger

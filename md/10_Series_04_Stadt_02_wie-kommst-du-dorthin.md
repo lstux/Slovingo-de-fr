@@ -1,8 +1,8 @@
 # Série Stadt (2/5) — Wie kommst du dorthin?
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (bus, tram, arrêt en ville...) sur Wikimedia Commons
+@ TODO_img/choisir-image.jpg | TODO : choisir une image (bus, tram, vélos en ville...) sur Wikimedia Commons
 
-Les transports en ville. Et deux verbes à ne pas confondre : **fahren** (se déplacer avec un véhicule) et **gehen** (aller à pied).
+Bus, tram, vélo ou à pied ? Et deux verbes à ne pas confondre : **fahren** (rouler, aller en véhicule) et **gehen** (aller à pied).
 
 ---
 
@@ -13,33 +13,34 @@ Les transports en ville. Et deux verbes à ne pas confondre : **fahren** (se dé
 | der Bus | le bus |
 | die Straßenbahn | le tram |
 | der Zug | le train |
-| die Haltestelle | l'arrêt |
-| die Fahrkarte | le ticket |
-| fahren | se déplacer (en véhicule) |
-| gehen | aller (à pied) |
+| das Fahrrad | le vélo |
+| das Auto | la voiture |
+| fahren | rouler, aller (en véhicule) |
+| zu Fuß | à pied |
 
 ---
 
 ## Aujourd'hui on apprend...
 
-### Fahren — encore un changement de voyelle
+### Fahren — rouler
 
 | Deutsch | Français |
 |---------|----------|
-| ich fahre | je me déplace |
-| du fährst | tu te déplaces |
-| er/sie fährt | il/elle se déplace |
+| ich fahre | je roule, je vais |
+| du fährst | tu roules, tu vas |
+| er/sie fährt | il/elle roule, il/elle va |
 
-Comme **schlafen** (du schläfst), **fahren** change de voyelle avec « du » et « er/sie ». Toujours la même famille de verbes !
+Comme {{schlafen}} (du schläfst), le **a** devient **ä** avec « du » et « er/sie ».
 
 ### Fahren ou gehen ?
 
 | Deutsch | Français |
 |---------|----------|
 | Ich fahre mit dem Bus. | Je vais en bus. |
+| Ich fahre mit dem Fahrrad. | Je vais à vélo. |
 | Ich gehe zu Fuß. | Je vais à pied. |
 
-Simple : **fahren** pour tout ce qui roule (bus, tram, train, voiture), **gehen** pour tes deux jambes !
+Simple : **{{fahren}}** pour tout ce qui roule, **{{gehen}}** pour tes deux jambes ! Et « en bus », « à vélo » se disent tous les deux avec **{{mit}}** (avec).
 
 ---
 
@@ -47,53 +48,58 @@ Simple : **fahren** pour tout ce qui roule (bus, tram, train, voiture), **gehen*
 
 ! Ich fahre mit dem Bus.
 > Je vais en bus.
-> Ich fahre mit dem Bus = je vais en bus
+> Ich fahre = je vais (en véhicule)
+> mit dem Bus = en bus
 
-! Fährst du mit der Straßenbahn?
-> Tu vas en tram ?
-> Fährst du mit der Straßenbahn = tu vas en tram
+! Fährst du mit dem Fahrrad?
+> Tu vas à vélo ?
+> Fährst du = tu vas (en véhicule)
+> mit dem Fahrrad = à vélo
 
-! Wo ist die Haltestelle?
-> Où est l'arrêt ?
-> Wo ist die Haltestelle = où est l'arrêt
+! Ich gehe zu Fuß.
+> Je vais à pied.
+> Ich gehe = je vais
+> zu Fuß = à pied
 
-! Ich möchte eine Fahrkarte, bitte.
-> Je voudrais un ticket, s'il te plaît.
-> Ich möchte eine Fahrkarte = je voudrais un ticket
+! Papa fährt mit dem Auto.
+> Papa va en voiture.
+> fährt = va (en véhicule)
+> mit dem Auto = en voiture
 
 ! Der Zug fährt schnell.
 > Le train roule vite.
-> Der Zug fährt schnell = le train roule vite
+> Der Zug = le train
+> fährt = roule
+> schnell = vite
 
-! Heute gehe ich zu Fuß.
-> Aujourd'hui, j'y vais à pied.
-> Heute gehe ich zu Fuß = aujourd'hui, j'y vais à pied
-
-! Mein Bruder fährt gern mit dem Fahrrad.
-> Mon frère aime se déplacer en vélo.
-> Mein Bruder fährt gern mit dem Fahrrad = mon frère aime se déplacer en vélo
+! Wir fahren mit der Straßenbahn.
+> On va en tram.
+> Wir fahren = on va (en véhicule)
+> mit der Straßenbahn = en tram
 
 ---
 
 ## On révise
 
-! Ich gehe gern zu Fuß, aber mein Vater fährt lieber mit dem Auto.
-> J'aime marcher, mais mon père préfère prendre la voiture.
-> Ich gehe gern zu Fuß = j'aime marcher
-> aber mein Vater fährt lieber mit dem Auto = mais mon père préfère prendre la voiture
+! Ich fahre mit dem Fahrrad in die Schule.
+> Je vais à l'école à vélo.
+> Ich fahre = je vais
+> mit dem Fahrrad = à vélo
+> in die Schule = à l'école
 
-! Die Haltestelle ist auf dem Platz, neben der Kirche.
-> L'arrêt est sur la place, à côté de l'église.
-> Die Haltestelle ist auf dem Platz = l'arrêt est sur la place
-> neben der Kirche = à côté de l'église
+! Lea geht zu Fuß in den Park.
+> Lea va au parc à pied.
+> geht zu Fuß = va à pied
+> in den Park = au parc
++ Pour dire « où on va », {{in der Schule}} devient {{in die Schule}}, et {{im Park}} devient {{in den Park}}. Retiens-les comme ça pour l'instant !
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Le tramway, une vieille histoire.** Beaucoup de villes allemandes ont un réseau de tramway très ancien, parfois plus de cent ans — certains ont même commencé avec des chevaux avant d'être électrifiés !
+**Le vélo, roi des villes.** L'Allemagne a beaucoup de pistes cyclables. À {{Münster}}, dans le nord-ouest, il y a même plus de vélos que d'habitants !
 
-**Les vélos partout.** L'Allemagne a beaucoup de pistes cyclables. À {{Münster}}, dans le nord-ouest, il y a même plus de vélos que d'habitants !
+**Des trams depuis plus de cent ans.** Beaucoup de villes allemandes ont un tramway très ancien. Les tout premiers étaient même tirés par des chevaux !
 
 ---
 
@@ -101,30 +107,24 @@ Simple : **fahren** pour tout ce qui roule (bus, tram, train, voiture), **gehen*
 
 | Deutsch | Français |
 |---------|----------|
-| zu Fuß | à pied |
-| das Fahrrad | le vélo |
-| das Auto | la voiture |
-| das Taxi | le taxi |
+| die Haltestelle | l'arrêt (de bus, de tram) |
 | der Bahnhof | la gare |
-| die Richtung | la direction |
 
 ---
 
 ## Encore quelques phrases
 
-! Ich fahre mit dem Fahrrad in die Stadt.
-> Je vais en ville à vélo.
-> Ich fahre mit dem Fahrrad in die Stadt = je vais en ville à vélo
+! Wo ist die Haltestelle?
+> Où est l'arrêt ?
+> Wo ist = où est
+> die Haltestelle = l'arrêt
 
-! Der Bahnhof ist weit, fahr mit dem Bus.
-> La gare est loin, prends le bus.
-> Der Bahnhof ist weit = la gare est loin
-> fahr mit dem Bus = prends le bus
+! Der Zug ist im Bahnhof.
+> Le train est à la gare.
+> Der Zug = le train
+> im Bahnhof = à la gare
 
-! Welche Richtung ist das?
-> C'est quelle direction ?
-> Welche Richtung ist das = c'est quelle direction
-
-! Ich nehme lieber ein Taxi.
-> Je préfère prendre un taxi.
-> Ich nehme lieber ein Taxi = je préfère prendre un taxi
+! Der Bus kommt!
+> Le bus arrive !
+> Der Bus = le bus
+> kommt = arrive, vient

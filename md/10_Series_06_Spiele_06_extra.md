@@ -17,117 +17,135 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Spiele est réuni, puis
 | das Puzzle | le puzzle |
 | die Bauklötze | les blocs de construction |
 | das Brettspiel | le jeu de société |
-| die Puppenstube | la maison de poupée |
 | der Roboter | le robot |
-| bunt | coloré |
-| neu | neuf |
+| neu | neuf, nouveau |
 | kaputt | cassé |
 | Fußball | le football |
-| Fangen | le jeu de chat |
-| das Seil | la corde |
+| Fangen | le jeu du chat |
+| die Schaukel | la balançoire |
 | schaukeln | se balancer |
+| die Rutsche | le toboggan |
 | rutschen | glisser |
 | der Spielplatz | l'aire de jeux |
-| die Schaukel | la balançoire |
-| die Rutsche | le toboggan |
-| das Klettergerüst | la structure d'escalade |
+| klettern | grimper |
 | das Trampolin | le trampoline |
-| müde | fatigué |
-| würfeln | lancer le dé |
 | der Würfel | le dé |
-| die Karte | la carte à jouer |
+| würfeln | lancer le dé |
+| die Karte | la carte |
 | gewinnen | gagner |
 | verlieren | perdre |
-| können | pouvoir |
-| dran sein | être à son tour |
-| das Spiel | le jeu |
-| die Regel | la règle |
-| der Spieler | le joueur |
-| ziehen | tirer, avancer un pion |
+| können | pouvoir, savoir (faire) |
+| dran sein | être son tour |
+| die Regel | la règle (du jeu) |
+| So ein Pech! | Pas de chance ! |
 | noch einmal | encore une fois |
-| Pech | la malchance |
-| mitmachen | participer |
+| Wollen wir…? | On… ? (pour proposer) |
+| mitmachen | jouer aussi, participer |
 | einladen | inviter |
 | die Mannschaft | l'équipe |
-| fair | fair-play, juste |
-| das Rennen | la course |
 | das Tor | le but |
-| die Medaille | la médaille |
-| Glückwunsch | félicitations |
+| fair | fair-play |
+| Glückwunsch! | Bravo ! Félicitations ! |
+| das Rennen | la course |
 | es regnet | il pleut |
 | klar | bien sûr |
-| Wer fängt an? | qui commence ? |
+| anfangen | commencer |
 | recht haben | avoir raison |
 
 ---
 
 ## Les phrases
 
-! Ich spiele gern mit dem Ball, aber mein Bruder spielt lieber mit Bauklötzen.
-> J'aime jouer avec le ballon, mais mon frère préfère jouer avec des blocs de construction.
-> Ich spiele gern mit dem Ball = j'aime jouer avec le ballon
-> aber mein Bruder spielt lieber mit Bauklötzen = mais mon frère préfère jouer avec des blocs de construction
+! Wollen wir spielen?
+> On joue ?
+> Wollen wir = on… ?
+> spielen = jouer
 
-! Auf dem Spielplatz gibt es eine Schaukel, eine Rutsche und ein Trampolin.
-> À l'aire de jeux, il y a une balançoire, un toboggan et un trampoline.
-> Auf dem Spielplatz gibt es eine Schaukel, eine Rutsche und ein Trampolin = à l'aire de jeux, il y a une balançoire, un toboggan et un trampoline
+! Ich spiele mit dem Ball.
+> Je joue avec le ballon.
+> Ich spiele = je joue
+> mit dem Ball = avec le ballon
 
-! Kannst du würfeln? Ich bin dran!
-> Tu sais lancer le dé ? C'est mon tour !
-> Kannst du würfeln = tu sais lancer le dé
-> Ich bin dran = c'est mon tour
+! Meine Puppe ist neu.
+> Ma poupée est neuve.
+> Meine Puppe = ma poupée
+> ist neu = est neuve
 
-! Ich gewinne oft, aber mein Freund verliert nicht gern.
-> Je gagne souvent, mais mon ami n'aime pas perdre.
-> Ich gewinne oft = je gagne souvent
-> aber mein Freund verliert nicht gern = mais mon ami n'aime pas perdre
+! Oh nein, mein Roboter ist kaputt!
+> Oh non, mon robot est cassé !
+> mein Roboter = mon robot
+> ist kaputt = est cassé
 
-! Machst du mit? Wir bilden eine Mannschaft für das Rennen.
-> Tu participes ? Nous formons une équipe pour la course.
-> Machst du mit = tu participes
-> Wir bilden eine Mannschaft für das Rennen = nous formons une équipe pour la course
+! Wir spielen Fangen auf dem Spielplatz.
+> On joue au chat à l'aire de jeux.
+> Wir spielen Fangen = on joue au chat
+> auf dem Spielplatz = à l'aire de jeux
 
-! Es regnet, also spielen wir ein Brettspiel.
-> Il pleut, alors nous jouons à un jeu de société.
-> Es regnet = il pleut
-> also spielen wir ein Brettspiel = alors nous jouons à un jeu de société
+! Ich schaukle, und Tom rutscht.
+> Je me balance, et Tom fait du toboggan.
+> Ich schaukle = je me balance
+> und Tom rutscht = et Tom glisse
 
-! So ein Pech! Ich verliere immer bei diesem Spiel.
-> Pas de chance ! Je perds toujours à ce jeu.
+! Kannst du klettern?
+> Tu sais grimper ?
+> Kannst du = tu sais
+> klettern = grimper
+
+! Wer ist dran? Ich bin dran!
+> C'est à qui ? C'est à moi !
+> Wer ist dran = c'est à qui
+> Ich bin dran = c'est à moi
+
+! Würfle! Fünf!
+> Lance le dé ! Cinq !
+> Würfle = lance le dé
+> Fünf = cinq
+
+! Ich habe eine gute Karte.
+> J'ai une bonne carte.
+> Ich habe = j'ai
+> eine gute Karte = une bonne carte
+
+! Ich gewinne nicht, ich verliere. So ein Pech!
+> Je ne gagne pas, je perds. Pas de chance !
+> Ich gewinne nicht = je ne gagne pas
+> ich verliere = je perds
 > So ein Pech = pas de chance
-> Ich verliere immer bei diesem Spiel = je perds toujours à ce jeu
 
-! Glückwunsch! Du spielst gut und du spielst fair.
-> Félicitations ! Tu joues bien et tu joues fair-play.
-> Glückwunsch = félicitations
-> Du spielst gut = tu joues bien
-> und du spielst fair = et tu joues fair-play
+! Machst du mit? Wir sind eine Mannschaft.
+> Tu joues avec nous ? On est une équipe.
+> Machst du mit = tu joues avec nous
+> Wir sind eine Mannschaft = on est une équipe
 
-! Ich lade meine Freunde ein. Wir machen alle mit!
-> J'invite mes amis. On participe tous !
-> Ich lade meine Freunde ein = j'invite mes amis
-> Wir machen alle mit = on participe tous
+! Tor! Glückwunsch!
+> But ! Bravo !
+> Tor = but
+> Glückwunsch = bravo
 
-! Meine Puppe ist neu, aber mein Roboter ist kaputt.
-> Ma poupée est neuve, mais mon robot est cassé.
-> Meine Puppe ist neu = ma poupée est neuve
-> aber mein Roboter ist kaputt = mais mon robot est cassé
+! Ich lade Lea und Tom ein.
+> J'invite Lea et Tom.
+> Ich lade… ein = j'invite
 
-! Wer gewinnt das Spiel? Klar, ich!
-> Qui gagne le jeu ? Bien sûr, c'est moi !
-> Wer gewinnt das Spiel = qui gagne le jeu
-> Klar, ich = bien sûr, c'est moi
+! Es regnet. Wollen wir ein Puzzle machen?
+> Il pleut. On fait un puzzle ?
+> Es regnet = il pleut
+> Wollen wir = on… ?
+> ein Puzzle machen = faire un puzzle
 
-! Nach dem Fußball bin ich müde, aber glücklich.
-> Après le football, je suis fatigué, mais content.
-> Nach dem Fußball bin ich müde = après le football, je suis fatigué
-> aber glücklich = mais content
-+ « glücklich » veut dire content, heureux.
+! Klar! Wer fängt an?
+> Bien sûr ! Qui commence ?
+> Klar = bien sûr
+> Wer fängt an = qui commence
+
+! Spielen wir noch einmal? Aber fair!
+> On en refait une ? Mais fair-play !
+> Spielen wir noch einmal = on rejoue encore une fois
+> Aber fair = mais fair-play
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Tu sais maintenant parler de jeux en allemand !** Les jouets, les jeux dehors, les jeux de société, et comment proposer une partie fair-play à tes amis.
+**Tu sais maintenant jouer en allemand !** Les jouets, l'aire de jeux, les jeux de société, proposer une partie, gagner (ou perdre) avec le sourire — de quoi jouer avec des copains allemands.
 
 **Prêt pour la suite.** Cette série clôt le grand chapitre « hors de la maison ». La suite explorera les fêtes et les moments spéciaux de l'année en Allemagne, en Autriche et en Suisse.

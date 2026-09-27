@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (table de dimanche, repas en famille...) sur Wikimedia Commons
 
-Dimanche midi, déjeuner chez Oma Hilde. Tout le vocabulaire de la série est réutilisé, avec quelques mots nouveaux signalés en chemin.
+Dimanche midi, déjeuner chez Oma Hilde ! Tu connais presque tous les mots. Les deux ou trois nouveaux sont signalés en chemin.
 
 ---
 
@@ -17,99 +17,103 @@ Dimanche midi, déjeuner chez Oma Hilde. Tout le vocabulaire de la série est r�
 
 ## Le dialogue
 
-🦉 ! Setzt euch! Das Mittagessen ist fertig.
-> Asseyez-vous ! Le déjeuner est prêt.
-> Setzt euch = asseyez-vous
-> das Mittagessen ist fertig = le déjeuner est prêt
+🦉 ! Kinder, das Mittagessen ist fertig!
+> Les enfants, le déjeuner est prêt !
+> Kinder = les enfants
+> das Mittagessen = le déjeuner
+> ist fertig = est prêt
 
-🦉 ! Guten Appetit!
-> Bon appétit !
+🐨 ! Super, ich habe Hunger!
+> Super, j'ai faim !
+> ich habe Hunger = j'ai faim
+
+🦉 ! Schnitzel mit Kartoffeln. Guten Appetit!
+> Des escalopes avec des pommes de terre. Bon appétit !
+> Schnitzel = des escalopes
+> mit Kartoffeln = avec des pommes de terre
 > Guten Appetit = bon appétit
-+ Mot nouveau signalé : {{Guten Appetit}} = bon appétit, on le dit avant de manger, exactement comme en français.
++ Mot nouveau signalé : {{Guten Appetit!}} — on le dit avant de manger, comme en français.
 
-🦊 ! Danke, Oma Hilde! Was ist das?
-> Merci, Oma Hilde ! Qu'est-ce que c'est ?
-> Was ist das = qu'est-ce que c'est
-
-🦉 ! Das ist Schnitzel mit Kartoffeln.
-> C'est une escalope avec des pommes de terre.
-> Das ist Schnitzel mit Kartoffeln = c'est une escalope avec des pommes de terre
-
-🐰 ! Ich mag kein Fleisch. Ich nehme Kartoffeln und Gemüse, bitte.
-> Je n'aime pas la viande. Je prends des pommes de terre et des légumes, s'il te plaît.
+🐰 ! Ich mag kein Fleisch. Ich nehme Kartoffeln, bitte.
+> Je n'aime pas la viande. Je prends des pommes de terre, s'il te plaît.
 > Ich mag kein Fleisch = je n'aime pas la viande
-> Ich nehme Kartoffeln und Gemüse = je prends des pommes de terre et des légumes
-+ Tu te souviens de {{kein}} (« pas de », Kit de Survie) ? Ici, on l'utilise avec {{mögen}} : {{Ich mag kein Fleisch}}.
+> Ich nehme = je prends
+> Kartoffeln = des pommes de terre
 
 🐨 ! Ich mag Schnitzel sehr gern!
 > J'aime beaucoup l'escalope !
-> Ich mag Schnitzel sehr gern = j'aime beaucoup l'escalope
-+ Mot nouveau signalé : {{mögen / ich mag}} = aimer bien. Une autre façon de dire qu'on aime quelque chose, en plus de « gern ».
+> Ich mag = j'aime bien
+> sehr gern = beaucoup
 
-🦊 ! Ich auch! Und ich mag Kartoffeln.
-> Moi aussi ! Et j'aime les pommes de terre.
+🦊 ! Ich auch! Hm, lecker!
+> Moi aussi ! Mmm, trop bon !
 > Ich auch = moi aussi
-> ich mag Kartoffeln = j'aime les pommes de terre
+> lecker = trop bon
 
-🐰 ! Nimmst du noch Apfelstrudel?
-> Tu prends encore du strudel aux pommes ?
-> Nimmst du noch Apfelstrudel = tu prends encore du strudel aux pommes
+🦉 ! Möchtest du Apfelsaft, [USER_NAME]?
+> Tu veux du jus de pomme, [USER_NAME] ?
+> Möchtest du = tu veux
+> Apfelsaft = du jus de pomme
 
-🦊 ! Ja, gern! Der Apfelstrudel ist sehr lecker.
-> Oui, avec plaisir ! Le strudel aux pommes est vraiment délicieux.
-> Der Apfelstrudel ist sehr lecker = le strudel aux pommes est vraiment délicieux
+🦊 ! Ja, bitte! Ich habe Durst.
+> Oui, s'il te plaît ! J'ai soif.
+> Ja, bitte = oui, s'il te plaît
+> Ich habe Durst = j'ai soif
 
-🐨 ! Ich möchte auch noch Apfelstrudel!
-> Moi aussi, je veux encore du strudel aux pommes !
-> Ich möchte auch noch Apfelstrudel = moi aussi, je veux encore du strudel aux pommes
+🦉 ! Und jetzt: Apfelstrudel!
+> Et maintenant : du strudel aux pommes !
+> Und jetzt = et maintenant
+> Apfelstrudel = du strudel aux pommes
++ Mot nouveau signalé : {{jetzt}} = maintenant.
 
-🦉 ! Hier, bitte!
-> Voilà, tiens !
-> Hier, bitte = voilà, tiens
+🐰 ! Oh ja! Er ist noch warm!
+> Oh oui ! Il est encore chaud !
+> noch = encore
+> warm = chaud
 
-🦊 ! Danke! Ich bin jetzt satt.
-> Merci ! Je suis maintenant rassasié.
-> Ich bin jetzt satt = je suis maintenant rassasié
+🦉 ! Möchtest du noch Apfelstrudel?
+> Tu veux encore du strudel ?
+> Möchtest du = tu veux
+> noch Apfelstrudel = encore du strudel
 
-🦉 ! Möchtest du noch mehr?
-> Tu veux encore plus ?
-> Möchtest du noch mehr = tu veux encore plus
+🦊 ! Nein danke, ich bin satt.
+> Non merci, je n'ai plus faim.
+> Nein danke = non merci
+> ich bin satt = je n'ai plus faim
 
-🦊 ! Nein danke, ich bin satt. Es ist sehr lecker!
-> Non merci, je suis rassasié. C'est vraiment délicieux !
-> Nein danke, ich bin satt = non merci, je suis rassasié
-> Es ist sehr lecker = c'est vraiment délicieux
-
-🐰 ! Oma Hilde kocht sehr gut!
-> Oma Hilde cuisine très bien !
-> Oma Hilde kocht sehr gut = Oma Hilde cuisine très bien
+🐰 ! Oma, du kochst sehr gut!
+> Mamie, tu cuisines très bien !
+> du kochst = tu cuisines
+> sehr gut = très bien
 + Tu te souviens de {{kochen}} (cuisiner) ? On l'a vu dans la série Familie.
 
 🦉 ! Danke schön! Ich koche sehr gern.
-> Merci beaucoup ! J'aime beaucoup cuisiner.
+> Merci beaucoup ! J'adore cuisiner.
 > Danke schön = merci beaucoup
-> Ich koche sehr gern = j'aime beaucoup cuisiner
+> Ich koche sehr gern = j'adore cuisiner
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Le déjeuner du dimanche, une tradition partagée.** Comme en France, se retrouver en famille le dimanche midi est une habitude courante en Allemagne et en Autriche — souvent avec un {{Sonntagsbraten}} (« rôti du dimanche ») au menu.
+**Le repas chaud, c'est à midi.** Dans beaucoup de familles allemandes, le grand repas chaud se prend le midi, surtout le dimanche. Le soir, c'est l'{{Abendbrot}}, plus léger.
 
-**Une grand-mère qui insiste, ce n'est pas qu'en France !** En Allemagne aussi, Oma insiste souvent pour resservir un peu plus — un signe d'affection plutôt que de simple politesse.
+**Une grand-mère qui ressert, ce n'est pas qu'en France !** Oma insiste souvent pour te resservir — c'est sa façon de dire qu'elle t'aime. Si tu n'as plus faim : {{Nein danke, ich bin satt!}}, avec un grand sourire.
 
 ---
 
 ## Encore quelques phrases
 
-! Die Wurst ist sehr lecker.
-> La saucisse est vraiment délicieuse.
-> Die Wurst ist sehr lecker = la saucisse est vraiment délicieuse
+! Guten Appetit!
+> Bon appétit !
+> Guten Appetit = bon appétit
 
-! Ich nehme noch eine Brezel.
-> Je prends encore un bretzel.
-> Ich nehme noch eine Brezel = je prends encore un bretzel
+! Lea mag kein Fleisch.
+> Lea n'aime pas la viande.
+> mag kein = n'aime pas
+> Fleisch = la viande
 
 ! Wir essen gern zusammen.
-> Nous aimons manger ensemble.
-> Wir essen gern zusammen = nous aimons manger ensemble
+> On aime manger ensemble.
+> Wir essen gern = on aime manger
+> zusammen = ensemble

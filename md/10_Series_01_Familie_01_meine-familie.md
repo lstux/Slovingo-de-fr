@@ -60,6 +60,7 @@ En allemand, **{{mein}}** ou **{{meine}}** dépend du mot qui suit — pas de qu
 > Tu as un frère ?
 > Hast du = tu as
 > einen Bruder = un frère
++ Tiens, « einen » et pas « ein » ? C'est expliqué dans la fiche 3, promis !
 
 ! Ich habe keinen Bruder. Ich habe eine Schwester.
 > Je n'ai pas de frère. J'ai une sœur.

@@ -66,7 +66,8 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Haus est réuni, puis r
 
 ! Mein Bett ist im Schlafzimmer.
 > Mon lit est dans la chambre.
-> Mein Bett ist im Schlafzimmer = mon lit est dans la chambre
+> Mein Bett = mon lit
+> im Schlafzimmer = dans la chambre
 
 ! Der Tisch und die Stühle sind in der Küche.
 > La table et les chaises sont dans la cuisine.
@@ -75,16 +76,19 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Haus est réuni, puis r
 
 ! Meine Bücher sind im Regal.
 > Mes livres sont sur l'étagère.
-> Meine Bücher sind im Regal = mes livres sont sur l'étagère
+> Meine Bücher = mes livres
+> im Regal = sur l'étagère
 
 ! Wo ist mein Spielzeug? Es ist unter dem Bett.
 > Où est mon jouet ? Il est sous le lit.
-> Wo ist mein Spielzeug = où est mon jouet
+> Wo ist = où est
+> mein Spielzeug = mon jouet
 > Es ist unter dem Bett = il est sous le lit
 
 ! Die Tür ist offen, aber das Fenster ist geschlossen.
 > La porte est ouverte, mais la fenêtre est fermée.
-> Die Tür ist offen = la porte est ouverte
+> Die Tür = la porte
+> ist offen = est ouverte
 > das Fenster ist geschlossen = la fenêtre est fermée
 
 ! Ich suche meinen Schlüssel im Wohnzimmer.
@@ -109,19 +113,25 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Haus est réuni, puis r
 
 ! Meine Schwester hilft mir beim Aufräumen.
 > Ma sœur m'aide à ranger.
-> Meine Schwester hilft mir beim Aufräumen = ma sœur m'aide à ranger
+> Meine Schwester = ma sœur
+> hilft mir = m'aide
+> beim Aufräumen = à ranger
 
 ! Wir spielen gern Verstecken im Haus.
 > On aime jouer à cache-cache dans la maison.
-> Wir spielen gern Verstecken im Haus = on aime jouer à cache-cache dans la maison
+> Wir spielen gern = on aime jouer
+> Verstecken = à cache-cache
+> im Haus = dans la maison
 
 ! Ich verstecke mich hinter dem Schrank.
 > Je me cache derrière l'armoire.
-> Ich verstecke mich hinter dem Schrank = je me cache derrière l'armoire
+> Ich verstecke mich = je me cache
+> hinter dem Schrank = derrière l'armoire
 
 ! Das ist sehr lustig!
 > C'est très drôle !
-> Das ist sehr lustig = c'est très drôle
+> Das ist = c'est
+> sehr lustig = très drôle
 
 ! Unser Teppich ist im Wohnzimmer, und er ist sehr gemütlich.
 > Notre tapis est dans le salon, et il est très confortable.

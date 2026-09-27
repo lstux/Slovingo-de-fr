@@ -1,8 +1,8 @@
 # Série Stadt (4/5) — Was machen wir in der Stadt?
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (enfants qui se promènent, café en terrasse...) sur Wikimedia Commons
+@ TODO_img/choisir-image.jpg | TODO : choisir une image (enfant qui achète une glace ou des bonbons, pièces de monnaie...) sur Wikimedia Commons
 
-Ce qu'on fait en ville : voir, visiter, se promener, retrouver un ami. Encore des verbes de la grande famille qui change de voyelle !
+En ville, on voit plein de choses, on retrouve des copains… et on fait des achats avec son argent de poche !
 
 ---
 
@@ -11,18 +11,17 @@ Ce qu'on fait en ville : voir, visiter, se promener, retrouver un ami. Encore de
 | Deutsch | Français |
 |---------|----------|
 | sehen | voir |
-| besuchen | visiter |
-| spazieren gehen | se promener |
-| treffen | rencontrer |
-| das Café | le café |
-| das Restaurant | le restaurant |
-| das Kino | le cinéma |
+| treffen | retrouver (quelqu'un) |
+| kaufen | acheter |
+| kosten | coûter |
+| das Geld | l'argent |
+| der Euro | l'euro |
 
 ---
 
 ## Aujourd'hui on apprend...
 
-### Sehen — voir
+### Sehen et treffen
 
 | Deutsch | Français |
 |---------|----------|
@@ -30,72 +29,80 @@ Ce qu'on fait en ville : voir, visiter, se promener, retrouver un ami. Encore de
 | du siehst | tu vois |
 | er/sie sieht | il/elle voit |
 
-### Treffen — rencontrer
+| Deutsch | Français |
+|---------|----------|
+| ich treffe | je retrouve |
+| du triffst | tu retrouves |
+| er/sie trifft | il/elle retrouve |
+
+Encore deux verbes qui changent de voyelle avec « du » et « er/sie » — comme {{essen}}, {{nehmen}} et {{sprechen}} : le **e** devient **i** ou **ie**.
+
+### Was kostet das? — Combien ça coûte ?
 
 | Deutsch | Français |
 |---------|----------|
-| ich treffe | je rencontre |
-| du triffst | tu rencontres |
-| er/sie trifft | il/elle rencontre |
+| Was kostet das? | Combien ça coûte ? |
+| Das kostet zwei Euro. | Ça coûte deux euros. |
 
-Encore deux verbes de la même famille que sprechen, schlafen, essen, nehmen et fahren : ils changent de voyelle avec « du » et « er/sie ». Tu reconnais le schéma de mieux en mieux !
-
-### Spazieren gehen — se promener
-
-En français, on dit « **se** promener ». En allemand, pas de « se » : on dit {{spazieren gehen}}, littéralement « aller promener ». Et dans la phrase, {{spazieren}} part à la fin : {{Ich gehe im Park spazieren}}.
+Tu vas enfin pouvoir utiliser les nombres de l'introduction ! Et bonne nouvelle : en allemand, on ne met pas de « s » à Euro : {{zwei Euro}}.
 
 ---
 
 ## Des phrases
 
-! Ich sehe die Kirche und das Museum.
-> Je vois l'église et le musée.
-> Ich sehe die Kirche und das Museum = je vois l'église et le musée
+! Was kostet das?
+> Combien ça coûte ?
+> Was kostet = combien coûte
+> das = ça
 
-! Wir möchten das Theater besuchen.
-> Nous voulons visiter le théâtre.
-> Wir möchten das Theater besuchen = nous voulons visiter le théâtre
+! Das kostet drei Euro.
+> Ça coûte trois euros.
+> Das kostet = ça coûte
+> drei Euro = trois euros
 
-! Ich gehe im Park spazieren.
-> Je me promène dans le parc.
-> Ich gehe im Park spazieren = je me promène dans le parc
+! Ich kaufe ein Eis.
+> J'achète une glace.
+> Ich kaufe = j'achète
+> ein Eis = une glace
 
-! Ich treffe einen Freund im Café.
-> Je rencontre un ami au café.
-> Ich treffe einen Freund im Café = je rencontre un ami au café
+! Hast du Geld?
+> Tu as de l'argent ?
+> Hast du = tu as
+> Geld = de l'argent
 
-! Gehen wir ins Restaurant?
-> On va au restaurant ?
-> Gehen wir ins Restaurant = on va au restaurant
+! Siehst du den Park?
+> Tu vois le parc ?
+> Siehst du = tu vois
+> den Park = le parc
 
-! Möchtest du ins Kino gehen?
-> Tu veux aller au cinéma ?
-> Möchtest du ins Kino gehen = tu veux aller au cinéma
-
-! Siehst du die Statue?
-> Tu vois la statue ?
-> Siehst du die Statue = tu vois la statue
+! Ich treffe Lea im Park.
+> Je retrouve Lea au parc.
+> Ich treffe = je retrouve
+> im Park = au parc
 
 ---
 
 ## On révise
 
-! Wir gehen jeden Tag im Park spazieren.
-> Nous nous promenons dans le parc tous les jours.
-> Wir gehen jeden Tag im Park spazieren = nous nous promenons dans le parc tous les jours
+! Mama kauft Brot in der Bäckerei.
+> Maman achète du pain à la boulangerie.
+> kauft = achète
+> Brot = du pain
+> in der Bäckerei = à la boulangerie
 
-! Geh geradeaus, das Kino ist neben dem Theater.
-> Va tout droit, le cinéma est à côté du théâtre.
-> Geh geradeaus = va tout droit
-> das Kino ist neben dem Theater = le cinéma est à côté du théâtre
+! Wir fahren mit dem Bus in die Stadt.
+> On va en ville en bus.
+> Wir fahren = on va (en véhicule)
+> mit dem Bus = en bus
+> in die Stadt = en ville
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Le café, un moment tranquille.** S'asseoir en terrasse pour un long café n'a rien de pressé en Allemagne et en Autriche non plus : on y lit, on y discute, personne ne presse.
+**L'argent de poche.** Beaucoup d'enfants allemands reçoivent du {{Taschengeld}} — littéralement « l'argent de la poche » — chaque semaine. De quoi s'offrir une glace ou une Brezel !
 
-**Beaucoup de vieux théâtres.** De nombreuses villes allemandes et autrichiennes ont un théâtre historique datant de plus de cent ans, encore utilisé aujourd'hui — souvent juste au centre-ville, facile à trouver !
+**On paie souvent en pièces.** En Allemagne, on paie encore beaucoup en liquide ({{Bargeld}}), surtout les petites choses à la boulangerie ou chez le glacier.
 
 ---
 
@@ -103,28 +110,25 @@ En français, on dit « **se** promener ». En allemand, pas de « se » : on di
 
 | Deutsch | Français |
 |---------|----------|
-| die Ausstellung | l'exposition |
-| das Konzert | le concert |
-| das Programm | le programme |
-| interessant | intéressant |
-| langweilig | ennuyeux |
+| das Taschengeld | l'argent de poche |
+| teuer | cher |
+| billig | pas cher |
 
 ---
 
 ## Encore quelques phrases
 
-! Wir möchten die Ausstellung besuchen.
-> Nous voulons visiter l'exposition.
-> Wir möchten die Ausstellung besuchen = nous voulons visiter l'exposition
+! Das ist teuer!
+> C'est cher !
+> Das ist = c'est
+> teuer = cher
 
-! Das Konzert ist interessant.
-> Le concert est intéressant.
-> Das Konzert ist interessant = le concert est intéressant
+! Das Eis ist billig.
+> La glace n'est pas chère.
+> Das Eis = la glace
+> ist billig = n'est pas chère
 
-! Der Film war langweilig.
-> Le film était ennuyeux.
-> Der Film war langweilig = le film était ennuyeux
-
-! Ich treffe meinen Freund im Park.
-> Je retrouve mon ami dans le parc.
-> Ich treffe meinen Freund im Park = je retrouve mon ami dans le parc
+! Ich kaufe das mit meinem Taschengeld.
+> J'achète ça avec mon argent de poche.
+> Ich kaufe das = j'achète ça
+> mit meinem Taschengeld = avec mon argent de poche

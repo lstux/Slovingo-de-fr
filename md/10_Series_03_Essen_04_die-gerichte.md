@@ -1,8 +1,8 @@
 # Série Essen (4/5) — Die Gerichte
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (bretzel, apfelstrudel, table de spécialités allemandes...) sur Wikimedia Commons
+@ TODO_img/choisir-image.jpg | TODO : choisir une image (bretzel, saucisse, glace, stand de nourriture...) sur Wikimedia Commons
 
-Des plats et boissons qu'on te servira vraiment. Et une formule magique pour commander : **ich nehme**.
+Les plats qu'on te servira vraiment en Allemagne. Et une formule magique pour commander : **ich nehme** (je prends).
 
 ---
 
@@ -12,17 +12,17 @@ Des plats et boissons qu'on te servira vraiment. Et une formule magique pour com
 |---------|----------|
 | die Brezel | le bretzel |
 | die Wurst | la saucisse |
-| der Apfelstrudel | le strudel aux pommes |
 | das Schnitzel | l'escalope panée |
+| die Kartoffel | la pomme de terre |
 | der Apfelsaft | le jus de pomme |
-| der Kuchen | le gâteau (rappel) |
+| das Eis | la glace |
 | nehmen | prendre |
 
 ---
 
 ## Aujourd'hui on apprend...
 
-### Nehmen — prendre (encore un changement de voyelle)
+### Nehmen — prendre
 
 | Deutsch | Français |
 |---------|----------|
@@ -30,64 +30,71 @@ Des plats et boissons qu'on te servira vraiment. Et une formule magique pour com
 | du nimmst | tu prends |
 | er/sie nimmt | il/elle prend |
 
-Comme **sprechen** (sprichst du), **schlafen** (du schläfst) et **essen** (du isst), **nehmen** change de voyelle avec « du » et « er/sie ». Tu commences à reconnaître le schéma !
+Encore un verbe qui change de voyelle avec « du » et « er/sie », comme {{essen}} (du isst) ou {{sprechen}} (du sprichst). Tu commences à connaître la chanson !
 
-### Ich nehme... — la formule pour commander
+### Ich nehme… — pour commander
 
-! Ich nehme eine Brezel.
-> Je prends un bretzel.
-> Ich nehme = je prends
-> eine Brezel = un bretzel
+Au restaurant ou à la boulangerie, **{{Ich nehme…}}** + ce que tu veux + **{{bitte}}**, et c'est gagné !
 
 ---
 
 ## Des phrases
 
-! Ich nehme eine Brezel.
-> Je prends un bretzel.
-> Ich nehme eine Brezel = je prends un bretzel
+! Ich nehme eine Brezel, bitte.
+> Je prends un bretzel, s'il te plaît.
+> Ich nehme = je prends
+> eine Brezel = un bretzel
+> bitte = s'il te plaît
 
 ! Nimmst du eine Wurst?
 > Tu prends une saucisse ?
-> Nimmst du eine Wurst = tu prends une saucisse
+> Nimmst du = tu prends
+> eine Wurst = une saucisse
 
-! Mein Bruder nimmt ein Schnitzel, aber ich nehme Kuchen.
-> Mon frère prend une escalope, mais moi je prends du gâteau.
-> Mein Bruder nimmt ein Schnitzel = mon frère prend une escalope
-> aber ich nehme Kuchen = mais moi je prends du gâteau
+! Tom nimmt ein Schnitzel.
+> Tom prend une escalope.
+> nimmt = prend
+> ein Schnitzel = une escalope
 
-! Ich möchte einen Apfelsaft, bitte.
-> Je voudrais un jus de pomme, s'il te plaît.
-> Ich möchte einen Apfelsaft = je voudrais un jus de pomme
+! Ich möchte einen Apfelsaft.
+> Je voudrais un jus de pomme.
+> Ich möchte = je voudrais
+> einen Apfelsaft = un jus de pomme
 
-! Der Apfelstrudel ist warm und süß.
-> Le strudel aux pommes est chaud et sucré.
-> Der Apfelstrudel ist warm und süß = le strudel aux pommes est chaud et sucré
+! Das Eis ist kalt und süß.
+> La glace est froide et sucrée.
+> Das Eis = la glace
+> kalt und süß = froide et sucrée
 
-! Die Wurst ist salzig.
-> La saucisse est salée.
-> Die Wurst ist salzig = la saucisse est salée
+! Ich mag Kartoffeln.
+> J'aime bien les pommes de terre.
+> Ich mag = j'aime bien
+> Kartoffeln = les pommes de terre
 
 ---
 
 ## On révise
 
-! Ich habe Hunger. Ich nehme eine Brezel und einen Apfelsaft.
-> J'ai faim. Je prends un bretzel et un jus de pomme.
+! Ich habe Hunger. Ich nehme eine Wurst.
+> J'ai faim. Je prends une saucisse.
 > Ich habe Hunger = j'ai faim
-> Ich nehme eine Brezel und einen Apfelsaft = je prends un bretzel et un jus de pomme
+> Ich nehme = je prends
+> eine Wurst = une saucisse
 
-! Meine Oma macht gern Apfelstrudel.
-> Ma grand-mère aime préparer du strudel aux pommes.
-> Meine Oma macht gern Apfelstrudel = ma grand-mère aime préparer du strudel aux pommes
+! Die Brezel ist lecker!
+> Le bretzel est trop bon !
+> Die Brezel = le bretzel
+> lecker = trop bon
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**La Brezel, star de la Bavière.** Ce pain tressé en forme de nœud est une spécialité du sud de l'Allemagne — on la mange souvent tartinée de beurre, dès le petit-déjeuner !
+**La Brezel, star du sud.** Ce pain en forme de nœud vient du sud de l'Allemagne. On la mange nature, ou coupée en deux avec du beurre — même au petit-déjeuner !
 
-**L'Apfelstrudel vient d'Autriche.** Cette pâtisserie fine roulée autour de pommes et de cannelle est née à Vienne. Elle est aujourd'hui aimée dans toute l'Allemagne et l'Autriche.
+**Die Wurst, et plein de sortes de saucisses.** L'Allemagne compte plus de 1 500 sortes de saucisses ! La plus connue des enfants : la {{Currywurst}}, coupée en rondelles avec une sauce tomate au curry.
+
+**L'Apfelstrudel.** Un gâteau roulé aux pommes et à la cannelle, venu d'Autriche. Tu le goûteras peut-être chez Oma Hilde !
 
 ---
 
@@ -95,30 +102,26 @@ Comme **sprechen** (sprichst du), **schlafen** (du schläfst) et **essen** (du i
 
 | Deutsch | Français |
 |---------|----------|
-| das Eis | la glace |
-| die Limonade | la limonade |
-| der Pfannkuchen | la crêpe |
-| das Brötchen | le petit pain |
-| die Sahne | la crème |
-| der Honig | le miel |
-| die Marmelade | la confiture |
+| die Pommes | les frites |
+| der Apfelstrudel | le strudel aux pommes |
 
 ---
 
 ## Encore quelques phrases
 
-! Ich nehme ein Eis, bitte.
-> Je prends une glace, s'il te plaît.
-> Ich nehme ein Eis = je prends une glace
+! Ich nehme Pommes, bitte!
+> Je prends des frites, s'il te plaît !
+> Ich nehme = je prends
+> Pommes = des frites
++ Attention : {{Pommes}} (on dit « pomess »), ce sont des frites, pas des pommes !
 
-! Das Brötchen mit Honig ist sehr lecker.
-> Le petit pain au miel est vraiment délicieux.
-> Das Brötchen mit Honig ist sehr lecker = le petit pain au miel est vraiment délicieux
+! Wurst mit Pommes, bitte!
+> Une saucisse-frites, s'il te plaît !
+> Wurst = saucisse
+> mit = avec
+> Pommes = frites
 
-! Wir essen Pfannkuchen mit Marmelade.
-> Nous mangeons des crêpes avec de la confiture.
-> Wir essen Pfannkuchen mit Marmelade = nous mangeons des crêpes avec de la confiture
-
-! Die Sahne ist süß.
-> La crème est sucrée.
-> Die Sahne ist süß = la crème est sucrée
+! Oma macht Apfelstrudel.
+> Mamie fait du strudel aux pommes.
+> Oma macht = mamie fait
+> Apfelstrudel = du strudel aux pommes

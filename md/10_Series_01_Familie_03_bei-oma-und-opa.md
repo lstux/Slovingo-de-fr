@@ -39,6 +39,20 @@ Même logique que {{mein}}/{{meine}} : **{{dein}}** devant un mot masculin ou ne
 | dein Garten | ton jardin |
 | deine Katze | ton chat *(die Katze est féminin en allemand, alors que « chat » est masculin en français !)* |
 
+### Ein ou einen ?
+
+Tu as peut-être remarqué : {{Das ist ein Hund}}, mais {{Ich habe einen Hund}}. Pourquoi ?
+
+Quand un mot **der** (masculin) est « attrapé » par le verbe — on l'a, on le voit, on le mange — {{ein}} devient **{{einen}}**. Pour les mots **die** et **das**, rien ne change !
+
+| Deutsch | Français |
+|---------|----------|
+| Das ist ein Garten. → Ich habe einen Garten. | *der Garten : ein → einen* |
+| Das ist eine Katze. → Ich habe eine Katze. | *die Katze : pas de changement* |
+| Das ist ein Haus. → Ich habe ein Haus. | *das Haus : pas de changement* |
+
+Pareil pour {{kein}} → {{keinen}} et {{mein}} → {{meinen}}. Pas besoin de tout retenir d'un coup : ça viendra à l'oreille.
+
 ---
 
 ## Des phrases

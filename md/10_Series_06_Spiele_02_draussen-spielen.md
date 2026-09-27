@@ -1,8 +1,8 @@
 # Série Spiele (2/5) — Draußen spielen
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (aire de jeux, balançoire, enfants qui courent...) sur Wikimedia Commons
+@ TODO_img/choisir-image.jpg | TODO : choisir une image (aire de jeux, balançoire, toboggan, enfants qui courent...) sur Wikimedia Commons
 
-Jouer dehors, à l'aire de jeux. Et une nuance utile : **spielen** + le nom du jeu tout seul, ou **spielen mit** + un objet.
+On sort jouer ! Le foot, le jeu du chat, la balançoire, le toboggan… Et une petite nuance : **spielen** + un jeu, ou **spielen mit** + un objet.
 
 ---
 
@@ -11,12 +11,12 @@ Jouer dehors, à l'aire de jeux. Et une nuance utile : **spielen** + le nom du j
 | Deutsch | Français |
 |---------|----------|
 | Fußball | le football |
-| Fangen | le jeu de chat |
-| das Seil | la corde |
-| schaukeln | se balancer |
-| rutschen | glisser |
-| der Spielplatz | l'aire de jeux |
+| Fangen | le jeu du chat |
 | die Schaukel | la balançoire |
+| schaukeln | se balancer |
+| die Rutsche | le toboggan |
+| rutschen | glisser |
+| der Spielplatz | l'aire de jeux (rappel) |
 
 ---
 
@@ -26,64 +26,72 @@ Jouer dehors, à l'aire de jeux. Et une nuance utile : **spielen** + le nom du j
 
 | Deutsch | Français |
 |---------|----------|
-| Ich spiele Fußball. | Je joue au football. |
+| Ich spiele Fußball. | Je joue au foot. |
+| Wir spielen Fangen. | On joue au chat. |
 | Ich spiele mit dem Ball. | Je joue avec le ballon. |
-| Wir spielen Fangen. | Nous jouons à chat. |
 
-Pas de petit mot devant le nom d'un jeu ({{Fußball}}, {{Fangen}}) — mais il faut **mit** devant un objet, comme tu l'as vu dans la fiche précédente.
+Devant le nom d'un jeu, rien du tout ! Le « au » du français disparaît. Mais devant un objet, il faut {{mit}}, comme dans la fiche précédente.
+
+### Die Schaukel → schaukeln
+
+Astuce : l'objet et le verbe se ressemblent ! {{die Schaukel}} (la balançoire) → {{schaukeln}} (se balancer). {{die Rutsche}} (le toboggan) → {{rutschen}} (glisser).
 
 ---
 
 ## Des phrases
 
 ! Ich spiele gern Fußball.
-> J'aime jouer au football.
-> Ich spiele gern Fußball = j'aime jouer au football
+> J'aime jouer au foot.
+> Ich spiele gern = j'aime jouer
+> Fußball = au foot
 
 ! Spielen wir Fangen?
-> On joue à chat ?
-> Spielen wir Fangen = on joue à chat
+> On joue au chat ?
+> Spielen wir = on joue
+> Fangen = au chat
 
-! Ich springe Seil.
-> Je saute à la corde.
-> Ich springe Seil = je saute à la corde
+! Ich schaukle!
+> Je me balance !
+> Ich schaukle = je me balance
 
-! Meine Schwester schaukelt gern.
-> Ma sœur aime se balancer.
-> Meine Schwester schaukelt gern = ma sœur aime se balancer
+! Meine Schwester rutscht gern.
+> Ma sœur aime faire du toboggan.
+> Meine Schwester = ma sœur
+> rutscht gern = aime glisser
 
-! Ich rutsche gern.
-> J'aime glisser (sur le toboggan).
-> Ich rutsche gern = j'aime glisser
+! Die Schaukel ist frei!
+> La balançoire est libre !
+> Die Schaukel = la balançoire
+> ist frei = est libre
 
-! Der Spielplatz ist groß.
-> L'aire de jeux est grande.
-> Der Spielplatz ist groß = l'aire de jeux est grande
-
-! Die Schaukel ist frei.
-> La balançoire est libre.
-> Die Schaukel ist frei = la balançoire est libre
+! Die Rutsche ist sehr groß.
+> Le toboggan est très grand.
+> Die Rutsche = le toboggan
+> sehr groß = très grand
 
 ---
 
 ## On révise
 
-! Auf dem Spielplatz gibt es eine Schaukel und eine Rutsche.
-> À l'aire de jeux, il y a une balançoire et un toboggan.
-> Auf dem Spielplatz gibt es eine Schaukel und eine Rutsche = à l'aire de jeux, il y a une balançoire et un toboggan
+! Auf dem Spielplatz gibt es eine Schaukel.
+> À l'aire de jeux, il y a une balançoire.
+> Auf dem Spielplatz = à l'aire de jeux
+> gibt es = il y a
+> eine Schaukel = une balançoire
 
-! Wir spielen Fußball, dann schaukeln wir.
-> Nous jouons au football, ensuite nous nous balançons.
-> Wir spielen Fußball = nous jouons au football
-> dann schaukeln wir = ensuite nous nous balançons
+! Wir spielen Fußball im Park.
+> On joue au foot dans le parc.
+> Wir spielen = on joue
+> Fußball = au foot
+> im Park = dans le parc
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Le football, sport numéro un.** Comme en France, le football ({{Fußball}}) est de loin le sport le plus populaire en Allemagne — dans la cour de récréation aussi !
+**Le football, sport numéro un.** Comme en France, le {{Fußball}} est de loin le sport préféré en Allemagne. Et dans les cours d'école, on le joue à chaque récré !
 
-**Des aires de jeux très bien équipées.** Les aires de jeux allemandes ont souvent des structures en bois assez impressionnantes — tours, ponts de corde, toboggans géants — un vrai plaisir pour les enfants.
+**Des aires de jeux géantes.** Les aires de jeux allemandes ont souvent de grandes structures en bois : tours, ponts de corde, toboggans géants, bacs à sable… Un vrai paradis pour grimper !
 
 ---
 
@@ -91,29 +99,24 @@ Pas de petit mot devant le nom d'un jeu ({{Fußball}}, {{Fangen}}) — mais il f
 
 | Deutsch | Français |
 |---------|----------|
-| die Rutsche | le toboggan |
-| das Klettergerüst | la structure d'escalade |
-| Fahrrad fahren | faire du vélo |
+| klettern | grimper |
 | das Trampolin | le trampoline |
-| springen | sauter (rappel) |
-| müde | fatigué |
 
 ---
 
 ## Encore quelques phrases
 
-! Ich rutsche gern auf der Rutsche.
-> J'aime glisser sur le toboggan.
-> Ich rutsche gern auf der Rutsche = j'aime glisser sur le toboggan
+! Ich klettere gern.
+> J'aime grimper.
+> Ich klettere gern = j'aime grimper
 
-! Wir klettern auf dem Klettergerüst.
-> Nous grimpons sur la structure d'escalade.
-> Wir klettern auf dem Klettergerüst = nous grimpons sur la structure d'escalade
+! Wir springen auf dem Trampolin.
+> On saute sur le trampoline.
+> Wir springen = on saute
+> auf dem Trampolin = sur le trampoline
 
-! Ich springe gern auf dem Trampolin.
-> J'aime sauter sur le trampoline.
-> Ich springe gern auf dem Trampolin = j'aime sauter sur le trampoline
-
-! Nach dem Spielen bin ich müde.
-> Après avoir joué, je suis fatigué.
-> Nach dem Spielen bin ich müde = après avoir joué, je suis fatigué
+! Klettern, schaukeln, rutschen — super!
+> Grimper, se balancer, glisser — super !
+> Klettern = grimper
+> schaukeln = se balancer
+> rutschen = glisser

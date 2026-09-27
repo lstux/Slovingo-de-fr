@@ -88,12 +88,16 @@ Retour chez Lea ! Cette fois, on joue à cache-cache dans toute la maison. Aucun
 
 ! Das Spielzeug ist unter dem Bett.
 > Le jouet est sous le lit.
-> Das Spielzeug ist unter dem Bett = le jouet est sous le lit
+> Das Spielzeug = le jouet
+> unter dem Bett = sous le lit
 
 ! Mein Buch ist hinter dem Regal.
 > Mon livre est derrière l'étagère.
-> Mein Buch ist hinter dem Regal = mon livre est derrière l'étagère
+> Mein Buch = mon livre
+> hinter dem Regal = derrière l'étagère
 
 ! Wir spielen gern Verstecken zusammen.
 > On aime jouer à cache-cache ensemble.
-> Wir spielen gern Verstecken zusammen = on aime jouer à cache-cache ensemble
+> Wir spielen gern = on aime jouer
+> Verstecken = à cache-cache
+> zusammen = ensemble

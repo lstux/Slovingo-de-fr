@@ -1,111 +1,111 @@
-# Série Stadt (5/5) — Verloren in der Stadt
+# Série Stadt (5/5) — Verlaufen in der Stadt
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (enfant qui regarde une carte/panneau en ville...) sur Wikimedia Commons
+@ TODO_img/choisir-image.jpg | TODO : choisir une image (enfant qui cherche son chemin, glacier en ville...) sur Wikimedia Commons
 
-Perdu en ville ! Tu ne sais plus où tu es, et tu croises Tom par hasard. Tout le vocabulaire de la série y passe, avec quelques mots nouveaux signalés en chemin.
+Tu as rendez-vous avec Lea au glacier… mais tu ne sais plus où tu es ! Heureusement, tu croises Tom. Tu connais presque tous les mots ; les nouveaux sont signalés en chemin.
 
 ---
 
 ## Les personnages
 
-- 🦊 Toi, un peu perdu
-- 🐨 Tom, croisé par hasard
+- 🦊 Toi
+- 🐨 Tom
+- 🐰 Lea
 
 ---
 
 ## Le dialogue
 
-🦊 ! Tom! Ich habe mich verlaufen.
-> Tom ! Je me suis perdu.
+🦊 ! Tom! Hallo! Ich habe mich verlaufen.
+> Tom ! Salut ! Je me suis perdu.
 > Ich habe mich verlaufen = je me suis perdu
-+ Mot nouveau signalé : {{sich verlaufen}} = se perdre (à pied). Attention, ne dis pas « Ich bin verloren » : ça voudrait dire « je suis fichu » !
++ Mot nouveau signalé : {{sich verlaufen}} = se perdre (à pied). Ne dis pas « Ich bin verloren » : ça voudrait dire « je suis fichu » !
 
-🐨 ! Was suchst du?
-> Que cherches-tu ?
-> Was suchst du = que cherches-tu
+🐨 ! Oh! Was suchst du?
+> Oh ! Qu'est-ce que tu cherches ?
+> Was = quoi
+> suchst du = tu cherches
 
-🦊 ! Ich suche das Museum. Wo ist es?
-> Je cherche le musée. Où est-il ?
-> Ich suche das Museum = je cherche le musée
-> Wo ist es = où est-il
+🦊 ! Die Eisdiele. Ich treffe Lea dort.
+> Le glacier. Je retrouve Lea là-bas.
+> Die Eisdiele = le glacier
+> Ich treffe = je retrouve
+> dort = là-bas
 
-🐨 ! Ah! Geh geradeaus und dann links.
-> Ah ! Va tout droit puis à gauche.
-> Geh geradeaus und dann links = va tout droit puis à gauche
+🐨 ! Das ist einfach! Geh geradeaus.
+> C'est facile ! Va tout droit.
+> Das ist einfach = c'est facile
+> Geh geradeaus = va tout droit
++ Mot nouveau signalé : {{einfach}} = facile.
 
-🦊 ! Geradeaus und links. Und dann?
-> Tout droit et à gauche. Et ensuite ?
-> Geradeaus und links = tout droit et à gauche
+🦊 ! Geradeaus. Und dann?
+> Tout droit. Et ensuite ?
+> Geradeaus = tout droit
 > Und dann = et ensuite
 
-🐨 ! Du siehst eine Kirche. Das Museum ist um die Ecke, neben der Kirche.
-> Tu vois une église. Le musée est juste au coin, à côté de l'église.
-> Du siehst eine Kirche = tu vois une église
-> Das Museum ist um die Ecke = le musée est juste au coin
-> neben der Kirche = à côté de l'église
+🐨 ! Dann nach links. Die Eisdiele ist neben der Bäckerei.
+> Ensuite à gauche. Le glacier est à côté de la boulangerie.
+> Dann nach links = ensuite à gauche
+> neben der Bäckerei = à côté de la boulangerie
 
-🦊 ! Ist es weit zu Fuß?
-> C'est loin à pied ?
-> Ist es weit zu Fuß = c'est loin à pied
+🦊 ! Ist es weit?
+> C'est loin ?
+> Ist es = est-ce que c'est
+> weit = loin
++ Mot nouveau signalé : {{weit}} = loin.
 
-🐨 ! Nein, nur zehn Minuten zu Fuß. Oder fahr mit der Straßenbahn!
-> Non, seulement dix minutes à pied. Ou prends le tram !
-> Nein, nur zehn Minuten zu Fuß = non, seulement dix minutes à pied
-> Oder fahr mit der Straßenbahn = ou prends le tram
+🐨 ! Nein! Fünf Minuten zu Fuß. Ich komme mit!
+> Non ! Cinq minutes à pied. Je viens avec toi !
+> Fünf Minuten = cinq minutes
+> zu Fuß = à pied
+> Ich komme mit = je viens avec toi
 
-🦊 ! Ich gehe lieber zu Fuß. Ich möchte die Stadt sehen.
-> Je préfère y aller à pied. Je veux voir la ville.
-> Ich gehe lieber zu Fuß = je préfère y aller à pied
-> Ich möchte die Stadt sehen = je veux voir la ville
+🦊 ! Super! Danke, Tom!
+> Super ! Merci, Tom !
+> Danke = merci
 
-🐨 ! Auf dem Platz gibt es ein Café. Es ist schön!
-> Sur la place il y a un café. Il est beau !
-> Auf dem Platz gibt es ein Café = sur la place il y a un café
-> Es ist schön = il est beau
+🐰 ! Hallo, [USER_NAME]! Hallo, Tom! Ich kaufe ein Eis. Und ihr?
+> Salut, [USER_NAME] ! Salut, Tom ! J'achète une glace. Et vous ?
+> Ich kaufe ein Eis = j'achète une glace
+> Und ihr = et vous
++ {{ihr}} = vous (quand on parle à plusieurs copains).
 
-🦊 ! Treffen wir uns dort später?
-> On se retrouve là-bas plus tard ?
-> Treffen wir uns dort später = on se retrouve là-bas plus tard
+🦊 ! Was kostet ein Eis?
+> Combien coûte une glace ?
+> Was kostet = combien coûte
+> ein Eis = une glace
 
-🐨 ! Ja, vielleicht mit Lea auch!
-> Oui, peut-être avec Lea aussi !
-> Ja = oui
-> mit Lea auch = avec Lea aussi
-+ Mot nouveau signalé : {{vielleicht}} = peut-être.
+🐰 ! Zwei Euro.
+> Deux euros.
+> Zwei Euro = deux euros
 
-🦊 ! Gute Idee! Bis dann!
-> Bonne idée ! À plus !
-> Gute Idee = bonne idée
-> Bis dann = à plus
-
-🐨 ! Bis dann! Viel Spaß im Museum!
-> À plus ! Amuse-toi bien au musée !
-> Bis dann = à plus
-> Viel Spaß im Museum = amuse-toi bien au musée
-+ Mot nouveau signalé : {{Viel Spaß}} = amuse-toi bien.
+🦊 ! Ich nehme ein Eis, bitte! Lecker!
+> Je prends une glace, s'il vous plaît ! Trop bon !
+> Ich nehme = je prends
+> ein Eis = une glace
+> Lecker = trop bon
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Entschuldigung + un geste du bras.** Demander son chemin dans la rue reste très courant en Allemagne et en Autriche, et les gens répondent volontiers avec des explications orales et un geste de la main.
+**Perdu ? Demande à quelqu'un !** Si tu ne trouves plus ton chemin, demande à un commerçant ou à une famille avec des enfants : {{Entschuldigung, ich habe mich verlaufen.}} Les gens aident volontiers.
 
-**Viel Spaß, une formule qu'on entend tout le temps.** On la dit avant qu'un enfant parte jouer, aille à une fête ou visite un musée — un peu comme « amuse-toi bien » en français, mais encore plus utilisée au quotidien.
+**Le glacier italien.** Beaucoup de glaciers allemands ont été créés par des familles venues d'Italie. Le plus célèbre chez les enfants : le {{Spaghettieis}}, une glace à la vanille qui ressemble à des spaghettis à la sauce tomate… mais avec de la fraise !
 
 ---
 
 ## Encore quelques phrases
 
-! Geh geradeaus, dann rechts an der Kreuzung.
-> Va tout droit, puis à droite au carrefour.
-> Geh geradeaus = va tout droit
-> dann rechts an der Kreuzung = puis à droite au carrefour
+! Ich komme mit!
+> Je viens avec toi !
+> Ich komme mit = je viens avec toi
 
-! Ich gehe zu Fuß, aber heute fahre ich mit dem Bus.
-> Je vais à pied d'habitude, mais aujourd'hui j'y vais en bus.
-> Ich gehe zu Fuß = je vais à pied
-> aber heute fahre ich mit dem Bus = mais aujourd'hui j'y vais en bus
+! Die Bäckerei ist nicht weit.
+> La boulangerie n'est pas loin.
+> nicht weit = pas loin
 
-! Siehst du den Brunnen auf dem Platz?
-> Tu vois la fontaine sur la place ?
-> Siehst du den Brunnen auf dem Platz = tu vois la fontaine sur la place
+! Ich habe mich verlaufen. Wo ist die Schule?
+> Je me suis perdu. Où est l'école ?
+> Ich habe mich verlaufen = je me suis perdu
+> Wo ist = où est

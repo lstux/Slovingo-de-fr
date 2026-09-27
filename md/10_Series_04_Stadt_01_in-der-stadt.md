@@ -1,8 +1,8 @@
 # Série Stadt (1/5) — In der Stadt
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (place, rue avec église/théâtre...) sur Wikimedia Commons
+@ TODO_img/choisir-image.jpg | TODO : choisir une image (rue piétonne avec boulangerie, enfants, vélos...) sur Wikimedia Commons
 
-Les lieux qu'on croise en ville. Deux petits mots reviennent tout le temps : **auf** pour les endroits ouverts, **in** pour les lieux fermés.
+On part en ville ! Les endroits où tu vas vraiment : l'école, la boulangerie, la piscine, le parc… Et comment demander **Wo ist…?** (où est… ?).
 
 ---
 
@@ -11,90 +11,94 @@ Les lieux qu'on croise en ville. Deux petits mots reviennent tout le temps : **a
 | Deutsch | Français |
 |---------|----------|
 | die Stadt | la ville |
-| der Platz | la place |
 | die Straße | la rue |
-| die Brücke | le pont |
 | der Park | le parc |
-| die Kirche | l'église |
-| das Theater | le théâtre |
-| das Museum | le musée |
+| die Schule | l'école |
+| die Bäckerei | la boulangerie |
+| der Supermarkt | le supermarché |
+| das Schwimmbad | la piscine |
 
 ---
 
 ## Aujourd'hui on apprend...
 
-### Auf pour les endroits ouverts
+### Wo ist…? — Où est… ?
+
+Tu connais déjà {{Wo ist}} depuis la série Haus. Ça marche aussi en ville :
 
 | Deutsch | Français |
 |---------|----------|
-| auf dem Platz | sur la place |
-| auf der Straße | dans la rue |
-| auf der Brücke | sur le pont |
+| Wo ist die Schule? | Où est l'école ? |
+| Wo ist der Park? | Où est le parc ? |
 
-### In pour les lieux fermés
+### Im Park, in der Schule — dans le parc, à l'école
+
+Comme {{im Schlafzimmer}} et {{in der Küche}} dans la série Haus :
 
 | Deutsch | Français |
 |---------|----------|
 | im Park | dans le parc |
-| in der Kirche | dans l'église |
-| im Theater | au théâtre |
-| im Museum | au musée |
+| im Schwimmbad | à la piscine |
+| in der Schule | à l'école |
+| in der Bäckerei | à la boulangerie |
 
-Ce n'est pas toujours parfaitement logique — **der Park** prend « in » alors qu'il est en plein air ! — mais ça se retient vite avec l'usage, comme « im Schlafzimmer » que tu connais déjà.
+L'astuce : {{der}} et {{das}} → **{{im}}**, {{die}} → **{{in der}}**.
 
 ---
 
 ## Des phrases
 
-! Ich bin auf dem Platz.
-> Je suis sur la place.
-> Ich bin auf dem Platz = je suis sur la place
+! Wo ist die Schule?
+> Où est l'école ?
+> Wo ist = où est
+> die Schule = l'école
 
-! Die Straße ist lang.
-> La rue est longue.
-> Die Straße ist lang = la rue est longue
+! Die Bäckerei ist dort.
+> La boulangerie est là-bas.
+> Die Bäckerei = la boulangerie
+> ist dort = est là-bas
 
-! Die Brücke ist alt und schön.
-> Le pont est vieux et beau.
-> Die Brücke ist alt und schön = le pont est vieux et beau
+! Ich bin in der Schule.
+> Je suis à l'école.
+> Ich bin = je suis
+> in der Schule = à l'école
 
-! Die Kinder sind im Park.
-> Les enfants sont dans le parc.
-> Die Kinder sind im Park = les enfants sont dans le parc
+! Tom ist im Park.
+> Tom est au parc.
+> ist = est
+> im Park = au parc
 
-! Die Kirche ist auf dem Platz.
-> L'église est sur la place.
-> Die Kirche ist auf dem Platz = l'église est sur la place
+! Die Stadt ist groß.
+> La ville est grande.
+> Die Stadt = la ville
+> ist groß = est grande
 
-! Das Museum ist geschlossen.
-> Le musée est fermé.
-> Das Museum ist geschlossen = le musée est fermé
-
-! Wo ist das Theater?
-> Où est le théâtre ?
-> Wo ist das Theater = où est le théâtre
+! Das Schwimmbad ist toll!
+> La piscine est géniale !
+> Das Schwimmbad = la piscine
+> ist toll = est géniale
 
 ---
 
 ## On révise
 
-! Die Stadt ist groß, aber der Platz ist klein.
-> La ville est grande, mais la place est petite.
-> Die Stadt ist groß = la ville est grande
-> aber der Platz ist klein = mais la place est petite
+! Wo ist der Supermarkt?
+> Où est le supermarché ?
+> Wo ist = où est
+> der Supermarkt = le supermarché
 
-! Wir sind im Museum, dann gehen wir in die Kirche.
-> Nous sommes au musée, ensuite nous allons à l'église.
-> Wir sind im Museum = nous sommes au musée
-> dann gehen wir in die Kirche = ensuite nous allons à l'église
+! Mama ist in der Bäckerei.
+> Maman est à la boulangerie.
+> Mama = maman
+> in der Bäckerei = à la boulangerie
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Une fontaine qui chante.** Beaucoup de villes allemandes ont, sur leur place principale, une fontaine ({{der Brunnen}}) qui s'illumine le soir — un rendez-vous classique après une sortie au théâtre ou au musée.
+**La Schultüte, le cornet magique.** En Allemagne, le premier jour d'école, chaque enfant reçoit une {{Schultüte}} : un immense cornet en carton rempli de bonbons, de crayons et de petits cadeaux. Presque aussi grand que lui !
 
-**Marché de Noël sur la place.** À partir de fin novembre, la place principale ({{der Marktplatz}}) de nombreuses villes allemandes se transforme en marché de Noël, avec des chalets en bois et du vin chaud pour les grands.
+**La boulangerie, avant tout.** En allemand, la boulangerie ({{Bäckerei}}) vend surtout du pain et des {{Brötchen}}. Pour les gâteaux, on va souvent à la {{Konditorei}}, la pâtisserie.
 
 ---
 
@@ -102,34 +106,26 @@ Ce n'est pas toujours parfaitement logique — **der Park** prend « in » alors
 
 | Deutsch | Français |
 |---------|----------|
-| die Post | la poste |
-| die Bank | la banque |
-| die Bibliothek | la bibliothèque |
-| das Krankenhaus | l'hôpital |
-| das Rathaus | la mairie |
-| der Brunnen | la fontaine |
-| die Statue | la statue |
+| das Kino | le cinéma |
+| die Eisdiele | le glacier |
+| der Spielplatz | l'aire de jeux |
 
 ---
 
 ## Encore quelques phrases
 
-! Die Bank ist neben der Post.
-> La banque est à côté de la poste.
-> Die Bank ist neben der Post = la banque est à côté de la poste
+! Wo ist die Eisdiele?
+> Où est le glacier ?
+> Wo ist = où est
+> die Eisdiele = le glacier
++ {{Eis}} (la glace) + {{Diele}} : le magasin de glaces. En été, il y en a dans chaque rue !
 
-! Die Bibliothek ist im Zentrum.
-> La bibliothèque est dans le centre-ville.
-> Die Bibliothek ist im Zentrum = la bibliothèque est dans le centre-ville
+! Das Kino ist groß.
+> Le cinéma est grand.
+> Das Kino = le cinéma
+> ist groß = est grand
 
-! Das Rathaus ist alt.
-> La mairie est ancienne.
-> Das Rathaus ist alt = la mairie est ancienne
-
-! Der Brunnen ist auf dem Platz.
-> La fontaine est sur la place.
-> Der Brunnen ist auf dem Platz = la fontaine est sur la place
-
-! Die Statue ist neben der Kirche.
-> La statue est à côté de l'église.
-> Die Statue ist neben der Kirche = la statue est à côté de l'église
+! Der Spielplatz ist im Park.
+> L'aire de jeux est dans le parc.
+> Der Spielplatz = l'aire de jeux
+> im Park = dans le parc

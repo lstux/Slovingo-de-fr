@@ -16,7 +16,6 @@ Ce que font les animaux : manger, courir, voler, nager, sauter. Et une distincti
 | schwimmen | nager |
 | springen | sauter |
 | der Flügel | l'aile |
-| die Flosse | la nageoire |
 
 ---
 
@@ -47,11 +46,13 @@ Toujours la même famille de verbes que schlafen, fahren, sehen et treffen !
 
 ! Der Hund frisst schnell.
 > Le chien mange vite.
-> Der Hund frisst schnell = le chien mange vite
+> Der Hund frisst = le chien mange
+> schnell = vite
 
 ! Die Katze läuft schnell.
 > Le chat court vite.
-> Die Katze läuft schnell = le chat court vite
+> Die Katze läuft = le chat court
+> schnell = vite
 
 ! Der Vogel fliegt.
 > L'oiseau vole.
@@ -59,7 +60,8 @@ Toujours la même famille de verbes que schlafen, fahren, sehen et treffen !
 
 ! Der Fisch schwimmt im Aquarium.
 > Le poisson nage dans l'aquarium.
-> Der Fisch schwimmt im Aquarium = le poisson nage dans l'aquarium
+> Der Fisch schwimmt = le poisson nage
+> im Aquarium = dans l'aquarium
 
 ! Das Kaninchen springt.
 > Le lapin saute.
@@ -67,11 +69,9 @@ Toujours la même famille de verbes que schlafen, fahren, sehen et treffen !
 
 ! Der Vogel hat Flügel.
 > L'oiseau a des ailes.
-> Der Vogel hat Flügel = l'oiseau a des ailes
+> Der Vogel hat = l'oiseau a
+> Flügel = des ailes
 
-! Fische haben Flossen.
-> Les poissons ont des nageoires.
-> Fische haben Flossen = les poissons ont des nageoires
 
 ---
 
@@ -103,7 +103,6 @@ Toujours la même famille de verbes que schlafen, fahren, sehen et treffen !
 | Deutsch | Français |
 |---------|----------|
 | die Ente | le canard |
-| das Nest | le nid |
 | der Schnabel | le bec |
 
 ---
@@ -112,17 +111,13 @@ Toujours la même famille de verbes que schlafen, fahren, sehen et treffen !
 
 ! Die Ente hat einen Schnabel.
 > Le canard a un bec.
-> Die Ente hat einen Schnabel = le canard a un bec
+> Die Ente hat = le canard a
+> einen Schnabel = un bec
 
-! Der Vogel baut ein Nest.
-> L'oiseau construit un nid.
-> Der Vogel baut ein Nest = l'oiseau construit un nid
 
-! Fische haben Flossen, Vögel haben Flügel.
-> Les poissons ont des nageoires, les oiseaux ont des ailes.
-> Fische haben Flossen = les poissons ont des nageoires
-> Vögel haben Flügel = les oiseaux ont des ailes
 
 ! Das Kaninchen springt gern im Garten.
 > Le lapin aime sauter dans le jardin.
-> Das Kaninchen springt gern im Garten = le lapin aime sauter dans le jardin
+> Das Kaninchen = le lapin
+> springt gern = aime sauter
+> im Garten = dans le jardin

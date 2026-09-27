@@ -1,8 +1,8 @@
 # Série Spiele (4/5) — Wollen wir spielen?
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (enfants qui forment une équipe, course...) sur Wikimedia Commons
+@ TODO_img/choisir-image.jpg | TODO : choisir une image (enfants qui forment une équipe, match de foot...) sur Wikimedia Commons
 
-Proposer de jouer ensemble, former une équipe, respecter les règles — et jouer fair-play !
+Proposer de jouer, inviter des copains, faire une équipe… et marquer un but !
 
 ---
 
@@ -10,85 +10,90 @@ Proposer de jouer ensemble, former une équipe, respecter les règles — et jou
 
 | Deutsch | Français |
 |---------|----------|
-| mitmachen | participer |
+| Wollen wir…? | On… ? (pour proposer) |
+| mitmachen | jouer aussi, participer |
 | einladen | inviter |
 | die Mannschaft | l'équipe |
-| die Regel | la règle (rappel) |
-| fair | fair-play, juste |
-| das Rennen | la course |
+| das Tor | le but |
+| fair | fair-play |
 
 ---
 
 ## Aujourd'hui on apprend...
 
-### Mitmachen — encore un verbe à particule séparable
-
-Comme **aufräumen** et **aufwachen** (série Haus), **mitmachen** se sépare dans la phrase : le petit mot « mit » part à la fin.
+### Wollen wir…? — pour proposer
 
 | Deutsch | Français |
 |---------|----------|
-| Machst du mit? | Tu participes ? |
-| Ich mache mit! | Je participe ! |
+| Wollen wir spielen? | On joue ? |
+| Wollen wir Fußball spielen? | On joue au foot ? |
 
-### Einladen — inviter (aussi séparable)
+Comme avec {{können}}, le deuxième verbe va à la fin.
 
-! Ich lade dich zum Spielen ein.
-> Je t'invite à jouer.
-> Ich lade dich zum Spielen ein = je t'invite à jouer
+### Encore des verbes à ressort !
+
+Comme {{aufräumen}} dans la série Haus, le petit morceau du début saute à la fin :
+
+| Deutsch | Français |
+|---------|----------|
+| mitmachen → Machst du **mit**? | Tu joues avec nous ? |
+| mitmachen → Ich mache **mit**! | Je joue aussi ! |
+| einladen → Ich lade dich **ein**. | Je t'invite. |
 
 ---
 
 ## Des phrases
 
+! Wollen wir spielen?
+> On joue ?
+> Wollen wir = on… ?
+> spielen = jouer
+
 ! Machst du mit?
-> Tu participes ?
-> Machst du mit = tu participes
+> Tu joues avec nous ?
+> Machst du mit = tu joues avec nous
 
-! Ich mache mit!
-> Je participe !
-> Ich mache mit = je participe
+! Ja, ich mache mit!
+> Oui, je joue aussi !
+> Ja = oui
+> ich mache mit = je joue aussi
 
-! Wir bilden eine Mannschaft.
-> Nous formons une équipe.
-> Wir bilden eine Mannschaft = nous formons une équipe
+! Ich lade dich ein.
+> Je t'invite.
+> Ich lade dich ein = je t'invite
+> dich = toi
 
-! Ich lade meine Freunde zum Spielen ein.
-> J'invite mes amis à jouer.
-> Ich lade meine Freunde zum Spielen ein = j'invite mes amis à jouer
+! Wir sind eine Mannschaft!
+> On est une équipe !
+> Wir sind = on est
+> eine Mannschaft = une équipe
 
-! Die Regeln sind wichtig.
-> Les règles sont importantes.
-> Die Regeln sind wichtig = les règles sont importantes
-
-! Ich spiele gern fair.
-> J'aime jouer fair-play.
-> Ich spiele gern fair = j'aime jouer fair-play
-
-! Wer gewinnt das Rennen?
-> Qui gagne la course ?
-> Wer gewinnt das Rennen = qui gagne la course
+! Tor!
+> But !
+> Tor = but
 
 ---
 
 ## On révise
 
-! Machst du mit? Wir bilden eine Mannschaft für das Rennen.
-> Tu participes ? Nous formons une équipe pour la course.
-> Machst du mit = tu participes
-> Wir bilden eine Mannschaft für das Rennen = nous formons une équipe pour la course
+! Wollen wir Fußball spielen?
+> On joue au foot ?
+> Wollen wir = on… ?
+> Fußball spielen = jouer au foot
 
-! Ich lade dich ein! Spiel bitte fair.
-> Je t'invite ! Joue fair-play, s'il te plaît.
-> Ich lade dich ein = je t'invite
-> Spiel bitte fair = joue fair-play, s'il te plaît
+! Spiel bitte fair!
+> Joue fair-play, s'il te plaît !
+> Spiel = joue
+> bitte = s'il te plaît
+> fair = fair-play
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Le fair-play, une valeur importante dans le sport allemand.** Le mot {{fair}} (venu de l'anglais) est très utilisé en allemand, à l'école comme dans le sport — on y insiste beaucoup dès le plus jeune âge.
+**Tor! Tor! Tor!** Quand l'équipe d'Allemagne marque, les commentateurs crient {{Tor!}} de toutes leurs forces. En allemand, le même mot veut dire « le but » et « la grande porte » (d'une ville, d'un château) !
 
-**Le Sportfest, la fête du sport à l'école.** Beaucoup d'écoles allemandes organisent chaque année un {{Sportfest}}, une journée de courses et de jeux d'équipe entre élèves — un peu comme une kermesse sportive.
+**Le Sportfest.** Beaucoup d'écoles allemandes organisent chaque année un {{Sportfest}} : une journée de courses et de jeux d'équipe, où chaque enfant reçoit un diplôme.
 
 ---
 
@@ -96,29 +101,23 @@ Comme **aufräumen** et **aufwachen** (série Haus), **mitmachen** se sépare da
 
 | Deutsch | Français |
 |---------|----------|
-| das Tor | le but (au football) |
-| die Medaille | la médaille |
-| zusammen | ensemble (rappel) |
-| Glückwunsch | félicitations |
+| Glückwunsch! | Bravo ! Félicitations ! |
+| das Rennen | la course |
 
 ---
 
 ## Encore quelques phrases
 
-! Tor! Wir gewinnen!
-> But ! On gagne !
-> Tor = but
-> Wir gewinnen = on gagne
+! Glückwunsch!
+> Bravo !
+> Glückwunsch = bravo, félicitations
 
-! Glückwunsch! Du bist der Gewinner!
-> Félicitations ! Tu es le gagnant !
-> Glückwunsch = félicitations
-> Du bist der Gewinner = tu es le gagnant
+! Wer gewinnt das Rennen?
+> Qui gagne la course ?
+> Wer gewinnt = qui gagne
+> das Rennen = la course
 
-! Wir spielen zusammen im Team.
-> Nous jouons ensemble en équipe.
-> Wir spielen zusammen im Team = nous jouons ensemble en équipe
-
-! Die Medaille ist für dich!
-> La médaille est pour toi !
-> Die Medaille ist für dich = la médaille est pour toi
+! Wollen wir ein Rennen machen?
+> On fait la course ?
+> Wollen wir = on… ?
+> ein Rennen machen = faire une course

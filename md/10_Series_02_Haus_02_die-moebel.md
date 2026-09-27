@@ -61,11 +61,13 @@ Comme vu dans la série Familie, un adjectif après **sein** ne change jamais : 
 
 ! Der Schrank ist groß.
 > L'armoire est grande.
-> Der Schrank ist groß = l'armoire est grande
+> Der Schrank = l'armoire
+> ist groß = est grande
 
 ! Wo ist mein Stuhl?
 > Où est ma chaise ?
-> Wo ist mein Stuhl = où est ma chaise
+> Wo ist = où est
+> mein Stuhl = ma chaise
 
 ---
 
@@ -107,12 +109,15 @@ Comme vu dans la série Familie, un adjectif après **sein** ne change jamais : 
 
 ! Das Regal ist neben dem Sofa.
 > L'étagère est à côté du canapé.
-> Das Regal ist neben dem Sofa = l'étagère est à côté du canapé
+> Das Regal = l'étagère
+> neben dem Sofa = à côté du canapé
 
 ! Der Teppich ist im Wohnzimmer.
 > Le tapis est dans le salon.
-> Der Teppich ist im Wohnzimmer = le tapis est dans le salon
+> Der Teppich = le tapis
+> im Wohnzimmer = dans le salon
 
 ! Unser Sofa ist sehr gemütlich!
 > Notre canapé est très confortable !
-> Unser Sofa ist sehr gemütlich = notre canapé est très confortable
+> Unser Sofa = notre canapé
+> sehr gemütlich = très confortable

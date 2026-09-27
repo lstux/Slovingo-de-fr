@@ -42,31 +42,41 @@ Amusant, non ? Presque aucun bruit d'animal ne s'écrit pareil dans les deux lan
 
 ! Die Kuh macht Muh.
 > La vache fait Meuh.
-> Die Kuh macht Muh = la vache fait Meuh
+> Die Kuh = la vache
+> macht Muh = fait meuh
 
 ! Das Pferd ist auf dem Bauernhof.
 > Le cheval est à la ferme.
-> Das Pferd ist auf dem Bauernhof = le cheval est à la ferme
+> Das Pferd = le cheval
+> auf dem Bauernhof = à la ferme
 
 ! Das Schaf ist auf der Wiese.
 > Le mouton est dans le pré.
-> Das Schaf ist auf der Wiese = le mouton est dans le pré
+> Das Schaf = le mouton
+> auf der Wiese = dans le pré
++ {{die Wiese}} = le pré, l'herbe où broutent les animaux.
 
 ! Ich mag Pferde sehr gern.
 > J'aime beaucoup les chevaux.
-> Ich mag Pferde sehr gern = j'aime beaucoup les chevaux
+> Ich mag = j'aime bien
+> Pferde = les chevaux
+> sehr gern = beaucoup
 
 ! Das Schwein ist rosa.
 > Le cochon est rose.
-> Das Schwein ist rosa = le cochon est rose
+> Das Schwein = le cochon
+> ist rosa = est rose
 
 ! Die Hühner sind klein.
 > Les poules sont petites.
-> Die Hühner sind klein = les poules sont petites
+> Die Hühner = les poules
+> sind klein = sont petites
 
 ! Die Ziege frisst gern Gras.
 > La chèvre aime manger de l'herbe.
-> Die Ziege frisst gern Gras = la chèvre aime manger de l'herbe
+> Die Ziege = la chèvre
+> frisst gern = aime manger
+> Gras = de l'herbe
 
 ---
 
@@ -74,7 +84,9 @@ Amusant, non ? Presque aucun bruit d'animal ne s'écrit pareil dans les deux lan
 
 ! Auf dem Bauernhof gibt es Kühe, Schafe und Schweine.
 > À la ferme, il y a des vaches, des moutons et des cochons.
-> Auf dem Bauernhof gibt es Kühe, Schafe und Schweine = à la ferme, il y a des vaches, des moutons et des cochons
+> Auf dem Bauernhof = à la ferme
+> gibt es = il y a
+> Kühe, Schafe und Schweine = des vaches, des moutons et des cochons
 
 ! Das Pferd ist groß, aber das Schaf ist klein.
 > Le cheval est grand, mais le mouton est petit.
@@ -100,7 +112,6 @@ Amusant, non ? Presque aucun bruit d'animal ne s'écrit pareil dans les deux lan
 | stark | fort |
 | schnell | rapide |
 | rosa | rose |
-| laut | bruyant |
 
 ---
 
@@ -108,17 +119,16 @@ Amusant, non ? Presque aucun bruit d'animal ne s'écrit pareil dans les deux lan
 
 ! Der Hahn macht Kikeriki am Morgen.
 > Le coq fait Cocorico le matin.
-> Der Hahn macht Kikeriki am Morgen = le coq fait cocorico le matin
+> Der Hahn = le coq
+> macht Kikeriki = fait cocorico
+> am Morgen = le matin
 
 ! Die Ziege frisst viel Gras.
 > La chèvre mange beaucoup d'herbe.
-> Die Ziege frisst viel Gras = la chèvre mange beaucoup d'herbe
+> Die Ziege frisst = la chèvre mange
+> viel Gras = beaucoup d'herbe
 
 ! Das Pferd ist schnell, aber die Kuh ist langsam.
 > Le cheval est rapide, mais la vache est lente.
 > Das Pferd ist schnell = le cheval est rapide
 > aber die Kuh ist langsam = mais la vache est lente
-
-! Der Bauernhof ist laut am Morgen.
-> La ferme est bruyante le matin.
-> Der Bauernhof ist laut am Morgen = la ferme est bruyante le matin

@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (jouets variés, ballon, poupée, puzzle...) sur Wikimedia Commons
 
-Les jouets. Et une formule simple pour dire avec quoi on joue : **spielen mit**.
+Les jouets ! Et une formule simple pour dire avec quoi on joue : **spielen mit** (jouer avec).
 
 ---
 
@@ -10,13 +10,13 @@ Les jouets. Et une formule simple pour dire avec quoi on joue : **spielen mit**.
 
 | Deutsch | Français |
 |---------|----------|
-| das Spielzeug | le jouet |
 | der Ball | le ballon |
 | die Puppe | la poupée |
 | der Drachen | le cerf-volant |
 | das Puzzle | le puzzle |
 | die Bauklötze | les blocs de construction |
 | das Brettspiel | le jeu de société |
+| das Spielzeug | le jouet (rappel) |
 
 ---
 
@@ -24,21 +24,15 @@ Les jouets. Et une formule simple pour dire avec quoi on joue : **spielen mit**.
 
 ### Spielen mit — jouer avec
 
-! Ich spiele mit dem Ball.
-> Je joue avec le ballon.
-> Ich spiele mit dem Ball = je joue avec le ballon
-
-! Spielst du mit der Puppe?
-> Tu joues avec la poupée ?
-> Spielst du mit der Puppe = tu joues avec la poupée
-
-**Spielen** se conjugue tout simplement, sans aucun changement de voyelle — un peu de repos après tous les verbes vus dans les séries précédentes !
-
 | Deutsch | Français |
 |---------|----------|
-| ich spiele | je joue |
-| du spielst | tu joues |
-| er/sie spielt | il/elle joue |
+| Ich spiele mit dem Ball. | Je joue avec le ballon. |
+| Ich spiele mit der Puppe. | Je joue avec la poupée. |
+| Ich spiele mit den Bauklötzen. | Je joue avec les blocs. |
+
+Après {{mit}}, {{der}} et {{das}} deviennent **{{dem}}**, {{die}} devient **{{der}}**. Retiens les phrases telles quelles, ça viendra tout seul !
+
+Et {{spielen}}, tu le connais depuis la série Familie : ich spiele, du spielst, er spielt. Aucune surprise !
 
 ---
 
@@ -46,53 +40,56 @@ Les jouets. Et une formule simple pour dire avec quoi on joue : **spielen mit**.
 
 ! Ich spiele mit dem Ball.
 > Je joue avec le ballon.
-> Ich spiele mit dem Ball = je joue avec le ballon
+> Ich spiele = je joue
+> mit dem Ball = avec le ballon
 
-! Meine Schwester spielt mit der Puppe.
-> Ma sœur joue avec la poupée.
-> Meine Schwester spielt mit der Puppe = ma sœur joue avec la poupée
+! Spielst du mit der Puppe?
+> Tu joues avec la poupée ?
+> Spielst du = tu joues
+> mit der Puppe = avec la poupée
 
-! Ich spiele gern mit dem Drachen.
-> J'aime jouer avec le cerf-volant.
-> Ich spiele gern mit dem Drachen = j'aime jouer avec le cerf-volant
-
-! Möchtest du ein Puzzle machen?
-> Tu veux faire un puzzle ?
-> Möchtest du ein Puzzle machen = tu veux faire un puzzle
-
-! Die Bauklötze sind bunt.
-> Les blocs de construction sont colorés.
-> Die Bauklötze sind bunt = les blocs de construction sont colorés
+! Wir machen ein Puzzle.
+> On fait un puzzle.
+> Wir machen = on fait
+> ein Puzzle = un puzzle
 
 ! Ich mag Brettspiele sehr gern.
 > J'aime beaucoup les jeux de société.
-> Ich mag Brettspiele sehr gern = j'aime beaucoup les jeux de société
+> Ich mag = j'aime bien
+> Brettspiele = les jeux de société
+> sehr gern = beaucoup
 
-! Mein Spielzeug ist im Zimmer.
-> Mon jouet est dans la chambre.
-> Mein Spielzeug ist im Zimmer = mon jouet est dans la chambre
+! Der Drachen fliegt!
+> Le cerf-volant vole !
+> Der Drachen = le cerf-volant
+> fliegt = vole
+
+! Wo ist mein Spielzeug?
+> Où est mon jouet ?
+> Wo ist = où est
+> mein Spielzeug = mon jouet
 
 ---
 
 ## On révise
 
-! Ich spiele gern mit Bauklötzen, aber meine Schwester spielt lieber mit Puppen.
-> J'aime jouer avec des blocs de construction, mais ma sœur préfère jouer avec des poupées.
-> Ich spiele gern mit Bauklötzen = j'aime jouer avec des blocs de construction
-> aber meine Schwester spielt lieber mit Puppen = mais ma sœur préfère jouer avec des poupées
+! Ich spiele gern mit Bauklötzen.
+> J'aime jouer avec des blocs de construction.
+> Ich spiele gern = j'aime jouer
+> mit Bauklötzen = avec des blocs de construction
 
-! Mein Spielzeug ist im Wohnzimmer, auf dem Teppich.
-> Mon jouet est dans le salon, sur le tapis.
-> Mein Spielzeug ist im Wohnzimmer = mon jouet est dans le salon
-> auf dem Teppich = sur le tapis
+! Der Ball ist unter dem Bett.
+> Le ballon est sous le lit.
+> Der Ball = le ballon
+> unter dem Bett = sous le lit
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Playmobil et les jeux de construction, une passion allemande.** Beaucoup de jouets de construction et de figurines très connus dans le monde entier ({{Playmobil}}, entre autres) viennent d'Allemagne.
+**Playmobil, c'est allemand !** Les célèbres petits personnages {{Playmobil}} sont fabriqués en Allemagne, près de Nuremberg, depuis 1974. Il y a même un grand parc Playmobil là-bas !
 
-**Le cerf-volant, un classique de l'automne.** En Allemagne, faire voler un cerf-volant ({{Drachen}}) est une activité très populaire en automne, quand le vent se lève — souvent lors de festivals dédiés, les Drachenfeste.
+**Der Drachen, un dragon dans le ciel.** En allemand, le cerf-volant s'appelle {{der Drachen}} — comme le dragon ({{der Drache}}) ! En automne, quand le vent souffle, les enfants allemands vont les faire voler dans les champs.
 
 ---
 
@@ -100,29 +97,26 @@ Les jouets. Et une formule simple pour dire avec quoi on joue : **spielen mit**.
 
 | Deutsch | Français |
 |---------|----------|
-| die Puppenstube | la maison de poupée |
-| das Buch | le livre |
 | der Roboter | le robot |
-| bunt | coloré |
-| neu | neuf |
+| neu | neuf, nouveau |
 | kaputt | cassé |
 
 ---
 
 ## Encore quelques phrases
 
-! Die Puppenstube ist sehr schön.
-> La maison de poupée est très belle.
-> Die Puppenstube ist sehr schön = la maison de poupée est très belle
-
 ! Mein Roboter ist kaputt.
 > Mon robot est cassé.
-> Mein Roboter ist kaputt = mon robot est cassé
+> Mein Roboter = mon robot
+> ist kaputt = est cassé
 
-! Mein Spielzeug ist neu.
-> Mon jouet est neuf.
-> Mein Spielzeug ist neu = mon jouet est neuf
+! Die Puppe ist neu.
+> La poupée est neuve.
+> Die Puppe = la poupée
+> ist neu = est neuve
 
-! Das Puzzle ist bunt und lustig.
-> Le puzzle est coloré et amusant.
-> Das Puzzle ist bunt und lustig = le puzzle est coloré et amusant
+! Oh nein, der Drachen ist kaputt!
+> Oh non, le cerf-volant est cassé !
+> Oh nein = oh non
+> der Drachen = le cerf-volant
+> ist kaputt = est cassé
