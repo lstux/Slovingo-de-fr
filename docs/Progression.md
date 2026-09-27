@@ -166,12 +166,13 @@ Chaque série doit :
 
 Pour rendre le cours moins scolaire, on introduit des personnages récurrents dès la série 00 :
 
-- **Lea** (8 ans, allemande) — protagoniste
-- **Tom** (9 ans, allemand) — ami
+- **Max** (français) — l'apprenant, celui qui pose les questions et se trompe parfois : c'est l'avatar de l'enfant qui utilise le cours
+- **Lea** (8 ans, allemande) — copine de Max, protagoniste côté allemand
+- **Tom** (9 ans, allemand) — ami de Lea
 - **Oma Hilde** — grand-mère de Lea
 - **Peut-être un animal** 🐶
 
-Ils apparaissent dans la fiche 05 (dialogue) à partir de la série 01, et plus tard dans les sections culturelles (« Oma Hilde t'explique... »).
+Max et Lea se rencontrent dès la fiche 03 du Kit de Survie (Série 00) : c'est ce dialogue qui justifie les phrases « je ne comprends pas » et « tu parles français ? ». Les personnages reviennent dans la fiche 05 (dialogue) à partir de la série 01, et plus tard dans les sections culturelles (« Oma Hilde t'explique... »).
 
 ---
 
