@@ -164,15 +164,16 @@ Chaque série doit :
 
 ## Personnages récurrents
 
-Pour rendre le cours moins scolaire, on introduit des personnages récurrents dès la série 00 :
+Pour rendre le cours moins scolaire, on introduit des personnages récurrents dès la série 00. Tous portent une tête d'animal en emoji (marqueur de locuteur dans les dialogues) plutôt qu'une silhouette humaine — plus ludique, et ça évite de devoir choisir un genre pour l'avatar de l'enfant :
 
-- **L'enfant lui-même** — pas un personnage nommé à l'avance : on utilise le mécanisme intégré de Slovingo (`[ASK_USER_NAME]` / `[USER_NAME]`, emoji 👤) pour que l'enfant soit littéralement le protagoniste des dialogues, sous son propre prénom. Voir [Format-de-fr.md](./Format-de-fr.md) pour le détail technique. Ça évite aussi d'avoir à choisir un genre pour ce personnage.
-- **Lea** (8 ans, allemande) — copine récurrente, celle qui parle allemand et fait découvrir le vocabulaire
-- **Tom** (9 ans, allemand) — ami de Lea
-- **Oma Hilde** — grand-mère de Lea
-- **Peut-être un animal** 🐶
+- **🦊 L'enfant lui-même** — pas un personnage nommé à l'avance : on utilise le mécanisme intégré de Slovingo (`[ASK_USER_NAME]` / `[USER_NAME]`) pour que l'enfant soit littéralement le protagoniste des dialogues, sous son propre prénom. Voir [Format-de-fr.md](./Format-de-fr.md) pour le détail technique.
+- **🐰 Lea** (8 ans, allemande) — copine récurrente, celle qui parle allemand et fait découvrir le vocabulaire
+- **🐨 Tom** (9 ans, allemand) — ami de Lea
+- **🦉 Oma Hilde** — grand-mère de Lea
 
 L'enfant rencontre Lea dès la fiche 03 du Kit de Survie (Série 00) : c'est ce dialogue qui justifie les phrases « je ne comprends pas » et « tu parles français ? », et qui introduit aussi « comment tu t'appelles / je m'appelle » via le mécanisme USER_NAME. Les personnages reviennent dans la fiche 05 (dialogue) à partir de la série 01, et plus tard dans les sections culturelles (« Oma Hilde t'explique... »).
+
+Le texte narratif continue de les décrire comme des enfants et une grand-mère (Lea reste « une copine allemande », pas une lapine à proprement parler) : seul l'avatar visuel dans les dialogues est un animal, pas l'univers de l'histoire.
 
 ---
 

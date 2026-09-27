@@ -49,7 +49,7 @@ Les dialogues remobilisent le vocabulaire de la série dans des contextes amusan
 
 - **`[ASK_USER_NAME]`** : insère un champ de saisie directement dans le texte, la première fois qu'on demande le prénom (ex. `Ich heiße [ASK_USER_NAME].`)
 - **`[USER_NAME]`** : réutilise ensuite ce prénom partout où on veut personnaliser (ex. `Schön, dich zu kennen, [USER_NAME]!`)
-- **Emoji du locuteur : `👤`** — un pictogramme neutre pour le personnage-utilisateur, qui évite d'avoir à choisir un genre (contrairement à 👦/👧). C'est le marqueur à utiliser systématiquement pour les répliques de l'enfant dans un dialogue.
+- **Emoji du locuteur : `🦊`** — une tête d'animal pour le personnage-utilisateur plutôt qu'une silhouette humaine, plus ludique et qui évite d'avoir à choisir un genre. Tous les personnages récurrents suivent ce principe (têtes d'animaux) : voir la liste des personnages dans [Progression.md](./Progression.md).
 
 Le nom de secours (si l'enfant n'a rien saisi) vient de `lang.json` → `site.user_name_default`, et le texte du champ de `site.user_name_placeholder`.
 
