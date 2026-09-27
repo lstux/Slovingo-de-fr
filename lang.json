@@ -37,7 +37,8 @@
   "subgroups": {
     "kitsurvie": "Kit de Survie",
     "familie": "Familie",
-    "haus": "Haus"
+    "haus": "Haus",
+    "essen": "Essen"
   },
   "ui": {
     "home": "Accueil",
