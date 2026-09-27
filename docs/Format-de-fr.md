@@ -1,110 +1,110 @@
 # Format Slovingo-de-fr
 
-## Overview
+## Vue d'ensemble
 
-This document describes how content is structured in Slovingo-de-fr, specifically its adaptations for children compared to the adult-focused format used in other Slovingo courses.
+Ce document décrit comment le contenu est structuré dans Slovingo-de-fr, en particulier les adaptations faites pour des enfants par rapport au format destiné aux adultes utilisé dans les autres cours Slovingo.
 
-The foundation is **SMD (Slovingo Markdown)** — see the [main Slovingo docs](https://github.com/lstux/Slovingo/tree/main/docs) for the complete technical reference.
+La base reste le **SMD (Slovingo Markdown)** — voir la [documentation Slovingo](https://github.com/lstux/Slovingo/tree/main/docs) (`Format-SMD.txt`) pour la référence technique complète.
 
-## Adaptations for Kids
+## Adaptations pour les enfants
 
-### 1. Lighter, more playful tone
+### 1. Un ton plus léger, plus ludique
 
-**Adult (sk-fr, fr-sk):**
+**Cours adulte (sk-fr, fr-sk) :**
 > Doslova „dobrý deň". Môžeš ho použiť v každej situácii, kde nepoznáš osobu.
-> (Literally "good day". You can use it in any situation where you don't know the person.)
+> (Littéralement « bonne journée ». Tu peux l'utiliser dans toute situation où tu ne connais pas la personne.)
 
-**Kids (de-fr):**
-- Shorter sentences
-- More exclamation marks and emojis
-- Explanations tied to everyday scenarios kids experience
-- Sometimes informal, like talking to a friend
+**Cours enfant (de-fr) :**
+- Phrases plus courtes
+- Plus de points d'exclamation et d'emojis
+- Explications rattachées à des situations concrètes du quotidien d'un enfant
+- Ton parfois familier, comme si on parlait à un copain
 
-### 2. Visual & interactive elements
+### 2. Des éléments visuels et interactifs
 
-- **More illustrations**: Every fiche gets a vivid, engaging image (kids, animals, activities)
-- **Emoji markers**: More liberal use of emojis for characters, emotions, and themes
-- **Varied exercises**: Not just "hear and translate" — matching, true/false, role-play prompts
-- **Gamification ready**: Structure supports stars, badges, streak tracking
+- **Plus d'illustrations** : chaque fiche a une image vivante et engageante (enfants, animaux, activités)
+- **Marqueurs emoji** : usage plus généreux pour les personnages, les émotions, les thèmes
+- **Exercices variés** : pas seulement « écoute et traduis » — appariement, vrai/faux, mise en situation
+- **Prêt pour la gamification** : la structure permet d'ajouter étoiles, badges, séries de jours consécutifs
 
-### 3. Series progression
+### 3. Une progression de série adaptée
 
-While we keep the **intro/series/vocabulary/annex** structure from adult courses, each series targets:
+On garde la structure **intro/séries/vocabulaire/annexes** des cours adultes, mais chaque série vise :
 
-- **4 fiches** (not 5): Core vocabulary only, shorter lessons
-- **1 dialogue fiche**: Playful conversation (not a full mini-story)
-- **1 extra fiche**: Vocabulary recap + exercise foundation
+- **4 fiches** (au lieu de 5) : vocabulaire essentiel uniquement, leçons plus courtes
+- **1 fiche dialogue** : conversation ludique (pas une mini-histoire complète)
+- **1 fiche extra** : récapitulatif du vocabulaire + base pour les exercices
 
-This makes learning more manageable for kids with shorter attention spans.
+Cela rend l'apprentissage plus digeste pour des enfants avec une attention plus courte.
 
-### 4. Character-driven dialogues
+### 4. Des dialogues portés par des personnages
 
-Kids engage better with recurring characters:
-- A protagonist kid (gender-neutral or varying)
-- A friendly adult (parent, teacher, grandparent)
-- Maybe a pet 🐶
+Les enfants s'investissent mieux avec des personnages récurrents :
+- Un enfant protagoniste
+- Un adulte bienveillant (parent, professeur, grand-parent)
+- Éventuellement un animal 🐶
 
-Dialogues replay the series vocabulary in fun contexts: asking for help, getting lost, ordering food, etc.
+Les dialogues remobilisent le vocabulaire de la série dans des contextes amusants : demander de l'aide, se perdre, commander à manger, etc.
 
 ---
 
-## File structure
+## Structure des fichiers
 
 ```
 slovingo-de-fr/md/
-├── 00_Introduction_*.md          # Intro fiches (how to use, alphabet, sounds, etc.)
-├── 10_Series_XX_Theme_YY_*.md    # Learning series
-├── 20_Vocabulary_*.md            # Standalone vocab lists (by topic or level)
-└── 30_Annex_*.md                 # Cultural notes, grammar tables, etc.
+├── 00_Introduction_*.md          # Fiches d'intro (comment utiliser, alphabet, sons...)
+├── 10_Series_XX_Theme_YY_*.md    # Séries d'apprentissage
+├── 20_Vocabulary_*.md            # Listes de vocabulaire autonomes (par thème ou niveau)
+└── 30_Annex_*.md                 # Notes culturelles, tableaux de grammaire, etc.
 ```
 
-### Series numbering
+### Numérotation des séries
 
-- **Series 00**: Kit de Survie (survival phrases)
-- **Series 01+**: Thematic progressions (Familie, Haus, Essen, etc.)
+- **Série 00** : Kit de Survie (phrases de base)
+- **Série 01+** : progressions thématiques (Familie, Haus, Essen, etc.)
 
-Example filename: `10_Series_01_Familie_02_das-zuhause.md`
+Exemple de nom de fichier : `10_Series_01_Familie_02_das-zuhause.md`
 
 ---
 
-## Fiche structure
+## Structure d'une fiche
 
-### Introduction fiches (00_Introduction_*)
+### Fiches d'introduction (00_Introduction_*)
 
-- Quick, friendly intro to the course
-- Alphabet + pronunciation (German sounds for French speakers)
-- Counting (0-10, then 10-100)
-- No lengthy explanations — link to Slovingo main docs if details needed
+- Intro rapide et sympathique au cours
+- Alphabet + prononciation (sons allemands pour francophones)
+- Compter (0-10, puis 10-100)
+- Pas d'explications longues — renvoyer vers la doc Slovingo principale si besoin de détails
 
-### Series fiches (10_Series_XX_*)
+### Fiches de série (10_Series_XX_*)
 
-**Fiches 01-04: Learning fiches**
+**Fiches 01 à 04 : fiches d'apprentissage**
 
 ```markdown
-# Series NAME (X/Y) — Deutsch titel
+# Série NOM (X/Y) — Titre en allemand
 
-@ img/theme.jpg | Picture caption with source
+@ img/theme.jpg | Légende de l'image avec source
 
-Short, friendly intro (1-2 sentences, not a paragraph).
+Courte intro sympathique (1-2 phrases, pas un paragraphe).
 
 ---
 
-## Die neuen Wörter
+## Die neuen Wörter (Les nouveaux mots)
 
 | Deutsch | Français |
 |---------|----------|
 | Hallo | Bonjour |
 | ... | ... |
 
-(~7 essential words)
+(~7 mots essentiels)
 
 ---
 
-## Heute lernen wir...
+## Heute lernen wir... (Aujourd'hui on apprend...)
 
-### A grammar point
+### Un point de grammaire
 
-Short explanation in French, tied to the words above.
+Explication courte en français, rattachée aux mots ci-dessus.
 
 | Deutsch | Français |
 |---------|----------|
@@ -113,73 +113,73 @@ Short explanation in French, tied to the words above.
 
 ---
 
-## Sätze (Sentences)
+## Sätze (Des phrases)
 
 ! Hallo!
 > Bonjour !
 > Hallo = bonjour
-+ Informal greeting, with friends or family.
++ Salutation informelle, entre amis ou en famille.
 
-(6-8 audio cards, progressively building)
-
----
-
-## Das wiederholen wir (We review)
-
-(From series 02 onward: reuse words from previous fiches)
+(6-8 cartes audio, progressives)
 
 ---
 
-## 🇩🇪 German corner
+## Das wiederholen wir (On révise)
 
-2-3 short paragraphs about German culture tied to the theme.
-Use {{speakable}} for key words.
+(À partir de la série 02 : réutilise exclusivement le vocabulaire des fiches précédentes)
 
 ---
 
-## Mehr Wörter (Extra words)
+## 🇩🇪 Coin allemand
+
+2-3 courts paragraphes sur la culture allemande liés au thème.
+Utiliser {{prononçable}} pour les mots-clés.
+
+---
+
+## Mehr Wörter (Vocabulaire complémentaire)
 
 | Deutsch | Français |
 |---------|----------|
 | ... | ... |
 
-(~7 additional/complementary words)
+(~7 mots supplémentaires/complémentaires)
 
 ---
 
-## Noch mehr Sätze (More sentences)
+## Noch mehr Sätze (Encore quelques phrases)
 
-(3-5 audio cards with complementary vocab)
+(3-5 cartes audio avec le vocabulaire complémentaire)
 ```
 
-**Fiche 05: Dialogue**
+**Fiche 05 : Dialogue**
 
-- Mini-story or extended dialogue with recurring characters
-- Reuses all vocabulary from fiches 01-04
-- No new words (or marked with "new word!" if essential)
-- 8-12 audio cards as a continuous exchange
+- Mini-histoire ou dialogue suivi avec les personnages récurrents
+- Réutilise tout le vocabulaire des fiches 01-04
+- Aucun mot nouveau (ou signalé explicitement si indispensable)
+- 8-12 cartes audio formant un échange continu
 
-**Fiche 06: Extra**
+**Fiche 06 : Extra**
 
-- Complete vocabulary table for the series
-- 15-20 audio cards mixing series vocab freely
-- Used as raw material for exercises
-- No new learning — pure review and reuse
+- Tableau de vocabulaire complet de la série
+- 15-20 cartes audio recombinant librement le vocabulaire
+- Sert de matière première pour les exercices
+- Aucun apprentissage nouveau — uniquement révision et réemploi
 
 ---
 
-## Audio cards in practice
+## Les cartes audio en pratique
 
-### Basic structure
+### Structure de base
 
 ```
 ! Wie heißt du?
 > Comment t'appelles-tu ?
 > Wie heißt du = comment t'appelles-tu
-+ "du" = you (informal)
++ « du » = tu (informel)
 ```
 
-### With speaker markers (dialogues)
+### Avec marqueurs de locuteur (dialogues)
 
 ```
 👦 ! Hallo, ich bin Tom.
@@ -189,104 +189,104 @@ Use {{speakable}} for key words.
 > Salut Tom ! Ça va ?
 ```
 
-### With cultural notes
+### Avec notes culturelles
 
 ```
 ! Guten Morgen!
-> Bonjour ! (Good morning)
-+ Very formal. Used with teachers, strangers, etc.
+> Bonjour ! (littéralement : bon matin)
++ Très formel. Utilisé avec les professeurs, les inconnus, etc.
 ```
 
 ---
 
 ## Illustrations
 
-Every fiche header has an illustration:
+Chaque fiche a une illustration en tête :
 
 ```markdown
-@ img/theme-name.jpg | Caption: child doing X, or Y object. Source: Wikimedia Commons
+@ img/nom-du-theme.jpg | Légende : enfant faisant X, ou objet Y. Source : Wikimedia Commons
 ```
 
-**Guidelines:**
-- Child-friendly, diverse, and joyful
-- From Wikimedia Commons (free license) or commissioned
-- ~600-800px wide, clear and engaging
-- Captions include source and license
+**Recommandations :**
+- Adaptées aux enfants, diverses et joyeuses
+- Issues de Wikimedia Commons (licence libre) ou réalisées spécifiquement
+- ~600-800px de large, claires et engageantes
+- Légende avec mention de la source et de la licence
 
 ---
 
-## Language notes (Coin Allemand)
+## Notes de langue (Coin allemand)
 
-Keep these light and fun:
+À garder léger et amusant :
 
-✅ **"Did you know? Germans have a word for..."**
-✅ **"In German, people say... when they mean..."**
-✅ **"Fun fact: [cultural tidbit] is super important in Germany"**
+✅ **« Le sais-tu ? En allemand, il existe un mot pour... »**
+✅ **« En allemand, on dit... quand on veut dire... »**
+✅ **« Anecdote : [détail culturel] est très important en Allemagne »**
 
-❌ Don't: Assume advanced grammar knowledge
-❌ Don't: Be overly formal or academic
-
----
-
-## Vocabulary lists (20_Vocabulary_*)
-
-Standalone reference docs:
-
-- Organized by topic (Farben = colors, Tiere = animals)
-- Or by level (A1, A2, A3)
-- Simple tables: Deutsch | Français | Lautschrift (phonetic guide)
-- No audio cards
+❌ À éviter : présupposer des connaissances de grammaire avancées
+❌ À éviter : un ton trop formel ou scolaire
 
 ---
 
-## Annex (30_Annex_*)
+## Listes de vocabulaire (20_Vocabulary_*)
 
-Grammar tables, conjugation, gender rules, etc.:
+Documents de référence autonomes :
 
-- Reference material (not for learning)
-- Can be dry/academic since it's supporting, not primary
-- Linked from series fiches where relevant
-
----
-
-## Translation quality
-
-- Français: Natural French for a kid (~8-12 years old), not overly formal
-- Deutsch: Common, practical German for learners
-- Avoid idioms that don't translate; use explanations instead
+- Organisés par thème (Farben = couleurs, Tiere = animaux)
+- Ou par niveau (A1, A2, A3)
+- Tableaux simples : Deutsch | Français | Prononciation
+- Pas de cartes audio
 
 ---
 
-## Progress tracking
+## Annexes (30_Annex_*)
 
-All content files follow the naming scheme so the build system can automatically:
-- Detect category and ordering
-- Generate navigation
-- Assign exercises to practice material
-- Build the table of contents
+Tableaux de grammaire, conjugaison, règles de genre, etc. :
 
-See [../lang.json](../lang.json) and the main Slovingo docs for implementation details.
+- Matériel de référence (pas destiné à l'apprentissage direct)
+- Peut être plus aride/académique puisqu'il est en support, pas en contenu principal
+- Lié depuis les fiches de série quand c'est pertinent
 
 ---
 
-## Quick checklist before publishing a fiche
+## Qualité de traduction
 
-- [ ] Illustration is clear, kid-friendly, diverse
-- [ ] Vocabulary is cumulative (reuses previous fiches)
-- [ ] Grammar explanations are 1-2 sentences max
-- [ ] Audio cards are playable (no unknown vocab)
-- [ ] Character dialogue feels natural (not textbook-y)
-- [ ] German corner is ~3 short paragraphs (culture, not grammar)
-- [ ] Extra fiche (06) has no new words
-- [ ] All filenames follow the scheme
-- [ ] Tone is encouraging, not intimidating
+- Français : naturel pour un enfant (~8-12 ans), pas trop formel
+- Deutsch : allemand courant et pratique pour apprenants
+- Éviter les idiomes qui ne se traduisent pas directement ; préférer une explication
 
 ---
 
-## Next steps
+## Suivi et génération automatique
 
-1. Build first series (Kit de Survie)
-2. Collect feedback from kid testing
-3. Iterate on tone, pacing, illustrations
-4. Add exercises once series 0-1 are stable
-5. Explore code adaptations (gamification, UI tweaks) as needed
+Tous les fichiers de contenu suivent le schéma de nommage pour que le système de build puisse automatiquement :
+- Détecter la catégorie et l'ordre
+- Générer la navigation
+- Rattacher les exercices au matériel d'apprentissage
+- Construire la table des matières
+
+Voir [../lang.json](../lang.json) et la documentation Slovingo principale pour les détails d'implémentation.
+
+---
+
+## Check-list rapide avant de publier une fiche
+
+- [ ] Illustration claire, adaptée aux enfants, diverse
+- [ ] Vocabulaire cumulatif (réutilise les fiches précédentes)
+- [ ] Explications de grammaire : 1-2 phrases maximum
+- [ ] Cartes audio jouables (pas de vocabulaire inconnu)
+- [ ] Dialogue des personnages naturel (pas scolaire)
+- [ ] Coin allemand : ~3 courts paragraphes (culture, pas grammaire)
+- [ ] Fiche extra (06) : aucun mot nouveau
+- [ ] Tous les noms de fichiers suivent le schéma
+- [ ] Ton encourageant, pas intimidant
+
+---
+
+## Prochaines étapes
+
+1. Construire la première série (Kit de Survie)
+2. Recueillir les retours des tests avec un enfant
+3. Ajuster le ton, le rythme, les illustrations
+4. Ajouter les exercices une fois les séries 0-1 stabilisées
+5. Explorer les adaptations de code (gamification, UI) si le besoin s'en fait sentir

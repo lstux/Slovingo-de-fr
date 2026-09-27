@@ -1,81 +1,80 @@
-# Slovingo-de-fr Documentation
+# Documentation de Slovingo-de-fr
 
-Welcome! This folder contains the guides for understanding and contributing to the Slovingo-de-fr project.
+Bienvenue ! Ce dossier contient les guides pour comprendre et contribuer au projet Slovingo-de-fr.
 
-## 📖 Start here
+## 📖 Par où commencer ?
 
-**New to the project?**
-- Read [../README.md](../README.md) first for the big picture
-- Then come back here for details
+**Nouveau sur le projet ?**
+- Lire d'abord [../README.md](../README.md) pour la vue d'ensemble
+- Puis revenir ici pour le détail
 
-**Want to write content (fiches)?**
-- Start with **[Format-de-fr.md](./Format-de-fr.md)** — explains how to structure fiches and use the SMD format
-- Check **[Progression.md](./Progression.md)** — understand the learning journey and what to teach when
+**Envie d'écrire du contenu (fiches) ?**
+- Commencer par **[Format-de-fr.md](./Format-de-fr.md)** — comment structurer une fiche et utiliser le format SMD
+- Puis **[Progression.md](./Progression.md)** — comprendre le parcours d'apprentissage et ce qu'on enseigne à quel moment
 
-**Want to understand the learning approach?**
-- See **[Progression.md](./Progression.md)** — pedagogical philosophy and series structure
+**Envie de comprendre l'approche pédagogique ?**
+- Voir **[Progression.md](./Progression.md)** — philosophie pédagogique et structure des séries
 
-**Need technical details?**
-- Refer to the **[main Slovingo docs](https://github.com/lstux/Slovingo/tree/main/docs)** for:
-  - Complete SMD format reference (Format-SMD.txt)
-  - Build pipeline and CI (CI-Pipeline.md)
-  - File naming conventions (Fiches-Serie.txt)
+**Besoin de détails techniques ?**
+- Se référer à la **[documentation Slovingo principale](https://github.com/lstux/Slovingo/tree/main/docs)** pour :
+  - La référence complète du format SMD (`Format-SMD.txt`)
+  - Le pipeline de build et la CI (`CI-Pipeline.md`)
+  - Les conventions de nommage des fichiers (`Fiches-Serie.txt`)
 
-## 📁 Files in this folder
+## 📁 Fichiers de ce dossier
 
-| File | Purpose |
-|------|---------|
-| **Format-de-fr.md** | How to write fiches for kids — structure, tone, examples |
-| **Progression.md** | Learning roadmap — what to teach, in what order, why |
-| **README.md** | You are here! |
+| Fichier | Rôle |
+|---------|------|
+| **Format-de-fr.md** | Comment écrire des fiches pour enfants — structure, ton, exemples |
+| **Progression.md** | Feuille de route pédagogique — quoi enseigner, dans quel ordre, pourquoi |
+| **README.md** | Vous êtes ici ! |
 
-## 🚀 Quick workflow
+## 🚀 Workflow rapide
 
-### To write a new fiche:
+### Pour écrire une nouvelle fiche :
 
-1. Decide which series and fiche number (e.g., Series 01, fiche 02)
-2. Open **[Format-de-fr.md](./Format-de-fr.md)** to see the template
-3. Write your fiche in `/md/` following the naming scheme
-4. Add an illustration to `/img/`
-5. Commit and push to the repo
+1. Décider de la série et du numéro de fiche (ex. Série 01, fiche 02)
+2. Ouvrir **[Format-de-fr.md](./Format-de-fr.md)** pour voir le gabarit
+3. Écrire la fiche dans `/md/` en respectant le schéma de nommage
+4. Ajouter une illustration dans `/img/`
+5. Commit et push sur le dépôt
 
-### To add exercises:
+### Pour ajouter des exercices :
 
-1. Write the fiche first (fiches 01-04 need to be stable)
-2. Use the "extra" fiche (06) as your exercise base
-3. Generate JSON exercises (see main Slovingo docs)
-4. Add to `/exercises/`
+1. Écrire d'abord la fiche (les fiches 01-04 doivent être stables)
+2. Utiliser la fiche « extra » (06) comme base d'exercices
+3. Générer les exercices JSON (voir la doc Slovingo principale)
+4. Ajouter dans `/exercises/`
 
-### To iterate on pedagogy:
+### Pour itérer sur la pédagogie :
 
-1. Test fiches with kids
-2. Document what works/doesn't in an issue or PR comment
-3. Refine tone, pacing, vocab as needed
-4. Update this doc if the approach changes
+1. Tester les fiches avec des enfants
+2. Documenter ce qui marche/ne marche pas
+3. Ajuster ton, rythme, vocabulaire si besoin
+4. Mettre à jour cette doc si l'approche change
 
-## 🔗 Related documentation
+## 🔗 Documentation liée
 
-- **[Slovingo main repo](https://github.com/lstux/Slovingo)** → Technical framework, code, build system
-- **[Format-SMD.txt](https://github.com/lstux/Slovingo/blob/main/docs/Format-SMD.txt)** → Complete SMD format (we use it here)
-- **[Fiches-Serie.txt](https://github.com/lstux/Slovingo/blob/main/docs/Fiches-Serie.txt)** → Adult series structure (we adapt it for kids)
+- **[Dépôt Slovingo principal](https://github.com/lstux/Slovingo)** → framework technique, code, système de build
+- **[Format-SMD.txt](https://github.com/lstux/Slovingo/blob/main/docs/Format-SMD.txt)** → format SMD complet (celui qu'on utilise ici)
+- **[Fiches-Serie.txt](https://github.com/lstux/Slovingo/blob/main/docs/Fiches-Serie.txt)** → structure de série adulte (qu'on adapte pour les enfants)
 
-## 💡 Design principles
+## 💡 Principes de conception
 
-The format and progression documents are built on these core ideas:
+Les documents de format et de progression reposent sur ces idées centrales :
 
-1. **Kids learn through play** — tone is light, structure is clear
-2. **Progress is visible** — series complete in ~1 week, fiches in ~1 day
-3. **Repetition works** — vocabulary is reused, reinforced, deepened
-4. **Culture matters** — kids want to know *why* they're learning German
-5. **Flexibility rules** — adapt format and code as real testing shows what works
+1. **Les enfants apprennent en jouant** — ton léger, structure claire
+2. **La progression est visible** — une série se termine en ~1 semaine, une fiche en ~1 jour
+3. **La répétition fonctionne** — le vocabulaire est réemployé, renforcé, approfondi
+4. **La culture compte** — les enfants veulent savoir *pourquoi* ils apprennent l'allemand
+5. **La flexibilité prime** — adapter format et code selon ce que les tests réels montrent
 
-## ❓ Questions?
+## ❓ Des questions ?
 
-- **About the pedagogical approach?** → Check [Progression.md](./Progression.md)
-- **About fiche format and writing?** → Read [Format-de-fr.md](./Format-de-fr.md)
-- **About SMD syntax or build system?** → See [Slovingo main docs](https://github.com/lstux/Slovingo/tree/main/docs)
-- **Got feedback or ideas?** → Open an issue or submit a PR!
+- **Sur l'approche pédagogique ?** → Voir [Progression.md](./Progression.md)
+- **Sur le format et l'écriture des fiches ?** → Lire [Format-de-fr.md](./Format-de-fr.md)
+- **Sur la syntaxe SMD ou le système de build ?** → Voir la [documentation Slovingo principale](https://github.com/lstux/Slovingo/tree/main/docs)
 
 ---
 
-**Status:** 🚀 Documentation is evolving alongside content. Check back as we add more fiches and learn what works!
+**Statut :** 🚀 La documentation évolue avec le contenu. À revoir au fur et à mesure qu'on ajoute des fiches et qu'on découvre ce qui fonctionne.

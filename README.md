@@ -1,68 +1,69 @@
 # Slovingo-de-fr 🇩🇪 🇫🇷
 
-**Learn German the fun way — for kids aged 8+**
+**Apprendre l'allemand de manière ludique — pour les enfants à partir de 8 ans**
 
-A German learning course built on the [Slovingo framework](https://github.com/lstux/Slovingo), specially designed for French-speaking children.
+Un cours d'allemand construit sur le framework [Slovingo](https://github.com/lstux/Slovingo), conçu spécialement pour les enfants francophones.
 
-## 📚 What's inside?
+## 📚 Qu'est-ce qu'il y a dedans ?
 
-- **Fiches (Sheets)**: Interactive flashcards with pronunciation and audio
-- **Series**: Themed learning sequences with progressive difficulty
-- **Dialogues**: Fun conversations with recurring characters
-- **Exercises**: Varied activities to practice and consolidate learning
-- **Vocabulary**: Organized thematic word lists
+- **Fiches** : cartes interactives avec prononciation et audio
+- **Séries** : progressions thématiques avec difficulté croissante
+- **Dialogues** : conversations avec des personnages récurrents
+- **Exercices** : activités variées pour pratiquer et consolider
+- **Vocabulaire** : listes de mots organisées par thème
 
-## ✨ What makes this special?
+## ✨ Qu'est-ce qui rend ce cours particulier ?
 
-This course is designed **for kids, by experimentation**. We adapt Slovingo's proven adult learning format to be:
-- **Less formal**: Introductions are lighter, more playful
-- **More interactive**: Gamified elements, visual rewards
-- **Visually engaging**: Illustrations, emojis, and personality
-- **Flexible**: Open to evolving both content and code as we learn what works
+Ce cours est conçu **pour les enfants, par l'expérimentation**. On adapte le format d'apprentissage éprouvé de Slovingo (pensé initialement pour des adultes) pour le rendre :
+- **Moins formel** : introductions légères, sans jargon
+- **Plus interactif** : éléments ludiques, exercices variés
+- **Visuellement engageant** : illustrations, emojis, personnages
+- **Flexible** : le format et même le code de Slovingo peuvent évoluer si besoin
 
-## 🚀 Getting started
+## 🚀 Pour commencer
 
-1. **Explore the [docs folder](./docs/)** for format guides and pedagogical approach
-2. **Check [docs/Progression.md](./docs/Progression.md)** for learning sequencing
-3. **Read [Format-de-fr.md](./docs/Format-de-fr.md)** to understand how content is structured
+1. **Le dossier [docs](./docs/)** contient les guides de format et l'approche pédagogique
+2. **[docs/Progression.md](./docs/Progression.md)** détaille la progression d'apprentissage
+3. **[docs/Format-de-fr.md](./docs/Format-de-fr.md)** explique comment le contenu est structuré
 
-## 📂 Project structure
+## 📂 Structure du projet
 
 ```
 slovingo-de-fr/
-├── docs/                 # Project documentation
-├── md/                   # Fiche content (Slovingo Markdown format)
-├── exercises/            # Exercise definitions (JSON)
-├── img/                  # Illustrations and assets
-└── lang.json            # Language configuration
+├── docs/                 # Documentation du projet
+├── md/                   # Contenu des fiches (format Slovingo Markdown / SMD)
+├── exercises/            # Définitions des exercices (JSON)
+├── img/                  # Illustrations et ressources
+└── lang.json             # Configuration de la langue (allemand → français)
 ```
 
-## 🔗 Related repositories
+## 🔗 Dépôts liés
 
-- **[lstux/Slovingo](https://github.com/lstux/Slovingo)** — The core framework (docs, code, processing)
-- **[lstux/Slovingo-fr-sk](https://github.com/lstux/Slovingo-fr-sk)** — French→Slovak course (adult reference)
-- **[lstux/Slovingo-sk-fr](https://github.com/lstux/Slovingo-sk-fr)** — Slovak→French course (adult reference)
+- **[lstux/Slovingo](https://github.com/lstux/Slovingo)** — le framework principal (code, moteur de génération, docs)
+- **[lstux/Slovingo-fr-sk](https://github.com/lstux/Slovingo-fr-sk)** — cours français→slovaque (référence adulte)
+- **[lstux/Slovingo-sk-fr](https://github.com/lstux/Slovingo-sk-fr)** — cours slovaque→français (référence adulte)
+- **[lstux/Slovingo-bzh-fr](https://github.com/lstux/Slovingo-bzh-fr)** — cours breton→français
 
 ## 📝 Format
 
-We use **SMD (Slovingo Markdown)**, a simple, human-readable format:
+On utilise le **SMD (Slovingo Markdown)**, une extension légère et lisible du Markdown :
 
-- **Audio cards** with translations and explanations
-- **Translate tables** for vocabulary
-- **Speakable elements** {{word}} for pronunciation
-- **Illustrations** with captions
-- **Dialogues** with speaker markers
+- **Cartes audio** avec traduction et explications
+- **Tableaux de traduction** pour le vocabulaire
+- **Éléments prononçables** `{{mot}}` pour la synthèse vocale
+- **Illustrations** avec légende
+- **Dialogues** avec marqueur de locuteur (emoji)
 
-See [Format-de-fr.md](./docs/Format-de-fr.md) and the [main Slovingo docs](https://github.com/lstux/Slovingo/tree/main/docs) for details.
+Voir [docs/Format-de-fr.md](./docs/Format-de-fr.md) pour le détail de nos adaptations, et la [documentation Slovingo](https://github.com/lstux/Slovingo/tree/main/docs) pour la référence technique complète (syntaxe SMD, pipeline de build).
 
-## 👨‍👩‍👧 Who's involved?
+## 👨‍👧 Qui est derrière ce projet ?
 
-This is a collaborative learning project. Testing happens in the wild with real kids (starting with my son 😄), so the format and content evolve based on what actually works.
-
----
-
-**Status**: 🚀 In active development. First series coming soon!
+Projet familial : mon fils (8 ans) est le cobaye principal. Le format et le contenu sont donc amenés à évoluer selon ce qui fonctionne vraiment avec lui, plutôt que de suivre à la lettre un plan pédagogique théorique.
 
 ---
 
-*Slovingo is free and open-source, licensed under [GPL-3.0](./LICENSE).*
+**Statut** : 🚀 En tout début de démarrage. Structure et docs en place, premières fiches (Kit de Survie) à venir.
+
+---
+
+*Slovingo est libre et open-source, sous licence [GPL-3.0](./LICENSE).*
