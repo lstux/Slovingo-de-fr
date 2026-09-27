@@ -22,70 +22,70 @@ Tu rencontres Lea pour la première fois. On termine le kit en apprenant à te p
 
 ## Les personnages
 
-- 👤 Toi
-- 👧 Lea, une copine allemande
+- 🦊 Toi
+- 🐰 Lea, une copine allemande
 
 ---
 
 ## Le dialogue
 
-👧 ! Hallo! Wie geht's?
+🐰 ! Hallo! Wie geht's?
 > Salut ! Ça va ?
 > Hallo = salut
 > Wie geht's = ça va
 
-👤 ! Gut, danke! Und dir?
+🦊 ! Gut, danke! Und dir?
 > Bien, merci ! Et toi ?
 > Gut, danke = bien, merci
 > Und dir = et toi
 
-👧 ! Auch gut, danke! Wie heißt du?
+🐰 ! Auch gut, danke! Wie heißt du?
 > Bien aussi, merci ! Comment tu t'appelles ?
 > Auch gut = bien aussi
 > Wie heißt du = comment tu t'appelles
 
-👤 ! Ich heiße [ASK_USER_NAME].
+🦊 ! Ich heiße [ASK_USER_NAME].
 > Je m'appelle [dis-nous ton prénom].
 > Ich heiße = je m'appelle
 + Le schéma **{{Ich heiße}}** + ton prénom fonctionne pour te présenter n'importe où.
 
-👧 ! Schön, dich zu kennen, [USER_NAME]!
+🐰 ! Schön, dich zu kennen, [USER_NAME]!
 > Ravie de te connaître, [USER_NAME] !
 > Schön, dich zu kennen = ravi(e) de te connaître
 
-👤 ! Sprichst du Französisch?
+🦊 ! Sprichst du Französisch?
 > Tu parles français ?
 > Sprichst du = tu parles
 > Französisch = français
 + Sans doute la question la plus utile de tout le kit : si la réponse est oui, la moitié de tes soucis pour communiquer disparaissent d'un coup !
 
-👧 ! Nein, ich spreche kein Französisch.
+🐰 ! Nein, ich spreche kein Französisch.
 > Non, je ne parle pas français.
 > Nein = non
 > ich spreche = je parle
 + Pas de souci ! C'est justement pour ça que tu apprends l'allemand.
 
-👤 ! Entschuldigung, ich verstehe nicht. Was heißt „Tschüss"?
+🦊 ! Entschuldigung, ich verstehe nicht. Was heißt „Tschüss"?
 > Pardon, je ne comprends pas. Qu'est-ce que ça veut dire « Tschüss » ?
 > Entschuldigung = pardon
 > ich verstehe nicht = je ne comprends pas
 > was heißt = qu'est-ce que ça veut dire
 + {{Tschüss}}, tu l'as déjà vu dans la fiche 1 — mais dans le dialogue, on fait comme si on le découvrait !
 
-👧 ! „Tschüss" heißt „au revoir"!
+🐰 ! „Tschüss" heißt „au revoir"!
 > « Tschüss » veut dire « au revoir » !
 > heißt = veut dire
 
-👤 ! Danke!
+🦊 ! Danke!
 > Merci !
 > Danke = merci
 
-👧 ! Bitte! Tschüss, [USER_NAME]!
+🐰 ! Bitte! Tschüss, [USER_NAME]!
 > De rien ! Salut, [USER_NAME] !
 > Bitte = de rien
 > Tschüss = salut
 
-👤 ! Tschüss!
+🦊 ! Tschüss!
 > Salut !
 > Tschüss = salut
 
@@ -121,7 +121,7 @@ Tu rencontres Lea pour la première fois. On termine le kit en apprenant à te p
 > Wie ist dein Name = quel est ton nom
 + Une autre façon de demander le prénom de quelqu'un, en plus de {{Wie heißt du}}.
 
-👧 ! Es ist schön, dich zu kennen, [USER_NAME].
+🐰 ! Es ist schön, dich zu kennen, [USER_NAME].
 > C'est chouette de te connaître, [USER_NAME].
 > Es ist schön = c'est chouette
 > dich zu kennen = de te connaître
