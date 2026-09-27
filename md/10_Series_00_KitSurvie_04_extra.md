@@ -26,6 +26,8 @@ Pas de mot nouveau ici. Tout le vocabulaire du Kit de Survie est réuni, puis re
 | ja | oui |
 | hilf mir | aide-moi |
 | die Hilfe | l'aide |
+| wie heißt du | comment tu t'appelles |
+| ich heiße | je m'appelle |
 | ich verstehe nicht | je ne comprends pas |
 | was | quoi |
 | das heißt | ça veut dire |
@@ -108,13 +110,18 @@ Pas de mot nouveau ici. Tout le vocabulaire du Kit de Survie est réuni, puis re
 > Comment tu t'appelles ?
 > Wie ist dein Name = quel est ton nom
 
-! Es ist schön, dich zu kennen.
-> C'est chouette de te connaître.
+! Wie heißt du? Ich heiße [USER_NAME].
+> Comment tu t'appelles ? Je m'appelle [USER_NAME].
+> Wie heißt du = comment tu t'appelles
+> Ich heiße = je m'appelle
+
+! Es ist schön, dich zu kennen, [USER_NAME].
+> C'est chouette de te connaître, [USER_NAME].
 > Es ist schön = c'est chouette
 > dich zu kennen = de te connaître
 
-! Bitte, tschüss!
-> De rien, salut !
+! Bitte, tschüss, [USER_NAME]!
+> De rien, salut, [USER_NAME] !
 > Bitte = de rien
 > tschüss = salut
 

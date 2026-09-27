@@ -43,7 +43,7 @@ Chaque série doit :
 **Vocabulaire essentiel :**
 - Mutter (mère), Vater (père), Bruder (frère), Schwester (sœur)
 - Oma (mamie), Opa (papi)
-- Ich heiße... (je m'appelle...), Wie heißt du ? (comment tu t'appelles ?)
+- *(Ich heiße / Wie heißt du sont déjà vus dans le Kit de Survie via le mécanisme USER_NAME — ici on révise plutôt qu'on découvre)*
 
 **Vocabulaire complémentaire :**
 - Eltern (parents), Familie (famille)
@@ -166,13 +166,13 @@ Chaque série doit :
 
 Pour rendre le cours moins scolaire, on introduit des personnages récurrents dès la série 00 :
 
-- **Max** (français) — l'apprenant, celui qui pose les questions et se trompe parfois : c'est l'avatar de l'enfant qui utilise le cours
-- **Lea** (8 ans, allemande) — copine de Max, protagoniste côté allemand
+- **L'enfant lui-même** — pas un personnage nommé à l'avance : on utilise le mécanisme intégré de Slovingo (`[ASK_USER_NAME]` / `[USER_NAME]`, emoji 👤) pour que l'enfant soit littéralement le protagoniste des dialogues, sous son propre prénom. Voir [Format-de-fr.md](./Format-de-fr.md) pour le détail technique. Ça évite aussi d'avoir à choisir un genre pour ce personnage.
+- **Lea** (8 ans, allemande) — copine récurrente, celle qui parle allemand et fait découvrir le vocabulaire
 - **Tom** (9 ans, allemand) — ami de Lea
 - **Oma Hilde** — grand-mère de Lea
 - **Peut-être un animal** 🐶
 
-Max et Lea se rencontrent dès la fiche 03 du Kit de Survie (Série 00) : c'est ce dialogue qui justifie les phrases « je ne comprends pas » et « tu parles français ? ». Les personnages reviennent dans la fiche 05 (dialogue) à partir de la série 01, et plus tard dans les sections culturelles (« Oma Hilde t'explique... »).
+L'enfant rencontre Lea dès la fiche 03 du Kit de Survie (Série 00) : c'est ce dialogue qui justifie les phrases « je ne comprends pas » et « tu parles français ? », et qui introduit aussi « comment tu t'appelles / je m'appelle » via le mécanisme USER_NAME. Les personnages reviennent dans la fiche 05 (dialogue) à partir de la série 01, et plus tard dans les sections culturelles (« Oma Hilde t'explique... »).
 
 ---
 

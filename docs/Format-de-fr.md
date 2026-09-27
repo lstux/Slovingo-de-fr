@@ -37,14 +37,23 @@ On garde la structure **intro/séries/vocabulaire/annexes** des cours adultes, m
 
 Cela rend l'apprentissage plus digeste pour des enfants avec une attention plus courte.
 
-### 4. Des dialogues portés par des personnages
+### 4. Des dialogues portés par des personnages — et par l'enfant lui-même
 
 Les enfants s'investissent mieux avec des personnages récurrents :
-- Un enfant protagoniste
 - Un adulte bienveillant (parent, professeur, grand-parent)
 - Éventuellement un animal 🐶
 
 Les dialogues remobilisent le vocabulaire de la série dans des contextes amusants : demander de l'aide, se perdre, commander à manger, etc.
+
+**Le protagoniste, c'est l'enfant lui-même.** Slovingo fournit un mécanisme intégré pour ça (déjà utilisé dans le cours sk-fr) :
+
+- **`[ASK_USER_NAME]`** : insère un champ de saisie directement dans le texte, la première fois qu'on demande le prénom (ex. `Ich heiße [ASK_USER_NAME].`)
+- **`[USER_NAME]`** : réutilise ensuite ce prénom partout où on veut personnaliser (ex. `Schön, dich zu kennen, [USER_NAME]!`)
+- **Emoji du locuteur : `👤`** — un pictogramme neutre pour le personnage-utilisateur, qui évite d'avoir à choisir un genre (contrairement à 👦/👧). C'est le marqueur à utiliser systématiquement pour les répliques de l'enfant dans un dialogue.
+
+Le nom de secours (si l'enfant n'a rien saisi) vient de `lang.json` → `site.user_name_default`, et le texte du champ de `site.user_name_placeholder`.
+
+À utiliser dès qu'un dialogue met en scène l'enfant qui apprend : ça personnalise l'expérience sans dupliquer le contenu ni se soucier du genre du personnage.
 
 ---
 

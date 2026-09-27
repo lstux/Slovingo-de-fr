@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (deux enfants qui se rencontrent, cour d'école...) sur Wikimedia Commons
 
-Max rencontre Lea pour la première fois. On termine le kit en apprenant à dire qu'on ne comprend pas, à demander si quelqu'un parle français — et un tout dernier mot nouveau, caché dans le dialogue.
+Tu rencontres Lea pour la première fois. On termine le kit en apprenant à te présenter, à dire que tu ne comprends pas, à demander si quelqu'un parle français — et un tout dernier mot nouveau, caché dans le dialogue.
 
 ---
 
@@ -10,6 +10,8 @@ Max rencontre Lea pour la première fois. On termine le kit en apprenant à dire
 
 | Deutsch | Français |
 |---------|----------|
+| wie heißt du | comment tu t'appelles |
+| ich heiße | je m'appelle |
 | ich verstehe nicht | je ne comprends pas |
 | was | quoi |
 | das heißt | ça veut dire |
@@ -20,29 +22,38 @@ Max rencontre Lea pour la première fois. On termine le kit en apprenant à dire
 
 ## Les personnages
 
-- 👦 Max, un copain français
+- 👤 Toi
 - 👧 Lea, une copine allemande
 
 ---
 
 ## Le dialogue
 
-👦 ! Hallo! Wie geht's?
+👧 ! Hallo! Wie geht's?
 > Salut ! Ça va ?
 > Hallo = salut
 > Wie geht's = ça va
 
-👧 ! Hallo! Gut, danke. Und dir?
-> Salut ! Bien, merci. Et toi ?
+👤 ! Gut, danke! Und dir?
+> Bien, merci ! Et toi ?
 > Gut, danke = bien, merci
 > Und dir = et toi
 
-👦 ! Auch gut, danke!
-> Bien aussi, merci !
+👧 ! Auch gut, danke! Wie heißt du?
+> Bien aussi, merci ! Comment tu t'appelles ?
 > Auch gut = bien aussi
-> danke = merci
+> Wie heißt du = comment tu t'appelles
 
-👦 ! Sprichst du Französisch?
+👤 ! Ich heiße [ASK_USER_NAME].
+> Je m'appelle [dis-nous ton prénom].
+> Ich heiße = je m'appelle
++ Le schéma **{{Ich heiße}}** + ton prénom fonctionne pour te présenter n'importe où.
+
+👧 ! Schön, dich zu kennen, [USER_NAME]!
+> Ravie de te connaître, [USER_NAME] !
+> Schön, dich zu kennen = ravi(e) de te connaître
+
+👤 ! Sprichst du Französisch?
 > Tu parles français ?
 > Sprichst du = tu parles
 > Französisch = français
@@ -54,27 +65,27 @@ Max rencontre Lea pour la première fois. On termine le kit en apprenant à dire
 > ich spreche = je parle
 + Pas de souci ! C'est justement pour ça que tu apprends l'allemand.
 
-👦 ! Entschuldigung, ich verstehe nicht. Was heißt „Tschüss"?
+👤 ! Entschuldigung, ich verstehe nicht. Was heißt „Tschüss"?
 > Pardon, je ne comprends pas. Qu'est-ce que ça veut dire « Tschüss » ?
 > Entschuldigung = pardon
 > ich verstehe nicht = je ne comprends pas
 > was heißt = qu'est-ce que ça veut dire
-+ {{Tschüss}}, tu l'as déjà vu dans la fiche 1 — mais dans le dialogue, on fait semblant de le découvrir avec Max !
++ {{Tschüss}}, tu l'as déjà vu dans la fiche 1 — mais dans le dialogue, on fait comme si on le découvrait !
 
 👧 ! „Tschüss" heißt „au revoir"!
 > « Tschüss » veut dire « au revoir » !
 > heißt = veut dire
 
-👦 ! Danke!
+👤 ! Danke!
 > Merci !
 > Danke = merci
 
-👧 ! Bitte! Tschüss!
-> De rien ! Salut !
+👧 ! Bitte! Tschüss, [USER_NAME]!
+> De rien ! Salut, [USER_NAME] !
 > Bitte = de rien
 > Tschüss = salut
 
-👦 ! Tschüss!
+👤 ! Tschüss!
 > Salut !
 > Tschüss = salut
 
@@ -106,14 +117,14 @@ Max rencontre Lea pour la première fois. On termine le kit en apprenant à dire
 > Danke viel = merci beaucoup
 
 ! Wie ist dein Name?
-> Comment tu t'appelles ? (littéralement : quel est ton nom ?)
+> Quel est ton nom ?
 > Wie ist dein Name = quel est ton nom
++ Une autre façon de demander le prénom de quelqu'un, en plus de {{Wie heißt du}}.
 
-! Es ist schön, dich zu kennen.
-> C'est chouette de te connaître.
+👧 ! Es ist schön, dich zu kennen, [USER_NAME].
+> C'est chouette de te connaître, [USER_NAME].
 > Es ist schön = c'est chouette
 > dich zu kennen = de te connaître
-+ Petite phrase sympa à dire quand on vient de rencontrer quelqu'un.
 
 ! Entschuldigung, sprichst du Englisch?
 > Pardon, tu parles anglais ?
