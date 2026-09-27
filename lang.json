@@ -35,8 +35,8 @@
     "annex": "Annexes"
   },
   "subgroups": {
-    "series_intro": "Introduction",
-    "series_kit": "Kit de Survie"
+    "kitsurvie": "Kit de Survie",
+    "familie": "Familie"
   },
   "ui": {
     "home": "Accueil",
