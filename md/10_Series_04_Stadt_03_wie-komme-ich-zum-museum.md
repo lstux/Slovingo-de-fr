@@ -36,7 +36,7 @@ Retiens ces formes telles quelles, sans chercher à comprendre toute la règle p
 
 | Deutsch | Français |
 |---------|----------|
-| Es ist um die Ecke. | C'est après le coin. |
+| Es ist um die Ecke. | C'est juste au coin. |
 | Es ist neben der Bank. | C'est à côté de la banque. |
 | Es ist vor der Kirche. | C'est devant l'église. |
 
@@ -55,8 +55,8 @@ Retiens ces formes telles quelles, sans chercher à comprendre toute la règle p
 > und dann links = puis à gauche
 
 ! Es ist um die Ecke.
-> C'est après le coin.
-> Es ist um die Ecke = c'est après le coin
+> C'est juste au coin.
+> Es ist um die Ecke = c'est juste au coin
 
 ! Geh rechts, nicht links!
 > Va à droite, pas à gauche !

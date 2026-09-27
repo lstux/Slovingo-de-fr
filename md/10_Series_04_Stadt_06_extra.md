@@ -65,7 +65,7 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Stadt est réuni, puis 
 | interessant | intéressant |
 | langweilig | ennuyeux |
 | der Freund | l'ami |
-| verloren | perdu |
+| sich verlaufen | se perdre (à pied) |
 | vielleicht | peut-être |
 | Viel Spaß | amuse-toi bien |
 
@@ -89,8 +89,8 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Stadt est réuni, puis 
 > aber ins Theater fahre ich mit dem Bus = mais au théâtre j'y vais en bus
 
 ! Die Haltestelle ist um die Ecke, neben dem Brunnen.
-> L'arrêt est après le coin, près de la fontaine.
-> Die Haltestelle ist um die Ecke = l'arrêt est après le coin
+> L'arrêt est juste au coin, près de la fontaine.
+> Die Haltestelle ist um die Ecke = l'arrêt est juste au coin
 > neben dem Brunnen = près de la fontaine
 
 ! Ich sehe die Statue auf dem Platz. Sie ist interessant.

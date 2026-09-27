@@ -76,10 +76,11 @@ Ajoute **{{gern}}** après un verbe pour dire que tu aimes faire quelque chose :
 
 ## On révise
 
-! Meine Oma kocht einen Kuchen, und wir lachen zusammen.
-> Ma mamie cuisine un gâteau, et on rit ensemble.
-> Meine Oma kocht einen Kuchen = ma mamie cuisine un gâteau
+! Meine Oma backt einen Kuchen, und wir lachen zusammen.
+> Ma mamie fait un gâteau, et on rit ensemble.
+> Meine Oma backt einen Kuchen = ma mamie fait un gâteau
 > und wir lachen zusammen = et on rit ensemble
++ Un gâteau, on ne le « cuisine » pas : on le fait cuire au four, {{backen}} (ich backe, du backst, sie backt).
 
 ! Mein Hund spielt gern im Garten.
 > Mon chien aime jouer dans le jardin.

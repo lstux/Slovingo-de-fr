@@ -48,6 +48,8 @@ C'est un vrai jeu de logique, pas une liste à apprendre par cœur : on prend l'
 
 Une fois le mécanisme compris, tu peux fabriquer presque tous les nombres jusqu'à 100 tout seul !
 
+**Deux petits pièges :** pour 21, on dit {{ein}}undzwanzig (sans le « s » de eins). Et 30 s'écrit {{dreißig}}, avec un ß — pas « dreizig » !
+
 ---
 
 ## On s'entraîne

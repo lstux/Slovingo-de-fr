@@ -28,7 +28,7 @@ Le sais-tu ? Deux tout petits pays parlent allemand aussi : le **Liechtenstein**
 
 **Des marchés qui sentent bon la cannelle.** Chaque année en décembre, les villes allemandes, autrichiennes et suisses se transforment : ce sont les {{Weihnachtsmärkte}}, les marchés de Noël. Petites cabanes en bois, lumières partout, et une odeur de pain d'épices dans toute la rue.
 
-**Le sais-tu ?** En Suisse, on fabrique certains des meilleurs chocolats du monde — et en Allemagne, on trouve le plus grand parc d'attractions d'Europe, l'{{Europa-Park}} !
+**Le sais-tu ?** En Suisse, on fabrique certains des meilleurs chocolats du monde — et en Allemagne, on trouve le plus grand parc d'attractions du pays, l'{{Europa-Park}}, avec plus d'une dizaine de montagnes russes !
 
 ---
 

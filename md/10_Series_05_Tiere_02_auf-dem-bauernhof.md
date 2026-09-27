@@ -52,9 +52,9 @@ Amusant, non ? Presque aucun bruit d'animal ne s'écrit pareil dans les deux lan
 > Le mouton est dans le pré.
 > Das Schaf ist auf der Wiese = le mouton est dans le pré
 
-! Ich mag Pferde sehr.
+! Ich mag Pferde sehr gern.
 > J'aime beaucoup les chevaux.
-> Ich mag Pferde sehr = j'aime beaucoup les chevaux
+> Ich mag Pferde sehr gern = j'aime beaucoup les chevaux
 
 ! Das Schwein ist rosa.
 > Le cochon est rose.
@@ -64,9 +64,9 @@ Amusant, non ? Presque aucun bruit d'animal ne s'écrit pareil dans les deux lan
 > Les poules sont petites.
 > Die Hühner sind klein = les poules sont petites
 
-! Die Ziege isst gern Gras.
+! Die Ziege frisst gern Gras.
 > La chèvre aime manger de l'herbe.
-> Die Ziege isst gern Gras = la chèvre aime manger de l'herbe
+> Die Ziege frisst gern Gras = la chèvre aime manger de l'herbe
 
 ---
 
@@ -110,9 +110,9 @@ Amusant, non ? Presque aucun bruit d'animal ne s'écrit pareil dans les deux lan
 > Le coq fait Cocorico le matin.
 > Der Hahn macht Kikeriki am Morgen = le coq fait cocorico le matin
 
-! Die Ziege isst viel Gras.
+! Die Ziege frisst viel Gras.
 > La chèvre mange beaucoup d'herbe.
-> Die Ziege isst viel Gras = la chèvre mange beaucoup d'herbe
+> Die Ziege frisst viel Gras = la chèvre mange beaucoup d'herbe
 
 ! Das Pferd ist schnell, aber die Kuh ist langsam.
 > Le cheval est rapide, mais la vache est lente.

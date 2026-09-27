@@ -93,7 +93,7 @@ Pas de petit mot devant le nom d'un jeu ({{Fußball}}, {{Fangen}}) — mais il f
 |---------|----------|
 | die Rutsche | le toboggan |
 | das Klettergerüst | la structure d'escalade |
-| das Fahrrad fahren | faire du vélo |
+| Fahrrad fahren | faire du vélo |
 | das Trampolin | le trampoline |
 | springen | sauter (rappel) |
 | müde | fatigué |

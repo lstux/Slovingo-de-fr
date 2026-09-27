@@ -53,9 +53,9 @@ Comme tu l'as vu dans la série Familie, l'adjectif après **sein** ne s'accorde
 > Der Käse ist salzig = le fromage est salé
 
 ! Ist der Käse gut? Ja, er ist sehr lecker!
-> Le fromage est bon ? Oui, il est très délicieux !
+> Le fromage est bon ? Oui, il est vraiment délicieux !
 > Ist der Käse gut = le fromage est bon
-> er ist sehr lecker = il est très délicieux
+> er ist sehr lecker = il est vraiment délicieux
 
 ! Das Obst ist süß.
 > Les fruits sont sucrés.
@@ -119,9 +119,9 @@ Comme tu l'as vu dans la série Familie, l'adjectif après **sein** ne s'accorde
 > Das Brot ist frisch = le pain est frais
 
 ! Der Käse ist nicht schlecht, er ist sehr lecker.
-> Le fromage n'est pas mauvais, il est très délicieux.
+> Le fromage n'est pas mauvais, il est vraiment délicieux.
 > Der Käse ist nicht schlecht = le fromage n'est pas mauvais
-> er ist sehr lecker = il est très délicieux
+> er ist sehr lecker = il est vraiment délicieux
 
 ! Probier das! Es schmeckt gut.
 > Goûte ça ! C'est bon.

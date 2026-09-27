@@ -2,60 +2,108 @@
 
 @ TODO_img/enfant-qui-parle.jpg | TODO : choisir une image (enfant souriant, bulle de parole, ou bouche qui articule) sur Wikimedia Commons
 
-L'allemand a quelques sons bien différents du français. Rien de compliqué : juste quelques habitudes à prendre avant de commencer à parler pour de vrai.
+Bonne nouvelle : l'allemand se lit presque toujours comme il s'écrit ! Il suffit de connaître quelques habitudes, et tu pourras lire n'importe quel mot à voix haute.
 
 ---
 
-## ä, ö, ü : trois nouvelles voyelles
+## ä, ö, ü : tu sais déjà les dire !
 
-Ce sont des voyelles avec deux petits points au-dessus (on appelle ça un tréma, ou *Umlaut* en allemand). Elles se prononcent un peu différemment de a, o et u tout seuls :
+Ce sont des voyelles avec deux petits points au-dessus (on appelle ça un tréma, ou *Umlaut* en allemand). Elles font peur, mais pour un Français, c'est un cadeau : ce sont des sons que tu connais déjà.
 
-- **ä** : un peu comme le "è" de "père" — {{Mädchen}} (fille)
-- **ö** : un son qu'on ne fait pas en français, entre "eu" et "o" — {{schön}} (beau/joli)
-- **ü** : un peu comme le "u" français, mais plus arrondi — {{für}} (pour)
+- **ä** se dit comme le « è » de « père » — {{Mädchen}} (fille)
+- **ö** se dit comme le « eu » de « peur » — {{schön}} (beau, joli)
+- **ü** se dit comme le « u » de « tu » — {{für}} (pour)
 
----
-
-## ß : la lettre qui n'existe qu'en allemand
-
-Cette lettre, appelée *Eszett*, se prononce tout simplement comme un "s". Tu la croiseras vite, par exemple dans le mot {{Straße}} (la rue). Amusant à savoir : c'est la seule langue du monde à l'utiliser !
+Les Anglais ont beaucoup de mal avec ces sons. Toi, non !
 
 ---
 
-## Attention aux pièges
+## Le vrai piège : le u tout seul
 
-Certaines lettres se prononcent très différemment du français :
+Sans ses deux points, le **u** allemand se dit **« ou »**. C'est LE piège numéro un pour un Français :
+
+| Mot | Se prononce | Français |
+|-----|-------------|----------|
+| {{gut}} | « gout » | bien |
+| {{Hund}} | « hount » | chien |
+| {{Mutter}} | « moutteur » | mère |
+
+---
+
+## Les paires de lettres
+
+Certaines lettres vont par deux et font un seul son :
+
+| Lettres | Se prononce | Exemple |
+|---------|-------------|---------|
+| ei | « aï » | {{nein}} → « naïn » (non) |
+| ie | « i » | {{vier}} → « fir » (quatre) |
+| eu | « oï » | {{neun}} → « noïn » (neuf) |
+| sch | « ch » | {{Schule}} → « choule » (école) |
+
+Astuce pour **ei** et **ie** : c'est toujours la **deuxième** lettre qu'on entend. {{ein}} → « aïn », {{die}} → « di ».
+
+---
+
+## Les consonnes qui changent
 
 | Lettre | Se prononce | Exemple |
 |--------|-------------|---------|
-| w | comme un "v" français | {{Wasser}} → "Vasser" |
-| v | comme un "f" français | {{Vater}} → "Fater" |
-| z | comme "ts" | {{Zimmer}} → "Tsimmer" |
+| w | comme un « v » | {{Wasser}} → « vasser » (eau) |
+| v | comme un « f » | {{Vater}} → « fater » (père) |
+| z | comme « ts » | {{Zimmer}} → « tsimmer » (pièce) |
+| j | comme un « y » | {{ja}} → « ya » (oui) |
+| h | on l'entend, comme un souffle | {{Haus}} → « Haouss » (maison) |
+| s + voyelle | comme un « z » | {{Sofa}} → « zofa » |
+| sp, st en début de mot | « chp », « cht » | {{Stadt}} → « chtatt » (ville) |
+
+Et à la fin d'un mot, le **e** se prononce toujours un peu, comme un petit « e » de « le » : {{Danke}} se dit « dan-ke », pas « dank ».
 
 ---
 
-## Le son ch
+## ß : un double s
 
-Le "ch" allemand n'existe pas en français. Il ressemble un peu au bruit qu'on fait en se raclant doucement la gorge — pas besoin de forcer, juste souffler ! Tu l'entendras dans des mots comme {{auch}} (aussi) ou {{noch}} (encore).
+Cette lettre, appelée *Eszett*, se prononce tout simplement comme « ss ». Tu la croiseras vite, par exemple dans {{Straße}} (la rue). Aucune autre langue ne l'utilise — et même les Suisses allemands écrivent « ss » à la place !
+
+---
+
+## Les deux « ch »
+
+Le **ch** allemand n'existe pas en français, et il y en a deux sortes :
+
+- **Après a, o, u** : un son qui gratte un peu au fond de la gorge, comme un chat qui crache doucement — {{auch}} (aussi), {{Buch}} (livre).
+- **Partout ailleurs** : un son tout doux, comme quand tu souffles « chhh » en souriant, la langue près des dents — {{ich}} (je), {{Mädchen}} (fille).
+
+Pas besoin de forcer : écoute les cartes audio et imite. Le deuxième « ch », tu l'entendras tout le temps, parce que {{ich}} veut dire « je » !
 
 ---
 
 ## L'accent tombe au début
 
-En français, on accentue plutôt la fin des mots. En allemand, c'est souvent l'inverse : l'accent tombe sur la première syllabe. Par exemple, {{Hallo}} se dit "HA-llo", pas "ha-LLO" !
+En français, on appuie plutôt sur la fin des mots. En allemand, c'est souvent l'inverse : on appuie sur la première syllabe. {{Mama}} se dit « MA-ma », {{Vater}} « FA-ter », {{Danke}} « DAN-ke ».
 
 ---
 
 ## On s'entraîne
 
-! Hallo
-> salut
-> Hallo = salut
+! Gut!
+> Bien !
+> Gut = bien
++ Le u se dit « ou » : « gout ».
 
-! Danke
-> merci
-> Danke = merci
+! Nein, danke.
+> Non, merci.
+> Nein = non
+> danke = merci
++ ei = « aï » : « naïn ».
 
-! Bitte
-> s'il te plaît / de rien
-> Bitte = s'il te plaît / de rien
+! Ich auch!
+> Moi aussi !
+> Ich = je, moi
+> auch = aussi
++ Les deux « ch » dans une seule phrase : le doux dans {{ich}}, celui qui gratte dans {{auch}}.
+
+! Schön!
+> Joli !
+> Schön = beau, joli
++ sch = « ch », et ö = « eu » : « cheun ».

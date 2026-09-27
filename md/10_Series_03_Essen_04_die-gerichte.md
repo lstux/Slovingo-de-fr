@@ -112,8 +112,8 @@ Comme **sprechen** (sprichst du), **schlafen** (du schläfst) et **essen** (du i
 > Ich nehme ein Eis = je prends une glace
 
 ! Das Brötchen mit Honig ist sehr lecker.
-> Le petit pain au miel est très délicieux.
-> Das Brötchen mit Honig ist sehr lecker = le petit pain au miel est très délicieux
+> Le petit pain au miel est vraiment délicieux.
+> Das Brötchen mit Honig ist sehr lecker = le petit pain au miel est vraiment délicieux
 
 ! Wir essen Pfannkuchen mit Marmelade.
 > Nous mangeons des crêpes avec de la confiture.

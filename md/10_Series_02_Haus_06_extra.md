@@ -74,8 +74,8 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Haus est réuni, puis r
 > sind in der Küche = sont dans la cuisine
 
 ! Meine Bücher sind im Regal.
-> Mes livres sont dans l'étagère.
-> Meine Bücher sind im Regal = mes livres sont dans l'étagère
+> Mes livres sont sur l'étagère.
+> Meine Bücher sind im Regal = mes livres sont sur l'étagère
 
 ! Wo ist mein Spielzeug? Es ist unter dem Bett.
 > Où est mon jouet ? Il est sous le lit.

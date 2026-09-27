@@ -94,10 +94,10 @@ Version courte et sympa pour dire au revoir, entre copains ou en famille. Il exi
 > Freund = copain
 
 ! Heute ist ein guter Tag.
-> Aujourd'hui est un bon jour.
+> Aujourd'hui, c'est une bonne journée.
 > Heute = aujourd'hui
 > ist = est
-> ein guter Tag = un bon jour
+> ein guter Tag = une bonne journée
 
 ! Tschüss, Freundin!
 > Salut, copine !

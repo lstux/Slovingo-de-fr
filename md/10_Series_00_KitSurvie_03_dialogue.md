@@ -49,9 +49,10 @@ Tu rencontres Lea pour la première fois. On termine le kit en apprenant à te p
 > Ich heiße = je m'appelle
 + Le schéma **{{Ich heiße}}** + ton prénom fonctionne pour te présenter n'importe où.
 
-🐰 ! Schön, dich zu kennen, [USER_NAME]!
-> Ravie de te connaître, [USER_NAME] !
-> Schön, dich zu kennen = ravi(e) de te connaître
+🐰 ! Schön, dich kennenzulernen, [USER_NAME]!
+> Ravie de faire ta connaissance, [USER_NAME] !
+> Schön = chouette
+> dich kennenzulernen = de faire ta connaissance
 
 🦊 ! Sprichst du Französisch?
 > Tu parles français ?
@@ -105,26 +106,27 @@ Tu rencontres Lea pour la première fois. On termine le kit en apprenant à te p
 |---------|----------|
 | viel | beaucoup |
 | der Name | le nom |
-| kennen | connaître |
+| freut mich | enchanté(e) |
 | Englisch | anglais (la langue) |
 
 ---
 
 ## Encore quelques phrases
 
-! Danke viel!
+! Vielen Dank!
 > Merci beaucoup !
-> Danke viel = merci beaucoup
+> Vielen Dank = merci beaucoup
++ Littéralement « beaucoup de mercis ». On peut aussi dire {{Danke schön!}}
 
 ! Wie ist dein Name?
 > Quel est ton nom ?
 > Wie ist dein Name = quel est ton nom
 + Une autre façon de demander le prénom de quelqu'un, en plus de {{Wie heißt du}}.
 
-🐰 ! Es ist schön, dich zu kennen, [USER_NAME].
-> C'est chouette de te connaître, [USER_NAME].
-> Es ist schön = c'est chouette
-> dich zu kennen = de te connaître
+🐰 ! Freut mich, [USER_NAME]!
+> Enchantée, [USER_NAME] !
+> Freut mich = enchanté(e)
++ Plus court que {{Schön, dich kennenzulernen}}, et ça veut dire la même chose.
 
 ! Entschuldigung, sprichst du Englisch?
 > Pardon, tu parles anglais ?

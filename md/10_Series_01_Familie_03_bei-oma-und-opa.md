@@ -37,7 +37,7 @@ Même logique que {{mein}}/{{meine}} : **{{dein}}** devant un mot masculin ou ne
 |---------|----------|
 | dein Haus | ta maison *(attention : Haus est neutre → dein)* |
 | dein Garten | ton jardin |
-| deine Katze | ta chatte / ton chat |
+| deine Katze | ton chat *(die Katze est féminin en allemand, alors que « chat » est masculin en français !)* |
 
 ---
 

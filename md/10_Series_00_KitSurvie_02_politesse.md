@@ -67,10 +67,11 @@ Ce mot sert à dire « pardon », que ce soit pour s'excuser ou pour interpeller
 > Entschuldigung = pardon
 + Tu le dis quand tu marches sur le pied de quelqu'un, ou pour demander poliment ton chemin.
 
-! Danke auch!
-> Merci aussi !
-> Danke = merci
+! Ich auch!
+> Moi aussi !
+> Ich = moi
 > auch = aussi
++ Parfait pour répondre sans tout répéter : « J'ai faim ! » — « Moi aussi ! »
 
 ---
 

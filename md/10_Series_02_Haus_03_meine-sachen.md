@@ -74,9 +74,9 @@ Bonne nouvelle : au pluriel, l'article devient toujours **{{die}}**, quel que so
 ## On révise
 
 ! Wo sind meine Bücher? Sie sind im Regal.
-> Où sont mes livres ? Ils sont dans l'étagère.
+> Où sont mes livres ? Ils sont sur l'étagère.
 > Wo sind meine Bücher = où sont mes livres
-> Sie sind im Regal = ils sont dans l'étagère
+> Sie sind im Regal = ils sont sur l'étagère
 
 ! Meine Spielzeuge sind auf dem Teppich.
 > Mes jouets sont sur le tapis.

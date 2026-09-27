@@ -93,7 +93,7 @@ Simple : **fahren** pour tout ce qui roule (bus, tram, train, voiture), **gehen*
 
 **Le tramway, une vieille histoire.** Beaucoup de villes allemandes ont un réseau de tramway très ancien, parfois plus de cent ans — certains ont même commencé avec des chevaux avant d'être électrifiés !
 
-**Les vélos partout.** L'Allemagne est réputée pour son grand nombre de pistes cyclables : dans beaucoup de villes, presque autant de gens se déplacent à vélo qu'en voiture.
+**Les vélos partout.** L'Allemagne a beaucoup de pistes cyclables. À {{Münster}}, dans le nord-ouest, il y a même plus de vélos que d'habitants !
 
 ---
 

@@ -114,9 +114,9 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Tiere est réuni, puis 
 > Der Vogel hat Flügel = l'oiseau a des ailes
 > und fliegt zum Nest = et vole jusqu'au nid
 
-! Die Ziege isst Gras im Gehege.
+! Die Ziege frisst Gras im Gehege.
 > La chèvre mange de l'herbe dans l'enclos.
-> Die Ziege isst Gras im Gehege = la chèvre mange de l'herbe dans l'enclos
+> Die Ziege frisst Gras im Gehege = la chèvre mange de l'herbe dans l'enclos
 
 ! Das Schaf ist auf der Wiese, das Pferd läuft schnell.
 > Le mouton est dans le pré, le cheval court vite.

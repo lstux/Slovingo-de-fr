@@ -64,9 +64,9 @@ Les jouets. Et une formule simple pour dire avec quoi on joue : **spielen mit**.
 > Les blocs de construction sont colorés.
 > Die Bauklötze sind bunt = les blocs de construction sont colorés
 
-! Ich mag Brettspiele sehr.
+! Ich mag Brettspiele sehr gern.
 > J'aime beaucoup les jeux de société.
-> Ich mag Brettspiele sehr = j'aime beaucoup les jeux de société
+> Ich mag Brettspiele sehr gern = j'aime beaucoup les jeux de société
 
 ! Mein Spielzeug ist im Zimmer.
 > Mon jouet est dans la chambre.

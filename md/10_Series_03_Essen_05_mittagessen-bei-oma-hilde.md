@@ -39,9 +39,9 @@ Dimanche midi, déjeuner chez Oma Hilde. Tout le vocabulaire de la série est r�
 > Je prends une saucisse et du pain.
 > Ich nehme eine Wurst und Brot = je prends une saucisse et du pain
 
-🐨 ! Ich mag Schnitzel sehr!
+🐨 ! Ich mag Schnitzel sehr gern!
 > J'aime beaucoup l'escalope !
-> Ich mag Schnitzel sehr = j'aime beaucoup l'escalope
+> Ich mag Schnitzel sehr gern = j'aime beaucoup l'escalope
 + Mot nouveau signalé : {{mögen / ich mag}} = aimer bien. Une autre façon de dire qu'on aime quelque chose, en plus de « gern ».
 
 🦊 ! Ich mag Kartoffeln, aber ich mag kein Fleisch.
@@ -55,8 +55,8 @@ Dimanche midi, déjeuner chez Oma Hilde. Tout le vocabulaire de la série est r�
 > Nimmst du noch Apfelstrudel = tu prends encore du strudel aux pommes
 
 🦊 ! Ja, gern! Der Apfelstrudel ist sehr lecker.
-> Oui, avec plaisir ! Le strudel aux pommes est très délicieux.
-> Der Apfelstrudel ist sehr lecker = le strudel aux pommes est très délicieux
+> Oui, avec plaisir ! Le strudel aux pommes est vraiment délicieux.
+> Der Apfelstrudel ist sehr lecker = le strudel aux pommes est vraiment délicieux
 
 🐨 ! Ich möchte auch noch Apfelstrudel!
 > Moi aussi, je veux encore du strudel aux pommes !
@@ -75,9 +75,9 @@ Dimanche midi, déjeuner chez Oma Hilde. Tout le vocabulaire de la série est r�
 > Möchtest du noch mehr = tu veux encore plus
 
 🦊 ! Nein danke, ich bin satt. Es ist sehr lecker!
-> Non merci, je suis rassasié. C'est très délicieux !
+> Non merci, je suis rassasié. C'est vraiment délicieux !
 > Nein danke, ich bin satt = non merci, je suis rassasié
-> Es ist sehr lecker = c'est très délicieux
+> Es ist sehr lecker = c'est vraiment délicieux
 
 🐰 ! Oma Hilde kocht sehr gut!
 > Oma Hilde cuisine très bien !
@@ -102,8 +102,8 @@ Dimanche midi, déjeuner chez Oma Hilde. Tout le vocabulaire de la série est r�
 ## Encore quelques phrases
 
 ! Die Wurst ist sehr lecker.
-> La saucisse est très délicieuse.
-> Die Wurst ist sehr lecker = la saucisse est très délicieuse
+> La saucisse est vraiment délicieuse.
+> Die Wurst ist sehr lecker = la saucisse est vraiment délicieuse
 
 ! Ich nehme noch eine Brezel.
 > Je prends encore un bretzel.

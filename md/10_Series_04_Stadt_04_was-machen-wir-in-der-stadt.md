@@ -40,9 +40,9 @@ Ce qu'on fait en ville : voir, visiter, se promener, retrouver un ami. Encore de
 
 Encore deux verbes de la même famille que sprechen, schlafen, essen, nehmen et fahren : ils changent de voyelle avec « du » et « er/sie ». Tu reconnais le schéma de mieux en mieux !
 
-### Spazieren gehen — se promener (sans rien de spécial !)
+### Spazieren gehen — se promener
 
-En français comme en allemand, « se promener » est tout simple ici : {{spazieren gehen}}, littéralement « aller se promenant ». Pas besoin de pronom réfléchi compliqué.
+En français, on dit « **se** promener ». En allemand, pas de « se » : on dit {{spazieren gehen}}, littéralement « aller promener ». Et dans la phrase, {{spazieren}} part à la fin : {{Ich gehe im Park spazieren}}.
 
 ---
 

@@ -35,7 +35,7 @@ Pas de mot nouveau ici. Tout le vocabulaire du Kit de Survie est réuni, puis re
 | Französisch | français (la langue) |
 | viel | beaucoup |
 | der Name | le nom |
-| kennen | connaître |
+| freut mich | enchanté(e) |
 | Englisch | anglais (la langue) |
 
 ---
@@ -59,9 +59,9 @@ Pas de mot nouveau ici. Tout le vocabulaire du Kit de Survie est réuni, puis re
 > Tschüss = salut
 
 ! Heute ist ein guter Tag!
-> Aujourd'hui est un bon jour !
+> Aujourd'hui, c'est une bonne journée !
 > Heute = aujourd'hui
-> ein guter Tag = un bon jour
+> ein guter Tag = une bonne journée
 
 ! Bitte, hilf mir!
 > S'il te plaît, aide-moi !
@@ -101,10 +101,9 @@ Pas de mot nouveau ici. Tout le vocabulaire du Kit de Survie est réuni, puis re
 > Was = quoi
 > heißt das = ça veut dire
 
-! Danke viel, Freund!
-> Merci beaucoup, copain !
-> Danke viel = merci beaucoup
-> Freund = copain
+! Vielen Dank, Lea!
+> Merci beaucoup, Lea !
+> Vielen Dank = merci beaucoup
 
 ! Wie ist dein Name?
 > Comment tu t'appelles ?
@@ -115,19 +114,19 @@ Pas de mot nouveau ici. Tout le vocabulaire du Kit de Survie est réuni, puis re
 > Wie heißt du = comment tu t'appelles
 > Ich heiße = je m'appelle
 
-! Es ist schön, dich zu kennen, [USER_NAME].
-> C'est chouette de te connaître, [USER_NAME].
-> Es ist schön = c'est chouette
-> dich zu kennen = de te connaître
+! Freut mich, [USER_NAME]!
+> Enchanté(e), [USER_NAME] !
+> Freut mich = enchanté(e)
 
 ! Bitte, tschüss, [USER_NAME]!
 > De rien, salut, [USER_NAME] !
 > Bitte = de rien
 > tschüss = salut
 
-! Tschüss auch, Freundin!
-> Salut aussi, copine !
-> Tschüss auch = salut aussi
+! Ich auch! Tschüss, Freundin!
+> Moi aussi ! Salut, copine !
+> Ich auch = moi aussi
+> Tschüss = salut
 > Freundin = copine
 
 ---

@@ -136,7 +136,8 @@ En français, il faut toujours ajouter un petit mot devant un aliment : « je ma
 > Le fromage est sur la table.
 > Der Käse ist auf dem Tisch = le fromage est sur la table
 
-! Ich esse gern Ei, aber mein Bruder isst nicht gern Ei.
+! Ich esse gern Eier, aber mein Bruder isst nicht gern Eier.
 > J'aime manger des œufs, mais mon frère n'aime pas ça.
-> Ich esse gern Ei = j'aime manger des œufs
-> mein Bruder isst nicht gern Ei = mon frère n'aime pas ça
+> Ich esse gern Eier = j'aime manger des œufs
+> mein Bruder isst nicht gern Eier = mon frère n'aime pas ça
++ Eier = des œufs (pluriel de {{Ei}}).

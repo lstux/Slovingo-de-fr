@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (enfant qui regarde une carte/panneau en ville...) sur Wikimedia Commons
 
-Perdu en ville ! Le fox se retrouve un peu perdu et croise Tom par hasard. Tout le vocabulaire de la série y passe, avec quelques mots nouveaux signalés en chemin.
+Perdu en ville ! Tu ne sais plus où tu es, et tu croises Tom par hasard. Tout le vocabulaire de la série y passe, avec quelques mots nouveaux signalés en chemin.
 
 ---
 
@@ -15,11 +15,10 @@ Perdu en ville ! Le fox se retrouve un peu perdu et croise Tom par hasard. Tout 
 
 ## Le dialogue
 
-🦊 ! Tom! Ich bin verloren.
-> Tom ! Je suis perdu.
-> Tom = Tom
-> Ich bin verloren = je suis perdu
-+ Mot nouveau signalé : {{verloren}} = perdu.
+🦊 ! Tom! Ich habe mich verlaufen.
+> Tom ! Je me suis perdu.
+> Ich habe mich verlaufen = je me suis perdu
++ Mot nouveau signalé : {{sich verlaufen}} = se perdre (à pied). Attention, ne dis pas « Ich bin verloren » : ça voudrait dire « je suis fichu » !
 
 🐨 ! Was suchst du?
 > Que cherches-tu ?
@@ -40,9 +39,9 @@ Perdu en ville ! Le fox se retrouve un peu perdu et croise Tom par hasard. Tout 
 > Und dann = et ensuite
 
 🐨 ! Du siehst eine Kirche. Das Museum ist um die Ecke, neben der Kirche.
-> Tu vois une église. Le musée est après le coin, à côté de l'église.
+> Tu vois une église. Le musée est juste au coin, à côté de l'église.
 > Du siehst eine Kirche = tu vois une église
-> Das Museum ist um die Ecke = le musée est après le coin
+> Das Museum ist um die Ecke = le musée est juste au coin
 > neben der Kirche = à côté de l'église
 
 🦊 ! Ist es weit zu Fuß?

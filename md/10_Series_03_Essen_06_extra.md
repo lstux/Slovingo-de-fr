@@ -99,8 +99,8 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Essen est réuni, puis 
 > Nimmst du noch eine Brezel oder ein Brötchen = tu prends encore un bretzel ou un petit pain
 
 ! Der Apfelstrudel ist süß und sehr lecker.
-> Le strudel aux pommes est sucré et très délicieux.
-> Der Apfelstrudel ist süß und sehr lecker = le strudel aux pommes est sucré et très délicieux
+> Le strudel aux pommes est sucré et vraiment délicieux.
+> Der Apfelstrudel ist süß und sehr lecker = le strudel aux pommes est sucré et vraiment délicieux
 
 ! Ich esse wenig zum Mittagessen, aber viel zum Abendessen.
 > Je mange peu au déjeuner, mais beaucoup au dîner.
@@ -145,10 +145,10 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Essen est réuni, puis 
 > Guten Appetit = bon appétit
 > Ich nehme Kartoffeln und Gemüse = je prends des pommes de terre et des légumes
 
-! Das Eis ist kalt und süß, ich mag es sehr.
+! Das Eis ist kalt und süß, ich mag es sehr gern.
 > La glace est froide et sucrée, je l'aime beaucoup.
 > Das Eis ist kalt und süß = la glace est froide et sucrée
-> ich mag es sehr = je l'aime beaucoup
+> ich mag es sehr gern = je l'aime beaucoup
 
 ---
 
