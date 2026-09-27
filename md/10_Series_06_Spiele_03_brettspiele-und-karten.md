@@ -48,7 +48,7 @@ Comme avec **möchten**, le deuxième verbe part à la fin de la phrase, à l'in
 
 ---
 
-## Les phrases
+## Des phrases
 
 ! Ich kann würfeln.
 > Je peux lancer le dé.
@@ -76,8 +76,8 @@ Comme avec **möchten**, le deuxième verbe part à la fin de la phrase, à l'in
 > würfle = lance le dé
 
 ! Wer ist dran?
-> Qui a le tour ?
-> Wer ist dran = qui a le tour
+> C'est à qui ?
+> Wer ist dran = c'est à qui
 
 ---
 

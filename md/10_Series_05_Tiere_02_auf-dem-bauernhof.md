@@ -38,7 +38,7 @@ Amusant, non ? Presque aucun bruit d'animal ne s'écrit pareil dans les deux lan
 
 ---
 
-## Les phrases
+## Des phrases
 
 ! Die Kuh macht Muh.
 > La vache fait Meuh.

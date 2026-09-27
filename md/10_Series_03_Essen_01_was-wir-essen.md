@@ -53,7 +53,7 @@ En français, il faut toujours ajouter un petit mot devant un aliment : « je ma
 
 ---
 
-## Les phrases
+## Des phrases
 
 ! Ich esse Brot.
 > Je mange du pain.

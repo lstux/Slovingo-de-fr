@@ -46,7 +46,7 @@ En français, on dit « **se** promener ». En allemand, pas de « se » : on di
 
 ---
 
-## Les phrases
+## Des phrases
 
 ! Ich sehe die Kirche und das Museum.
 > Je vois l'église et le musée.
@@ -108,7 +108,6 @@ En français, on dit « **se** promener ». En allemand, pas de « se » : on di
 | das Programm | le programme |
 | interessant | intéressant |
 | langweilig | ennuyeux |
-| der Freund | l'ami |
 
 ---
 

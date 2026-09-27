@@ -38,7 +38,7 @@ Comme **aufräumen** et **aufwachen** (série Haus), **mitmachen** se sépare da
 
 ---
 
-## Les phrases
+## Des phrases
 
 ! Machst du mit?
 > Tu participes ?
@@ -96,7 +96,6 @@ Comme **aufräumen** et **aufwachen** (série Haus), **mitmachen** se sépare da
 
 | Deutsch | Français |
 |---------|----------|
-| der Freund / die Freundin | l'ami / l'amie |
 | das Tor | le but (au football) |
 | die Medaille | la médaille |
 | zusammen | ensemble (rappel) |

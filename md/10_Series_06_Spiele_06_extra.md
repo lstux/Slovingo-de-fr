@@ -51,7 +51,6 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Spiele est réuni, puis
 | die Mannschaft | l'équipe |
 | fair | fair-play, juste |
 | das Rennen | la course |
-| der Freund / die Freundin | l'ami / l'amie |
 | das Tor | le but |
 | die Medaille | la médaille |
 | Glückwunsch | félicitations |

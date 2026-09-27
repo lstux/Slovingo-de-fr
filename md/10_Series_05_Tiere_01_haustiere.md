@@ -10,9 +10,9 @@ Les animaux qu'on a à la maison. Et une petite surprise : au pluriel, certains 
 
 | Deutsch | Français |
 |---------|----------|
-| das Haustier | l'animal domestique |
-| der Hund | le chien |
-| die Katze | le chat |
+| das Haustier | l'animal domestique (rappel) |
+| der Hund | le chien (rappel) |
+| die Katze | le chat (rappel) |
 | der Hamster | le hamster |
 | der Vogel | l'oiseau |
 | das Kaninchen | le lapin |
@@ -50,7 +50,7 @@ Les animaux qu'on a à la maison. Et une petite surprise : au pluriel, certains 
 
 ---
 
-## Les phrases
+## Des phrases
 
 ! Ich habe einen Hund.
 > J'ai un chien.

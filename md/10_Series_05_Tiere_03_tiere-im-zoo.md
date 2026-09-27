@@ -38,7 +38,7 @@ Les grands animaux du zoo. Et une première : comparer deux choses avec **-er al
 
 ---
 
-## Les phrases
+## Des phrases
 
 ! Der Elefant ist groß.
 > L'éléphant est grand.

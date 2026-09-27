@@ -1,4 +1,4 @@
-# Kit de Survie (1/4) — Hallo !
+# Kit de Survie (1/3) — Hallo !
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (enfants qui se disent bonjour, main levée...) sur Wikimedia Commons
 
@@ -72,7 +72,9 @@ Version courte et sympa pour dire au revoir, entre copains ou en famille. Il exi
 
 **Hallo, le mot passe-partout.** En Allemagne, {{Hallo}} fonctionne à toute heure et avec presque tout le monde, un peu comme « salut » en français. C'est le premier mot que tu entendras le plus souvent.
 
-**Le sais-tu ?** En Allemagne, en Autriche et en Suisse, les gens ne se disent pas bonjour de la même façon partout ! En Bavière (sud de l'Allemagne) et en Autriche, on dit souvent **{{Servus}}** à la place de Hallo. Tu l'entendras peut-être un jour !
+**Le sais-tu ?** En Allemagne, en Autriche et en Suisse, les gens ne se disent pas bonjour de la même façon partout ! En Bavière (sud de l'Allemagne) et en Autriche, on dit souvent **{{Servus}}** à la place de Hallo. Et dans le nord, en Frise orientale, on dit **{{Moin!}}** à toute heure du jour !
+
+**Du ou Sie ?** Comme en français avec « tu » et « vous », les Allemands tutoient ({{du}}) les enfants, les copains et la famille, et vouvoient ({{Sie}}) les adultes qu'ils ne connaissent pas. Bonne nouvelle : les adultes te diront presque toujours « du ». Toi, dans ce cours, tu parles surtout avec des copains et avec Oma Hilde — donc « du » partout !
 
 ---
 

@@ -35,20 +35,21 @@ Dimanche midi, déjeuner chez Oma Hilde. Tout le vocabulaire de la série est r�
 > C'est une escalope avec des pommes de terre.
 > Das ist Schnitzel mit Kartoffeln = c'est une escalope avec des pommes de terre
 
-🐰 ! Ich nehme eine Wurst und Brot.
-> Je prends une saucisse et du pain.
-> Ich nehme eine Wurst und Brot = je prends une saucisse et du pain
+🐰 ! Ich mag kein Fleisch. Ich nehme Kartoffeln und Gemüse, bitte.
+> Je n'aime pas la viande. Je prends des pommes de terre et des légumes, s'il te plaît.
+> Ich mag kein Fleisch = je n'aime pas la viande
+> Ich nehme Kartoffeln und Gemüse = je prends des pommes de terre et des légumes
++ Tu te souviens de {{kein}} (« pas de », Kit de Survie) ? Ici, on l'utilise avec {{mögen}} : {{Ich mag kein Fleisch}}.
 
 🐨 ! Ich mag Schnitzel sehr gern!
 > J'aime beaucoup l'escalope !
 > Ich mag Schnitzel sehr gern = j'aime beaucoup l'escalope
 + Mot nouveau signalé : {{mögen / ich mag}} = aimer bien. Une autre façon de dire qu'on aime quelque chose, en plus de « gern ».
 
-🦊 ! Ich mag Kartoffeln, aber ich mag kein Fleisch.
-> J'aime les pommes de terre, mais je n'aime pas la viande.
-> Ich mag Kartoffeln = j'aime les pommes de terre
-> aber ich mag kein Fleisch = mais je n'aime pas la viande
-+ Mot nouveau signalé : {{kein}} remplace « pas de » devant un nom — différent de « nicht », qui va plutôt avec un verbe.
+🦊 ! Ich auch! Und ich mag Kartoffeln.
+> Moi aussi ! Et j'aime les pommes de terre.
+> Ich auch = moi aussi
+> ich mag Kartoffeln = j'aime les pommes de terre
 
 🐰 ! Nimmst du noch Apfelstrudel?
 > Tu prends encore du strudel aux pommes ?
@@ -82,7 +83,7 @@ Dimanche midi, déjeuner chez Oma Hilde. Tout le vocabulaire de la série est r�
 🐰 ! Oma Hilde kocht sehr gut!
 > Oma Hilde cuisine très bien !
 > Oma Hilde kocht sehr gut = Oma Hilde cuisine très bien
-+ Mot nouveau signalé : {{kochen}} = cuisiner.
++ Tu te souviens de {{kochen}} (cuisiner) ? On l'a vu dans la série Familie.
 
 🦉 ! Danke schön! Ich koche sehr gern.
 > Merci beaucoup ! J'aime beaucoup cuisiner.

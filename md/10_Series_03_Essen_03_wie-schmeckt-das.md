@@ -38,7 +38,7 @@ Comme tu l'as vu dans la série Familie, l'adjectif après **sein** ne s'accorde
 
 ---
 
-## Les phrases
+## Des phrases
 
 ! Die Suppe ist warm und lecker.
 > La soupe est chaude et délicieuse.

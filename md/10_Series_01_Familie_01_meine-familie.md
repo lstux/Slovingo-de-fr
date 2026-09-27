@@ -110,12 +110,13 @@ En allemand, **{{mein}}** ou **{{meine}}** dépend du mot qui suit — pas de qu
 > Das sind = ce sont
 > meine Eltern = mes parents
 
-! Ich habe einen Sohn und eine Tochter.
-> J'ai un fils et une fille.
-> Ich habe = j'ai
+! Meine Eltern haben einen Sohn und eine Tochter.
+> Mes parents ont un fils et une fille.
+> Meine Eltern haben = mes parents ont
 > einen Sohn = un fils
 > und = et
 > eine Tochter = une fille
++ Et le fils ou la fille… c'est peut-être toi !
 
 ! Wie heißt du?
 > Comment tu t'appelles ?

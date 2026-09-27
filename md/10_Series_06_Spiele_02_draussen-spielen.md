@@ -34,7 +34,7 @@ Pas de petit mot devant le nom d'un jeu ({{Fußball}}, {{Fangen}}) — mais il f
 
 ---
 
-## Les phrases
+## Des phrases
 
 ! Ich spiele gern Fußball.
 > J'aime jouer au football.

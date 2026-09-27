@@ -56,17 +56,22 @@ Une sortie au zoo avec Oma Hilde. Tout le vocabulaire de la série est réutilis
 > Ich mag die Zebras = j'aime les zèbres
 > Die Streifen sind schön = les rayures sont belles
 
-🦉 ! Möchtet ihr die Vögel füttern?
-> Vous voulez nourrir les oiseaux ?
-> Möchtet ihr die Vögel füttern = vous voulez nourrir les oiseaux
+🦉 ! Möchtet ihr die Ziegen füttern? Im Streichelzoo darf man das!
+> Vous voulez nourrir les chèvres ? Au mini-zoo, on a le droit !
+> Möchtet ihr die Ziegen füttern = vous voulez nourrir les chèvres
+> Im Streichelzoo = au mini-zoo (le zoo où on peut caresser)
+> darf man das = on a le droit
++ Mot nouveau signalé : {{der Streichelzoo}}. Ailleurs dans le zoo, on ne donne jamais à manger aux animaux !
 
-🐰 ! Ja, gern! Wo sind die Enten?
-> Oui, avec plaisir ! Où sont les canards ?
-> Wo sind die Enten = où sont les canards
+🐰 ! Ja, gern! Wo ist der Streichelzoo?
+> Oui, avec plaisir ! Où est le mini-zoo ?
+> Wo ist der Streichelzoo = où est le mini-zoo
 
-🦉 ! Die Enten schwimmen im Teich.
-> Les canards nagent dans l'étang.
-> Die Enten schwimmen im Teich = les canards nagent dans l'étang
+🦉 ! Da drüben, neben dem Teich. Schau mal, die Enten schwimmen!
+> Là-bas, à côté de l'étang. Regarde, les canards nagent !
+> Da drüben = là-bas
+> neben dem Teich = à côté de l'étang
+> die Enten schwimmen = les canards nagent
 + Mot nouveau signalé : {{der Teich}} = l'étang.
 
 🐨 ! Das ist toll!
@@ -78,17 +83,17 @@ Une sortie au zoo avec Oma Hilde. Tout le vocabulaire de la série est réutilis
 > Danke, Oma Hilde = merci, Oma Hilde
 > Der Zoo ist super = le zoo est génial
 
-🦉 ! Gern geschehen! Kommt, wir gehen zum Café.
+🦉 ! Gern geschehen! Kommt, wir gehen ins Café.
 > Je vous en prie ! Venez, on va au café.
 > Gern geschehen = je vous en prie
-> Kommt, wir gehen zum Café = venez, on va au café
+> Kommt, wir gehen ins Café = venez, on va au café
 + Mot nouveau signalé : {{Gern geschehen}} = je t'en prie, de rien.
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Le Streichelzoo, un coin pour toucher les animaux.** Beaucoup de zoos allemands ont un petit espace séparé, le {{Streichelzoo}} (« zoo à caresser »), où les enfants peuvent caresser et parfois nourrir des animaux de ferme comme des chèvres ou des lapins.
+**Le Streichelzoo, un coin pour toucher les animaux.** Beaucoup de zoos allemands ont un petit espace séparé, le {{Streichelzoo}} (« zoo à caresser »), où les enfants peuvent caresser des chèvres ou des moutons, et leur donner la nourriture spéciale qu'on achète sur place.
 
 **Un étang et des canards, presque partout.** Comme dans les parcs de la série Stadt, il y a souvent un petit étang avec des canards dans les zoos allemands — un classique pour les visites en famille.
 

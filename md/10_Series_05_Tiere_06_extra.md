@@ -61,6 +61,7 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Tiere est réuni, puis 
 | Schau mal | regarde |
 | das Gehege | l'enclos |
 | der Teich | l'étang |
+| der Streichelzoo | le mini-zoo (où on caresse les animaux) |
 | Gern geschehen | de rien, je t'en prie |
 
 ---
@@ -75,19 +76,20 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Tiere est réuni, puis 
 > À la ferme, il y a des vaches, des cochons et des poules.
 > Auf dem Bauernhof gibt es Kühe, Schweine und Hühner = à la ferme, il y a des vaches, des cochons et des poules
 
-! Der Löwe ist stark, aber der Affe ist schneller.
-> Le lion est fort, mais le singe est plus rapide.
+! Der Löwe ist stark, aber der Elefant ist stärker.
+> Le lion est fort, mais l'éléphant est plus fort.
 > Der Löwe ist stark = le lion est fort
-> aber der Affe ist schneller = mais le singe est plus rapide
+> aber der Elefant ist stärker = mais l'éléphant est plus fort
++ Comme {{groß}} → {{größer}}, {{stark}} prend un tréma : {{stärker}}.
 
 ! Die Giraffe ist größer als das Pferd.
 > La girafe est plus grande que le cheval.
 > Die Giraffe ist größer als das Pferd = la girafe est plus grande que le cheval
 
-! Fische schwimmen im Teich, Vögel fliegen im Gehege.
-> Les poissons nagent dans l'étang, les oiseaux volent dans l'enclos.
-> Fische schwimmen im Teich = les poissons nagent dans l'étang
-> Vögel fliegen im Gehege = les oiseaux volent dans l'enclos
+! Die Enten schwimmen im Teich, und die Vögel fliegen.
+> Les canards nagent dans l'étang, et les oiseaux volent.
+> Die Enten schwimmen im Teich = les canards nagent dans l'étang
+> und die Vögel fliegen = et les oiseaux volent
 
 ! Ich streichle mein Kaninchen und ich füttere meinen Hamster.
 > Je caresse mon lapin et je nourris mon hamster.
@@ -104,10 +106,11 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Tiere est réuni, puis 
 > Das Zebra hat Streifen = le zèbre a des rayures
 > der Bär hat Fell = l'ours a du pelage
 
-! Möchtest du die Enten füttern? Schau mal, sie schwimmen im Teich!
-> Tu veux nourrir les canards ? Regarde, ils nagent dans l'étang !
-> Möchtest du die Enten füttern = tu veux nourrir les canards
-> Schau mal, sie schwimmen im Teich = regarde, ils nagent dans l'étang
+! Möchtest du die Ziegen füttern? Schau mal, sie haben Hunger!
+> Tu veux nourrir les chèvres ? Regarde, elles ont faim !
+> Möchtest du die Ziegen füttern = tu veux nourrir les chèvres
+> Schau mal = regarde
+> sie haben Hunger = elles ont faim
 
 ! Der Vogel hat Flügel und fliegt zum Nest.
 > L'oiseau a des ailes et vole jusqu'au nid.

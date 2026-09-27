@@ -68,8 +68,6 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Essen est réuni, puis 
 | die Marmelade | la confiture |
 | Guten Appetit | bon appétit |
 | mögen / ich mag | aimer bien |
-| kein | pas de (devant un nom) |
-| kochen | cuisiner |
 
 ---
 
@@ -102,10 +100,11 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Essen est réuni, puis 
 > Le strudel aux pommes est sucré et vraiment délicieux.
 > Der Apfelstrudel ist süß und sehr lecker = le strudel aux pommes est sucré et vraiment délicieux
 
-! Ich esse wenig zum Mittagessen, aber viel zum Abendessen.
-> Je mange peu au déjeuner, mais beaucoup au dîner.
-> Ich esse wenig zum Mittagessen = je mange peu au déjeuner
-> aber viel zum Abendessen = mais beaucoup au dîner
+! Ich esse viel zum Mittagessen, aber wenig zum Abendessen.
+> Je mange beaucoup au déjeuner, mais peu au dîner.
+> Ich esse viel zum Mittagessen = je mange beaucoup au déjeuner
+> aber wenig zum Abendessen = mais peu au dîner
++ Comme beaucoup d'Allemands avec leur {{Abendbrot}} !
 
 ! Das Wasser ist kalt und frisch.
 > L'eau est froide et fraîche.

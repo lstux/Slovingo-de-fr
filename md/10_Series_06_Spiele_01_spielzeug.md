@@ -42,7 +42,7 @@ Les jouets. Et une formule simple pour dire avec quoi on joue : **spielen mit**.
 
 ---
 
-## Les phrases
+## Des phrases
 
 ! Ich spiele mit dem Ball.
 > Je joue avec le ballon.

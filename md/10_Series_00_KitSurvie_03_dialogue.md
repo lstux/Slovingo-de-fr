@@ -1,8 +1,8 @@
-# Kit de Survie (3/4) — Erste Begegnung
+# Kit de Survie (3/3) — Erste Begegnung
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (deux enfants qui se rencontrent, cour d'école...) sur Wikimedia Commons
 
-Tu rencontres Lea pour la première fois. On termine le kit en apprenant à te présenter, à dire que tu ne comprends pas, à demander si quelqu'un parle français — et un tout dernier mot nouveau, caché dans le dialogue.
+Tu rencontres Lea pour la première fois. On termine le kit en apprenant à te présenter, à dire que tu ne comprends pas, à demander si quelqu'un parle français — et à dire au revoir sans parler la même langue !
 
 ---
 
@@ -17,6 +17,8 @@ Tu rencontres Lea pour la première fois. On termine le kit en apprenant à te p
 | das heißt | ça veut dire |
 | sprichst du | tu parles |
 | Französisch | français (la langue) |
+| Deutsch | allemand (la langue) |
+| kein | pas de |
 
 ---
 
@@ -60,35 +62,41 @@ Tu rencontres Lea pour la première fois. On termine le kit en apprenant à te p
 > Französisch = français
 + Sans doute la question la plus utile de tout le kit : si la réponse est oui, la moitié de tes soucis pour communiquer disparaissent d'un coup !
 
-🐰 ! Nein, ich spreche kein Französisch.
-> Non, je ne parle pas français.
+🐰 ! Nein, ich spreche kein Französisch. Ich spreche Deutsch!
+> Non, je ne parle pas français. Je parle allemand !
 > Nein = non
-> ich spreche = je parle
-+ Pas de souci ! C'est justement pour ça que tu apprends l'allemand.
+> ich spreche kein Französisch = je ne parle pas français
+> Deutsch = allemand
++ {{kein}} veut dire « pas de » : on le met devant un nom. Tu le recroiseras souvent !
 
-🦊 ! Entschuldigung, ich verstehe nicht. Was heißt „Tschüss"?
-> Pardon, je ne comprends pas. Qu'est-ce que ça veut dire « Tschüss » ?
+🦊 ! Entschuldigung, ich verstehe nicht.
+> Pardon, je ne comprends pas.
 > Entschuldigung = pardon
 > ich verstehe nicht = je ne comprends pas
-> was heißt = qu'est-ce que ça veut dire
+
+🐰 ! Kein Problem! Tschüss, [USER_NAME]!
+> Pas de problème ! Salut, [USER_NAME] !
+> Kein Problem = pas de problème
+> Tschüss = salut
+
+🦊 ! Was heißt „Tschüss"?
+> Qu'est-ce que ça veut dire, « Tschüss » ?
+> Was heißt = qu'est-ce que ça veut dire
 + {{Tschüss}}, tu l'as déjà vu dans la fiche 1 — mais dans le dialogue, on fait comme si on le découvrait !
 
-🐰 ! „Tschüss" heißt „au revoir"!
-> « Tschüss » veut dire « au revoir » !
+🐰 ! „Tschüss" heißt… 👋
+> « Tschüss », ça veut dire… 👋
 > heißt = veut dire
++ Lea ne parle pas français : alors elle te fait signe de la main ! {{Tschüss}} = au revoir.
 
-🦊 ! Danke!
-> Merci !
+🦊 ! Ah! Danke, Lea! Tschüss!
+> Ah ! Merci, Lea ! Salut !
 > Danke = merci
+> Tschüss = salut
 
-🐰 ! Bitte! Tschüss, [USER_NAME]!
-> De rien ! Salut, [USER_NAME] !
+🐰 ! Bitte! Tschüss!
+> De rien ! Salut !
 > Bitte = de rien
-> Tschüss = salut
-
-🦊 ! Tschüss!
-> Salut !
-> Tschüss = salut
 
 ---
 

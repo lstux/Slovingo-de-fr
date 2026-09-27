@@ -42,7 +42,7 @@ Retiens ces formes telles quelles, sans chercher à comprendre toute la règle p
 
 ---
 
-## Les phrases
+## Des phrases
 
 ! Entschuldigung, wo ist die Post?
 > Excuse-moi, où est la poste ?
@@ -71,9 +71,11 @@ Retiens ces formes telles quelles, sans chercher à comprendre toute la règle p
 > L'arrêt est devant la mairie.
 > Die Haltestelle ist vor dem Rathaus = l'arrêt est devant la mairie
 
-! Danke für deine Hilfe!
-> Merci pour ton aide !
-> Danke für deine Hilfe = merci pour ton aide
+! Vielen Dank für Ihre Hilfe!
+> Merci beaucoup pour votre aide !
+> Vielen Dank = merci beaucoup
+> für Ihre Hilfe = pour votre aide
++ On demande son chemin à un adulte inconnu : on le vouvoie avec {{Ihre}} (votre). Avec un copain, on dirait {{deine Hilfe}} (ton aide).
 
 ---
 

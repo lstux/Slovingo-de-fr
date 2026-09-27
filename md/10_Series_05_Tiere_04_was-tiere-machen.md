@@ -43,7 +43,7 @@ Toujours la même famille de verbes que schlafen, fahren, sehen et treffen !
 
 ---
 
-## Les phrases
+## Des phrases
 
 ! Der Hund frisst schnell.
 > Le chien mange vite.

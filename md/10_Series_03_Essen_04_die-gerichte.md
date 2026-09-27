@@ -15,7 +15,7 @@ Des plats et boissons qu'on te servira vraiment. Et une formule magique pour com
 | der Apfelstrudel | le strudel aux pommes |
 | das Schnitzel | l'escalope panée |
 | der Apfelsaft | le jus de pomme |
-| der Kuchen | le gâteau |
+| der Kuchen | le gâteau (rappel) |
 | nehmen | prendre |
 
 ---
@@ -41,7 +41,7 @@ Comme **sprechen** (sprichst du), **schlafen** (du schläfst) et **essen** (du i
 
 ---
 
-## Les phrases
+## Des phrases
 
 ! Ich nehme eine Brezel.
 > Je prends un bretzel.

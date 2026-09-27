@@ -44,7 +44,7 @@ Ce n'est pas toujours parfaitement logique — **der Park** prend « in » alors
 
 ---
 
-## Les phrases
+## Des phrases
 
 ! Ich bin auf dem Platz.
 > Je suis sur la place.

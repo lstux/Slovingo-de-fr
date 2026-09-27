@@ -43,7 +43,7 @@ Simple : **fahren** pour tout ce qui roule (bus, tram, train, voiture), **gehen*
 
 ---
 
-## Les phrases
+## Des phrases
 
 ! Ich fahre mit dem Bus.
 > Je vais en bus.

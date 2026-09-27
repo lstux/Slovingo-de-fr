@@ -50,7 +50,7 @@ Pour dire « au petit-déjeuner », « au déjeuner », « au dîner », on util
 
 ---
 
-## Les phrases
+## Des phrases
 
 ! Ich habe Hunger.
 > J'ai faim.

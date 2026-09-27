@@ -45,6 +45,8 @@ En allemand, quand on décrit quelqu'un avec **sein** + un adjectif, l'adjectif 
 
 Pas de « e » à ajouter, pas de forme différente pour les filles et les garçons : {{klein}} reste {{klein}} !
 
+**Attention, ça marche après sein.** Quand l'adjectif est collé **devant** le nom, il prend une petite terminaison : {{ein kleines Kind}}, {{ein toller Tag}}. Pas de panique, on verra ça beaucoup plus tard — pour l'instant, retiens ces phrases telles quelles.
+
 ---
 
 ## Des phrases
@@ -64,14 +66,15 @@ Pas de « e » à ajouter, pas de forme différente pour les filles et les garç
 > ein Jahr alt = un an
 + Au singulier, on dit juste {{ein Jahr}}, sans « e » à la fin.
 
-! Ich habe ein kleines Kind.
-> J'ai un petit enfant.
-> Ich habe = j'ai
+! Meine Tante hat ein kleines Kind.
+> Ma tante a un petit enfant.
+> Meine Tante hat = ma tante a
 > ein kleines Kind = un petit enfant
++ Ici, {{klein}} est devant le nom : il devient {{kleines}}.
 
-! Meine Kinder sind klein.
-> Mes enfants sont petits.
-> Meine Kinder = mes enfants
+! Die Kinder sind klein.
+> Les enfants sont petits.
+> Die Kinder = les enfants
 > sind = sont
 > klein = petits
 + Même au pluriel, {{klein}} ne change pas !

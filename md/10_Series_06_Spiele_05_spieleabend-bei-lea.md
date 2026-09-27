@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (soirée jeux de société entre enfants...) sur Wikimedia Commons
 
-Un après-midi pluvieux, soirée jeux chez Lea. Tout le vocabulaire de la série est réutilisé, avec quelques mots nouveaux signalés en chemin.
+Un soir de pluie, soirée jeux chez Lea ! Tout le vocabulaire de la série est réutilisé, avec quelques mots nouveaux signalés en chemin.
 
 ---
 
@@ -64,10 +64,10 @@ Un après-midi pluvieux, soirée jeux chez Lea. Tout le vocabulaire de la série
 > Non, c'est moi qui gagne !
 > Nein, ich gewinne = non, c'est moi qui gagne
 
-🦉 ! Ruhig, Kinder! Wer gewinnt, gewinnt fair.
-> Du calme, les enfants ! Que le meilleur gagne fair-play.
+🦉 ! Ruhig, Kinder! Spielt fair!
+> Du calme, les enfants ! Jouez fair-play !
 > Ruhig, Kinder = du calme, les enfants
-> Wer gewinnt, gewinnt fair = que le meilleur gagne fair-play
+> Spielt fair = jouez fair-play
 
 🐰 ! Du hast recht, Oma Hilde.
 > Tu as raison, Oma Hilde.
@@ -106,8 +106,8 @@ Un après-midi pluvieux, soirée jeux chez Lea. Tout le vocabulaire de la série
 > Ich mache immer gern mit = j'aime toujours participer
 
 ! Wer ist dran? Ich glaube, ich bin dran!
-> Qui a le tour ? Je crois que c'est mon tour !
-> Wer ist dran = qui a le tour
+> C'est à qui ? Je crois que c'est mon tour !
+> Wer ist dran = c'est à qui
 > Ich glaube, ich bin dran = je crois que c'est mon tour
 
 ! Das Spiel macht viel Spaß.

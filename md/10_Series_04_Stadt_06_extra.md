@@ -64,7 +64,6 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Stadt est réuni, puis 
 | das Programm | le programme |
 | interessant | intéressant |
 | langweilig | ennuyeux |
-| der Freund | l'ami |
 | sich verlaufen | se perdre (à pied) |
 | vielleicht | peut-être |
 | Viel Spaß | amuse-toi bien |
@@ -138,11 +137,6 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Stadt est réuni, puis 
 > Der Zug hat Verspätung = le train est en retard
 > also fahre ich mit dem Taxi = alors j'y vais en taxi
 + « Verspätung haben » veut dire être en retard (pour un transport).
-
-! Das Programm ist im Bahnhof, neben der Fahrkarte.
-> Le programme est à la gare, près des tickets.
-> Das Programm ist im Bahnhof = le programme est à la gare
-> neben der Fahrkarte = près des tickets
 
 ! Das Restaurant ist vor der Kirche, an der Ecke.
 > Le restaurant est devant l'église, au coin de la rue.

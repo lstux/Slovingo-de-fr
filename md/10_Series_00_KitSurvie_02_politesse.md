@@ -1,4 +1,4 @@
-# Kit de Survie (2/4) — Bitte und Danke
+# Kit de Survie (2/3) — Bitte und Danke
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (enfants polis, partage, merci...) sur Wikimedia Commons
 

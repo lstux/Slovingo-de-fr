@@ -33,6 +33,8 @@ Pas de mot nouveau ici. Tout le vocabulaire du Kit de Survie est réuni, puis re
 | das heißt | ça veut dire |
 | sprichst du | tu parles |
 | Französisch | français (la langue) |
+| Deutsch | allemand (la langue) |
+| kein | pas de |
 | viel | beaucoup |
 | der Name | le nom |
 | freut mich | enchanté(e) |
