@@ -1,0 +1,14 @@
+# Crédits des images thématiques - Slovingo-de-fr
+# Format: style_<subgroup>.jpg | Source URL Wikimedia Commons | Licence
+#
+# Chaque image est téléchargée depuis Wikimedia Commons (licence libre)
+# Pour ajouter une image: téléchargez-la depuis l'URL source et placez-la
+# dans ce dossier avec le nom correspondant.
+
+style_introduction.jpg | https://commons.wikimedia.org/wiki/File:Classroom_with_children_learning.jpg | CC0 ou CC-BY (voir source)
+style_familie.jpg | https://commons.wikimedia.org/wiki/File:Happy_family_(1).jpg | CC0 1.0 Universal
+style_haus.jpg | https://commons.wikimedia.org/wiki/File:Living_room_(Unsplash).jpg | Public Domain / Unsplash License
+style_essen.jpg | https://commons.wikimedia.org/wiki/File:Fruit_and_vegetables.jpg | CC0 ou CC-BY (voir source)
+style_stadt.jpg | https://commons.wikimedia.org/wiki/File:Street_in_a_town.jpg | CC-BY ou CC0 (voir source)
+style_tiere.jpg | https://commons.wikimedia.org/wiki/File:Cute_animals_in_nature.jpg | CC0 ou CC-BY (voir source)
+style_spiele.jpg | https://commons.wikimedia.org/wiki/File:Happy_Children_Playing_Kids.jpg | CC0 ou CC-BY (voir source)
