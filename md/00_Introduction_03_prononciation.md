@@ -1,6 +1,6 @@
 # Introduction (3/4) — Comment ça se prononce ?
 
-@ TODO_img/enfant-qui-parle.jpg | TODO : choisir une image (enfant souriant, bulle de parole, ou bouche qui articule) sur Wikimedia Commons
+@ https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Smiling_Red_Kids.jpg/960px-Smiling_Red_Kids.jpg
 
 Bonne nouvelle : l'allemand se lit presque toujours comme il s'écrit ! Il suffit de connaître quelques habitudes, et tu pourras lire n'importe quel mot à voix haute.
 
