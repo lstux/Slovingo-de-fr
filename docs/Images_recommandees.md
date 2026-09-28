@@ -12,67 +12,77 @@ Dans `static/style.css` (repo Slovingo), ces images sont des fonds de bandeau (`
 
 Note : le CSS du repo Slovingo déclare aujourd'hui `--photo-uvod`, `--photo-rodina`, etc. (thèmes slovaques). Il faudra prévoir les variables `--photo-familie`, `--photo-haus`… côté Slovingo.
 
+On ne réutilise pas les images du cours slovaque : chaque thème de-fr a sa propre photo.
+
 ## Candidats par thème
 
-Base : `https://commons.wikimedia.org/wiki/`
-
 ### Introduction (équivalent de `uvod`)
-- `Category:Schultüte` (la cône de rentrée, très « allemand »)
-- `Category:School_children_of_Germany`
-- `File:Hohenpeißenberg_Panorama.jpg` (paysage bavarois, panorama)
-- `File:Hohenschwangau_village_(Bavaria)_(3).jpg`
-- `File:Buching_Halblech_Alpine_Village.jpg`
+- https://commons.wikimedia.org/wiki/Category:Schult%C3%BCte (la cône de rentrée, très « allemand »)
+- https://commons.wikimedia.org/wiki/Category:School_children_of_Germany
+- https://commons.wikimedia.org/wiki/File:Hohenpei%C3%9Fenberg_Panorama.jpg (paysage bavarois, panorama)
+- https://commons.wikimedia.org/wiki/File:Hohenschwangau_village_%28Bavaria%29_%283%29.jpg
+- https://commons.wikimedia.org/wiki/File:Buching_Halblech_Alpine_Village.jpg
 
 ### Kit de Survie (image à part)
-Thème : salutations, politesse, premiers mots. Pas de bonne photo d'enfants qui se saluent trouvée ; la piste la plus parlante est le panneau d'accueil multilingue :
-- `File:Welkom_willkommen_Welcome_Bienvenue_Benvenuto.jpg` (et sa version `_(cropped).jpg`) : « Willkommen » et « Bienvenue » côte à côte
-- `Category:Welcome_signs_in_Germany`, `Category:Welcome_signs`
-- `Category:Hello`, `Category:Welcoming`, `Category:Hand_waving`
-- `File:Handshake.jpg` (poignée de main, sujet adulte)
-- `File:Multilingual_speech_bubble.svg` (SVG, pas une photo)
+Thème : salutations, politesse, premiers mots. Pas de bonne photo d'enfants qui se saluent trouvée ; la piste la plus parlante est le panneau d'accueil multilingue (« Willkommen » et « Bienvenue » côte à côte) :
+- https://commons.wikimedia.org/wiki/File:Welkom_willkommen_Welcome_Bienvenue_Benvenuto.jpg
+- https://commons.wikimedia.org/wiki/File:Welkom_willkommen_Welcome_Bienvenue_Benvenuto_%28cropped%29.jpg (version recadrée)
+- https://commons.wikimedia.org/wiki/Category:Welcome_signs_in_Germany
+- https://commons.wikimedia.org/wiki/Category:Welcome_signs
+- https://commons.wikimedia.org/wiki/Category:Hello
+- https://commons.wikimedia.org/wiki/Category:Welcoming
+- https://commons.wikimedia.org/wiki/Category:Hand_waving
+- https://commons.wikimedia.org/wiki/File:Handshake.jpg (poignée de main, sujet adulte)
+- https://commons.wikimedia.org/wiki/File:Multilingual_speech_bubble.svg (SVG, pas une photo)
 
 ### Familie
-- `File:Family_eating_meal.jpg`
-- `File:A_family_and_guests_at_the_table_sharing_a_meal.jpg`
-- `Category:Families_eating`
+- https://commons.wikimedia.org/wiki/File:Family_eating_meal.jpg
+- https://commons.wikimedia.org/wiki/File:A_family_and_guests_at_the_table_sharing_a_meal.jpg
+- https://commons.wikimedia.org/wiki/Category:Families_eating
 
 ### Haus
-- `Category:Houses_in_Germany`
-- `File:Half-timbered-house_lerbach-osterode-germany.png`
-- `Category:Children's_rooms`
+- https://commons.wikimedia.org/wiki/Category:Houses_in_Germany
+- https://commons.wikimedia.org/wiki/File:Half-timbered-house_lerbach-osterode-germany.png
+- https://commons.wikimedia.org/wiki/Category:Children%27s_rooms
 
 ### Essen
-- `File:Brotscheiben_auf_dem_Frühstückstisch.jpg`
-- `File:Breakfast_table.JPG`
-- `File:Bread_rolls.JPG`
-- `Category:Breads_of_Germany`, `Category:Pretzels`
+- https://commons.wikimedia.org/wiki/File:Brotscheiben_auf_dem_Fr%C3%BChst%C3%BCckstisch.jpg
+- https://commons.wikimedia.org/wiki/File:Breakfast_table.JPG
+- https://commons.wikimedia.org/wiki/File:Bread_rolls.JPG
+- https://commons.wikimedia.org/wiki/Category:Breads_of_Germany
+- https://commons.wikimedia.org/wiki/Category:Pretzels
 
 ### Stadt
-- `File:Fußgängerzone_Rastatt.JPG` (zone piétonne)
-- `File:Rostock_Innenstadt.JPG`, `File:Bergheim_Innenstadt.JPG`
-- `File:Dülmen,_Marktplatz_--_2012.jpg`
-- `File:Alter_Markt_(Old_Market)_in_Magdeburg,_Germany_(35906583011).jpg`
-- `File:Traffic_Light_German_Complex_With_Bicycles.JPG` (feu allemand avec vélos)
-- `File:Ampelmännchen_in_Berlin.JPG`, `File:DDR_Ampelmännchen_-_rot.JPG` (l'Ampelmännchen est cité dans le Coin allemand de la doc de format)
-- `Category:Tram_tracks_in_Germany`, `Category:Streets_in_Germany_by_city`
+- https://commons.wikimedia.org/wiki/File:Fu%C3%9Fg%C3%A4ngerzone_Rastatt.JPG (zone piétonne)
+- https://commons.wikimedia.org/wiki/File:Rostock_Innenstadt.JPG
+- https://commons.wikimedia.org/wiki/File:Bergheim_Innenstadt.JPG
+- https://commons.wikimedia.org/wiki/File:D%C3%BClmen%2C_Marktplatz_--_2012.jpg
+- https://commons.wikimedia.org/wiki/File:Alter_Markt_%28Old_Market%29_in_Magdeburg%2C_Germany_%2835906583011%29.jpg
+- https://commons.wikimedia.org/wiki/File:Traffic_Light_German_Complex_With_Bicycles.JPG (feu allemand avec vélos)
+- https://commons.wikimedia.org/wiki/File:Ampelm%C3%A4nnchen_in_Berlin.JPG (l'Ampelmännchen est cité dans le Coin allemand de la doc de format)
+- https://commons.wikimedia.org/wiki/File:DDR_Ampelm%C3%A4nnchen_-_rot.JPG
+- https://commons.wikimedia.org/wiki/Category:Tram_tracks_in_Germany
+- https://commons.wikimedia.org/wiki/Category:Streets_in_Germany_by_city
 
 ### Tiere
-- `File:Kuehe_Weide_Cows_Pasture.jpg` (vaches au pré, nom allemand)
-- `File:Holstein_Cow_Grazing_01.jpg` (et `_02`, `_04`)
-- `File:Goat_at_petting_zoo.png`, `File:Chinguacousy_Park_Petting_Zoo_2022.jpg` (Streichelzoo, mais lieux non allemands)
+- https://commons.wikimedia.org/wiki/File:Kuehe_Weide_Cows_Pasture.jpg (vaches au pré, nom allemand)
+- https://commons.wikimedia.org/wiki/File:Holstein_Cow_Grazing_01.jpg (existent aussi : `_02` et `_04`)
+- https://commons.wikimedia.org/wiki/File:Goat_at_petting_zoo.png (Streichelzoo, mais lieu non allemand)
+- https://commons.wikimedia.org/wiki/File:Chinguacousy_Park_Petting_Zoo_2022.jpg (idem)
 
 ### Spiele
-- `File:Family_playing_a_board_game_(3).jpg`
-- `File:Playing_board_game_-_Play_578_1699743964830.jpg`
-- `File:Kids_playing_carrom_board.jpeg`
-- `File:Playground.jpg`, `File:Children_Playing_in_Playground.jpg` (aire de jeux)
-- `Category:Children's_board_games`, `Category:Children's_games`
+- https://commons.wikimedia.org/wiki/File:Family_playing_a_board_game_%283%29.jpg
+- https://commons.wikimedia.org/wiki/File:Playing_board_game_-_Play_578_1699743964830.jpg
+- https://commons.wikimedia.org/wiki/File:Kids_playing_carrom_board.jpeg
+- https://commons.wikimedia.org/wiki/File:Playground.jpg (aire de jeux)
+- https://commons.wikimedia.org/wiki/File:Children_Playing_in_Playground.jpg
+- https://commons.wikimedia.org/wiki/Category:Children%27s_board_games
+- https://commons.wikimedia.org/wiki/Category:Children%27s_games
 
-## Encore à trouver
+## À vérifier en vrai
 
-- **Kit de Survie** : le panneau multilingue est un bon candidat, mais à voir en vrai (cadrage, lisibilité une fois teinté en 220 px).
+- **Kit de Survie** : le panneau multilingue est un bon candidat, mais à voir (cadrage, lisibilité une fois teinté en 220 px).
 - **Stadt** : plusieurs pistes, à choisir à l'œil.
-- On ne réutilise pas les images du cours slovaque : chaque thème de-fr a sa propre photo.
 
 ## Procédure
 
