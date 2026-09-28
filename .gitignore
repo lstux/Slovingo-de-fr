@@ -23,6 +23,7 @@ Thumbs.db
 # Build
 build/
 dist/
+json/
 
 # Environment
 .env
