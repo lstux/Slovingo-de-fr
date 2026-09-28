@@ -5,4 +5,4 @@ Photos de fond des thèmes CSS, une par thème, nommées `style_<thème>.jpg` :
 
 Aucune image n'est encore en place. Candidats et procédure : [`docs/Images_recommandees.md`](../docs/Images_recommandees.md).
 
-Chaque image ajoutée doit avoir sa ligne dans `credits.txt` (fichier, URL source, licence, auteur).
+Chaque image ajoutée doit avoir sa ligne dans `credits.md` (fichier, URL source, licence, auteur).
