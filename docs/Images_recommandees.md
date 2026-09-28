@@ -14,6 +14,21 @@ Note : le CSS du repo Slovingo déclare aujourd'hui `--photo-uvod`, `--photo-rod
 
 On ne réutilise pas les images du cours slovaque : chaque thème de-fr a sa propre photo.
 
+## Choix retenus
+
+Images à télécharger puis à placer dans `img/` (licences à vérifier sur chaque page, puis à compléter dans `credits.txt`) :
+
+| Fichier | Image choisie |
+|---------|---------------|
+| `style_introduction.jpg` | https://commons.wikimedia.org/wiki/File:Hohenpei%C3%9Fenberg_Panorama.jpg |
+| `style_kitsurvie.jpg` | https://commons.wikimedia.org/wiki/File:Beetzendorf_Willkommen.jpg |
+| `style_familie.jpg` | à choisir (piste : famille en contre-jour au coucher du soleil, voir plus bas) |
+| `style_haus.jpg` | https://commons.wikimedia.org/wiki/File:Nordisches_Einfamilienhaus.jpg |
+| `style_essen.jpg` | https://commons.wikimedia.org/wiki/File:Brotscheiben_auf_dem_Fr%C3%BChst%C3%BCckstisch.jpg |
+| `style_stadt.jpg` | https://commons.wikimedia.org/wiki/File:Fu%C3%9Fg%C3%A4ngerzone_Rastatt.JPG |
+| `style_tiere.jpg` | https://commons.wikimedia.org/wiki/File:Kuehe_Weide_Cows_Pasture.jpg |
+| `style_spiele.jpg` | https://commons.wikimedia.org/wiki/File:Children_Playing_in_Playground.jpg |
+
 ## Candidats par thème
 
 ### Introduction (équivalent de `uvod`)
