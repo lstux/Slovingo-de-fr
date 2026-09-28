@@ -45,11 +45,13 @@ Les dialogues remobilisent le vocabulaire de la série dans des situations concr
 
 **Le protagoniste, c'est l'enfant lui-même.** Slovingo fournit un mécanisme intégré pour ça (déjà utilisé dans le cours sk-fr) :
 
-- **`[ASK_USER_NAME]`** : insère un champ de saisie directement dans le texte, la première fois qu'on demande le prénom (ex. `Ich heiße [ASK_USER_NAME].`)
+- **`[ASK_USER_NAME]`** : insère un champ de saisie directement dans le texte (ex. `Ich heiße [ASK_USER_NAME].`)
 - **`[USER_NAME]`** : réutilise ensuite ce prénom partout où on veut personnaliser (ex. `Freut mich, [USER_NAME]!`)
 - **Emoji du locuteur : `🦊`** — une tête d'animal plutôt qu'une silhouette humaine : plus ludique, et ça évite d'avoir à choisir un genre.
 
-Le nom de secours (si l'enfant n'a rien saisi) vient de `lang.json` → `site.user_name_default`, et le texte du champ de `site.user_name_placeholder`. Dans les exercices, les deux marqueurs sont remplacés par le prénom une fois [lstux/Slovingo#13](https://github.com/lstux/Slovingo/pull/13) fusionnée : on peut donc les utiliser aussi dans les fiches extra.
+**On le demande dès la première fiche.** `[ASK_USER_NAME]` apparaît une première fois tout au début de `00_Introduction_01_les-pays.md`, en français, avant tout contenu en allemand — comme la navigation n'est pas strictement linéaire (menu par catégories), un enfant peut atterrir sur n'importe quelle fiche en premier, et sans ça il verrait le nom de secours (`site.user_name_default`, ex. « Enfant ») dans les dialogues des séries. Le champ réapparaît ensuite dans le Kit de Survie (fiche 3, `Ich heiße [ASK_USER_NAME]`) et dans Familie (fiche 5), cette fois lié à la phrase allemande correspondante (« wie heißt du / ich heiße ») — il est alors pré-rempli avec le prénom déjà saisi, donc sans redemander vraiment.
+
+Le nom de secours (si l'enfant n'a rien saisi) vient de `lang.json` → `site.user_name_default`, et le texte du champ de `site.user_name_placeholder`. Dans les exercices, les deux marqueurs sont remplacés par le prénom (résolu par [lstux/Slovingo#13](https://github.com/lstux/Slovingo/pull/13), fusionnée) : on peut donc les utiliser aussi dans les fiches extra.
 
 ---
 

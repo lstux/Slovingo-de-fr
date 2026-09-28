@@ -6,6 +6,16 @@ Tu vas apprendre l'allemand — mais l'allemand, ça ne se parle pas que dans un
 
 ---
 
+## Avant toute chose…
+
+👋 Bienvenue dans ton aventure en allemand ! Comment tu t'appelles ?
+
+[ASK_USER_NAME]
+
+On utilisera ton prénom pour personnaliser des phrases plus tard — tu le retrouveras par exemple quand tu rencontreras Lea, une copine allemande, dans le Kit de Survie.
+
+---
+
 ## Trois pays, une langue
 
 | Pays | Capitale | Drapeau |
