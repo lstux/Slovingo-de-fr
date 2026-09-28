@@ -1,6 +1,6 @@
 # Kit de Survie (1/3) — Hallo !
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (enfants qui se disent bonjour, main levée...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/File:Children_at_school_(8720604364).jpg
 
 Pour commencer, quatre mots magiques : dire bonjour, demander « ça va ? », et dire au revoir. La réponse à « ça va ? » arrivera dans la prochaine fiche — un peu de patience !
 

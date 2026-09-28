@@ -1,6 +1,6 @@
 # Kit de Survie (3/3) — Erste Begegnung
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (deux enfants qui se rencontrent, cour d'école...) sur Wikimedia Commons
+@ https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Children_dancing%2C_Geneva.jpg/960px-Children_dancing%2C_Geneva.jpg
 
 Tu rencontres Lea pour la première fois. On termine le kit en apprenant à te présenter, à dire que tu ne comprends pas, à demander si quelqu'un parle français — et à dire au revoir sans parler la même langue !
 
