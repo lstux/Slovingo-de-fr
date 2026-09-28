@@ -23,6 +23,16 @@ Base : `https://commons.wikimedia.org/wiki/`
 - `File:Hohenschwangau_village_(Bavaria)_(3).jpg`
 - `File:Buching_Halblech_Alpine_Village.jpg`
 
+### Kit de Survie (image à part)
+Thème : salutations, politesse, premiers mots. Recherche peu fructueuse pour l'instant, seuls ces points de départ existent :
+- `Category:Hello`
+- `Category:Welcoming`
+- `Category:Hand_waving`
+- `Category:Handshakes` (par ex. `File:Handshake.jpg`)
+- `File:Multilingual_speech_bubble.svg` (bulles multilingues, mais c'est un SVG à mettre en JPEG et pas une photo)
+
+À creuser : une photo d'enfants qui se saluent, ou un paysage/scène d'accueil neutre.
+
 ### Familie
 - `File:Family_eating_meal.jpg`
 - `File:A_family_and_guests_at_the_table_sharing_a_meal.jpg`
@@ -57,7 +67,8 @@ Base : `https://commons.wikimedia.org/wiki/`
 ## Encore à trouver
 
 - **Stadt** : les deux candidats sont des places de marché ; une vue de rue plus vivante serait mieux.
-- **Kit de Survie** : dans sk-fr il n'y a pas d'image dédiée (il partage `uvod`) ; à confirmer pour de-fr.
+- **Kit de Survie** : candidat solide à trouver (voir ci-dessus).
+- On ne réutilise pas les images du cours slovaque : chaque thème de-fr a sa propre photo.
 
 ## Procédure
 
