@@ -24,14 +24,12 @@ Base : `https://commons.wikimedia.org/wiki/`
 - `File:Buching_Halblech_Alpine_Village.jpg`
 
 ### Kit de Survie (image à part)
-Thème : salutations, politesse, premiers mots. Recherche peu fructueuse pour l'instant, seuls ces points de départ existent :
-- `Category:Hello`
-- `Category:Welcoming`
-- `Category:Hand_waving`
-- `Category:Handshakes` (par ex. `File:Handshake.jpg`)
-- `File:Multilingual_speech_bubble.svg` (bulles multilingues, mais c'est un SVG à mettre en JPEG et pas une photo)
-
-À creuser : une photo d'enfants qui se saluent, ou un paysage/scène d'accueil neutre.
+Thème : salutations, politesse, premiers mots. Pas de bonne photo d'enfants qui se saluent trouvée ; la piste la plus parlante est le panneau d'accueil multilingue :
+- `File:Welkom_willkommen_Welcome_Bienvenue_Benvenuto.jpg` (et sa version `_(cropped).jpg`) : « Willkommen » et « Bienvenue » côte à côte
+- `Category:Welcome_signs_in_Germany`, `Category:Welcome_signs`
+- `Category:Hello`, `Category:Welcoming`, `Category:Hand_waving`
+- `File:Handshake.jpg` (poignée de main, sujet adulte)
+- `File:Multilingual_speech_bubble.svg` (SVG, pas une photo)
 
 ### Familie
 - `File:Family_eating_meal.jpg`
@@ -50,8 +48,13 @@ Thème : salutations, politesse, premiers mots. Recherche peu fructueuse pour l'
 - `Category:Breads_of_Germany`, `Category:Pretzels`
 
 ### Stadt
+- `File:Fußgängerzone_Rastatt.JPG` (zone piétonne)
+- `File:Rostock_Innenstadt.JPG`, `File:Bergheim_Innenstadt.JPG`
 - `File:Dülmen,_Marktplatz_--_2012.jpg`
 - `File:Alter_Markt_(Old_Market)_in_Magdeburg,_Germany_(35906583011).jpg`
+- `File:Traffic_Light_German_Complex_With_Bicycles.JPG` (feu allemand avec vélos)
+- `File:Ampelmännchen_in_Berlin.JPG`, `File:DDR_Ampelmännchen_-_rot.JPG` (l'Ampelmännchen est cité dans le Coin allemand de la doc de format)
+- `Category:Tram_tracks_in_Germany`, `Category:Streets_in_Germany_by_city`
 
 ### Tiere
 - `File:Kuehe_Weide_Cows_Pasture.jpg` (vaches au pré, nom allemand)
@@ -62,12 +65,13 @@ Thème : salutations, politesse, premiers mots. Recherche peu fructueuse pour l'
 - `File:Family_playing_a_board_game_(3).jpg`
 - `File:Playing_board_game_-_Play_578_1699743964830.jpg`
 - `File:Kids_playing_carrom_board.jpeg`
+- `File:Playground.jpg`, `File:Children_Playing_in_Playground.jpg` (aire de jeux)
 - `Category:Children's_board_games`, `Category:Children's_games`
 
 ## Encore à trouver
 
-- **Stadt** : les deux candidats sont des places de marché ; une vue de rue plus vivante serait mieux.
-- **Kit de Survie** : candidat solide à trouver (voir ci-dessus).
+- **Kit de Survie** : le panneau multilingue est un bon candidat, mais à voir en vrai (cadrage, lisibilité une fois teinté en 220 px).
+- **Stadt** : plusieurs pistes, à choisir à l'œil.
 - On ne réutilise pas les images du cours slovaque : chaque thème de-fr a sa propre photo.
 
 ## Procédure
