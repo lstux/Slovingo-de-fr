@@ -1,77 +1,67 @@
-# Images thématiques pour Slovingo-de-fr
+# Images des thèmes (`img/style_*.jpg`)
 
-Ce fichier liste les images recommandées pour chaque thème. Téléchargez-les depuis les URLs Wikimedia Commons.
+Candidats pour les photos de fond des thèmes CSS. Chaque titre ci-dessous est apparu dans une recherche sur Wikimedia Commons, donc le fichier existe. En revanche, **la licence, l'auteur et le rendu réel n'ont pas été vérifiés** (les pages de fichiers n'étaient pas consultables) : à contrôler sur la page avant de garder une image, puis à reporter dans `img/credits.txt`.
 
-## Comment télécharger
+## Ce qu'on cherche
 
-1. Cliquez sur l'URL Wikimedia Commons pour chaque image
-2. Cliquez sur le lien "Original file" ou "Download" pour obtenir l'URL directe
-3. Enregistrez dans `img/style_<theme>.jpg`
+Dans `static/style.css` (repo Slovingo), ces images sont des fonds de bandeau (`--band-height: 220px`) passés en niveaux de gris et teintés (`--photo-grayscale`, `--photo-tint`). Il faut donc :
 
----
+- une photo **large, en paysage**, avec un sujet lisible même en 220 px de haut ;
+- peu de détails fins et de texte ;
+- inutile qu'elle soit « mignonne » : la teinte du thème fait le gros du travail.
 
-## Thèmes et images recommandées
+Note : le CSS du repo Slovingo déclare aujourd'hui `--photo-uvod`, `--photo-rodina`, etc. (thèmes slovaques). Il faudra prévoir les variables `--photo-familie`, `--photo-haus`… côté Slovingo.
 
-### 1. style_introduction.jpg (Kit de Survie)
-**Description**: Enfants en classe ou en train d'apprendre, ambiance positive et ludique  
-**URL Wikimedia**: https://commons.wikimedia.org/wiki/File:Classroom_with_children_learning.jpg  
-**Alternative**: https://commons.wikimedia.org/wiki/Category:Children_in_school  
-**Licence**: CC0 ou CC-BY (voir source)
+## Candidats par thème
 
-### 2. style_familie.jpg (Familie)
-**Description**: Famille heureuse, parents avec enfants, portrait de famille joyeux  
-**URL Wikimedia**: https://commons.wikimedia.org/wiki/File:Happy_family_(1).jpg  
-**Alternative**: https://commons.wikimedia.org/wiki/File:Happy_family.jpg  
-**Licence**: CC0 1.0 Universal
+Base : `https://commons.wikimedia.org/wiki/`
 
-### 3. style_haus.jpg (Haus)
-**Description**: Intérieur de maison, salon, pièce de vie chaleureuse et accueillante  
-**URL Wikimedia**: https://commons.wikimedia.org/wiki/File:Living_room_(Unsplash).jpg  
-**Alternative**: https://commons.wikimedia.org/wiki/File:Room_interior_design.jpg  
-**Licence**: Public Domain / Unsplash License
+### Introduction (équivalent de `uvod`)
+- `Category:Schultüte` (la cône de rentrée, très « allemand »)
+- `Category:School_children_of_Germany`
+- `File:Hohenpeißenberg_Panorama.jpg` (paysage bavarois, panorama)
+- `File:Hohenschwangau_village_(Bavaria)_(3).jpg`
+- `File:Buching_Halblech_Alpine_Village.jpg`
 
-### 4. style_essen.jpg (Essen)
-**Description**: Nourriture colorée, repas familial, cuisine ludique pour enfants  
-**URL Wikimedia**: https://commons.wikimedia.org/wiki/File:Fruit_and_vegetables.jpg  
-**Alternative**: https://commons.wikimedia.org/wiki/Category:Food_photos  
-**Licence**: CC0 ou CC-BY (voir source)
+### Familie
+- `File:Family_eating_meal.jpg`
+- `File:A_family_and_guests_at_the_table_sharing_a_meal.jpg`
+- `Category:Families_eating`
 
-### 5. style_stadt.jpg (Stadt)
-**Description**: Rue vivante, ville accueillante pour enfants, bâtiments colorés  
-**URL Wikimedia**: https://commons.wikimedia.org/wiki/File:Street_in_a_town.jpg  
-**Alternative**: https://commons.wikimedia.org/wiki/Category:Urban_scenes  
-**Licence**: CC-BY ou CC0 (voir source)
+### Haus
+- `Category:Houses_in_Germany`
+- `File:Half-timbered-house_lerbach-osterode-germany.png`
+- `Category:Children's_rooms`
 
-### 6. style_tiere.jpg (Tiere)
-**Description**: Animaux mignons, créatures diverses (chats, chiens, oiseaux, etc.)  
-**URL Wikimedia**: https://commons.wikimedia.org/wiki/File:Cute_animals_in_nature.jpg  
-**Alternative**: https://commons.wikimedia.org/wiki/Category:Animal_photographs  
-**Licence**: CC0 ou CC-BY (voir source)
+### Essen
+- `File:Brotscheiben_auf_dem_Frühstückstisch.jpg`
+- `File:Breakfast_table.JPG`
+- `File:Bread_rolls.JPG`
+- `Category:Breads_of_Germany`, `Category:Pretzels`
 
-### 7. style_spiele.jpg (Spiele)
-**Description**: Enfants jouant, jeux de société, activités ludiques en groupe  
-**URL Wikimedia**: https://commons.wikimedia.org/wiki/File:Happy_Children_Playing_Kids.jpg  
-**Alternative**: https://commons.wikimedia.org/wiki/Category:Children_playing  
-**Licence**: CC0 ou CC-BY (voir source)
+### Stadt
+- `File:Dülmen,_Marktplatz_--_2012.jpg`
+- `File:Alter_Markt_(Old_Market)_in_Magdeburg,_Germany_(35906583011).jpg`
 
----
+### Tiere
+- `File:Kuehe_Weide_Cows_Pasture.jpg` (vaches au pré, nom allemand)
+- `File:Holstein_Cow_Grazing_01.jpg` (et `_02`, `_04`)
+- `File:Goat_at_petting_zoo.png`, `File:Chinguacousy_Park_Petting_Zoo_2022.jpg` (Streichelzoo, mais lieux non allemands)
 
-## Notes
+### Spiele
+- `File:Family_playing_a_board_game_(3).jpg`
+- `File:Playing_board_game_-_Play_578_1699743964830.jpg`
+- `File:Kids_playing_carrom_board.jpeg`
+- `Category:Children's_board_games`, `Category:Children's_games`
 
-- Toutes les images doivent être **libres de droits** (CC0, CC-BY, Public Domain, etc.)
-- Préférer **Wikimedia Commons** pour les licences claires et les sources vérifiables
-- Redimensionner à ~600-800px de large pour cohérence
-- Ajouter l'URL source finale dans `img/credits.txt`
+## Encore à trouver
 
----
+- **Stadt** : les deux candidats sont des places de marché ; une vue de rue plus vivante serait mieux.
+- **Kit de Survie** : dans sk-fr il n'y a pas d'image dédiée (il partage `uvod`) ; à confirmer pour de-fr.
 
-## Téléchargement rapide (avec curl/wget)
+## Procédure
 
-Une fois que vous avez l'URL directe de Wikimedia, vous pouvez télécharger directement :
-
-```bash
-cd slovingo-de-fr/img
-
-# Exemple - remplacer par l'URL réelle du fichier
-wget https://upload.wikimedia.org/wikipedia/commons/...  -O style_introduction.jpg
-```
+1. Ouvrir la page du fichier, vérifier licence et auteur.
+2. Télécharger l'original, recadrer en paysage, ~1200 px de large, JPEG.
+3. Enregistrer sous `img/style_<nom>.jpg`.
+4. Ajouter dans `img/credits.txt` : fichier, URL source, licence, auteur.
