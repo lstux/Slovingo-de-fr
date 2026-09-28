@@ -1,6 +1,6 @@
 # Série Familie (5/5) — Bei Lea zu Hause
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (goûter en famille, enfants et grand-mère, gâteau...) sur Wikimedia Commons
+@ https://upload.wikimedia.org/wikipedia/commons/8/81/Birthday_party_with_party_horns.JPG
 
 Tu vas chez Lea ! Tu rencontres son ami Tom et sa grand-mère, Oma Hilde. Aucun mot nouveau ici : tout ce que tu vas lire, tu le connais déjà.
 

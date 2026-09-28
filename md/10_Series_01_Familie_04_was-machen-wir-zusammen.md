@@ -1,6 +1,6 @@
 # Série Familie (4/5) — Was machen wir zusammen?
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (famille qui joue, cuisine ensemble, chante...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/File:Children%27s_Games_.jpg
 
 Qu'est-ce qu'on fait en famille ? On apprend nos premiers verbes d'action — et un petit mot magique qui veut dire « avec plaisir ».
 

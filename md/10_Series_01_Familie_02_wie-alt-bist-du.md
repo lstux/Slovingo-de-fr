@@ -1,6 +1,6 @@
 # Série Familie (2/5) — Wie alt bist du?
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (enfants d'âges différents, anniversaire...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/File:Kids_and_cake_3.jpg
 
 On agrandit la famille avec les enfants, et on apprend à dire son âge. Bonne nouvelle : en allemand, pas besoin d'accorder les mots comme « petit/petite » selon qui on décrit — un vrai cadeau !
 

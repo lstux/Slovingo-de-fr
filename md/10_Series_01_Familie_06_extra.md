@@ -1,6 +1,6 @@
 # Série Familie (extra) — Alles zusammen
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (grande famille réunie, album photo...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/File:Happy_Family_Members.JPG
 
 Pas de mot nouveau ici. Tout le vocabulaire de la série Familie est réuni, puis recombiné dans de nouvelles phrases. En route pour la prochaine série !
 

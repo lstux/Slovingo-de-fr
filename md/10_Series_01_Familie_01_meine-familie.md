@@ -1,6 +1,6 @@
 # Série Familie (1/5) — Meine Familie
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (portrait de famille, enfant avec parents...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/File:Happy_family.jpg
 
 Première fiche de la série : les membres de la famille, le mot magique **mein/meine** (mon/ma), et un verbe que tu utiliseras partout — **sein** (être).
 
