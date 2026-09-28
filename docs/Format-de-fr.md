@@ -247,6 +247,7 @@ Tant que l'image n'est pas choisie : `@ TODO_img/choisir-image.jpg | TODO : choi
 - **Français** : naturel pour un enfant (~8-12 ans), pas trop formel. Attention aux tournures fautives (« très délicieux » → « vraiment délicieux » / « trop bon »).
 - **Deutsch** : allemand courant, celui qu'un enfant allemand dirait.
 - Éviter les idiomes qui ne se traduisent pas directement ; préférer une explication.
+- **Pas d'accord de genre côté français sur ce que dit ou vit l'enfant** (🦊, ou « tu »/« je » générique) : on ne sait pas si c'est un garçon ou une fille. Éviter tout adjectif ou participe accordable le concernant (« je suis perdu/perdue », « tu es prêt/prête », « je suis assis/assise », « tu es invité/invitée »…) — reformuler avec un verbe ou une tournure invariable (« j'ai perdu mon chemin », « en route pour... », « je m'assois », « tu vas chez... »). Ça ne concerne pas les autres personnages (Oma, Lea...), dont le genre est connu et l'accord correct attendu (« elle est fatiguée »).
 
 ### Pièges déjà rencontrés (à ne pas refaire)
 
@@ -260,6 +261,7 @@ Tant que l'image n'est pas choisie : `@ TODO_img/choisir-image.jpg | TODO : choi
 | Ich mag Pferde sehr | Ich mag Pferde sehr gern / Ich liebe Pferde |
 | Danke für deine Hilfe (à un adulte inconnu) | Vielen Dank für Ihre Hilfe |
 | Geh links! | Geh nach links! |
+| Je suis perdu / Tu es prêt / Je suis assis (genre non-neutre pour 🦊/l'enfant) | J'ai perdu mon chemin / En route pour... / Je m'assois |
 
 ---
 
@@ -293,6 +295,7 @@ Le nombre de cartes audio dans `json/*.content.json` doit correspondre au nombre
 - [ ] Fiche extra (06) : tableau complet, aucun mot nouveau
 - [ ] Noms de fichiers et titres selon le schéma, sous-groupe déclaré dans `lang.json`
 - [ ] Ton encourageant, pas intimidant
+- [ ] Aucun accord de genre en français sur ce que dit/vit l'enfant (🦊, tu, je)
 
 ---
 

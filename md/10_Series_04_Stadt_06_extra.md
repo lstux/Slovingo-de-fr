@@ -128,8 +128,8 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Stadt est réuni, puis 
 > in der Eisdiele = au glacier
 
 ! Ich habe mich verlaufen!
-> Je me suis perdu !
-> Ich habe mich verlaufen = je me suis perdu
+> J'ai perdu mon chemin !
+> Ich habe mich verlaufen = j'ai perdu mon chemin
 
 ! Das ist einfach!
 > C'est facile !

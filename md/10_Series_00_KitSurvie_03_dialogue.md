@@ -102,7 +102,7 @@ Tu rencontres Lea pour la première fois. On termine le kit en apprenant à te p
 
 ## 🇩🇪 Coin allemand
 
-**« Ich verstehe nicht », ta phrase de secours.** Retiens bien cette phrase : elle te sortira de toutes les situations où tu es perdu. Personne ne t'en voudra de ne pas tout comprendre — c'est normal quand on apprend !
+**« Ich verstehe nicht », ta phrase de secours.** Retiens bien cette phrase : elle te sortira de toutes les situations où tu ne comprends pas. Personne ne t'en voudra de ne pas tout comprendre — c'est normal quand on apprend !
 
 **Sprichst du... ?** Le schéma **{{Sprichst du}}** + une langue fonctionne pour n'importe quelle langue : {{Sprichst du Englisch?}} (tu parles anglais ?), {{Sprichst du Spanisch?}} (tu parles espagnol ?). Un outil à garder sous le coude !
 

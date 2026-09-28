@@ -102,8 +102,8 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Haus est réuni, puis r
 > aber ich schlafe nicht = mais moi je ne dors pas
 
 ! Ich sitze auf dem Sofa und ich lese ein Buch.
-> Je suis assis sur le canapé et je lis un livre.
-> Ich sitze auf dem Sofa = je suis assis sur le canapé
+> Je m'assois sur le canapé et je lis un livre.
+> Ich sitze auf dem Sofa = je m'assois sur le canapé
 > und ich lese ein Buch = et je lis un livre
 
 ! Ich räume lieber mein Zimmer auf, als zu schlafen!

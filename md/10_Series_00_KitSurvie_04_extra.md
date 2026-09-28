@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (récapitulatif, carnet de voyage...) sur Wikimedia Commons
 
-Pas de mot nouveau ici. Tout le vocabulaire du Kit de Survie est réuni, puis recombiné dans de nouvelles phrases. Tu es prêt pour la série Familie !
+Pas de mot nouveau ici. Tout le vocabulaire du Kit de Survie est réuni, puis recombiné dans de nouvelles phrases. En route pour la série Familie !
 
 ---
 

@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (grande famille réunie, album photo...) sur Wikimedia Commons
 
-Pas de mot nouveau ici. Tout le vocabulaire de la série Familie est réuni, puis recombiné dans de nouvelles phrases. Tu es prêt pour la prochaine série !
+Pas de mot nouveau ici. Tout le vocabulaire de la série Familie est réuni, puis recombiné dans de nouvelles phrases. En route pour la prochaine série !
 
 ---
 

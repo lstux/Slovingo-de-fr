@@ -38,7 +38,7 @@ Comme en français, on utilise « avoir » ({{haben}}) : facile !
 | du möchtest | tu voudrais |
 | er/sie möchte | il/elle voudrait |
 
-C'est LA formule pour demander poliment. Avec {{bitte}} en plus, tu es parfait !
+C'est LA formule pour demander poliment. Avec {{bitte}} en plus, c'est parfait !
 
 ### Zum Frühstück — au petit-déjeuner
 
@@ -133,4 +133,4 @@ Pour dire « au petit-déjeuner », « au déjeuner », « au dîner », on dit 
 > Non merci, je n'ai plus faim.
 > Nein danke = non merci
 > ich bin satt = je n'ai plus faim
-+ En allemand, on dit littéralement « je suis rassasié ». Pas de « je n'ai plus faim » !
++ En allemand, on dit littéralement qu'on est rassasié. Pas de « je n'ai plus faim » !

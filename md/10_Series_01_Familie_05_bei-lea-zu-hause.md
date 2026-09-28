@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (goûter en famille, enfants et grand-mère, gâteau...) sur Wikimedia Commons
 
-Tu es invité chez Lea ! Tu rencontres son ami Tom et sa grand-mère, Oma Hilde. Aucun mot nouveau ici : tout ce que tu vas lire, tu le connais déjà.
+Tu vas chez Lea ! Tu rencontres son ami Tom et sa grand-mère, Oma Hilde. Aucun mot nouveau ici : tout ce que tu vas lire, tu le connais déjà.
 
 ---
 

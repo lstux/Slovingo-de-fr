@@ -77,7 +77,7 @@ Ce mot sert à dire « pardon », que ce soit pour s'excuser ou pour interpeller
 
 ## 🇩🇪 Coin allemand
 
-**« Danke » sans arrêt.** En Allemagne, on dit merci très souvent, presque à chaque échange ! Le boulanger te donne ton pain : {{danke}}. Tu paies à la caisse : {{danke}}. C'est juste la politesse normale, ne sois pas surpris — c'est comme ça que ça marche.
+**« Danke » sans arrêt.** En Allemagne, on dit merci très souvent, presque à chaque échange ! Le boulanger te donne ton pain : {{danke}}. Tu paies à la caisse : {{danke}}. C'est juste la politesse normale — pas de panique, c'est comme ça que ça marche.
 
 **Bitte, le mot magique.** Retiens bien : si quelqu'un te dit {{danke}}, tu peux toujours répondre {{Bitte}} — ça marche à tous les coups !
 

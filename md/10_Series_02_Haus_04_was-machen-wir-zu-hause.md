@@ -69,8 +69,8 @@ Pas de panique : ce genre de petit changement de voyelle concerne quelques verbe
 > viel = beaucoup
 
 ! Ich sitze auf dem Sofa.
-> Je suis assis sur le canapé.
-> Ich sitze = je suis assis
+> Je m'assois sur le canapé.
+> Ich sitze = je m'assois
 > auf dem Sofa = sur le canapé
 
 ! Ich räume mein Zimmer auf.

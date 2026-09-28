@@ -17,9 +17,9 @@ Tu as rendez-vous avec Lea au glacier… mais tu ne sais plus où tu es ! Heureu
 ## Le dialogue
 
 ! 🦊 Tom! Hallo! Ich habe mich verlaufen.
-> Tom ! Salut ! Je me suis perdu.
-> Ich habe mich verlaufen = je me suis perdu
-+ Mot nouveau signalé : {{sich verlaufen}} = se perdre (à pied). Ne dis pas « Ich bin verloren » : ça voudrait dire « je suis fichu » !
+> Tom ! Salut ! J'ai perdu mon chemin.
+> Ich habe mich verlaufen = j'ai perdu mon chemin
++ Mot nouveau signalé : {{sich verlaufen}} = se perdre (à pied). Ne dis pas « Ich bin verloren » : ça voudrait dire un truc du genre « je suis fichu » !
 
 ! 🐨 Oh! Was suchst du?
 > Oh ! Qu'est-ce que tu cherches ?
@@ -106,6 +106,6 @@ Tu as rendez-vous avec Lea au glacier… mais tu ne sais plus où tu es ! Heureu
 > nicht weit = pas loin
 
 ! Ich habe mich verlaufen. Wo ist die Schule?
-> Je me suis perdu. Où est l'école ?
-> Ich habe mich verlaufen = je me suis perdu
+> J'ai perdu mon chemin. Où est l'école ?
+> Ich habe mich verlaufen = j'ai perdu mon chemin
 > Wo ist = où est

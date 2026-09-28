@@ -138,8 +138,8 @@ Pareil pour {{kein}} → {{keinen}} et {{mein}} → {{meinen}}. Pas besoin de to
 > einen Kuchen = un gâteau
 
 ! Ich bin müde.
-> Je suis fatigué.
-> Ich bin müde = je suis fatigué
+> J'ai sommeil.
+> Ich bin müde = j'ai sommeil
 
 ! Dein Haustier ist süß!
 > Ton animal de compagnie est mignon !

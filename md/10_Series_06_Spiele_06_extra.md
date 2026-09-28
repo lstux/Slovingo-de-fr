@@ -148,4 +148,4 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Spiele est réuni, puis
 
 **Tu sais maintenant jouer en allemand !** Les jouets, l'aire de jeux, les jeux de société, proposer une partie, gagner (ou perdre) avec le sourire — de quoi jouer avec des copains allemands.
 
-**Prêt pour la suite.** Cette série clôt le grand chapitre « hors de la maison ». La suite explorera les fêtes et les moments spéciaux de l'année en Allemagne, en Autriche et en Suisse.
+**En route pour la suite.** Cette série clôt le grand chapitre « hors de la maison ». La suite explorera les fêtes et les moments spéciaux de l'année en Allemagne, en Autriche et en Suisse.
