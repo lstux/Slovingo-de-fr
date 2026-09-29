@@ -1,6 +1,6 @@
 # Série Essen (4/5) — Die Gerichte
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (bretzel, saucisse, glace, stand de nourriture...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/File:BrezelnSalz02_(cropped).JPG
 
 Les plats qu'on te servira vraiment en Allemagne. Et une formule magique pour commander : **ich nehme** (je prends).
 

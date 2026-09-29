@@ -1,6 +1,6 @@
 # Série Essen (3/5) — Wie schmeckt das?
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (enfant qui goûte, grimace ou sourire...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/File:019_Anhinga_eating_a_fish_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg
 
 Miam ou beurk ? Dire si c'est bon, sucré, salé, chaud ou froid — et dire ce qu'on aime avec **ich mag**.
 

@@ -1,6 +1,6 @@
 # Série Essen (extra) — Alles zusammen
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (grande table bien garnie, pique-nique...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/File:088_Angolan_giraffe_eating_eating_from_an_acacia_tree_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg
 
 Pas de mot nouveau ici. Tout le vocabulaire de la série Essen est réuni, puis recombiné dans de nouvelles phrases.
 

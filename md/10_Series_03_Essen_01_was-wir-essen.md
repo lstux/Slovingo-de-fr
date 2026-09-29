@@ -1,6 +1,6 @@
 # Série Essen (1/5) — Was wir essen
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (table avec pain, fromage, lait, fruits...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/File:Breakfast%5E_-_geograph.org.uk_-_2358203.jpg
 
 À table ! Les aliments de base, et deux verbes indispensables : **essen** (manger) et **trinken** (boire).
 
