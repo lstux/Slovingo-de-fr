@@ -1,6 +1,6 @@
 # Série Essen (2/5) — Ich habe Hunger
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (enfant qui mange, table du petit-déjeuner...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/File:Callospermophilus_lateralis_near_Lake_Almanor.jpg | Écureuil terrestre près du lac Almanor, Wikimedia Commons, licence libre
 
 Dire qu'on a faim ou soif, les trois repas de la journée, et demander poliment avec **ich möchte** (je voudrais).
 

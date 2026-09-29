@@ -1,6 +1,6 @@
 # Série Haus (4/5) — Was machen wir zu Hause?
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (enfant qui range, dort, lit...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/File:Bedtime_reading.jpg | Lecture au coucher, Wikimedia Commons, licence libre
 
 Ce qu'on fait dans chaque pièce, et le mot le plus simple pour dire « non » — **nicht**.
 

@@ -1,6 +1,6 @@
 # Kit de Survie (extra) — Alles zusammen
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (récapitulatif, carnet de voyage...) sur Wikimedia Commons
+@ https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Children_at_school_%288720604364%29.jpg/960px-Children_at_school_%288720604364%29.jpg | Enfants à l'école, Wikimedia Commons, licence libre
 
 Pas de mot nouveau ici. Tout le vocabulaire du Kit de Survie est réuni, puis recombiné dans de nouvelles phrases. En route pour la série Familie !
 

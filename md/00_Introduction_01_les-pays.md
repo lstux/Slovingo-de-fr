@@ -1,7 +1,5 @@
 # Introduction (1/4) — Où parle-t-on allemand ?
 
-@ TODO_img/carte-dach.jpg | TODO : choisir une image (carte simplifiée Allemagne-Autriche-Suisse, ou drapeaux des 3 pays) sur Wikimedia Commons
-
 Tu vas apprendre l'allemand — mais l'allemand, ça ne se parle pas que dans un seul pays ! Avant de commencer, un petit tour d'horizon pour savoir où tu pourras utiliser ce que tu apprends.
 
 ---
@@ -32,7 +30,7 @@ Le sais-tu ? Deux tout petits pays parlent allemand aussi : le **Liechtenstein**
 
 ## 🇩🇪 Coin allemand
 
-@ TODO_img/chateau-baviere.jpg | TODO : choisir une image d'un château bavarois (type Neuschwanstein) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/File:Castle_Neuschwanstein.jpg | Château de Neuschwanstein, Wikimedia Commons, licence libre
 
 **Un château tout droit sorti d'un conte de fées.** En Bavière, dans le sud de l'Allemagne, se trouve le château de {{Neuschwanstein}} — un vrai château avec des tours pointues, perché sur une colline. Il a inspiré des châteaux de dessins animés que tu connais peut-être déjà !
 

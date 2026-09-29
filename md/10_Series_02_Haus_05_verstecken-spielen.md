@@ -1,6 +1,6 @@
 # Série Haus (5/5) — Verstecken spielen
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (enfants qui jouent à cache-cache dans une maison...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/File:Living_room_(Unsplash).jpg | Salon, Wikimedia Commons, licence libre
 
 Retour chez Lea ! Cette fois, on joue à cache-cache dans toute la maison. Aucun mot nouveau, à part deux ou trois signalés en chemin.
 

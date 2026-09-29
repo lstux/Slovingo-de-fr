@@ -1,6 +1,6 @@
 # Série Haus (3/5) — Meine Sachen
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (jouets, livres, chambre d'enfant...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/File:Kiki-Musee-du-Jouet-Moirans39-byRundvald.jpg | Musée des jouets Kiki, Wikimedia Commons, licence libre
 
 Tes affaires : livres, jouets, et les objets du quotidien. On apprend aussi à demander où se trouve quelque chose.
 
