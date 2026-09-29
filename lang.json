@@ -115,5 +115,14 @@
       "français",
       "francais"
     ]
+  },
+  "subgroup_themes": {
+    "kitsurvie": "basics",
+    "familie": "family",
+    "haus": "house",
+    "essen": "food",
+    "stadt": "city",
+    "tiere": "animals",
+    "spiele": "games"
   }
 }

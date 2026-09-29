@@ -74,6 +74,8 @@ Exemple de nom de fichier : `10_Series_01_Familie_02_wie-alt-bist-du.md`
 
 Le « thème » du nom de fichier (`Familie`, `KitSurvie`…) donne la clé de sous-groupe dans `lang.json` → `subgroups`, **en minuscules et sans préfixe** (`"familie": "Familie"`).
 
+Le **thème visuel** de la série (couleurs, motif, photo de bandeau `img/style_<thème>.jpg`) se règle avec la même clé, dans `lang.json` → `subgroup_themes` (`"familie": "family"`). Un sous-groupe sans entrée utilise le thème `default`. Détails : [`img/README.md`](../img/README.md).
+
 ### Titres
 
 - Fiches 01 à 05 : `# Série Familie (2/5) — Wie alt bist du?`
