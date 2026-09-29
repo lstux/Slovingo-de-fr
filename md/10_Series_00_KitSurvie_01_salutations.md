@@ -1,6 +1,6 @@
 # Kit de Survie (1/3) — Hallo !
 
-@ https://commons.wikimedia.org/wiki/File:Children_at_school_(8720604364).jpg
+@ https://commons.wikimedia.org/wiki/File:Children_at_school_(8720604364).jpg | Enfants à l'école, Wikimedia Commons, licence libre
 
 Pour commencer, quatre mots magiques : dire bonjour, demander « ça va ? », et dire au revoir. La réponse à « ça va ? » arrivera dans la prochaine fiche — un peu de patience !
 

@@ -1,6 +1,6 @@
 # Série Haus (2/5) — Die Möbel
 
-@ https://commons.wikimedia.org/wiki/File:Bed_Room.jpg
+@ https://commons.wikimedia.org/wiki/File:Bed_Room.jpg | Chambre à coucher, Wikimedia Commons, licence libre
 
 Les meubles de la maison, et comment dire « dans » une pièce sans se prendre la tête.
 

@@ -1,6 +1,6 @@
 # Série Haus (1/5) — Unsere Zimmer
 
-@ https://commons.wikimedia.org/wiki/File:Living_room_(Unsplash).jpg
+@ https://commons.wikimedia.org/wiki/File:Living_room_(Unsplash).jpg | Salon, Wikimedia Commons, licence libre
 
 On visite la maison ! Les pièces, et une formule magique qui ne change jamais de forme — **es gibt** (il y a).
 

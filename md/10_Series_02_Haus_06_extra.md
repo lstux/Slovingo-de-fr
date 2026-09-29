@@ -1,6 +1,6 @@
 # Série Haus (extra) — Alles zusammen
 
-@ https://commons.wikimedia.org/wiki/File:Bedroom_Mitcham.jpg
+@ https://commons.wikimedia.org/wiki/File:Bedroom_Mitcham.jpg | Chambre Mitcham, Wikimedia Commons, licence libre
 
 Pas de mot nouveau ici. Tout le vocabulaire de la série Haus est réuni, puis recombiné dans de nouvelles phrases.
 

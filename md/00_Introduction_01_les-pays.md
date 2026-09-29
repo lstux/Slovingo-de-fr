@@ -30,7 +30,7 @@ Le sais-tu ? Deux tout petits pays parlent allemand aussi : le **Liechtenstein**
 
 ## 🇩🇪 Coin allemand
 
-@ https://commons.wikimedia.org/wiki/File:Castle_Neuschwanstein.jpg
+@ https://commons.wikimedia.org/wiki/File:Castle_Neuschwanstein.jpg | Château de Neuschwanstein, Wikimedia Commons, licence libre
 
 **Un château tout droit sorti d'un conte de fées.** En Bavière, dans le sud de l'Allemagne, se trouve le château de {{Neuschwanstein}} — un vrai château avec des tours pointues, perché sur une colline. Il a inspiré des châteaux de dessins animés que tu connais peut-être déjà !
 

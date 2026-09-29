@@ -1,6 +1,6 @@
 # Introduction (2/4) — Une langue déjà familière ?
 
-@ https://upload.wikimedia.org/wikipedia/commons/1/16/Europe_map_2020.png
+@ https://upload.wikimedia.org/wikipedia/commons/1/16/Europe_map_2020.png | Carte d'Europe 2020, Wikimedia Commons, licence libre
 
 On dit souvent que l'allemand est une langue difficile. Avant même de commencer, on va te montrer que tu en connais déjà des bouts sans le savoir !
 

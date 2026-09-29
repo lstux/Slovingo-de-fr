@@ -1,6 +1,6 @@
 # Série Essen (5/5) — Mittagessen bei Oma Hilde
 
-@ https://commons.wikimedia.org/wiki/File:Groundhog_eating_a_tulip_poplar_(57104).jpg
+@ https://commons.wikimedia.org/wiki/File:Groundhog_eating_a_tulip_poplar_(57104).jpg | Marmotte mangeant un peuplier à feuilles de tulipe, Wikimedia Commons, licence libre
 
 Dimanche midi, déjeuner chez Oma Hilde ! Tu connais presque tous les mots. Les deux ou trois nouveaux sont signalés en chemin.
 

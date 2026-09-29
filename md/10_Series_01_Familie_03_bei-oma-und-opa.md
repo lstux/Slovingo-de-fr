@@ -1,6 +1,6 @@
 # Série Familie (3/5) — Bei Oma und Opa
 
-@ https://upload.wikimedia.org/wikipedia/commons/e/e8/Maison_typique_des_%C3%AEles_frisonnes%2C_Amrum%2C_Allemagne_%2814499013013%29.jpg
+@ https://upload.wikimedia.org/wikipedia/commons/e/e8/Maison_typique_des_%C3%AEles_frisonnes%2C_Amrum%2C_Allemagne_%2814499013013%29.jpg | Maison typique des îles frisonnes, Wikimedia Commons, licence libre
 
 On va chez les grands-parents ! Nouveau verbe indispensable — **haben** (avoir) — et le mot **dein/deine** (ton/ta), le jumeau de mein/meine que tu connais déjà.
 

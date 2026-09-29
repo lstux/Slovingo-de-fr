@@ -1,6 +1,6 @@
 # Introduction (3/4) — Comment ça se prononce ?
 
-@ https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Smiling_Red_Kids.jpg/960px-Smiling_Red_Kids.jpg
+@ https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Smiling_Red_Kids.jpg/960px-Smiling_Red_Kids.jpg | Enfants souriants, Wikimedia Commons, licence libre
 
 Bonne nouvelle : l'allemand se lit presque toujours comme il s'écrit ! Il suffit de connaître quelques habitudes, et tu pourras lire n'importe quel mot à voix haute.
 

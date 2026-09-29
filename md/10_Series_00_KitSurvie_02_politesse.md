@@ -1,6 +1,6 @@
 # Kit de Survie (2/3) — Bitte und Danke
 
-@ https://commons.wikimedia.org/wiki/File:Happy_child_finds_joy.jpg
+@ https://commons.wikimedia.org/wiki/File:Happy_child_finds_joy.jpg | Enfant heureux, Wikimedia Commons, licence libre
 
 La fiche précédente t'a laissé sans réponse à « ça va ? ». La voici, avec en plus les mots qui ouvrent toutes les portes : merci, s'il te plaît, pardon.
 

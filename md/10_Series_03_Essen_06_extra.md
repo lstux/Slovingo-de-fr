@@ -1,6 +1,6 @@
 # Série Essen (extra) — Alles zusammen
 
-@ https://commons.wikimedia.org/wiki/File:088_Angolan_giraffe_eating_eating_from_an_acacia_tree_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg
+@ https://commons.wikimedia.org/wiki/File:088_Angolan_giraffe_eating_eating_from_an_acacia_tree_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg | Girafe angolaise mangeant des feuilles d'acacia, Wikimedia Commons, licence libre
 
 Pas de mot nouveau ici. Tout le vocabulaire de la série Essen est réuni, puis recombiné dans de nouvelles phrases.
 

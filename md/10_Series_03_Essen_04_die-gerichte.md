@@ -1,6 +1,6 @@
 # Série Essen (4/5) — Die Gerichte
 
-@ https://commons.wikimedia.org/wiki/File:BrezelnSalz02_(cropped).JPG
+@ https://commons.wikimedia.org/wiki/File:BrezelnSalz02_(cropped).JPG | Bretzels avec sel, Wikimedia Commons, licence libre
 
 Les plats qu'on te servira vraiment en Allemagne. Et une formule magique pour commander : **ich nehme** (je prends).
 
