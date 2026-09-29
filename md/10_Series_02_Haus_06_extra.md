@@ -1,6 +1,6 @@
 # Série Haus (extra) — Alles zusammen
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (maison vue d'ensemble, coupe de maison...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/File:Bedroom_Mitcham.jpg
 
 Pas de mot nouveau ici. Tout le vocabulaire de la série Haus est réuni, puis recombiné dans de nouvelles phrases.
 

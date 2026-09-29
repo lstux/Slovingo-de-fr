@@ -1,6 +1,6 @@
 # Série Haus (1/5) — Unsere Zimmer
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (intérieur de maison, plan de pièces...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/File:Living_room_(Unsplash).jpg
 
 On visite la maison ! Les pièces, et une formule magique qui ne change jamais de forme — **es gibt** (il y a).
 

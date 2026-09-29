@@ -1,6 +1,6 @@
 # Série Haus (2/5) — Die Möbel
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (meubles, salon meublé...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/File:Bed_Room.jpg
 
 Les meubles de la maison, et comment dire « dans » une pièce sans se prendre la tête.
 
