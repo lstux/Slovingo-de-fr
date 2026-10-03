@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (famille en visite au zoo...) sur Wikimedia Commons
 
-Une sortie au zoo avec Oma Hilde. Tout le vocabulaire de la série est réutilisé, avec quelques mots nouveaux signalés en chemin.
+{{fr:Une sortie au zoo avec mamie Hilde ! Écoute bien : tu connais presque tous les mots.}}
 
 ---
 
@@ -18,103 +18,50 @@ Une sortie au zoo avec Oma Hilde. Tout le vocabulaire de la série est réutilis
 ## Le dialogue
 
 ! 🦉 Wir sind im Zoo! Was möchtet ihr sehen?
-> Nous sommes au zoo ! Qu'est-ce que vous voulez voir ?
-> Wir sind im Zoo = nous sommes au zoo
+> On est au zoo ! Qu'est-ce que vous voulez voir ?
 > Was möchtet ihr sehen = qu'est-ce que vous voulez voir
 
 ! 🐰 Ich möchte die Giraffen sehen!
-> Je veux voir les girafes !
-> Ich möchte = je voudrais
-> die Giraffen sehen = voir les girafes
+> Je voudrais voir les girafes !
 
 ! 🐨 Schau mal, ein Elefant!
 > Regarde, un éléphant !
-> Schau mal = regarde
 + Mot nouveau signalé : {{Schau mal}} = regarde.
 
-! 🦊 Er ist so groß! Größer als ein Haus!
-> Il est tellement grand ! Plus grand qu'une maison !
-> Er ist so groß = il est tellement grand
-> Größer als ein Haus = plus grand qu'une maison
+! 🦊 Er ist so groß! Größer als ein Auto!
+> Il est tellement grand ! Plus grand qu'une voiture !
+> so groß = tellement grand
 
-! 🦉 Die Löwen sind da drüben, im Gehege.
-> Les lions sont là-bas, dans l'enclos.
-> Die Löwen sind da drüben = les lions sont là-bas
-> im Gehege = dans l'enclos
-+ Mot nouveau signalé : {{das Gehege}} = l'enclos.
+! 🐰 Und der Löwe schläft.
+> Et le lion dort.
 
-! 🐰 Der Löwe schläft.
-> Le lion dort.
-> Der Löwe schläft = le lion dort
+! 🐨 Die Affen sind lustig! Sie springen!
+> Les singes sont drôles ! Ils sautent !
 
-! 🐨 Die Affen sind lustig, sie springen viel!
-> Les singes sont drôles, ils sautent beaucoup !
-> Die Affen sind lustig = les singes sont drôles
-> sie springen viel = ils sautent beaucoup
+! 🦊 Ich mag die Zebras!
+> J'aime bien les zèbres !
 
-! 🦊 Ich mag die Zebras. Die Streifen sind schön.
-> J'aime les zèbres. Les rayures sont belles.
-> Ich mag die Zebras = j'aime les zèbres
-> Die Streifen sind schön = les rayures sont belles
+! 🦉 Möchtet ihr die Schafe füttern? Im Streichelzoo!
+> Vous voulez nourrir les moutons ? Au mini-zoo !
+> füttern = nourrir
++ Mot nouveau signalé : {{der Streichelzoo}}, le petit zoo où on peut caresser les animaux.
 
-! 🦉 Möchtet ihr die Ziegen füttern? Im Streichelzoo darf man das!
-> Vous voulez nourrir les chèvres ? Au mini-zoo, on a le droit !
-> Möchtet ihr die Ziegen füttern = vous voulez nourrir les chèvres
-> Im Streichelzoo = au mini-zoo (le zoo où on peut caresser)
-> darf man das = on a le droit
-+ Mot nouveau signalé : {{der Streichelzoo}}. Ailleurs dans le zoo, on ne donne jamais à manger aux animaux !
+! 🐰 Ja, gern!
+> Oui, avec plaisir !
 
-! 🐰 Ja, gern! Wo ist der Streichelzoo?
-> Oui, avec plaisir ! Où est le mini-zoo ?
-> Wo ist der Streichelzoo = où est le mini-zoo
-
-! 🦉 Da drüben, neben dem Teich. Schau mal, die Enten schwimmen!
-> Là-bas, à côté de l'étang. Regarde, les canards nagent !
-> Da drüben = là-bas
-> neben dem Teich = à côté de l'étang
-> die Enten schwimmen = les canards nagent
-+ Mot nouveau signalé : {{der Teich}} = l'étang.
-
-! 🐨 Das ist toll!
-> C'est génial !
-> Das ist toll = c'est génial
+! 🐨 Schau mal, die Enten schwimmen!
+> Regarde, les canards nagent !
+> die Enten = les canards
 
 ! 🦊 Danke, Oma Hilde! Der Zoo ist super!
-> Merci, Oma Hilde ! Le zoo est génial !
-> Danke, Oma Hilde = merci, Oma Hilde
-> Der Zoo ist super = le zoo est génial
+> Merci, mamie Hilde ! Le zoo, c'est super !
 
-! 🦉 Gern geschehen! Kommt, wir gehen in die Eisdiele.
-> Je vous en prie ! Venez, on va au glacier.
-> Gern geschehen = je vous en prie
+! 🦉 Kommt, wir gehen in die Eisdiele!
+> Venez, on va au glacier !
 > Kommt = venez
-> wir gehen in die Eisdiele = on va au glacier
-+ Mot nouveau signalé : {{Gern geschehen}} = je t'en prie, de rien.
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Le Streichelzoo, un coin pour toucher les animaux.** Beaucoup de zoos allemands ont un petit espace séparé, le {{Streichelzoo}} (« zoo à caresser »), où les enfants peuvent caresser des chèvres ou des moutons, et leur donner la nourriture spéciale qu'on achète sur place.
-
-**Un étang et des canards, presque partout.** Comme dans les parcs de la série Stadt, il y a souvent un petit étang avec des canards dans les zoos allemands — un classique pour les visites en famille.
-
----
-
-## Encore quelques phrases
-
-! Der Affe ist auf dem Baum.
-> Le singe est sur l'arbre.
-> Der Affe = le singe
-> auf dem Baum = sur l'arbre
-
-! Die Giraffe frisst Blätter.
-> La girafe mange des feuilles.
-> Die Giraffe frisst = la girafe mange
-> Blätter = des feuilles
-
-! Wir sehen viele Tiere im Zoo.
-> Nous voyons beaucoup d'animaux au zoo.
-> Wir sehen = nous voyons
-> viele Tiere = beaucoup d'animaux
-> im Zoo = au zoo
+{{fr:Dans le petit zoo des enfants, on peut caresser les chèvres et les moutons. Mais ailleurs dans le zoo, on ne donne jamais à manger aux animaux !}} → {{der Streichelzoo}}
