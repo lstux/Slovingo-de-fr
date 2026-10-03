@@ -32,8 +32,8 @@
 ! 🐨 Hallo! Wie heißt du?
 > Salut ! Comment tu t'appelles ?
 
-! 🦊 Ich heiße [ASK_USER_NAME]. Wie alt bist du?
-> Je m'appelle [dis-nous ton prénom]. Quel âge as-tu ?
+! 🦊 Ich heiße [USER_NAME]. Wie alt bist du?
+> Je m'appelle [USER_NAME]. Quel âge as-tu ?
 > Wie alt bist du = quel âge as-tu
 
 ! 🐨 Ich bin neun Jahre alt. Und du?
