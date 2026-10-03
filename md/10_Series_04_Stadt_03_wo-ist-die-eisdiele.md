@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (panneau de direction, feu pour piétons, carrefour...) sur Wikimedia Commons
 
-Demander son chemin, et le comprendre : à gauche, à droite, tout droit. Et une règle très importante en Allemagne : le feu rouge !
+{{fr:À gauche, à droite, tout droit… On apprend à demander son chemin, et à le comprendre !}}
 
 ---
 
@@ -13,32 +13,21 @@ Demander son chemin, et le comprendre : à gauche, à droite, tout droit. Et une
 | links | à gauche |
 | rechts | à droite |
 | geradeaus | tout droit |
-| die Ecke | le coin |
 | neben | à côté de |
-| geh | va (à pied) |
+| dann | ensuite |
+| geh! | va ! |
 
 ---
 
-## Aujourd'hui on apprend...
+## Va tout droit !
 
-### Geh! — Va !
-
-Pour donner une instruction à un copain, on prend le verbe sans la fin : {{gehen}} → **{{geh}}** !
+{{fr:Pour dire à un copain où aller, on prend le verbe aller à pied, sans la fin. Et pour une direction, on ajoute un petit mot devant gauche et droite.}}
 
 | Deutsch | Français |
 |---------|----------|
 | Geh geradeaus! | Va tout droit ! |
 | Geh nach links! | Va à gauche ! |
 | Geh nach rechts! | Va à droite ! |
-
-Pour une direction, on ajoute **{{nach}}** devant {{links}} et {{rechts}}.
-
-### Où c'est ?
-
-| Deutsch | Français |
-|---------|----------|
-| Es ist um die Ecke. | C'est juste au coin. |
-| Es ist neben der Bäckerei. | C'est à côté de la boulangerie. |
 
 ---
 
@@ -47,8 +36,6 @@ Pour une direction, on ajoute **{{nach}}** devant {{links}} et {{rechts}}.
 ! Entschuldigung, wo ist die Eisdiele?
 > Pardon, où est le glacier ?
 > Entschuldigung = pardon
-> wo ist = où est
-> die Eisdiele = le glacier
 
 ! Geh geradeaus.
 > Va tout droit.
@@ -56,24 +43,21 @@ Pour une direction, on ajoute **{{nach}}** devant {{links}} et {{rechts}}.
 > geradeaus = tout droit
 
 ! Dann nach links.
-> Ensuite à gauche.
+> Ensuite, à gauche.
 > Dann = ensuite
 > nach links = à gauche
 
 ! Nein, nicht links, rechts!
 > Non, pas à gauche, à droite !
 > nicht links = pas à gauche
-> rechts = à droite
-
-! Es ist um die Ecke.
-> C'est juste au coin.
-> Es ist = c'est
-> um die Ecke = juste au coin
 
 ! Die Eisdiele ist neben der Schule.
 > Le glacier est à côté de l'école.
-> neben = à côté de
-> der Schule = l'école
+> neben der Schule = à côté de l'école
+
+! Es ist um die Ecke.
+> C'est juste au coin de la rue.
+> um die Ecke = au coin de la rue
 
 ---
 
@@ -81,52 +65,13 @@ Pour une direction, on ajoute **{{nach}}** devant {{links}} et {{rechts}}.
 
 ! Der Park ist neben der Bäckerei.
 > Le parc est à côté de la boulangerie.
-> Der Park = le parc
 > neben der Bäckerei = à côté de la boulangerie
 
-! Vielen Dank für Ihre Hilfe!
-> Merci beaucoup pour votre aide !
-> Vielen Dank = merci beaucoup
-> für Ihre Hilfe = pour votre aide
-+ On demande son chemin à un adulte inconnu : on le vouvoie avec {{Ihre}} (votre). Avec un copain, on dirait {{deine Hilfe}} (ton aide).
+! Danke! Tschüss!
+> Merci ! Au revoir !
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Au feu rouge, on attend !** En Allemagne, les piétons attendent vraiment que le petit bonhomme passe au vert, même quand la rue est vide. Surtout devant des enfants : il faut donner l'exemple !
-
-**L'Ampelmännchen.** À Berlin et dans l'est de l'Allemagne, le petit bonhomme des feux porte un chapeau ! Il s'appelle l'{{Ampelmännchen}}, et il est tellement aimé qu'on le trouve sur des T-shirts et des bonbons.
-
----
-
-## Vocabulaire complémentaire
-
-| Deutsch | Français |
-|---------|----------|
-| die Ampel | le feu (de circulation) |
-| rot | rouge |
-| grün | vert |
-
----
-
-## Encore quelques phrases
-
-! Die Ampel ist rot. Stopp!
-> Le feu est rouge. Stop !
-> Die Ampel = le feu
-> ist rot = est rouge
-
-! Die Ampel ist grün. Jetzt geh!
-> Le feu est vert. Maintenant, vas-y !
-> ist grün = est vert
-> Jetzt = maintenant
-> geh = va
-
-! Bei Rot bleibe stehen, bei Grün darfst du gehen.
-> Au rouge, reste arrêté ; au vert, tu peux y aller.
-> Bei Rot = au rouge
-> bleibe stehen = reste arrêté
-> bei Grün = au vert
-> darfst du gehen = tu as le droit d'y aller
-+ Une petite comptine que les enfants allemands apprennent à l'école !
+{{fr:À Berlin, le petit bonhomme des feux pour piétons porte un chapeau ! Il est tellement aimé qu'on le trouve sur des tee-shirts et des bonbons.}} → {{das Ampelmännchen}}

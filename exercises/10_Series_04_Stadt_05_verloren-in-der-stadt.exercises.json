@@ -1,0 +1,259 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "listen-tom-hallo-ich-habe-mich-verlaufen",
+      "type": "listen",
+      "l1": "Tom ! Salut ! Je ne trouve plus mon chemin.",
+      "l2": "Tom! Hallo! Ich habe mich verlaufen.",
+      "choices_l1": [
+        "Tom ! Salut ! Je ne trouve plus mon livre.",
+        "Tom ! Salut ! J'ai faim.",
+        "Lea ! Salut ! Je ne trouve plus mon chemin."
+      ]
+    },
+    {
+      "id": "listen-oh-was-suchst-du",
+      "type": "listen",
+      "l1": "Oh ! Qu'est-ce que tu cherches ?",
+      "l2": "Oh! Was suchst du?",
+      "choices_l1": [
+        "Oh ! Qu'est-ce que tu achètes ?",
+        "Oh ! Où est-ce que tu vas ?",
+        "Oh ! Qui est-ce ?"
+      ]
+    },
+    {
+      "id": "listen-die-eisdiele-ich-treffe-lea-dort",
+      "type": "listen",
+      "l1": "Le glacier. Je retrouve Lea là-bas.",
+      "l2": "Die Eisdiele. Ich treffe Lea dort.",
+      "choices_l1": [
+        "Le parc. Je retrouve Lea là-bas.",
+        "Le glacier. Je retrouve Tom là-bas.",
+        "Le glacier. J'achète une glace."
+      ]
+    },
+    {
+      "id": "listen-geh-geradeaus-dann-nach-links",
+      "type": "listen",
+      "l1": "Va tout droit. Ensuite, à gauche.",
+      "l2": "Geh geradeaus. Dann nach links.",
+      "choices_l1": [
+        "Va tout droit. Ensuite, à droite.",
+        "Va à gauche. Ensuite, tout droit.",
+        "Va à droite. Ensuite, à gauche."
+      ]
+    },
+    {
+      "id": "listen-ist-es-weit",
+      "type": "listen",
+      "l1": "C'est loin ?",
+      "l2": "Ist es weit?",
+      "choices_l1": [
+        "C'est facile ?",
+        "C'est là-bas ?",
+        "C'est grand ?"
+      ]
+    },
+    {
+      "id": "listen-nein-f-nf-minuten-zu-fu-ich-komme-mit",
+      "type": "listen",
+      "l1": "Non ! Cinq minutes à pied. Je viens avec toi !",
+      "l2": "Nein! Fünf Minuten zu Fuß. Ich komme mit!",
+      "choices_l1": [
+        "Non ! Dix minutes à pied. Je viens avec toi !",
+        "Non ! Cinq minutes en bus. Je viens avec toi !",
+        "Oui ! Cinq minutes à pied. Au revoir !"
+      ]
+    },
+    {
+      "id": "listen-was-kostet-ein-eis",
+      "type": "listen",
+      "l1": "Combien coûte une glace ?",
+      "l2": "Was kostet ein Eis?",
+      "choices_l1": [
+        "Combien coûte un bretzel ?",
+        "Tu veux une glace ?",
+        "Où est le glacier ?"
+      ]
+    },
+    {
+      "id": "listen-zwei-euro",
+      "type": "listen",
+      "l1": "Deux euros.",
+      "l2": "Zwei Euro.",
+      "choices_l1": [
+        "Trois euros.",
+        "Dix euros.",
+        "Un euro."
+      ]
+    },
+    {
+      "id": "listen-ich-nehme-ein-eis-bitte",
+      "type": "listen",
+      "l1": "Je prends une glace, s'il vous plaît !",
+      "l2": "Ich nehme ein Eis, bitte!",
+      "choices_l1": [
+        "Je prends un bretzel, s'il vous plaît !",
+        "J'achète une glace, merci !",
+        "Tu prends une glace ?"
+      ]
+    },
+    {
+      "id": "blank-ist-es-weit",
+      "type": "fill-blank",
+      "l1": "C'est loin ?",
+      "l2": "Ist es weit?",
+      "missing_l1": "loin",
+      "missing_l2": "weit",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "grand",
+        "facile",
+        "beau"
+      ],
+      "choices_l2": [
+        "groß",
+        "toll",
+        "lustig"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-nein-f-nf-minuten-zu-fu-ich-komme-mit",
+      "type": "fill-blank",
+      "l1": "Non ! Cinq minutes à pied. Je viens avec toi !",
+      "l2": "Nein! Fünf Minuten zu Fuß. Ich komme mit!",
+      "missing_l1": "Cinq",
+      "missing_l2": "Fünf",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "Dix",
+        "Deux",
+        "Trois"
+      ],
+      "choices_l2": [
+        "Zehn",
+        "Zwei",
+        "Drei"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-die-eisdiele-ich-treffe-lea-dort",
+      "type": "fill-blank",
+      "l1": "Le glacier. Je retrouve Lea là-bas.",
+      "l2": "Die Eisdiele. Ich treffe Lea dort.",
+      "missing_l1": "retrouve",
+      "missing_l2": "treffe",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "achète",
+        "vois",
+        "prends"
+      ],
+      "choices_l2": [
+        "kaufe",
+        "sehe",
+        "nehme"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-was-kostet-ein-eis",
+      "type": "fill-blank",
+      "l1": "Combien coûte une glace ?",
+      "l2": "Was kostet ein Eis?",
+      "missing_l1": "coûte",
+      "missing_l2": "kostet",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "achète",
+        "prend",
+        "est"
+      ],
+      "choices_l2": [
+        "kaufe",
+        "nehme",
+        "ist"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-geh-geradeaus-dann-nach-links",
+      "type": "order",
+      "l1": "Va tout droit. Ensuite, à gauche.",
+      "l2": "Geh geradeaus. Dann nach links.",
+      "tokens_l1": [
+        "Va",
+        "tout droit.",
+        "Ensuite,",
+        "à gauche."
+      ],
+      "tokens_l2": [
+        "Geh",
+        "geradeaus.",
+        "Dann",
+        "nach links."
+      ]
+    },
+    {
+      "id": "order-was-kostet-ein-eis",
+      "type": "order",
+      "l1": "Combien coûte une glace ?",
+      "l2": "Was kostet ein Eis?",
+      "tokens_l1": [
+        "Combien",
+        "coûte",
+        "une glace ?"
+      ],
+      "tokens_l2": [
+        "Was",
+        "kostet",
+        "ein Eis?"
+      ]
+    },
+    {
+      "id": "order-die-eisdiele-ich-treffe-lea-dort",
+      "type": "order",
+      "l1": "Le glacier. Je retrouve Lea là-bas.",
+      "l2": "Die Eisdiele. Ich treffe Lea dort.",
+      "tokens_l1": [
+        "Le glacier.",
+        "Je",
+        "retrouve",
+        "Lea",
+        "là-bas."
+      ],
+      "tokens_l2": [
+        "Die Eisdiele.",
+        "Ich",
+        "treffe",
+        "Lea",
+        "dort."
+      ]
+    },
+    {
+      "id": "match-repliques",
+      "type": "match",
+      "l1": [
+        "C'est loin ?",
+        "Combien coûte une glace ?",
+        "Deux euros.",
+        "Super ! Merci, Tom !"
+      ],
+      "l2": [
+        "Ist es weit?",
+        "Was kostet ein Eis?",
+        "Zwei Euro.",
+        "Super! Danke, Tom!"
+      ]
+    }
+  ]
+}
