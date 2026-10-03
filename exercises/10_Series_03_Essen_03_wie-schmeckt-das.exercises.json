@@ -1,0 +1,334 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-lecker",
+      "type": "qcm",
+      "l1": "trop bon",
+      "l2": "lecker",
+      "choices_l1": [
+        "sucré",
+        "salé",
+        "froid"
+      ],
+      "choices_l2": [
+        "süß",
+        "salzig",
+        "kalt"
+      ]
+    },
+    {
+      "id": "qcm-s",
+      "type": "qcm",
+      "l1": "sucré",
+      "l2": "süß",
+      "choices_l1": [
+        "salé",
+        "chaud",
+        "trop bon"
+      ],
+      "choices_l2": [
+        "salzig",
+        "warm",
+        "lecker"
+      ]
+    },
+    {
+      "id": "qcm-salzig",
+      "type": "qcm",
+      "l1": "salé",
+      "l2": "salzig",
+      "choices_l1": [
+        "sucré",
+        "froid",
+        "chaud"
+      ],
+      "choices_l2": [
+        "süß",
+        "kalt",
+        "warm"
+      ]
+    },
+    {
+      "id": "qcm-warm",
+      "type": "qcm",
+      "l1": "chaud",
+      "l2": "warm",
+      "choices_l1": [
+        "froid",
+        "sucré",
+        "grand"
+      ],
+      "choices_l2": [
+        "kalt",
+        "süß",
+        "groß"
+      ]
+    },
+    {
+      "id": "qcm-kalt",
+      "type": "qcm",
+      "l1": "froid",
+      "l2": "kalt",
+      "choices_l1": [
+        "chaud",
+        "salé",
+        "petit"
+      ],
+      "choices_l2": [
+        "warm",
+        "salzig",
+        "klein"
+      ]
+    },
+    {
+      "id": "qcm-ich-mag",
+      "type": "qcm",
+      "l1": "j'aime bien",
+      "l2": "ich mag",
+      "choices_l1": [
+        "je voudrais",
+        "je mange",
+        "je prends"
+      ],
+      "choices_l2": [
+        "ich möchte",
+        "ich esse",
+        "ich habe"
+      ]
+    },
+    {
+      "id": "listen-das-schmeckt-gut",
+      "type": "listen",
+      "l1": "C'est bon !",
+      "l2": "Das schmeckt gut!",
+      "choices_l1": [
+        "C'est froid !",
+        "C'est salé !",
+        "C'est prêt !"
+      ]
+    },
+    {
+      "id": "listen-ich-mag-k-se",
+      "type": "listen",
+      "l1": "J'aime bien le fromage.",
+      "l2": "Ich mag Käse.",
+      "choices_l1": [
+        "J'aime bien le lait.",
+        "Je mange du fromage.",
+        "Je n'aime pas le fromage."
+      ]
+    },
+    {
+      "id": "listen-magst-du-milch",
+      "type": "listen",
+      "l1": "Tu aimes le lait ?",
+      "l2": "Magst du Milch?",
+      "choices_l1": [
+        "Tu voudrais du lait ?",
+        "Tu aimes le fromage ?",
+        "Tu bois du lait ?"
+      ]
+    },
+    {
+      "id": "listen-ich-mag-kein-fleisch",
+      "type": "listen",
+      "l1": "Je n'aime pas la viande.",
+      "l2": "Ich mag kein Fleisch.",
+      "choices_l1": [
+        "J'aime bien la viande.",
+        "Je n'aime pas le fromage.",
+        "Je ne mange pas de pain."
+      ]
+    },
+    {
+      "id": "listen-die-milch-ist-kalt",
+      "type": "listen",
+      "l1": "Le lait est froid.",
+      "l2": "Die Milch ist kalt.",
+      "choices_l1": [
+        "Le lait est chaud.",
+        "L'eau est froide.",
+        "Le lait est sucré."
+      ]
+    },
+    {
+      "id": "listen-warm-oder-kalt",
+      "type": "listen",
+      "l1": "Chaud ou froid ?",
+      "l2": "Warm oder kalt?",
+      "choices_l1": [
+        "Sucré ou salé ?",
+        "Grand ou petit ?",
+        "Chaud et sucré ?"
+      ]
+    },
+    {
+      "id": "listen-das-brot-ist-warm-und-lecker",
+      "type": "listen",
+      "l1": "Le pain est chaud et trop bon.",
+      "l2": "Das Brot ist warm und lecker.",
+      "choices_l1": [
+        "Le pain est froid et trop bon.",
+        "Le lait est chaud et trop bon.",
+        "Le pain est chaud et salé."
+      ]
+    },
+    {
+      "id": "blank-ich-mag-kein-fleisch",
+      "type": "fill-blank",
+      "l1": "Je n'aime pas la viande.",
+      "l2": "Ich mag kein Fleisch.",
+      "missing_l1": "viande",
+      "missing_l2": "mag",
+      "blank_index_l1": 4,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "fromage",
+        "lait",
+        "glace"
+      ],
+      "choices_l2": [
+        "möchte",
+        "habe",
+        "bin"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-die-milch-ist-kalt",
+      "type": "fill-blank",
+      "l1": "Le lait est froid.",
+      "l2": "Die Milch ist kalt.",
+      "missing_l1": "froid",
+      "missing_l2": "kalt",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "chaud",
+        "sucré",
+        "salé"
+      ],
+      "choices_l2": [
+        "warm",
+        "süß",
+        "salzig"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-warm-oder-kalt",
+      "type": "fill-blank",
+      "l1": "Chaud ou froid ?",
+      "l2": "Warm oder kalt?",
+      "missing_l1": "ou",
+      "missing_l2": "oder",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "et",
+        "mais",
+        "aussi"
+      ],
+      "choices_l2": [
+        "und",
+        "aber",
+        "auch"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-obst-ist-s-k-se-ist-salzig",
+      "type": "fill-blank",
+      "l1": "Les fruits, c'est sucré. Le fromage, c'est salé.",
+      "l2": "Obst ist süß, Käse ist salzig.",
+      "missing_l1": "sucré",
+      "missing_l2": "süß",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "salé",
+        "froid",
+        "chaud"
+      ],
+      "choices_l2": [
+        "salzig",
+        "kalt",
+        "warm"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-das-brot-ist-warm-und-lecker",
+      "type": "order",
+      "l1": "Le pain est chaud et trop bon.",
+      "l2": "Das Brot ist warm und lecker.",
+      "tokens_l1": [
+        "Le",
+        "pain",
+        "est",
+        "chaud",
+        "et",
+        "trop bon."
+      ],
+      "tokens_l2": [
+        "Das",
+        "Brot",
+        "ist",
+        "warm",
+        "und",
+        "lecker."
+      ]
+    },
+    {
+      "id": "order-ich-mag-kein-fleisch",
+      "type": "order",
+      "l1": "Je n'aime pas la viande.",
+      "l2": "Ich mag kein Fleisch.",
+      "tokens_l1": [
+        "Je",
+        "n'aime pas",
+        "la viande."
+      ],
+      "tokens_l2": [
+        "Ich",
+        "mag",
+        "kein",
+        "Fleisch."
+      ]
+    },
+    {
+      "id": "order-magst-du-milch",
+      "type": "order",
+      "l1": "Tu aimes le lait ?",
+      "l2": "Magst du Milch?",
+      "tokens_l1": [
+        "Tu",
+        "aimes",
+        "le lait ?"
+      ],
+      "tokens_l2": [
+        "Magst",
+        "du",
+        "Milch?"
+      ]
+    },
+    {
+      "id": "match-gouts",
+      "type": "match",
+      "l1": [
+        "sucré",
+        "salé",
+        "chaud",
+        "froid"
+      ],
+      "l2": [
+        "süß",
+        "salzig",
+        "warm",
+        "kalt"
+      ]
+    }
+  ]
+}

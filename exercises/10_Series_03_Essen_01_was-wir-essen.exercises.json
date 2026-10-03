@@ -1,0 +1,336 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-essen",
+      "type": "qcm",
+      "l1": "manger",
+      "l2": "essen",
+      "choices_l1": [
+        "boire",
+        "jouer",
+        "dormir"
+      ],
+      "choices_l2": [
+        "trinken",
+        "spielen",
+        "schlafen"
+      ]
+    },
+    {
+      "id": "qcm-trinken",
+      "type": "qcm",
+      "l1": "boire",
+      "l2": "trinken",
+      "choices_l1": [
+        "manger",
+        "chanter",
+        "cuisiner"
+      ],
+      "choices_l2": [
+        "essen",
+        "singen",
+        "kochen"
+      ]
+    },
+    {
+      "id": "qcm-das-brot",
+      "type": "qcm",
+      "l1": "le pain",
+      "l2": "das Brot",
+      "choices_l1": [
+        "le lait",
+        "la viande",
+        "les fruits"
+      ],
+      "choices_l2": [
+        "die Milch",
+        "das Fleisch",
+        "das Obst"
+      ]
+    },
+    {
+      "id": "qcm-die-milch",
+      "type": "qcm",
+      "l1": "le lait",
+      "l2": "die Milch",
+      "choices_l1": [
+        "le pain",
+        "la viande",
+        "l'eau"
+      ],
+      "choices_l2": [
+        "das Brot",
+        "das Fleisch",
+        "das Wasser"
+      ]
+    },
+    {
+      "id": "qcm-das-fleisch",
+      "type": "qcm",
+      "l1": "la viande",
+      "l2": "das Fleisch",
+      "choices_l1": [
+        "les fruits",
+        "le pain",
+        "le lait"
+      ],
+      "choices_l2": [
+        "das Obst",
+        "das Brot",
+        "die Milch"
+      ]
+    },
+    {
+      "id": "qcm-das-obst",
+      "type": "qcm",
+      "l1": "les fruits",
+      "l2": "das Obst",
+      "choices_l1": [
+        "la viande",
+        "le pain",
+        "le fromage"
+      ],
+      "choices_l2": [
+        "das Fleisch",
+        "das Brot",
+        "der Käse"
+      ]
+    },
+    {
+      "id": "listen-ich-esse-brot",
+      "type": "listen",
+      "l1": "Je mange du pain.",
+      "l2": "Ich esse Brot.",
+      "choices_l1": [
+        "Je bois du lait.",
+        "Je mange du fromage.",
+        "Je mange de la viande."
+      ]
+    },
+    {
+      "id": "listen-ich-trinke-milch",
+      "type": "listen",
+      "l1": "Je bois du lait.",
+      "l2": "Ich trinke Milch.",
+      "choices_l1": [
+        "Je bois de l'eau.",
+        "Je mange du pain.",
+        "Tu bois du lait."
+      ]
+    },
+    {
+      "id": "listen-isst-du-k-se",
+      "type": "listen",
+      "l1": "Tu manges du fromage ?",
+      "l2": "Isst du Käse?",
+      "choices_l1": [
+        "Tu manges du pain ?",
+        "Tu bois du lait ?",
+        "Je mange du fromage."
+      ]
+    },
+    {
+      "id": "listen-tom-trinkt-wasser",
+      "type": "listen",
+      "l1": "Tom boit de l'eau.",
+      "l2": "Tom trinkt Wasser.",
+      "choices_l1": [
+        "Tom boit du lait.",
+        "Lea boit de l'eau.",
+        "Tom mange du pain."
+      ]
+    },
+    {
+      "id": "listen-ich-esse-gern-obst",
+      "type": "listen",
+      "l1": "J'aime manger des fruits.",
+      "l2": "Ich esse gern Obst.",
+      "choices_l1": [
+        "J'aime manger du pain.",
+        "J'aime boire du lait.",
+        "Je mange des fruits."
+      ]
+    },
+    {
+      "id": "listen-lea-isst-kein-fleisch",
+      "type": "listen",
+      "l1": "Lea ne mange pas de viande.",
+      "l2": "Lea isst kein Fleisch.",
+      "choices_l1": [
+        "Lea mange de la viande.",
+        "Lea ne mange pas de pain.",
+        "Tom ne mange pas de viande."
+      ]
+    },
+    {
+      "id": "blank-ich-trinke-milch",
+      "type": "fill-blank",
+      "l1": "Je bois du lait.",
+      "l2": "Ich trinke Milch.",
+      "missing_l1": "lait",
+      "missing_l2": "trinke",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "pain",
+        "fromage",
+        "fruit"
+      ],
+      "choices_l2": [
+        "esse",
+        "spiele",
+        "schlafe"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-isst-du-k-se",
+      "type": "fill-blank",
+      "l1": "Tu manges du fromage ?",
+      "l2": "Isst du Käse?",
+      "missing_l1": "manges",
+      "missing_l2": "Isst",
+      "blank_index_l1": 1,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "bois",
+        "joues",
+        "chantes"
+      ],
+      "choices_l2": [
+        "Esse",
+        "Essen",
+        "Spielst"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-lea-isst-kein-fleisch",
+      "type": "fill-blank",
+      "l1": "Lea ne mange pas de viande.",
+      "l2": "Lea isst kein Fleisch.",
+      "missing_l1": "viande",
+      "missing_l2": "kein",
+      "blank_index_l1": 5,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "fromage",
+        "lait",
+        "pomme"
+      ],
+      "choices_l2": [
+        "nicht",
+        "nein",
+        "auch"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-mein-bruder-isst-brot-und-k-se",
+      "type": "fill-blank",
+      "l1": "Mon frère mange du pain et du fromage.",
+      "l2": "Mein Bruder isst Brot und Käse.",
+      "missing_l1": "pain",
+      "missing_l2": "Brot",
+      "blank_index_l1": 4,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "lait",
+        "riz",
+        "sucre"
+      ],
+      "choices_l2": [
+        "Milch",
+        "Wasser",
+        "Obst"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-ich-esse-gern-obst",
+      "type": "order",
+      "l1": "J'aime manger des fruits.",
+      "l2": "Ich esse gern Obst.",
+      "tokens_l1": [
+        "J'aime",
+        "manger",
+        "des fruits."
+      ],
+      "tokens_l2": [
+        "Ich",
+        "esse",
+        "gern",
+        "Obst."
+      ]
+    },
+    {
+      "id": "order-lea-isst-kein-fleisch",
+      "type": "order",
+      "l1": "Lea ne mange pas de viande.",
+      "l2": "Lea isst kein Fleisch.",
+      "tokens_l1": [
+        "Lea",
+        "ne mange pas",
+        "de viande."
+      ],
+      "tokens_l2": [
+        "Lea",
+        "isst",
+        "kein",
+        "Fleisch."
+      ]
+    },
+    {
+      "id": "order-wir-trinken-milch-zusammen",
+      "type": "order",
+      "l1": "On boit du lait ensemble.",
+      "l2": "Wir trinken Milch zusammen.",
+      "tokens_l1": [
+        "On",
+        "boit",
+        "du lait",
+        "ensemble."
+      ],
+      "tokens_l2": [
+        "Wir",
+        "trinken",
+        "Milch",
+        "zusammen."
+      ]
+    },
+    {
+      "id": "match-aliments",
+      "type": "match",
+      "l1": [
+        "le pain",
+        "le lait",
+        "la viande",
+        "les fruits"
+      ],
+      "l2": [
+        "das Brot",
+        "die Milch",
+        "das Fleisch",
+        "das Obst"
+      ]
+    },
+    {
+      "id": "match-phrases",
+      "type": "match",
+      "l1": [
+        "Je mange du pain.",
+        "Je bois du lait.",
+        "Tom boit de l'eau.",
+        "Tu manges du fromage ?"
+      ],
+      "l2": [
+        "Ich esse Brot.",
+        "Ich trinke Milch.",
+        "Tom trinkt Wasser.",
+        "Isst du Käse?"
+      ]
+    }
+  ]
+}

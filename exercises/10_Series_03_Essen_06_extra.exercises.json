@@ -1,0 +1,415 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-ich-mag",
+      "type": "qcm",
+      "l1": "j'aime bien",
+      "l2": "ich mag",
+      "choices_l1": [
+        "je voudrais",
+        "je prends",
+        "je mange"
+      ],
+      "choices_l2": [
+        "ich möchte",
+        "ich nehme",
+        "ich esse"
+      ]
+    },
+    {
+      "id": "qcm-ich-m-chte",
+      "type": "qcm",
+      "l1": "je voudrais",
+      "l2": "ich möchte",
+      "choices_l1": [
+        "j'aime bien",
+        "je prends",
+        "je bois"
+      ],
+      "choices_l2": [
+        "ich mag",
+        "ich nehme",
+        "ich trinke"
+      ]
+    },
+    {
+      "id": "qcm-ich-nehme",
+      "type": "qcm",
+      "l1": "je prends",
+      "l2": "ich nehme",
+      "choices_l1": [
+        "j'aime bien",
+        "je voudrais",
+        "je mange"
+      ],
+      "choices_l2": [
+        "ich mag",
+        "ich möchte",
+        "ich esse"
+      ]
+    },
+    {
+      "id": "qcm-der-hunger",
+      "type": "qcm",
+      "l1": "la faim",
+      "l2": "der Hunger",
+      "choices_l1": [
+        "la soif",
+        "la glace",
+        "le lait"
+      ],
+      "choices_l2": [
+        "der Durst",
+        "das Eis",
+        "die Milch"
+      ]
+    },
+    {
+      "id": "qcm-satt",
+      "type": "qcm",
+      "l1": "rassasié",
+      "l2": "satt",
+      "choices_l1": [
+        "prêt",
+        "trop bon",
+        "froid"
+      ],
+      "choices_l2": [
+        "fertig",
+        "lecker",
+        "kalt"
+      ]
+    },
+    {
+      "id": "qcm-lecker",
+      "type": "qcm",
+      "l1": "trop bon",
+      "l2": "lecker",
+      "choices_l1": [
+        "sucré",
+        "salé",
+        "prêt"
+      ],
+      "choices_l2": [
+        "süß",
+        "salzig",
+        "fertig"
+      ]
+    },
+    {
+      "id": "qcm-die-kartoffeln",
+      "type": "qcm",
+      "l1": "les pommes de terre",
+      "l2": "die Kartoffeln",
+      "choices_l1": [
+        "les fruits",
+        "la viande",
+        "le pain"
+      ],
+      "choices_l2": [
+        "das Obst",
+        "das Fleisch",
+        "das Brot"
+      ]
+    },
+    {
+      "id": "qcm-guten-appetit",
+      "type": "qcm",
+      "l1": "bon appétit",
+      "l2": "Guten Appetit",
+      "choices_l1": [
+        "bonjour",
+        "merci",
+        "à bientôt"
+      ],
+      "choices_l2": [
+        "guten Tag",
+        "danke",
+        "bis bald"
+      ]
+    },
+    {
+      "id": "listen-ich-habe-hunger-ich-esse-brot",
+      "type": "listen",
+      "l1": "J'ai faim ! Je mange du pain.",
+      "l2": "Ich habe Hunger! Ich esse Brot.",
+      "choices_l1": [
+        "J'ai soif ! Je bois de l'eau.",
+        "J'ai faim ! Je mange de la viande.",
+        "Tu as faim ? Tu manges du pain ?"
+      ]
+    },
+    {
+      "id": "listen-ich-habe-durst-ich-trinke-wasser",
+      "type": "listen",
+      "l1": "J'ai soif. Je bois de l'eau.",
+      "l2": "Ich habe Durst. Ich trinke Wasser.",
+      "choices_l1": [
+        "J'ai faim. Je bois de l'eau.",
+        "J'ai soif. Je bois du lait.",
+        "J'ai soif. Je voudrais de l'eau."
+      ]
+    },
+    {
+      "id": "listen-ich-m-chte-milch-bitte",
+      "type": "listen",
+      "l1": "Je voudrais du lait, s'il te plaît.",
+      "l2": "Ich möchte Milch, bitte.",
+      "choices_l1": [
+        "J'aime bien le lait.",
+        "Je prends du lait, merci.",
+        "Je voudrais de l'eau, s'il te plaît."
+      ]
+    },
+    {
+      "id": "listen-lea-mag-kein-fleisch",
+      "type": "listen",
+      "l1": "Lea n'aime pas la viande.",
+      "l2": "Lea mag kein Fleisch.",
+      "choices_l1": [
+        "Lea aime bien la viande.",
+        "Tom n'aime pas la viande.",
+        "Lea n'aime pas le fromage."
+      ]
+    },
+    {
+      "id": "listen-die-brezel-ist-warm-und-lecker",
+      "type": "listen",
+      "l1": "Le bretzel est chaud et trop bon.",
+      "l2": "Die Brezel ist warm und lecker.",
+      "choices_l1": [
+        "Le bretzel est froid et trop bon.",
+        "Le pain est chaud et trop bon.",
+        "Le bretzel est chaud et salé."
+      ]
+    },
+    {
+      "id": "listen-das-eis-ist-sehr-kalt",
+      "type": "listen",
+      "l1": "La glace est très froide !",
+      "l2": "Das Eis ist sehr kalt!",
+      "choices_l1": [
+        "La glace est très sucrée !",
+        "La glace est très bonne !",
+        "Le lait est très froid !"
+      ]
+    },
+    {
+      "id": "listen-ich-nehme-eine-wurst-mit-kartoffeln",
+      "type": "listen",
+      "l1": "Je prends une saucisse avec des pommes de terre.",
+      "l2": "Ich nehme eine Wurst mit Kartoffeln.",
+      "choices_l1": [
+        "Je prends une saucisse avec du pain.",
+        "Je voudrais une saucisse avec des pommes de terre.",
+        "Je prends des pommes de terre sans saucisse."
+      ]
+    },
+    {
+      "id": "listen-s-oder-salzig",
+      "type": "listen",
+      "l1": "Sucré ou salé ?",
+      "l2": "Süß oder salzig?",
+      "choices_l1": [
+        "Chaud ou froid ?",
+        "Grand ou petit ?",
+        "Sucré et chaud ?"
+      ]
+    },
+    {
+      "id": "blank-ich-nehme-eine-wurst-mit-kartoffeln",
+      "type": "fill-blank",
+      "l1": "Je prends une saucisse avec des pommes de terre.",
+      "l2": "Ich nehme eine Wurst mit Kartoffeln.",
+      "missing_l1": "saucisse",
+      "missing_l2": "Wurst",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "glace",
+        "soupe",
+        "tarte"
+      ],
+      "choices_l2": [
+        "Brezel",
+        "Milch",
+        "Brot"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-lea-mag-kein-fleisch",
+      "type": "fill-blank",
+      "l1": "Lea n'aime pas la viande.",
+      "l2": "Lea mag kein Fleisch.",
+      "missing_l1": "viande",
+      "missing_l2": "kein",
+      "blank_index_l1": 4,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "glace",
+        "lait",
+        "pomme"
+      ],
+      "choices_l2": [
+        "nicht",
+        "nein",
+        "auch"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-das-fr-hst-ck-ist-fertig",
+      "type": "fill-blank",
+      "l1": "Le petit-déjeuner est prêt !",
+      "l2": "Das Frühstück ist fertig!",
+      "missing_l1": "petit-déjeuner",
+      "missing_l2": "Frühstück",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "déjeuner",
+        "goûter",
+        "dessert"
+      ],
+      "choices_l2": [
+        "Mittagessen",
+        "Eis",
+        "Obst"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-m-chte-milch-bitte",
+      "type": "fill-blank",
+      "l1": "Je voudrais du lait, s'il te plaît.",
+      "l2": "Ich möchte Milch, bitte.",
+      "missing_l1": "voudrais",
+      "missing_l2": "möchte",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "aime",
+        "suis",
+        "ai"
+      ],
+      "choices_l2": [
+        "mag",
+        "bin",
+        "habe"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-ich-habe-durst-ich-trinke-wasser",
+      "type": "order",
+      "l1": "J'ai soif. Je bois de l'eau.",
+      "l2": "Ich habe Durst. Ich trinke Wasser.",
+      "tokens_l1": [
+        "J'ai",
+        "soif.",
+        "Je bois",
+        "de l'eau.",
+        "faim."
+      ],
+      "tokens_l2": [
+        "Ich habe",
+        "Durst.",
+        "Ich trinke",
+        "Wasser.",
+        "Hunger."
+      ]
+    },
+    {
+      "id": "order-ich-nehme-eine-wurst-mit-kartoffeln",
+      "type": "order",
+      "l1": "Je prends une saucisse avec des pommes de terre.",
+      "l2": "Ich nehme eine Wurst mit Kartoffeln.",
+      "tokens_l1": [
+        "Je",
+        "prends",
+        "une saucisse",
+        "avec",
+        "des pommes de terre.",
+        "du pain."
+      ],
+      "tokens_l2": [
+        "Ich",
+        "nehme",
+        "eine Wurst",
+        "mit",
+        "Kartoffeln.",
+        "Brot."
+      ]
+    },
+    {
+      "id": "order-lea-mag-kein-fleisch",
+      "type": "order",
+      "l1": "Lea n'aime pas la viande.",
+      "l2": "Lea mag kein Fleisch.",
+      "tokens_l1": [
+        "Lea",
+        "n'aime pas",
+        "la viande.",
+        "le fromage."
+      ],
+      "tokens_l2": [
+        "Lea",
+        "mag",
+        "kein",
+        "Fleisch.",
+        "nicht"
+      ]
+    },
+    {
+      "id": "match-verbes",
+      "type": "match",
+      "l1": [
+        "manger",
+        "boire",
+        "je prends",
+        "je voudrais"
+      ],
+      "l2": [
+        "essen",
+        "trinken",
+        "ich nehme",
+        "ich möchte"
+      ]
+    },
+    {
+      "id": "match-gouts",
+      "type": "match",
+      "l1": [
+        "sucré",
+        "salé",
+        "chaud",
+        "froid"
+      ],
+      "l2": [
+        "süß",
+        "salzig",
+        "warm",
+        "kalt"
+      ]
+    },
+    {
+      "id": "match-aliments",
+      "type": "match",
+      "l1": [
+        "le pain",
+        "le lait",
+        "la glace",
+        "la saucisse"
+      ],
+      "l2": [
+        "das Brot",
+        "die Milch",
+        "das Eis",
+        "die Wurst"
+      ]
+    }
+  ]
+}
