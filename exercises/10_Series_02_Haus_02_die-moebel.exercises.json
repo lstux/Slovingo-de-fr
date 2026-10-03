@@ -1,0 +1,363 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-der-tisch",
+      "type": "qcm",
+      "l1": "la table",
+      "l2": "der Tisch",
+      "choices_l1": [
+        "la chaise",
+        "le lit",
+        "l'armoire"
+      ],
+      "choices_l2": [
+        "der Stuhl",
+        "das Bett",
+        "der Schrank"
+      ]
+    },
+    {
+      "id": "qcm-der-stuhl",
+      "type": "qcm",
+      "l1": "la chaise",
+      "l2": "der Stuhl",
+      "choices_l1": [
+        "la table",
+        "le canapé",
+        "l'armoire"
+      ],
+      "choices_l2": [
+        "der Tisch",
+        "das Sofa",
+        "der Schrank"
+      ]
+    },
+    {
+      "id": "qcm-das-bett",
+      "type": "qcm",
+      "l1": "le lit",
+      "l2": "das Bett",
+      "choices_l1": [
+        "le canapé",
+        "la table",
+        "l'armoire"
+      ],
+      "choices_l2": [
+        "das Sofa",
+        "der Tisch",
+        "der Schrank"
+      ]
+    },
+    {
+      "id": "qcm-das-sofa",
+      "type": "qcm",
+      "l1": "le canapé",
+      "l2": "das Sofa",
+      "choices_l1": [
+        "le lit",
+        "la chaise",
+        "la table"
+      ],
+      "choices_l2": [
+        "das Bett",
+        "der Stuhl",
+        "der Tisch"
+      ]
+    },
+    {
+      "id": "qcm-der-schrank",
+      "type": "qcm",
+      "l1": "l'armoire",
+      "l2": "der Schrank",
+      "choices_l1": [
+        "la table",
+        "le lit",
+        "le canapé"
+      ],
+      "choices_l2": [
+        "der Tisch",
+        "das Bett",
+        "das Sofa"
+      ]
+    },
+    {
+      "id": "qcm-in-der-k-che",
+      "type": "qcm",
+      "l1": "dans la cuisine",
+      "l2": "in der Küche",
+      "choices_l1": [
+        "dans le salon",
+        "dans la chambre",
+        "dans la salle de bain"
+      ],
+      "choices_l2": [
+        "im Wohnzimmer",
+        "im Schlafzimmer",
+        "im Badezimmer"
+      ]
+    },
+    {
+      "id": "qcm-im-schlafzimmer",
+      "type": "qcm",
+      "l1": "dans la chambre",
+      "l2": "im Schlafzimmer",
+      "choices_l1": [
+        "dans la cuisine",
+        "dans le salon",
+        "dans la salle de bain"
+      ],
+      "choices_l2": [
+        "in der Küche",
+        "im Wohnzimmer",
+        "im Badezimmer"
+      ]
+    },
+    {
+      "id": "listen-der-tisch-ist-in-der-k-che",
+      "type": "listen",
+      "l1": "La table est dans la cuisine.",
+      "l2": "Der Tisch ist in der Küche.",
+      "choices_l1": [
+        "La chaise est dans la cuisine.",
+        "La table est dans le salon.",
+        "Le lit est dans la cuisine."
+      ]
+    },
+    {
+      "id": "listen-das-bett-ist-im-schlafzimmer",
+      "type": "listen",
+      "l1": "Le lit est dans la chambre.",
+      "l2": "Das Bett ist im Schlafzimmer.",
+      "choices_l1": [
+        "Le lit est dans le salon.",
+        "Le canapé est dans la chambre.",
+        "L'armoire est dans la chambre."
+      ]
+    },
+    {
+      "id": "listen-das-sofa-ist-im-wohnzimmer",
+      "type": "listen",
+      "l1": "Le canapé est dans le salon.",
+      "l2": "Das Sofa ist im Wohnzimmer.",
+      "choices_l1": [
+        "Le canapé est dans la cuisine.",
+        "Le lit est dans le salon.",
+        "La table est dans le salon."
+      ]
+    },
+    {
+      "id": "listen-der-schrank-ist-gro",
+      "type": "listen",
+      "l1": "L'armoire est grande.",
+      "l2": "Der Schrank ist groß.",
+      "choices_l1": [
+        "L'armoire est petite.",
+        "La table est grande.",
+        "Le lit est grand."
+      ]
+    },
+    {
+      "id": "listen-wo-ist-mein-stuhl",
+      "type": "listen",
+      "l1": "Où est ma chaise ?",
+      "l2": "Wo ist mein Stuhl?",
+      "choices_l1": [
+        "Où est mon lit ?",
+        "Où est ma table ?",
+        "C'est ma chaise."
+      ]
+    },
+    {
+      "id": "listen-die-katze-ist-im-bett",
+      "type": "listen",
+      "l1": "Le chat est dans le lit !",
+      "l2": "Die Katze ist im Bett!",
+      "choices_l1": [
+        "Le chat est dans le jardin !",
+        "Le chien est dans le lit !",
+        "Le chat est sur la table !"
+      ]
+    },
+    {
+      "id": "listen-opa-ist-im-garten",
+      "type": "listen",
+      "l1": "Papi est dans le jardin.",
+      "l2": "Opa ist im Garten.",
+      "choices_l1": [
+        "Papi est dans la cuisine.",
+        "Mamie est dans le jardin.",
+        "Papi est dans le salon."
+      ]
+    },
+    {
+      "id": "blank-das-bett-ist-im-schlafzimmer",
+      "type": "fill-blank",
+      "l1": "Le lit est dans la chambre.",
+      "l2": "Das Bett ist im Schlafzimmer.",
+      "missing_l1": "lit",
+      "missing_l2": "Bett",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "canapé",
+        "fauteuil",
+        "tapis"
+      ],
+      "choices_l2": [
+        "Sofa",
+        "Tisch",
+        "Stuhl"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-der-tisch-ist-in-der-k-che",
+      "type": "fill-blank",
+      "l1": "La table est dans la cuisine.",
+      "l2": "Der Tisch ist in der Küche.",
+      "missing_l1": "cuisine",
+      "missing_l2": "Küche",
+      "blank_index_l1": 5,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "chambre",
+        "maison",
+        "salle"
+      ],
+      "choices_l2": [
+        "Wohnzimmer",
+        "Schlafzimmer",
+        "Garten"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-wo-ist-mein-stuhl",
+      "type": "fill-blank",
+      "l1": "Où est ma chaise ?",
+      "l2": "Wo ist mein Stuhl?",
+      "missing_l1": "ma",
+      "missing_l2": "mein",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "mon",
+        "une",
+        "la"
+      ],
+      "choices_l2": [
+        "meine",
+        "ein",
+        "und"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-es-gibt-einen-tisch-und-vier-st-hle",
+      "type": "fill-blank",
+      "l1": "Il y a une table et quatre chaises.",
+      "l2": "Es gibt einen Tisch und vier Stühle.",
+      "missing_l1": "chaises",
+      "missing_l2": "Stühle",
+      "blank_index_l1": 7,
+      "blank_index_l2": 6,
+      "choices_l1": [
+        "tables",
+        "lits",
+        "armoires"
+      ],
+      "choices_l2": [
+        "Stuhl",
+        "Tisch",
+        "Bett"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-das-bett-ist-im-schlafzimmer",
+      "type": "order",
+      "l1": "Le lit est dans la chambre.",
+      "l2": "Das Bett ist im Schlafzimmer.",
+      "tokens_l1": [
+        "Le",
+        "lit",
+        "est",
+        "dans la chambre."
+      ],
+      "tokens_l2": [
+        "Das",
+        "Bett",
+        "ist",
+        "im Schlafzimmer."
+      ]
+    },
+    {
+      "id": "order-der-tisch-ist-in-der-k-che",
+      "type": "order",
+      "l1": "La table est dans la cuisine.",
+      "l2": "Der Tisch ist in der Küche.",
+      "tokens_l1": [
+        "La",
+        "table",
+        "est",
+        "dans la cuisine."
+      ],
+      "tokens_l2": [
+        "Der",
+        "Tisch",
+        "ist",
+        "in der Küche."
+      ]
+    },
+    {
+      "id": "order-opa-ist-im-garten",
+      "type": "order",
+      "l1": "Papi est dans le jardin.",
+      "l2": "Opa ist im Garten.",
+      "tokens_l1": [
+        "Papi",
+        "est",
+        "dans le jardin."
+      ],
+      "tokens_l2": [
+        "Opa",
+        "ist",
+        "im Garten."
+      ]
+    },
+    {
+      "id": "match-meubles",
+      "type": "match",
+      "l1": [
+        "la table",
+        "la chaise",
+        "le lit",
+        "le canapé"
+      ],
+      "l2": [
+        "der Tisch",
+        "der Stuhl",
+        "das Bett",
+        "das Sofa"
+      ]
+    },
+    {
+      "id": "match-dans",
+      "type": "match",
+      "l1": [
+        "dans la cuisine",
+        "dans le salon",
+        "dans la chambre",
+        "dans la salle de bain"
+      ],
+      "l2": [
+        "in der Küche",
+        "im Wohnzimmer",
+        "im Schlafzimmer",
+        "im Badezimmer"
+      ]
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 # Série Haus (2/5) — Die Möbel
 
-@ https://commons.wikimedia.org/wiki/File:Bed_Room.jpg | Chambre à coucher, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Bed_Room.jpg?width=800 | Chambre à coucher, Wikimedia Commons, licence libre
 
-Les meubles de la maison, et comment dire « dans » une pièce sans se prendre la tête.
+{{fr:La table, le lit, le canapé… et comment dire dans quelle pièce ils sont.}}
 
 ---
 
@@ -18,11 +18,9 @@ Les meubles de la maison, et comment dire « dans » une pièce sans se prendre 
 
 ---
 
-## Aujourd'hui on apprend...
+## Dans quelle pièce ?
 
-### Dire « dans » une pièce
-
-Pour dire qu'un meuble se trouve dans une pièce, on utilise **{{in}}**. Parfois, {{in dem}} se contracte en un seul mot : **{{im}}**. Retiens simplement ces formes toutes faites :
+{{fr:Pour dire « dans la cuisine » ou « dans le salon », retiens ces formules toutes faites. Avec la cuisine, c'est un peu différent, parce que c'est un mot féminin.}}
 
 | Deutsch | Français |
 |---------|----------|
@@ -31,93 +29,52 @@ Pour dire qu'un meuble se trouve dans une pièce, on utilise **{{in}}**. Parfois
 | im Schlafzimmer | dans la chambre |
 | im Badezimmer | dans la salle de bain |
 
-### Rappel : pas d'accord sur les adjectifs
-
-Comme vu dans la série Familie, un adjectif après **sein** ne change jamais : {{Der Tisch ist groß}}, {{Die Küche ist groß}}, {{Das Bett ist groß}} — toujours {{groß}}, sans « e » à ajouter !
-
 ---
 
 ## Des phrases
 
-! Der Tisch ist im Wohnzimmer.
-> La table est dans le salon.
-> Der Tisch ist = la table est
-> im Wohnzimmer = dans le salon
+! Der Tisch ist in der Küche.
+> La table est dans la cuisine.
+> Der Tisch = la table
+> in der Küche = dans la cuisine
 
 ! Das Bett ist im Schlafzimmer.
 > Le lit est dans la chambre.
-> Das Bett ist = le lit est
+> Das Bett = le lit
 > im Schlafzimmer = dans la chambre
 
-! Wir haben ein Sofa im Wohnzimmer.
-> On a un canapé dans le salon.
-> Wir haben ein Sofa = on a un canapé
+! Das Sofa ist im Wohnzimmer.
+> Le canapé est dans le salon.
 > im Wohnzimmer = dans le salon
-
-! Der Stuhl ist in der Küche.
-> La chaise est dans la cuisine.
-> Der Stuhl ist = la chaise est
-> in der Küche = dans la cuisine
 
 ! Der Schrank ist groß.
 > L'armoire est grande.
 > Der Schrank = l'armoire
-> ist groß = est grande
 
 ! Wo ist mein Stuhl?
 > Où est ma chaise ?
-> Wo ist = où est
 > mein Stuhl = ma chaise
++ En allemand, la chaise est masculine : {{der Stuhl}}, donc {{mein Stuhl}}.
+
+! Es gibt einen Tisch und vier Stühle.
+> Il y a une table et quatre chaises.
+> vier Stühle = quatre chaises
++ Au pluriel, {{Stuhl}} devient {{Stühle}}.
 
 ---
 
 ## On révise
 
-! Es gibt einen Tisch und vier Stühle in der Küche.
-> Il y a une table et quatre chaises dans la cuisine.
-> Es gibt = il y a
-> einen Tisch und vier Stühle = une table et quatre chaises
-> in der Küche = dans la cuisine
-+ Petite irrégularité signalée : au pluriel, {{Stuhl}} devient {{Stühle}} !
+! Die Katze ist im Bett!
+> Le chat est dans le lit !
+> im Bett = dans le lit
 
-! Mein Bett ist klein, aber gemütlich.
-> Mon lit est petit, mais confortable.
-> Mein Bett ist klein = mon lit est petit
-> aber gemütlich = mais confortable
+! Opa ist im Garten.
+> Papi est dans le jardin.
+> im Garten = dans le jardin
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Gemütlich, un mot intraduisible.** Les Allemands adorent le mot {{gemütlich}} — un mélange de confortable, chaleureux et douillet. Il n'existe pas vraiment de traduction exacte en français, mais tu le rencontreras souvent !
-
-**Le canapé, roi du salon.** Comme partout, le {{Sofa}} est souvent le meuble central du salon allemand, où toute la famille se retrouve pour discuter ou regarder la télévision ensemble.
-
----
-
-## Vocabulaire complémentaire
-
-| Deutsch | Français |
-|---------|----------|
-| das Regal | l'étagère |
-| der Teppich | le tapis |
-| gemütlich | confortable, douillet |
-
----
-
-## Encore quelques phrases
-
-! Das Regal ist neben dem Sofa.
-> L'étagère est à côté du canapé.
-> Das Regal = l'étagère
-> neben dem Sofa = à côté du canapé
-
-! Der Teppich ist im Wohnzimmer.
-> Le tapis est dans le salon.
-> Der Teppich = le tapis
-> im Wohnzimmer = dans le salon
-
-! Unser Sofa ist sehr gemütlich!
-> Notre canapé est très confortable !
-> Unser Sofa = notre canapé
-> sehr gemütlich = très confortable
+{{fr:Les Allemands adorent un mot qui veut dire à la fois confortable, chaleureux et douillet. Un canapé, une couverture, un chocolat chaud…}} → {{gemütlich}}

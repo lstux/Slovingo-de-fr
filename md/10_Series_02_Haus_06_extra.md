@@ -1,8 +1,8 @@
 # Série Haus (extra) — Alles zusammen
 
-@ https://commons.wikimedia.org/wiki/File:Bedroom_Mitcham.jpg | Chambre Mitcham, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Bedroom_Mitcham.jpg?width=800 | Chambre Mitcham, Wikimedia Commons, licence libre
 
-Pas de mot nouveau ici. Tout le vocabulaire de la série Haus est réuni, puis recombiné dans de nouvelles phrases.
+{{fr:Pas de mot nouveau ici. On réunit toute la série Haus, et on mélange les mots dans de nouvelles phrases !}}
 
 ---
 
@@ -16,138 +16,86 @@ Pas de mot nouveau ici. Tout le vocabulaire de la série Haus est réuni, puis r
 | das Schlafzimmer | la chambre |
 | das Badezimmer | la salle de bain |
 | es gibt | il y a |
-| der Flur | le couloir |
-| der Keller | la cave |
-| der Balkon | le balcon |
 | der Tisch | la table |
 | der Stuhl | la chaise |
 | das Bett | le lit |
 | das Sofa | le canapé |
 | der Schrank | l'armoire |
-| das Regal | l'étagère |
-| der Teppich | le tapis |
-| gemütlich | confortable, douillet |
-| das Buch | le livre |
+| das Buch / die Bücher | le livre / les livres |
 | das Spielzeug | le jouet |
 | die Lampe | la lampe |
 | das Fenster | la fenêtre |
 | die Tür | la porte |
-| der Schlüssel | la clé |
-| offen | ouvert |
-| geschlossen | fermé |
-| suchen | chercher |
+| auf | sur |
 | schlafen | dormir |
-| sitzen | être assis |
 | aufräumen | ranger |
 | öffnen | ouvrir |
 | schließen | fermer |
-| nicht | ne...pas |
-| lieber | plutôt |
-| helfen | aider |
-| aufwachen | se réveiller |
+| nicht | ne… pas |
+| jetzt | maintenant |
 | Verstecken | cache-cache |
-| hinter | derrière |
 | unter | sous |
+| hinter | derrière |
 | lustig | drôle |
 
 ---
 
 ## Les phrases
 
-! Es gibt vier Zimmer in unserem Haus.
-> Il y a quatre pièces dans notre maison.
-> Es gibt vier Zimmer = il y a quatre pièces
-> in unserem Haus = dans notre maison
+! Es gibt vier Zimmer und eine Küche.
+> Il y a quatre pièces et une cuisine.
+> Es gibt = il y a
 
 ! Die Küche ist klein, aber das Wohnzimmer ist groß.
 > La cuisine est petite, mais le salon est grand.
-> Die Küche ist klein = la cuisine est petite
-> das Wohnzimmer ist groß = le salon est grand
+> Die Küche = la cuisine
+> das Wohnzimmer = le salon
 
-! Mein Bett ist im Schlafzimmer.
-> Mon lit est dans la chambre.
-> Mein Bett = mon lit
-> im Schlafzimmer = dans la chambre
+! Das Sofa ist im Wohnzimmer.
+> Le canapé est dans le salon.
+> im Wohnzimmer = dans le salon
 
 ! Der Tisch und die Stühle sind in der Küche.
 > La table et les chaises sont dans la cuisine.
-> Der Tisch und die Stühle = la table et les chaises
-> sind in der Küche = sont dans la cuisine
+> in der Küche = dans la cuisine
 
-! Meine Bücher sind im Regal.
-> Mes livres sont sur l'étagère.
-> Meine Bücher = mes livres
-> im Regal = sur l'étagère
+! Wo sind meine Bücher? Sie sind auf dem Tisch.
+> Où sont mes livres ? Ils sont sur la table.
+> Sie sind = ils sont
 
-! Wo ist mein Spielzeug? Es ist unter dem Bett.
-> Où est mon jouet ? Il est sous le lit.
-> Wo ist = où est
-> mein Spielzeug = mon jouet
-> Es ist unter dem Bett = il est sous le lit
+! Mein Spielzeug ist unter dem Bett.
+> Mon jouet est sous le lit.
+> unter dem Bett = sous le lit
 
-! Die Tür ist offen, aber das Fenster ist geschlossen.
-> La porte est ouverte, mais la fenêtre est fermée.
-> Die Tür = la porte
-> ist offen = est ouverte
-> das Fenster ist geschlossen = la fenêtre est fermée
-
-! Ich suche meinen Schlüssel im Wohnzimmer.
-> Je cherche ma clé dans le salon.
-> Ich suche meinen Schlüssel = je cherche ma clé
-> im Wohnzimmer = dans le salon
-
-! Mein Bruder schläft, aber ich schlafe nicht.
-> Mon frère dort, mais moi je ne dors pas.
-> Mein Bruder schläft = mon frère dort
-> aber ich schlafe nicht = mais moi je ne dors pas
-
-! Ich sitze auf dem Sofa und ich lese ein Buch.
-> Je m'assois sur le canapé et je lis un livre.
-> Ich sitze auf dem Sofa = je m'assois sur le canapé
-> und ich lese ein Buch = et je lis un livre
-
-! Ich räume lieber mein Zimmer auf, als zu schlafen!
-> Je préfère ranger ma chambre plutôt que dormir !
-> Ich räume lieber mein Zimmer auf = je préfère ranger ma chambre
-> als zu schlafen = plutôt que dormir
-
-! Meine Schwester hilft mir beim Aufräumen.
-> Ma sœur m'aide à ranger.
-> Meine Schwester = ma sœur
-> hilft mir = m'aide
-> beim Aufräumen = à ranger
-
-! Wir spielen gern Verstecken im Haus.
-> On aime jouer à cache-cache dans la maison.
-> Wir spielen gern = on aime jouer
-> Verstecken = à cache-cache
-> im Haus = dans la maison
-
-! Ich verstecke mich hinter dem Schrank.
-> Je me cache derrière l'armoire.
-> Ich verstecke mich = je me cache
+! Die Katze ist hinter dem Schrank.
+> Le chat est derrière l'armoire.
 > hinter dem Schrank = derrière l'armoire
 
-! Das ist sehr lustig!
-> C'est très drôle !
-> Das ist = c'est
-> sehr lustig = très drôle
+! Ich öffne das Fenster und ich schließe die Tür.
+> J'ouvre la fenêtre et je ferme la porte.
+> Ich öffne = j'ouvre
+> ich schließe = je ferme
 
-! Unser Teppich ist im Wohnzimmer, und er ist sehr gemütlich.
-> Notre tapis est dans le salon, et il est très confortable.
-> Unser Teppich ist im Wohnzimmer = notre tapis est dans le salon
-> er ist sehr gemütlich = il est très confortable
+! Mein Bruder schläft, aber ich schlafe nicht.
+> Mon frère dort, mais moi, je ne dors pas.
+> schläft = dort
 
-! Ich wache auf, ich öffne das Fenster, und ich räume mein Zimmer auf.
-> Je me réveille, j'ouvre la fenêtre, et je range ma chambre.
-> Ich wache auf = je me réveille
-> ich öffne das Fenster = j'ouvre la fenêtre
-> und ich räume mein Zimmer auf = et je range ma chambre
+! Ich räume jetzt mein Zimmer auf.
+> Je range ma chambre maintenant.
+> Ich räume auf = je range
+
+! Spielen wir Verstecken? Ja, gern!
+> On joue à cache-cache ? Oui, avec plaisir !
+> Verstecken = cache-cache
+
+! Das ist lustig!
+> C'est drôle !
+> lustig = drôle
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Tu connais maintenant toute la maison !** Les pièces, les meubles, les objets du quotidien, et ce qu'on y fait — de quoi décrire ta propre maison en allemand, ou comprendre celle de Lea en détail.
+{{fr:Bravo ! Tu sais faire visiter ta maison, dire où sont les choses, et ce qu'on y fait.}}
 
-**Prêt pour la suite.** La prochaine série t'emmène à table : la nourriture, ce qu'on aime manger, et comment dire qu'on a faim ou soif !
+{{fr:La suite, c'est la série sur la nourriture : ce qu'on mange, ce qu'on aime, et comment dire qu'on a faim.}} → {{Essen}}

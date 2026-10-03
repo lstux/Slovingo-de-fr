@@ -1,0 +1,299 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-die-k-che",
+      "type": "qcm",
+      "l1": "la cuisine",
+      "l2": "die Küche",
+      "choices_l1": [
+        "le salon",
+        "la chambre",
+        "la salle de bain"
+      ],
+      "choices_l2": [
+        "das Wohnzimmer",
+        "das Schlafzimmer",
+        "das Badezimmer"
+      ]
+    },
+    {
+      "id": "qcm-das-wohnzimmer",
+      "type": "qcm",
+      "l1": "le salon",
+      "l2": "das Wohnzimmer",
+      "choices_l1": [
+        "la cuisine",
+        "la chambre",
+        "la salle de bain"
+      ],
+      "choices_l2": [
+        "die Küche",
+        "das Schlafzimmer",
+        "das Badezimmer"
+      ]
+    },
+    {
+      "id": "qcm-das-schlafzimmer",
+      "type": "qcm",
+      "l1": "la chambre",
+      "l2": "das Schlafzimmer",
+      "choices_l1": [
+        "la cuisine",
+        "le salon",
+        "la salle de bain"
+      ],
+      "choices_l2": [
+        "die Küche",
+        "das Wohnzimmer",
+        "das Badezimmer"
+      ]
+    },
+    {
+      "id": "qcm-das-badezimmer",
+      "type": "qcm",
+      "l1": "la salle de bain",
+      "l2": "das Badezimmer",
+      "choices_l1": [
+        "la cuisine",
+        "le salon",
+        "la chambre"
+      ],
+      "choices_l2": [
+        "die Küche",
+        "das Wohnzimmer",
+        "das Schlafzimmer"
+      ]
+    },
+    {
+      "id": "qcm-das-zimmer",
+      "type": "qcm",
+      "l1": "la pièce",
+      "l2": "das Zimmer",
+      "choices_l1": [
+        "la maison",
+        "le jardin",
+        "la cuisine"
+      ],
+      "choices_l2": [
+        "das Haus",
+        "der Garten",
+        "die Küche"
+      ]
+    },
+    {
+      "id": "qcm-es-gibt",
+      "type": "qcm",
+      "l1": "il y a",
+      "l2": "es gibt",
+      "choices_l1": [
+        "c'est",
+        "où est",
+        "quel âge"
+      ],
+      "choices_l2": [
+        "das ist",
+        "wo ist",
+        "wie alt"
+      ]
+    },
+    {
+      "id": "listen-es-gibt-vier-zimmer",
+      "type": "listen",
+      "l1": "Il y a quatre pièces.",
+      "l2": "Es gibt vier Zimmer.",
+      "choices_l1": [
+        "Il y a deux pièces.",
+        "Il y a dix pièces.",
+        "C'est ma chambre."
+      ]
+    },
+    {
+      "id": "listen-die-k-che-ist-klein",
+      "type": "listen",
+      "l1": "La cuisine est petite.",
+      "l2": "Die Küche ist klein.",
+      "choices_l1": [
+        "La cuisine est grande.",
+        "Le salon est petit.",
+        "La chambre est petite."
+      ]
+    },
+    {
+      "id": "listen-das-wohnzimmer-ist-gro",
+      "type": "listen",
+      "l1": "Le salon est grand.",
+      "l2": "Das Wohnzimmer ist groß.",
+      "choices_l1": [
+        "Le salon est petit.",
+        "La chambre est grande.",
+        "La maison est grande."
+      ]
+    },
+    {
+      "id": "listen-wo-ist-das-badezimmer",
+      "type": "listen",
+      "l1": "Où est la salle de bain ?",
+      "l2": "Wo ist das Badezimmer?",
+      "choices_l1": [
+        "Où est la cuisine ?",
+        "Où est le salon ?",
+        "C'est la salle de bain."
+      ]
+    },
+    {
+      "id": "listen-das-schlafzimmer-ist-dort",
+      "type": "listen",
+      "l1": "La chambre est là-bas.",
+      "l2": "Das Schlafzimmer ist dort.",
+      "choices_l1": [
+        "La cuisine est là-bas.",
+        "Le salon est là-bas.",
+        "La chambre est petite."
+      ]
+    },
+    {
+      "id": "listen-es-gibt-einen-garten",
+      "type": "listen",
+      "l1": "Il y a un jardin.",
+      "l2": "Es gibt einen Garten.",
+      "choices_l1": [
+        "Il y a une maison.",
+        "Il y a un chat.",
+        "C'est un jardin."
+      ]
+    },
+    {
+      "id": "blank-es-gibt-vier-zimmer",
+      "type": "fill-blank",
+      "l1": "Il y a quatre pièces.",
+      "l2": "Es gibt vier Zimmer.",
+      "missing_l1": "quatre",
+      "missing_l2": "gibt",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "deux",
+        "dix",
+        "trois"
+      ],
+      "choices_l2": [
+        "ist",
+        "hat",
+        "sind"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-wo-ist-das-badezimmer",
+      "type": "fill-blank",
+      "l1": "Où est la salle de bain ?",
+      "l2": "Wo ist das Badezimmer?",
+      "missing_l1": "Où",
+      "missing_l2": "Wo",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Quand",
+        "Comment",
+        "Qui"
+      ],
+      "choices_l2": [
+        "Wie",
+        "Das",
+        "Es"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-das-schlafzimmer-ist-dort",
+      "type": "fill-blank",
+      "l1": "La chambre est là-bas.",
+      "l2": "Das Schlafzimmer ist dort.",
+      "missing_l1": "chambre",
+      "missing_l2": "Schlafzimmer",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "cuisine",
+        "maison",
+        "salle"
+      ],
+      "choices_l2": [
+        "Wohnzimmer",
+        "Badezimmer",
+        "Haus"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-wo-ist-das-badezimmer",
+      "type": "order",
+      "l1": "Où est la salle de bain ?",
+      "l2": "Wo ist das Badezimmer?",
+      "tokens_l1": [
+        "Où",
+        "est",
+        "la salle de bain",
+        "?"
+      ],
+      "tokens_l2": [
+        "Wo",
+        "ist",
+        "das",
+        "Badezimmer?"
+      ]
+    },
+    {
+      "id": "order-es-gibt-vier-zimmer",
+      "type": "order",
+      "l1": "Il y a quatre pièces.",
+      "l2": "Es gibt vier Zimmer.",
+      "tokens_l1": [
+        "Il y a",
+        "quatre",
+        "pièces."
+      ],
+      "tokens_l2": [
+        "Es gibt",
+        "vier",
+        "Zimmer."
+      ]
+    },
+    {
+      "id": "order-das-schlafzimmer-ist-dort",
+      "type": "order",
+      "l1": "La chambre est là-bas.",
+      "l2": "Das Schlafzimmer ist dort.",
+      "tokens_l1": [
+        "La",
+        "chambre",
+        "est",
+        "là-bas."
+      ],
+      "tokens_l2": [
+        "Das",
+        "Schlafzimmer",
+        "ist",
+        "dort."
+      ]
+    },
+    {
+      "id": "match-pieces",
+      "type": "match",
+      "l1": [
+        "la cuisine",
+        "le salon",
+        "la chambre",
+        "la salle de bain"
+      ],
+      "l2": [
+        "die Küche",
+        "das Wohnzimmer",
+        "das Schlafzimmer",
+        "das Badezimmer"
+      ]
+    }
+  ]
+}
