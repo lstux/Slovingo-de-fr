@@ -1,0 +1,321 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-die-brezel",
+      "type": "qcm",
+      "l1": "le bretzel",
+      "l2": "die Brezel",
+      "choices_l1": [
+        "la saucisse",
+        "la glace",
+        "le pain"
+      ],
+      "choices_l2": [
+        "die Wurst",
+        "das Eis",
+        "das Brot"
+      ]
+    },
+    {
+      "id": "qcm-die-wurst",
+      "type": "qcm",
+      "l1": "la saucisse",
+      "l2": "die Wurst",
+      "choices_l1": [
+        "le bretzel",
+        "les pommes de terre",
+        "la viande"
+      ],
+      "choices_l2": [
+        "die Brezel",
+        "die Kartoffeln",
+        "das Fleisch"
+      ]
+    },
+    {
+      "id": "qcm-die-kartoffeln",
+      "type": "qcm",
+      "l1": "les pommes de terre",
+      "l2": "die Kartoffeln",
+      "choices_l1": [
+        "la saucisse",
+        "le jus de pomme",
+        "les fruits"
+      ],
+      "choices_l2": [
+        "die Wurst",
+        "der Apfelsaft",
+        "das Obst"
+      ]
+    },
+    {
+      "id": "qcm-der-apfelsaft",
+      "type": "qcm",
+      "l1": "le jus de pomme",
+      "l2": "der Apfelsaft",
+      "choices_l1": [
+        "le lait",
+        "l'eau",
+        "la glace"
+      ],
+      "choices_l2": [
+        "die Milch",
+        "das Wasser",
+        "das Eis"
+      ]
+    },
+    {
+      "id": "qcm-das-eis",
+      "type": "qcm",
+      "l1": "la glace",
+      "l2": "das Eis",
+      "choices_l1": [
+        "le bretzel",
+        "le lait",
+        "le pain"
+      ],
+      "choices_l2": [
+        "die Brezel",
+        "die Milch",
+        "das Brot"
+      ]
+    },
+    {
+      "id": "qcm-ich-nehme",
+      "type": "qcm",
+      "l1": "je prends",
+      "l2": "ich nehme",
+      "choices_l1": [
+        "je voudrais",
+        "j'aime bien",
+        "je mange"
+      ],
+      "choices_l2": [
+        "ich möchte",
+        "ich mag",
+        "ich esse"
+      ]
+    },
+    {
+      "id": "listen-ich-nehme-eine-brezel-bitte",
+      "type": "listen",
+      "l1": "Je prends un bretzel, s'il te plaît.",
+      "l2": "Ich nehme eine Brezel, bitte.",
+      "choices_l1": [
+        "Je prends une saucisse, s'il te plaît.",
+        "Je voudrais un bretzel, merci.",
+        "Je prends une glace, s'il te plaît."
+      ]
+    },
+    {
+      "id": "listen-nimmst-du-eine-wurst",
+      "type": "listen",
+      "l1": "Tu prends une saucisse ?",
+      "l2": "Nimmst du eine Wurst?",
+      "choices_l1": [
+        "Tu prends un bretzel ?",
+        "Tu aimes la saucisse ?",
+        "Je prends une saucisse."
+      ]
+    },
+    {
+      "id": "listen-ich-m-chte-einen-apfelsaft",
+      "type": "listen",
+      "l1": "Je voudrais un jus de pomme.",
+      "l2": "Ich möchte einen Apfelsaft.",
+      "choices_l1": [
+        "Je voudrais de l'eau.",
+        "Je prends un jus de pomme.",
+        "Je voudrais une glace."
+      ]
+    },
+    {
+      "id": "listen-ich-mag-kartoffeln",
+      "type": "listen",
+      "l1": "J'aime bien les pommes de terre.",
+      "l2": "Ich mag Kartoffeln.",
+      "choices_l1": [
+        "J'aime bien les fruits.",
+        "Je prends des pommes de terre.",
+        "J'aime bien la glace."
+      ]
+    },
+    {
+      "id": "listen-das-eis-ist-kalt-und-s",
+      "type": "listen",
+      "l1": "La glace est froide et sucrée.",
+      "l2": "Das Eis ist kalt und süß.",
+      "choices_l1": [
+        "La glace est chaude et sucrée.",
+        "La glace est froide et salée.",
+        "Le lait est froid et sucré."
+      ]
+    },
+    {
+      "id": "listen-die-wurst-ist-hei",
+      "type": "listen",
+      "l1": "La saucisse est brûlante !",
+      "l2": "Die Wurst ist heiß!",
+      "choices_l1": [
+        "La saucisse est froide !",
+        "La glace est brûlante !",
+        "La saucisse est trop bonne !"
+      ]
+    },
+    {
+      "id": "blank-ich-nehme-eine-brezel-bitte",
+      "type": "fill-blank",
+      "l1": "Je prends un bretzel, s'il te plaît.",
+      "l2": "Ich nehme eine Brezel, bitte.",
+      "missing_l1": "prends",
+      "missing_l2": "nehme",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "suis",
+        "joue",
+        "dors"
+      ],
+      "choices_l2": [
+        "habe",
+        "bin",
+        "spiele"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-nimmst-du-eine-wurst",
+      "type": "fill-blank",
+      "l1": "Tu prends une saucisse ?",
+      "l2": "Nimmst du eine Wurst?",
+      "missing_l1": "prends",
+      "missing_l2": "Nimmst",
+      "blank_index_l1": 1,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "manges",
+        "bois",
+        "joues"
+      ],
+      "choices_l2": [
+        "Nehme",
+        "Isst",
+        "Spielst"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-das-eis-ist-kalt-und-s",
+      "type": "fill-blank",
+      "l1": "La glace est froide et sucrée.",
+      "l2": "Das Eis ist kalt und süß.",
+      "missing_l1": "glace",
+      "missing_l2": "Eis",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "soupe",
+        "salade",
+        "tarte"
+      ],
+      "choices_l2": [
+        "Brot",
+        "Fleisch",
+        "Obst"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-m-chte-einen-apfelsaft",
+      "type": "fill-blank",
+      "l1": "Je voudrais un jus de pomme.",
+      "l2": "Ich möchte einen Apfelsaft.",
+      "missing_l1": "pomme",
+      "missing_l2": "Apfelsaft",
+      "blank_index_l1": 5,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "poire",
+        "raisin",
+        "fraise"
+      ],
+      "choices_l2": [
+        "Hund",
+        "Garten",
+        "Kuchen"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-ich-nehme-eine-brezel-bitte",
+      "type": "order",
+      "l1": "Je prends un bretzel, s'il te plaît.",
+      "l2": "Ich nehme eine Brezel, bitte.",
+      "tokens_l1": [
+        "Je",
+        "prends",
+        "un bretzel,",
+        "s'il te plaît."
+      ],
+      "tokens_l2": [
+        "Ich",
+        "nehme",
+        "eine Brezel,",
+        "bitte."
+      ]
+    },
+    {
+      "id": "order-ich-habe-hunger-ich-nehme-eine-wurst",
+      "type": "order",
+      "l1": "J'ai faim. Je prends une saucisse.",
+      "l2": "Ich habe Hunger. Ich nehme eine Wurst.",
+      "tokens_l1": [
+        "J'ai",
+        "faim.",
+        "Je prends",
+        "une saucisse."
+      ],
+      "tokens_l2": [
+        "Ich habe",
+        "Hunger.",
+        "Ich nehme",
+        "eine Wurst."
+      ]
+    },
+    {
+      "id": "order-nimmst-du-eine-wurst",
+      "type": "order",
+      "l1": "Tu prends une saucisse ?",
+      "l2": "Nimmst du eine Wurst?",
+      "tokens_l1": [
+        "Tu",
+        "prends",
+        "une saucisse ?"
+      ],
+      "tokens_l2": [
+        "Nimmst",
+        "du",
+        "eine",
+        "Wurst?"
+      ]
+    },
+    {
+      "id": "match-plats",
+      "type": "match",
+      "l1": [
+        "le bretzel",
+        "la saucisse",
+        "le jus de pomme",
+        "la glace"
+      ],
+      "l2": [
+        "die Brezel",
+        "die Wurst",
+        "der Apfelsaft",
+        "das Eis"
+      ]
+    }
+  ]
+}

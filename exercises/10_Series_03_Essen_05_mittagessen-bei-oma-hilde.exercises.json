@@ -1,0 +1,272 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "listen-kinder-das-mittagessen-ist-fertig",
+      "type": "listen",
+      "l1": "Les enfants, le déjeuner est prêt !",
+      "l2": "Kinder, das Mittagessen ist fertig!",
+      "choices_l1": [
+        "Les enfants, le petit-déjeuner est prêt !",
+        "Les enfants, le déjeuner est bon !",
+        "Les enfants, la glace est prête !"
+      ]
+    },
+    {
+      "id": "listen-super-ich-habe-hunger",
+      "type": "listen",
+      "l1": "Super, j'ai faim !",
+      "l2": "Super, ich habe Hunger!",
+      "choices_l1": [
+        "Super, j'ai soif !",
+        "Super, c'est bon !",
+        "Non, je n'ai pas faim !"
+      ]
+    },
+    {
+      "id": "listen-wurst-mit-kartoffeln-guten-appetit",
+      "type": "listen",
+      "l1": "Des saucisses avec des pommes de terre. Bon appétit !",
+      "l2": "Wurst mit Kartoffeln. Guten Appetit!",
+      "choices_l1": [
+        "Des saucisses avec du pain. Bon appétit !",
+        "De la glace avec des fruits. Bon appétit !",
+        "Des saucisses avec des pommes de terre. Merci !"
+      ]
+    },
+    {
+      "id": "listen-ich-mag-kein-fleisch-ich-nehme-kartoffeln-bitte",
+      "type": "listen",
+      "l1": "Je n'aime pas la viande. Je prends des pommes de terre, s'il te plaît.",
+      "l2": "Ich mag kein Fleisch. Ich nehme Kartoffeln, bitte.",
+      "choices_l1": [
+        "J'aime bien la viande. Je prends des pommes de terre, s'il te plaît.",
+        "Je n'aime pas les pommes de terre. Je prends de la viande, s'il te plaît.",
+        "Je n'aime pas la viande. Je prends du pain, s'il te plaît."
+      ]
+    },
+    {
+      "id": "listen-m-chtest-du-apfelsaft-nom",
+      "type": "listen",
+      "l1": "Tu voudrais du jus de pomme, [USER_NAME] ?",
+      "l2": "Möchtest du Apfelsaft, [USER_NAME]?",
+      "choices_l1": [
+        "Tu voudrais de l'eau, [USER_NAME] ?",
+        "Tu voudrais du lait, [USER_NAME] ?",
+        "Tu aimes le jus de pomme, [USER_NAME] ?"
+      ]
+    },
+    {
+      "id": "listen-ja-bitte-ich-habe-durst",
+      "type": "listen",
+      "l1": "Oui, s'il te plaît ! J'ai soif.",
+      "l2": "Ja, bitte! Ich habe Durst.",
+      "choices_l1": [
+        "Oui, s'il te plaît ! J'ai faim.",
+        "Non, merci ! J'ai soif.",
+        "Oui, merci ! Je n'ai plus soif."
+      ]
+    },
+    {
+      "id": "listen-und-jetzt-eis",
+      "type": "listen",
+      "l1": "Et maintenant : de la glace !",
+      "l2": "Und jetzt: Eis!",
+      "choices_l1": [
+        "Et maintenant : du gâteau !",
+        "Et maintenant : des fruits !",
+        "Et maintenant : on joue !"
+      ]
+    },
+    {
+      "id": "listen-m-chtest-du-noch-eis",
+      "type": "listen",
+      "l1": "Tu voudrais encore de la glace ?",
+      "l2": "Möchtest du noch Eis?",
+      "choices_l1": [
+        "Tu voudrais de la glace ?",
+        "Tu aimes la glace ?",
+        "Tu voudrais encore du pain ?"
+      ]
+    },
+    {
+      "id": "listen-nein-danke-ich-bin-satt",
+      "type": "listen",
+      "l1": "Non, merci. Je n'ai plus faim.",
+      "l2": "Nein, danke. Ich bin satt.",
+      "choices_l1": [
+        "Oui, merci. J'ai faim.",
+        "Non, merci. J'ai soif.",
+        "Oui, s'il te plaît. C'est bon."
+      ]
+    },
+    {
+      "id": "listen-oma-du-kochst-sehr-gut",
+      "type": "listen",
+      "l1": "Mamie, tu cuisines très bien !",
+      "l2": "Oma, du kochst sehr gut!",
+      "choices_l1": [
+        "Mamie, tu chantes très bien !",
+        "Papi, tu cuisines très bien !",
+        "Mamie, c'est très bon !"
+      ]
+    },
+    {
+      "id": "blank-m-chtest-du-noch-eis",
+      "type": "fill-blank",
+      "l1": "Tu voudrais encore de la glace ?",
+      "l2": "Möchtest du noch Eis?",
+      "missing_l1": "encore",
+      "missing_l2": "noch",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "aussi",
+        "maintenant",
+        "ensemble"
+      ],
+      "choices_l2": [
+        "nicht",
+        "auch",
+        "jetzt"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-nein-danke-ich-bin-satt",
+      "type": "fill-blank",
+      "l1": "Non, merci. Je n'ai plus faim.",
+      "l2": "Nein, danke. Ich bin satt.",
+      "missing_l1": "faim",
+      "missing_l2": "satt",
+      "blank_index_l1": 5,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "soif",
+        "froid",
+        "chaud"
+      ],
+      "choices_l2": [
+        "toll",
+        "fertig",
+        "lustig"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ja-bitte-ich-habe-durst",
+      "type": "fill-blank",
+      "l1": "Oui, s'il te plaît ! J'ai soif.",
+      "l2": "Ja, bitte! Ich habe Durst.",
+      "missing_l1": "soif",
+      "missing_l2": "Durst",
+      "blank_index_l1": 6,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "faim",
+        "froid",
+        "chaud"
+      ],
+      "choices_l2": [
+        "Hunger",
+        "Eis",
+        "Brot"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-oma-du-kochst-sehr-gut",
+      "type": "fill-blank",
+      "l1": "Mamie, tu cuisines très bien !",
+      "l2": "Oma, du kochst sehr gut!",
+      "missing_l1": "cuisines",
+      "missing_l2": "kochst",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "chantes",
+        "joues",
+        "dors"
+      ],
+      "choices_l2": [
+        "spielst",
+        "schläfst",
+        "isst"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-nein-danke-ich-bin-satt",
+      "type": "order",
+      "l1": "Non, merci. Je n'ai plus faim.",
+      "l2": "Nein, danke. Ich bin satt.",
+      "tokens_l1": [
+        "Non,",
+        "merci.",
+        "Je n'ai plus",
+        "faim."
+      ],
+      "tokens_l2": [
+        "Nein,",
+        "danke.",
+        "Ich",
+        "bin",
+        "satt."
+      ]
+    },
+    {
+      "id": "order-m-chtest-du-noch-eis",
+      "type": "order",
+      "l1": "Tu voudrais encore de la glace ?",
+      "l2": "Möchtest du noch Eis?",
+      "tokens_l1": [
+        "Tu",
+        "voudrais",
+        "encore",
+        "de la glace ?"
+      ],
+      "tokens_l2": [
+        "Möchtest",
+        "du",
+        "noch",
+        "Eis?"
+      ]
+    },
+    {
+      "id": "order-oma-du-kochst-sehr-gut",
+      "type": "order",
+      "l1": "Mamie, tu cuisines très bien !",
+      "l2": "Oma, du kochst sehr gut!",
+      "tokens_l1": [
+        "Mamie,",
+        "tu",
+        "cuisines",
+        "très bien !"
+      ],
+      "tokens_l2": [
+        "Oma,",
+        "du",
+        "kochst",
+        "sehr",
+        "gut!"
+      ]
+    },
+    {
+      "id": "match-repliques",
+      "type": "match",
+      "l1": [
+        "Super, j'ai faim !",
+        "Non, merci. Je n'ai plus faim.",
+        "Mmm, c'est trop bon !",
+        "Tu voudrais encore de la glace ?"
+      ],
+      "l2": [
+        "Super, ich habe Hunger!",
+        "Nein, danke. Ich bin satt.",
+        "Hm, das ist lecker!",
+        "Möchtest du noch Eis?"
+      ]
+    }
+  ]
+}
