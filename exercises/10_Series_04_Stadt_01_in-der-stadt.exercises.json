@@ -1,0 +1,328 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-die-stadt",
+      "type": "qcm",
+      "l1": "la ville",
+      "l2": "die Stadt",
+      "choices_l1": [
+        "le parc",
+        "l'école",
+        "la boulangerie"
+      ],
+      "choices_l2": [
+        "der Park",
+        "die Schule",
+        "die Bäckerei"
+      ]
+    },
+    {
+      "id": "qcm-der-park",
+      "type": "qcm",
+      "l1": "le parc",
+      "l2": "der Park",
+      "choices_l1": [
+        "la ville",
+        "la piscine",
+        "le glacier"
+      ],
+      "choices_l2": [
+        "die Stadt",
+        "das Schwimmbad",
+        "die Eisdiele"
+      ]
+    },
+    {
+      "id": "qcm-die-schule",
+      "type": "qcm",
+      "l1": "l'école",
+      "l2": "die Schule",
+      "choices_l1": [
+        "la boulangerie",
+        "la piscine",
+        "le parc"
+      ],
+      "choices_l2": [
+        "die Bäckerei",
+        "das Schwimmbad",
+        "der Park"
+      ]
+    },
+    {
+      "id": "qcm-die-b-ckerei",
+      "type": "qcm",
+      "l1": "la boulangerie",
+      "l2": "die Bäckerei",
+      "choices_l1": [
+        "l'école",
+        "le glacier",
+        "la ville"
+      ],
+      "choices_l2": [
+        "die Schule",
+        "die Eisdiele",
+        "die Stadt"
+      ]
+    },
+    {
+      "id": "qcm-das-schwimmbad",
+      "type": "qcm",
+      "l1": "la piscine",
+      "l2": "das Schwimmbad",
+      "choices_l1": [
+        "le parc",
+        "l'école",
+        "le glacier"
+      ],
+      "choices_l2": [
+        "der Park",
+        "die Schule",
+        "die Eisdiele"
+      ]
+    },
+    {
+      "id": "qcm-die-eisdiele",
+      "type": "qcm",
+      "l1": "le glacier",
+      "l2": "die Eisdiele",
+      "choices_l1": [
+        "la boulangerie",
+        "la piscine",
+        "le parc"
+      ],
+      "choices_l2": [
+        "die Bäckerei",
+        "das Schwimmbad",
+        "der Park"
+      ]
+    },
+    {
+      "id": "qcm-in-der-schule",
+      "type": "qcm",
+      "l1": "à l'école",
+      "l2": "in der Schule",
+      "choices_l1": [
+        "au parc",
+        "à la piscine",
+        "à la boulangerie"
+      ],
+      "choices_l2": [
+        "im Park",
+        "im Schwimmbad",
+        "in der Bäckerei"
+      ]
+    },
+    {
+      "id": "listen-wo-ist-die-schule",
+      "type": "listen",
+      "l1": "Où est l'école ?",
+      "l2": "Wo ist die Schule?",
+      "choices_l1": [
+        "Où est le parc ?",
+        "Où est la piscine ?",
+        "C'est l'école."
+      ]
+    },
+    {
+      "id": "listen-die-b-ckerei-ist-dort",
+      "type": "listen",
+      "l1": "La boulangerie est là-bas.",
+      "l2": "Die Bäckerei ist dort.",
+      "choices_l1": [
+        "L'école est là-bas.",
+        "Le glacier est là-bas.",
+        "La boulangerie est grande."
+      ]
+    },
+    {
+      "id": "listen-ich-bin-in-der-schule",
+      "type": "listen",
+      "l1": "Je suis à l'école.",
+      "l2": "Ich bin in der Schule.",
+      "choices_l1": [
+        "Je suis au parc.",
+        "Je suis à la piscine.",
+        "Tom est à l'école."
+      ]
+    },
+    {
+      "id": "listen-tom-ist-im-park",
+      "type": "listen",
+      "l1": "Tom est au parc.",
+      "l2": "Tom ist im Park.",
+      "choices_l1": [
+        "Tom est à l'école.",
+        "Lea est au parc.",
+        "Tom est à la piscine."
+      ]
+    },
+    {
+      "id": "listen-das-schwimmbad-ist-toll",
+      "type": "listen",
+      "l1": "La piscine, c'est génial !",
+      "l2": "Das Schwimmbad ist toll!",
+      "choices_l1": [
+        "Le parc, c'est génial !",
+        "La piscine est grande !",
+        "L'école, c'est génial !"
+      ]
+    },
+    {
+      "id": "listen-wo-ist-die-eisdiele",
+      "type": "listen",
+      "l1": "Où est le glacier ?",
+      "l2": "Wo ist die Eisdiele?",
+      "choices_l1": [
+        "Où est la glace ?",
+        "Où est la boulangerie ?",
+        "Où est la piscine ?"
+      ]
+    },
+    {
+      "id": "blank-ich-bin-in-der-schule",
+      "type": "fill-blank",
+      "l1": "Je suis à l'école.",
+      "l2": "Ich bin in der Schule.",
+      "missing_l1": "suis",
+      "missing_l2": "Schule",
+      "blank_index_l1": 1,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "es",
+        "est",
+        "sont"
+      ],
+      "choices_l2": [
+        "Park",
+        "Garten",
+        "Haus"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-tom-ist-im-park",
+      "type": "fill-blank",
+      "l1": "Tom est au parc.",
+      "l2": "Tom ist im Park.",
+      "missing_l1": "parc",
+      "missing_l2": "im",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "jardin",
+        "glacier",
+        "lit"
+      ],
+      "choices_l2": [
+        "auf",
+        "und",
+        "nicht"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-mama-ist-in-der-b-ckerei",
+      "type": "fill-blank",
+      "l1": "Maman est à la boulangerie.",
+      "l2": "Mama ist in der Bäckerei.",
+      "missing_l1": "boulangerie",
+      "missing_l2": "Bäckerei",
+      "blank_index_l1": 4,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "piscine",
+        "cuisine",
+        "école"
+      ],
+      "choices_l2": [
+        "Eisdiele",
+        "Küche",
+        "Schule"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-tom-ist-im-park",
+      "type": "order",
+      "l1": "Tom est au parc.",
+      "l2": "Tom ist im Park.",
+      "tokens_l1": [
+        "Tom",
+        "est",
+        "au parc."
+      ],
+      "tokens_l2": [
+        "Tom",
+        "ist",
+        "im Park."
+      ]
+    },
+    {
+      "id": "order-ich-bin-in-der-schule",
+      "type": "order",
+      "l1": "Je suis à l'école.",
+      "l2": "Ich bin in der Schule.",
+      "tokens_l1": [
+        "Je",
+        "suis",
+        "à l'école."
+      ],
+      "tokens_l2": [
+        "Ich",
+        "bin",
+        "in der Schule."
+      ]
+    },
+    {
+      "id": "order-wo-ist-die-eisdiele",
+      "type": "order",
+      "l1": "Où est le glacier ?",
+      "l2": "Wo ist die Eisdiele?",
+      "tokens_l1": [
+        "Où",
+        "est",
+        "le glacier ?"
+      ],
+      "tokens_l2": [
+        "Wo",
+        "ist",
+        "die",
+        "Eisdiele?"
+      ]
+    },
+    {
+      "id": "match-lieux",
+      "type": "match",
+      "l1": [
+        "le parc",
+        "l'école",
+        "la piscine",
+        "le glacier"
+      ],
+      "l2": [
+        "der Park",
+        "die Schule",
+        "das Schwimmbad",
+        "die Eisdiele"
+      ]
+    },
+    {
+      "id": "match-dans",
+      "type": "match",
+      "l1": [
+        "au parc",
+        "à la piscine",
+        "à l'école",
+        "à la boulangerie"
+      ],
+      "l2": [
+        "im Park",
+        "im Schwimmbad",
+        "in der Schule",
+        "in der Bäckerei"
+      ]
+    }
+  ]
+}

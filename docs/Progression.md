@@ -55,7 +55,7 @@ Pour écrire une nouvelle série, s'appuyer sur ce qui existe déjà — et ne p
 | Familie | un point par fiche : mein/meine (comme en français pour la famille) ; **sein** (ich bin, du bist, er/sie ist, sie sind) + âge, adjectif invariable après sein ; **haben** (habe, hast, hat, haben) + **ein → einen** et mein → meinen, donnés « à l'oreille », sans règle ; verbes réguliers au présent (ich, du, er/sie, wir) + **gern**. En passant, dans les cartes : und, aber, zu Hause, mit. Pas de dein/deine (aucune série suivante n'en a besoin) |
 | Haus | un point par fiche : **es gibt** (+ astuce : le dernier mot d'un mot collé décide de l'article) ; **im / in der**, en formules toutes faites ; **wo ist / wo sind** + pluriel toujours en die ; **nicht**. Donnés tels quels, sans théorie : ich räume … auf (verbe à ressort), er schläft / schläfst du, auf / unter / hinter dem…, ich verstecke mich, wo seid ihr |
 | Essen | un point par fiche : **pas d'article partitif** (Ich esse Brot) ; **ich möchte / möchtest du** (+ avoir faim, soif avec haben) ; **ich mag / magst du** + kein ; **ich nehme / nimmst du** pour commander. Donnés tels quels : du isst, das schmeckt gut, oder, sehr, Probier mal. Pas de « zum Frühstück » (verbe en 2ᵉ position) : à garder pour plus tard |
-| Stadt | in der / im, fahren (fährst) vs gehen, mit dem Bus, impératif **geh!** + nach links, um die Ecke, neben, sehen/treffen, **Was kostet das?** |
+| Stadt | un point par fiche : **im / in der** pour les lieux (rappel de Haus) ; **fahren vs gehen** + mit dem Bus / Fahrrad / Auto ; **Geh…!** + nach links / rechts, geradeaus ; **Was kostet das?** (+ nombres, Euro sans s). Donnés tels quels : du fährst, du siehst, in den Park / in die Schule, um die Ecke, ich habe mich verlaufen. Retirés : le vouvoiement (Ihre Hilfe), la comptine du feu rouge |
 | Tiere | pluriels (Vögel, -chen invariable et neutre), **comparatif** größer als / stärker, essen vs **fressen**, laufen (läufst) |
 | Spiele | spielen mit (dem/der), jeu sans article (Fußball spielen), **können** (+ savoir faire), Wer ist dran?, **Wollen wir…?**, verbes à ressort (mitmachen, einladen, anfangen) |
 
@@ -63,7 +63,7 @@ Pour écrire une nouvelle série, s'appuyer sur ce qui existe déjà — et ne p
 
 **Nombres :** l'intro s'arrête à 10. Les nombres au-delà (11 à 20, puis l'ordre « unité + und + dizaine » à partir de 21) pourront faire l'objet d'une série dédiée « nombres », à décider.
 
-**Pas encore abordés** (à introduire en douceur plus tard) : le passé (*Perfekt* : « ich habe gespielt » — c'est le passé de l'oral, bien plus utile qu'un passé « écrit »), les jours et l'heure, les couleurs (seuls rot, grün, braun, rosa sont apparus), le vouvoiement actif (*Sie* conjugué), les terminaisons d'adjectifs devant un nom.
+**Pas encore abordés** (à introduire en douceur plus tard) : le passé (*Perfekt* : « ich habe gespielt » — c'est le passé de l'oral, bien plus utile qu'un passé « écrit »), les jours et l'heure, les couleurs (rot et grün ont été retirés de Stadt), le vouvoiement actif (*Sie* conjugué), les terminaisons d'adjectifs devant un nom.
 
 ---
 
@@ -92,6 +92,8 @@ Pour écrire une nouvelle série, s'appuyer sur ce qui existe déjà — et ne p
 **Haus (allégée) :** 27 mots (6 + 5 + 6 + 6, plus *Verstecken, unter, hinter, lustig* signalés dans le dialogue). Retirés : Flur, Keller, Balkon, Regal, Teppich, Schlüssel, offen, geschlossen, suchen, sitzen, helfen, aufwachen, lieber (*gemütlich* reste en Coin allemand). Gardés pour la suite : es gibt, dort, auf, unter, lustig, viele, jetzt, mich, ihr, schläft, Bett.
 
 **Essen (allégée) :** 26 mots (6 + 6 + 6 + 6, plus *Guten Appetit* et *satt* signalés dans le dialogue). Retirés : Gemüse, Apfel, Abendessen, Brötchen (en Coin allemand), schmecken (gardé en formule), heiß, probieren, Schnitzel, Pommes, Apfelstrudel. Gardés pour la suite : Brezel, Brot, Eis, Hunger, lecker, mag, mal, möchte, möchtest, nehme, oder, sehr, super, süß.
+
+**Stadt (allégée) :** 25 mots (6 + 6 + 6 + 6, plus *weit* et *ich habe mich verlaufen* signalés dans le dialogue). Retirés : Straße, Supermarkt, Kino, Spielplatz, Straßenbahn, Zug, Haltestelle, Bahnhof, die Ecke, Ampel, rot, grün, kosten (gardé en formule), Taschengeld (en Coin allemand), teuer, billig, einfach. Gardés pour la suite : Eisdiele, gehen, kommt, neben, Park, sehen, was.
 - Cartes décomposées morceau par morceau
 
 **Exemple :**
