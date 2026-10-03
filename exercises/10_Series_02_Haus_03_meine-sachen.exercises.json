@@ -1,0 +1,333 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-das-spielzeug",
+      "type": "qcm",
+      "l1": "le jouet",
+      "l2": "das Spielzeug",
+      "choices_l1": [
+        "le livre / les livres",
+        "la lampe",
+        "la porte"
+      ],
+      "choices_l2": [
+        "das Buch / die Bücher",
+        "die Lampe",
+        "die Tür"
+      ]
+    },
+    {
+      "id": "qcm-die-lampe",
+      "type": "qcm",
+      "l1": "la lampe",
+      "l2": "die Lampe",
+      "choices_l1": [
+        "la fenêtre",
+        "la porte",
+        "le jouet"
+      ],
+      "choices_l2": [
+        "das Fenster",
+        "die Tür",
+        "das Spielzeug"
+      ]
+    },
+    {
+      "id": "qcm-das-fenster",
+      "type": "qcm",
+      "l1": "la fenêtre",
+      "l2": "das Fenster",
+      "choices_l1": [
+        "la porte",
+        "la lampe",
+        "la table"
+      ],
+      "choices_l2": [
+        "die Tür",
+        "die Lampe",
+        "der Tisch"
+      ]
+    },
+    {
+      "id": "qcm-die-t-r",
+      "type": "qcm",
+      "l1": "la porte",
+      "l2": "die Tür",
+      "choices_l1": [
+        "la fenêtre",
+        "la lampe",
+        "l'armoire"
+      ],
+      "choices_l2": [
+        "das Fenster",
+        "die Lampe",
+        "der Schrank"
+      ]
+    },
+    {
+      "id": "qcm-auf",
+      "type": "qcm",
+      "l1": "sur",
+      "l2": "auf",
+      "choices_l1": [
+        "et",
+        "mais",
+        "là-bas"
+      ],
+      "choices_l2": [
+        "und",
+        "aber",
+        "dort"
+      ]
+    },
+    {
+      "id": "qcm-wo-sind-meine-b-cher",
+      "type": "qcm",
+      "l1": "Où sont mes livres ?",
+      "l2": "Wo sind meine Bücher?",
+      "choices_l1": [
+        "Où est mon livre ?",
+        "C'est mon livre.",
+        "Où est mon jouet ?"
+      ],
+      "choices_l2": [
+        "Wo ist mein Buch?",
+        "Das ist mein Buch.",
+        "Wo ist mein Spielzeug?"
+      ]
+    },
+    {
+      "id": "listen-wo-ist-mein-buch",
+      "type": "listen",
+      "l1": "Où est mon livre ?",
+      "l2": "Wo ist mein Buch?",
+      "choices_l1": [
+        "Où sont mes livres ?",
+        "Où est mon jouet ?",
+        "Où est ma lampe ?"
+      ]
+    },
+    {
+      "id": "listen-mein-buch-ist-auf-dem-tisch",
+      "type": "listen",
+      "l1": "Mon livre est sur la table.",
+      "l2": "Mein Buch ist auf dem Tisch.",
+      "choices_l1": [
+        "Mon livre est sur le lit.",
+        "Mon jouet est sur la table.",
+        "Mon livre est dans la cuisine."
+      ]
+    },
+    {
+      "id": "listen-wo-sind-meine-b-cher",
+      "type": "listen",
+      "l1": "Où sont mes livres ?",
+      "l2": "Wo sind meine Bücher?",
+      "choices_l1": [
+        "Où est mon livre ?",
+        "Où sont mes jouets ?",
+        "Voici mes livres."
+      ]
+    },
+    {
+      "id": "listen-wo-ist-mein-spielzeug",
+      "type": "listen",
+      "l1": "Où est mon jouet ?",
+      "l2": "Wo ist mein Spielzeug?",
+      "choices_l1": [
+        "Où est mon livre ?",
+        "Où est ma lampe ?",
+        "C'est mon jouet."
+      ]
+    },
+    {
+      "id": "listen-die-lampe-ist-im-schlafzimmer",
+      "type": "listen",
+      "l1": "La lampe est dans la chambre.",
+      "l2": "Die Lampe ist im Schlafzimmer.",
+      "choices_l1": [
+        "La lampe est dans la cuisine.",
+        "La porte est dans la chambre.",
+        "La lampe est sur la table."
+      ]
+    },
+    {
+      "id": "listen-die-t-r-ist-dort",
+      "type": "listen",
+      "l1": "La porte est là-bas.",
+      "l2": "Die Tür ist dort.",
+      "choices_l1": [
+        "La fenêtre est là-bas.",
+        "La lampe est là-bas.",
+        "La porte est grande."
+      ]
+    },
+    {
+      "id": "listen-die-katze-ist-auf-dem-bett",
+      "type": "listen",
+      "l1": "Le chat est sur le lit.",
+      "l2": "Die Katze ist auf dem Bett.",
+      "choices_l1": [
+        "Le chat est dans le lit.",
+        "Le chien est sur le lit.",
+        "Le chat est sur la table."
+      ]
+    },
+    {
+      "id": "blank-mein-buch-ist-auf-dem-tisch",
+      "type": "fill-blank",
+      "l1": "Mon livre est sur la table.",
+      "l2": "Mein Buch ist auf dem Tisch.",
+      "missing_l1": "sur",
+      "missing_l2": "auf",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "et",
+        "mais",
+        "là-bas"
+      ],
+      "choices_l2": [
+        "und",
+        "aber",
+        "dort"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-wo-sind-meine-b-cher",
+      "type": "fill-blank",
+      "l1": "Où sont mes livres ?",
+      "l2": "Wo sind meine Bücher?",
+      "missing_l1": "sont",
+      "missing_l2": "sind",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "est",
+        "suis",
+        "a"
+      ],
+      "choices_l2": [
+        "ist",
+        "bin",
+        "hat"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-die-b-cher-sind-im-schrank",
+      "type": "fill-blank",
+      "l1": "Les livres sont dans l'armoire.",
+      "l2": "Die Bücher sind im Schrank.",
+      "missing_l1": "livres",
+      "missing_l2": "Bücher",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "jouets",
+        "lampes",
+        "portes"
+      ],
+      "choices_l2": [
+        "Buch",
+        "Tür",
+        "Lampe"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-das-fenster-ist-gro",
+      "type": "fill-blank",
+      "l1": "La fenêtre est grande.",
+      "l2": "Das Fenster ist groß.",
+      "missing_l1": "fenêtre",
+      "missing_l2": "Fenster",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "porte",
+        "lampe",
+        "chaise"
+      ],
+      "choices_l2": [
+        "Tür",
+        "Lampe",
+        "Spielzeug"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-mein-buch-ist-auf-dem-tisch",
+      "type": "order",
+      "l1": "Mon livre est sur la table.",
+      "l2": "Mein Buch ist auf dem Tisch.",
+      "tokens_l1": [
+        "Mon",
+        "livre",
+        "est",
+        "sur la table."
+      ],
+      "tokens_l2": [
+        "Mein",
+        "Buch",
+        "ist",
+        "auf dem Tisch."
+      ]
+    },
+    {
+      "id": "order-wo-sind-meine-b-cher",
+      "type": "order",
+      "l1": "Où sont mes livres ?",
+      "l2": "Wo sind meine Bücher?",
+      "tokens_l1": [
+        "Où",
+        "sont",
+        "mes",
+        "livres ?"
+      ],
+      "tokens_l2": [
+        "Wo",
+        "sind",
+        "meine",
+        "Bücher?"
+      ]
+    },
+    {
+      "id": "order-die-katze-ist-auf-dem-bett",
+      "type": "order",
+      "l1": "Le chat est sur le lit.",
+      "l2": "Die Katze ist auf dem Bett.",
+      "tokens_l1": [
+        "Le",
+        "chat",
+        "est",
+        "sur le lit."
+      ],
+      "tokens_l2": [
+        "Die",
+        "Katze",
+        "ist",
+        "auf dem Bett."
+      ]
+    },
+    {
+      "id": "match-objets",
+      "type": "match",
+      "l1": [
+        "le jouet",
+        "la lampe",
+        "la fenêtre",
+        "la porte"
+      ],
+      "l2": [
+        "das Spielzeug",
+        "die Lampe",
+        "das Fenster",
+        "die Tür"
+      ]
+    }
+  ]
+}

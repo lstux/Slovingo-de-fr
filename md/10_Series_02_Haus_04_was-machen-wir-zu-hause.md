@@ -1,8 +1,8 @@
 # Série Haus (4/5) — Was machen wir zu Hause?
 
-@ https://commons.wikimedia.org/wiki/File:Bedtime_reading.jpg | Lecture au coucher, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Bedtime_reading.jpg?width=800 | Lecture au coucher, Wikimedia Commons, licence libre
 
-Ce qu'on fait dans chaque pièce, et le mot le plus simple pour dire « non » — **nicht**.
+{{fr:À la maison, on dort, on range, on ouvre la fenêtre… Et on apprend à dire non avec un seul petit mot.}}
 
 ---
 
@@ -11,48 +11,24 @@ Ce qu'on fait dans chaque pièce, et le mot le plus simple pour dire « non » �
 | Deutsch | Français |
 |---------|----------|
 | schlafen | dormir |
-| sitzen | être assis |
 | aufräumen | ranger |
 | öffnen | ouvrir |
 | schließen | fermer |
+| nicht | ne… pas |
+| jetzt | maintenant |
 
 ---
 
-## Aujourd'hui on apprend...
+## Dire non
 
-### Nicht — la négation la plus simple du monde
-
-En français, la négation a deux morceaux (**ne... pas**) qui entourent le verbe. En allemand, **{{nicht}}** est tout seul, un seul mot, placé après le verbe. Beaucoup plus simple !
+{{fr:En français, il faut deux mots : ne… pas. En allemand, un seul suffit, juste après le verbe !}}
 
 | Deutsch | Français |
 |---------|----------|
-| Ich schlafe nicht. | je ne dors pas. |
-| Ich räume nicht auf. | je ne range pas. |
+| Ich schlafe. | Je dors. |
+| Ich schlafe nicht. | Je ne dors pas. |
 
-### Les verbes à ressort : aufräumen
-
-Certains verbes ont un petit morceau au début — {{auf}}räumen, {{auf}}wachen — qui **saute à la fin de la phrase** quand on conjugue :
-
-| Deutsch | Français |
-|---------|----------|
-| aufräumen | ranger |
-| Ich räume mein Zimmer **auf**. | Je range ma chambre. |
-| aufwachen | se réveiller |
-| Ich wache **auf**. | Je me réveille. |
-
-Imagine un ressort : le petit morceau est éjecté tout au bout ! Tu en rencontreras d'autres (mitmachen, einladen…).
-
-### Un petit piège : schlafen change de voyelle
-
-La plupart des verbes suivent le schéma simple vu dans la série Familie, mais **{{schlafen}}** change un peu au milieu :
-
-| Deutsch | Français |
-|---------|----------|
-| ich schlafe | je dors |
-| du schläfst | tu dors |
-| er/sie schläft | il/elle dort |
-
-Pas de panique : ce genre de petit changement de voyelle concerne quelques verbes seulement, tu les reconnaîtras avec le temps.
+{{fr:Et un verbe rigolo : quand on range, un morceau du verbe saute tout au bout de la phrase, comme un ressort !}} → {{Ich räume mein Zimmer auf.}}
 
 ---
 
@@ -61,17 +37,20 @@ Pas de panique : ce genre de petit changement de voyelle concerne quelques verbe
 ! Ich schlafe im Schlafzimmer.
 > Je dors dans la chambre.
 > Ich schlafe = je dors
-> im Schlafzimmer = dans la chambre
 
-! Mein Bruder schläft viel.
-> Mon frère dort beaucoup.
-> Mein Bruder schläft = mon frère dort
-> viel = beaucoup
+! Mein Bruder schläft jetzt.
+> Mon frère dort maintenant.
+> schläft = dort
+> jetzt = maintenant
++ Avec ce verbe, le a devient ä : {{ich schlafe}}, mais {{er schläft}}.
 
-! Ich sitze auf dem Sofa.
-> Je m'assois sur le canapé.
-> Ich sitze = je m'assois
-> auf dem Sofa = sur le canapé
+! Schläfst du?
+> Tu dors ?
+> Schläfst du = tu dors
+
+! Ich schlafe nicht!
+> Je ne dors pas !
+> nicht = ne… pas
 
 ! Ich räume mein Zimmer auf.
 > Je range ma chambre.
@@ -81,61 +60,25 @@ Pas de panique : ce genre de petit changement de voyelle concerne quelques verbe
 ! Ich öffne das Fenster.
 > J'ouvre la fenêtre.
 > Ich öffne = j'ouvre
-> das Fenster = la fenêtre
 
 ! Ich schließe die Tür.
 > Je ferme la porte.
 > Ich schließe = je ferme
-> die Tür = la porte
 
 ---
 
 ## On révise
 
-! Ich räume nicht auf. Ich spiele lieber!
-> Je ne range pas. Je préfère jouer !
-> Ich räume nicht auf = je ne range pas
-> Ich spiele lieber = je préfère jouer
-+ Petit mot nouveau utile : {{lieber}} veut dire « plutôt, de préférence ».
+! Wir spielen jetzt zusammen.
+> On joue ensemble maintenant.
+> Wir spielen = on joue
 
 ! Meine Schwester schläft, aber ich schlafe nicht.
-> Ma sœur dort, mais moi je ne dors pas.
-> Meine Schwester schläft = ma sœur dort
-> aber ich schlafe nicht = mais moi je ne dors pas
+> Ma sœur dort, mais moi, je ne dors pas.
+> aber = mais
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Ranger, une habitude qui compte.** En Allemagne, on encourage souvent les enfants à ranger eux-mêmes leur chambre dès leur plus jeune âge — un petit geste d'autonomie très valorisé.
-
-**Ordnung muss sein !** Cette expression, très connue, veut dire « il faut de l'ordre » — un clin d'œil (parfois moqueur, parfois vrai) au goût allemand pour les choses bien rangées et organisées.
-
----
-
-## Vocabulaire complémentaire
-
-| Deutsch | Français |
-|---------|----------|
-| lieber | plutôt, de préférence |
-| helfen | aider |
-| aufwachen | se réveiller |
-
----
-
-## Encore quelques phrases
-
-! Ich helfe meiner Mutter.
-> J'aide ma mère.
-> Ich helfe = j'aide
-> meiner Mutter = ma mère
-
-! Ich wache auf und ich öffne das Fenster.
-> Je me réveille et j'ouvre la fenêtre.
-> Ich wache auf = je me réveille
-> und ich öffne das Fenster = et j'ouvre la fenêtre
-
-! Ich helfe gern beim Aufräumen.
-> J'aime aider à ranger.
-> Ich helfe gern = j'aime aider
-> beim Aufräumen = à ranger
+{{fr:Une expression très connue dit qu'il faut de l'ordre. Les Allemands la disent souvent en riant !}} → {{Ordnung muss sein!}}

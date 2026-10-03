@@ -53,7 +53,7 @@ Pour écrire une nouvelle série, s'appuyer sur ce qui existe déjà — et ne p
 |-------|---------------------|
 | Kit de Survie | schémas figés : wie heißt du / ich heiße, sprichst du, kein (« pas de », une seule mention : Familie et Essen le réutilisent). Le du / Sie n'est pas traité ici : il apparaît dans Stadt, quand on demande son chemin à un adulte |
 | Familie | un point par fiche : mein/meine (comme en français pour la famille) ; **sein** (ich bin, du bist, er/sie ist, sie sind) + âge, adjectif invariable après sein ; **haben** (habe, hast, hat, haben) + **ein → einen** et mein → meinen, donnés « à l'oreille », sans règle ; verbes réguliers au présent (ich, du, er/sie, wir) + **gern**. En passant, dans les cartes : und, aber, zu Hause, mit. Pas de dein/deine (aucune série suivante n'en a besoin) |
-| Haus | der/die/das (le dernier mot d'un mot composé décide), es gibt, im / in der, wo ist / wo sind, pluriels (die au pluriel), **nicht**, **verbes à ressort** (aufräumen), schlafen → schläfst |
+| Haus | un point par fiche : **es gibt** (+ astuce : le dernier mot d'un mot collé décide de l'article) ; **im / in der**, en formules toutes faites ; **wo ist / wo sind** + pluriel toujours en die ; **nicht**. Donnés tels quels, sans théorie : ich räume … auf (verbe à ressort), er schläft / schläfst du, auf / unter / hinter dem…, ich verstecke mich, wo seid ihr |
 | Essen | essen (isst), trinken, pas d'article partitif, **möchten**, zum Frühstück (verbe en 2ᵉ position), schmecken, **mögen** + kein, nehmen (nimmst) |
 | Stadt | in der / im, fahren (fährst) vs gehen, mit dem Bus, impératif **geh!** + nach links, um die Ecke, neben, sehen/treffen, **Was kostet das?** |
 | Tiere | pluriels (Vögel, -chen invariable et neutre), **comparatif** größer als / stärker, essen vs **fressen**, laufen (läufst) |
@@ -87,7 +87,9 @@ Pour écrire une nouvelle série, s'appuyer sur ce qui existe déjà — et ne p
 - Phrases jusqu'à 5-6 mots
 - sein, haben, verbes réguliers, gern, möchten, mögen
 
-**Familie (allégée sur le modèle du Kit) :** 27 mots (6 + 6 + 7 + 6, plus *toll* et *bis bald* signalés dans le dialogue), un seul point de grammaire par fiche, pas de « vocabulaire complémentaire », explications à écouter. Les mots retirés (Eltern, Sohn, Tochter, jung, Onkel, Tante, Cousin, Geburtstag, dein, müde, tanzen, malen…) ne servent à aucune série suivante. À l'inverse, les mots dont Haus, Essen, Stadt, Tiere et Spiele ont besoin sans les réenseigner sont gardés (Mutter, Bruder, Schwester, Kinder, Oma, Haus, Garten, spielen, zusammen, gern, toll, einen, aber, zu Hause). Haus, Essen, etc. seront allégées de la même façon.
+**Familie (allégée sur le modèle du Kit) :** 27 mots (6 + 6 + 7 + 6, plus *toll* et *bis bald* signalés dans le dialogue), un seul point de grammaire par fiche, pas de « vocabulaire complémentaire », explications à écouter. Les mots retirés (Eltern, Sohn, Tochter, jung, Onkel, Tante, Cousin, Geburtstag, dein, müde, tanzen, malen…) ne servent à aucune série suivante. À l'inverse, les mots dont Haus, Essen, Stadt, Tiere et Spiele ont besoin sans les réenseigner sont gardés (Mutter, Bruder, Schwester, Kinder, Oma, Haus, Garten, spielen, zusammen, gern, toll, einen, aber, zu Hause). Les séries suivantes sont allégées de la même façon.
+
+**Haus (allégée) :** 27 mots (6 + 5 + 6 + 6, plus *Verstecken, unter, hinter, lustig* signalés dans le dialogue). Retirés : Flur, Keller, Balkon, Regal, Teppich, Schlüssel, offen, geschlossen, suchen, sitzen, helfen, aufwachen, lieber (*gemütlich* reste en Coin allemand). Gardés pour la suite : es gibt, dort, auf, unter, lustig, viele, jetzt, mich, ihr, schläft, Bett.
 - Cartes décomposées morceau par morceau
 
 **Exemple :**
