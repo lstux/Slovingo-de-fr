@@ -49,7 +49,7 @@ Les dialogues remobilisent le vocabulaire de la série dans des situations concr
 - **`[USER_NAME]`** : réutilise ensuite ce prénom partout où on veut personnaliser (ex. `Freut mich, [USER_NAME]!`)
 - **Emoji du locuteur : `🦊`** — une tête d'animal plutôt qu'une silhouette humaine : plus ludique, et ça évite d'avoir à choisir un genre.
 
-**On le demande dès la première fiche.** `[ASK_USER_NAME]` apparaît une première fois tout au début de `00_Introduction_01_comment-ca-marche.md`, en français, avant tout contenu en allemand — comme la navigation n'est pas strictement linéaire (menu par catégories), un enfant peut atterrir sur n'importe quelle fiche en premier, et sans ça il verrait le nom de secours (`site.user_name_default`, ex. « Enfant ») dans les dialogues des séries. Le champ réapparaît ensuite dans le Kit de Survie (fiche 3, `Ich heiße [ASK_USER_NAME]`) et dans Familie (fiche 5), cette fois lié à la phrase allemande correspondante (« wie heißt du / ich heiße ») — il est alors pré-rempli avec le prénom déjà saisi, donc sans redemander vraiment.
+**On le demande dès la première fiche.** `[ASK_USER_NAME]` apparaît une première fois tout au début de `00_Introduction_01_comment-ca-marche.md`, en français, avant tout contenu en allemand — comme la navigation n'est pas strictement linéaire (menu par catégories), un enfant peut atterrir sur n'importe quelle fiche en premier, et sans ça il verrait le nom de secours (`site.user_name_default`, ici « Linus ») dans les dialogues des séries. Dans le Kit de Survie (fiche 3), le dialogue utilise simplement `[USER_NAME]` (« Ich heiße [USER_NAME] ») : le prénom saisi en fiche 1 y est repris, ou « Linus » à défaut. Le champ `[ASK_USER_NAME]` réapparaît dans Familie (fiche 5), lié à la phrase allemande correspondante (« wie heißt du / ich heiße »).
 
 Le nom de secours (si l'enfant n'a rien saisi) vient de `lang.json` → `site.user_name_default`, et le texte du champ de `site.user_name_placeholder`. Dans les exercices, les deux marqueurs sont remplacés par le prénom (résolu par [lstux/Slovingo#13](https://github.com/lstux/Slovingo/pull/13), fusionnée) : on peut donc les utiliser aussi dans les fiches extra.
 
@@ -307,6 +307,31 @@ Le nombre de cartes audio dans `json/*.content.json` doit correspondre au nombre
 
 ---
 
+## Exercices faits main
+
+Les exercices générés automatiquement sont pensés pour des adultes. Pour un enfant, ils posent des problèmes concrets : des mauvaises réponses tirées de séries pas encore vues (« Où est le parc ? » pour *tschüss*), des textes à trous ambigus sans traduction, des étiquettes parasites dans les phrases à remettre en ordre. Les fiches d'introduction et du Kit de Survie ont donc des exercices **écrits à la main**, dans `exercises/<nom de la fiche>.exercises.json` (`"mode": "replace"` : ils remplacent les exercices générés).
+
+Les fiches d'introduction n'ont des exercices que depuis [lstux/Slovingo#36](https://github.com/lstux/Slovingo/pull/36) ; avant, leurs fichiers sont simplement ignorés.
+
+### Règles
+
+- **Que du déjà vu** : les mauvaises réponses en allemand viennent de la fiche elle-même ou des fiches précédentes (ordre : intro 1 → 5, puis Kit 1 → 3, extra). En français, on peut inventer (« la France », « Merci beaucoup ! »).
+- **Une seule bonne réponse** : jamais de distracteur presque juste (*guten Tag* pour « salut », *hallo* pour « salut (au revoir) »).
+- **Même forme** : un mot contre des mots, une phrase contre des phrases de longueur proche, pour que la réponse ne se devine pas à sa longueur.
+- **Distracteurs utiles** : ils ciblent les vraies confusions (*kein* / *nein*, *vier* / *für*, *Deutsch* / *Deutschland*, *zwei* / *zehn*, *wie heißt du* / *wie geht's*).
+- **Textes à trous** : toujours `"show_translation": true` (la phrase dans l'autre langue s'affiche au-dessus), et la ponctuation reste autour du trou.
+- **Remettre en ordre** : au moins **3 étiquettes** de chaque côté (le bouton « Vérifier » ne s'active pas en dessous), regrouper ce qui va ensemble (« va ? », « De rien ! »), pas d'étiquette en trop sauf dans la fiche extra (une seule, pour réviser).
+- **Prénom** : `[USER_NAME]` est remplacé par le prénom (ou « Linus ») ; on ne le met jamais en trou ni comme réponse à trouver.
+- **Les 5 types** quand la fiche s'y prête, pour que les sessions de 10 questions soient variées. L'écoute 🔊 est le type le plus utilisé : c'est le cœur du cours.
+
+### Garder les exercices à jour
+
+Chaque exercice reprend mot pour mot une paire de la fiche (ligne de tableau ou carte). Si on modifie la fiche, le build avertit des exercices périmés, et `python3 src/sync_exercises.py --lang-dir ../slovingo-de-fr` (repo Slovingo) propose la correction.
+
+Exception : la fiche prononciation (`00_Introduction_04`) a `"sync": "off"`, car ses exercices utilisent les mots des tableaux à 3 colonnes, que le générateur ne voit pas comme des paires. Si on change ces mots, il faut corriger ses exercices à la main.
+
+---
+
 ## Check-list rapide avant de publier une fiche
 
 - [ ] Illustration choisie (ou TODO explicite)
@@ -327,6 +352,6 @@ Le nombre de cartes audio dans `json/*.content.json` doit correspondre au nombre
 
 1. Choisir les illustrations (toutes les fiches sont en TODO)
 2. Tester avec un enfant, ajuster ton, rythme et quantité de vocabulaire
-3. Vérifier/ajuster les exercices générés
+3. Exercices faits main pour les séries suivantes, sur le modèle du Kit de Survie (voir « Exercices faits main »)
 4. Série 07+ : fêtes et moments de l'année, école, couleurs, corps, vêtements, météo
 5. Explorer les adaptations de code (gamification, UI) si le besoin s'en fait sentir

@@ -42,10 +42,9 @@ Bienvenue ! Ce dossier contient les guides pour comprendre et contribuer au proj
 
 ### Pour ajouter des exercices :
 
-1. Écrire d'abord la fiche (les fiches 01-04 doivent être stables)
-2. Utiliser la fiche « extra » (06) comme base d'exercices
-3. Générer les exercices JSON (voir la doc Slovingo principale)
-4. Ajouter dans `/exercises/`
+1. Écrire d'abord la fiche (elle doit être stable : chaque exercice reprend mot pour mot une ligne de tableau ou une carte)
+2. Écrire `exercises/<nom de la fiche>.exercises.json` en suivant les règles de la section « Exercices faits main » de [Format-de-fr.md](./Format-de-fr.md)
+3. Builder localement : aucun avertissement d'exercice périmé ne doit apparaître
 
 ### Pour vérifier les textes d'interface :
 

@@ -1,6 +1,6 @@
 # Kit de Survie (1/3) — Hallo !
 
-@ https://commons.wikimedia.org/wiki/File:Children_at_school_(8720604364).jpg | Enfants à l'école, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Children_at_school_%288720604364%29.jpg?width=800 | Enfants à l'école, Wikimedia Commons, licence libre
 
 {{fr:Pour commencer : dire bonjour, demander comment ça va, et répondre. Touche les mots pour les écouter !}}
 
@@ -35,7 +35,7 @@
 
 ! Wie geht's?
 > Ça va ?
-> Wie geht's = comment ça va
+> Wie geht's = ça va
 
 ! Gut, danke!
 > Bien, merci !

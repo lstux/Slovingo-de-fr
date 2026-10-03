@@ -1,0 +1,266 @@
+{
+  "mode": "replace",
+  "sync": "off",
+  "exercises": [
+    {
+      "id": "listen-gut",
+      "type": "listen",
+      "l1": "bien",
+      "l2": "gut",
+      "choices_l1": [
+        "chien",
+        "pour",
+        "eau"
+      ]
+    },
+    {
+      "id": "listen-hund",
+      "type": "listen",
+      "l1": "chien",
+      "l2": "Hund",
+      "choices_l1": [
+        "bien",
+        "père",
+        "fromage"
+      ]
+    },
+    {
+      "id": "listen-f-r",
+      "type": "listen",
+      "l1": "pour",
+      "l2": "für",
+      "choices_l1": [
+        "joli",
+        "aussi",
+        "quatre"
+      ]
+    },
+    {
+      "id": "listen-sch-n",
+      "type": "listen",
+      "l1": "joli",
+      "l2": "schön",
+      "choices_l1": [
+        "fromage",
+        "école",
+        "copain"
+      ]
+    },
+    {
+      "id": "listen-k-se",
+      "type": "listen",
+      "l1": "fromage",
+      "l2": "Käse",
+      "choices_l1": [
+        "joli",
+        "école",
+        "eau"
+      ]
+    },
+    {
+      "id": "listen-vier",
+      "type": "listen",
+      "l1": "quatre",
+      "l2": "vier",
+      "choices_l1": [
+        "non",
+        "pour",
+        "père"
+      ]
+    },
+    {
+      "id": "listen-freund",
+      "type": "listen",
+      "l1": "copain",
+      "l2": "Freund",
+      "choices_l1": [
+        "chien",
+        "fromage",
+        "école"
+      ]
+    },
+    {
+      "id": "listen-wasser",
+      "type": "listen",
+      "l1": "eau",
+      "l2": "Wasser",
+      "choices_l1": [
+        "père",
+        "pour",
+        "non"
+      ]
+    },
+    {
+      "id": "listen-vater",
+      "type": "listen",
+      "l1": "père",
+      "l2": "Vater",
+      "choices_l1": [
+        "eau",
+        "quatre",
+        "copain"
+      ]
+    },
+    {
+      "id": "listen-schule",
+      "type": "listen",
+      "l1": "école",
+      "l2": "Schule",
+      "choices_l1": [
+        "joli",
+        "fromage",
+        "chien"
+      ]
+    },
+    {
+      "id": "listen-nein-danke",
+      "type": "listen",
+      "l1": "Non, merci.",
+      "l2": "Nein, danke.",
+      "choices_l1": [
+        "Moi aussi !",
+        "Bien !",
+        "Oui, merci."
+      ]
+    },
+    {
+      "id": "listen-ich-auch",
+      "type": "listen",
+      "l1": "Moi aussi !",
+      "l2": "Ich auch!",
+      "choices_l1": [
+        "Non, merci.",
+        "Bien !",
+        "Quatre !"
+      ]
+    },
+    {
+      "id": "qcm-wasser",
+      "type": "qcm",
+      "l1": "eau",
+      "l2": "Wasser",
+      "choices_l1": [
+        "père",
+        "école",
+        "fromage"
+      ],
+      "choices_l2": [
+        "Vater",
+        "Schule",
+        "Käse"
+      ]
+    },
+    {
+      "id": "qcm-vater",
+      "type": "qcm",
+      "l1": "père",
+      "l2": "Vater",
+      "choices_l1": [
+        "eau",
+        "copain",
+        "chien"
+      ],
+      "choices_l2": [
+        "Wasser",
+        "Freund",
+        "Hund"
+      ]
+    },
+    {
+      "id": "qcm-vier",
+      "type": "qcm",
+      "l1": "quatre",
+      "l2": "vier",
+      "choices_l1": [
+        "pour",
+        "non",
+        "aussi"
+      ],
+      "choices_l2": [
+        "für",
+        "nein",
+        "auch"
+      ]
+    },
+    {
+      "id": "qcm-nein",
+      "type": "qcm",
+      "l1": "non",
+      "l2": "nein",
+      "choices_l1": [
+        "quatre",
+        "aussi",
+        "bien"
+      ],
+      "choices_l2": [
+        "vier",
+        "auch",
+        "gut"
+      ]
+    },
+    {
+      "id": "qcm-freund",
+      "type": "qcm",
+      "l1": "copain",
+      "l2": "Freund",
+      "choices_l1": [
+        "chien",
+        "père",
+        "école"
+      ],
+      "choices_l2": [
+        "Hund",
+        "Vater",
+        "Schule"
+      ]
+    },
+    {
+      "id": "qcm-auch",
+      "type": "qcm",
+      "l1": "aussi",
+      "l2": "auch",
+      "choices_l1": [
+        "je, moi",
+        "pour",
+        "non"
+      ],
+      "choices_l2": [
+        "ich",
+        "für",
+        "nein"
+      ]
+    },
+    {
+      "id": "match-mots-1",
+      "type": "match",
+      "l1": [
+        "bien",
+        "chien",
+        "fromage",
+        "eau"
+      ],
+      "l2": [
+        "gut",
+        "Hund",
+        "Käse",
+        "Wasser"
+      ]
+    },
+    {
+      "id": "match-mots-2",
+      "type": "match",
+      "l1": [
+        "non",
+        "quatre",
+        "copain",
+        "père"
+      ],
+      "l2": [
+        "nein",
+        "vier",
+        "Freund",
+        "Vater"
+      ]
+    }
+  ]
+}

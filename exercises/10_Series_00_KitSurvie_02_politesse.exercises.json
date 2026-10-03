@@ -1,0 +1,247 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-bitte",
+      "type": "qcm",
+      "l1": "s'il te plaît / de rien",
+      "l2": "bitte",
+      "choices_l1": [
+        "pardon",
+        "merci",
+        "oui"
+      ],
+      "choices_l2": [
+        "Entschuldigung",
+        "danke",
+        "ja"
+      ]
+    },
+    {
+      "id": "qcm-entschuldigung",
+      "type": "qcm",
+      "l1": "pardon",
+      "l2": "Entschuldigung",
+      "choices_l1": [
+        "s'il te plaît / de rien",
+        "merci",
+        "non"
+      ],
+      "choices_l2": [
+        "bitte",
+        "danke",
+        "nein"
+      ]
+    },
+    {
+      "id": "qcm-ja",
+      "type": "qcm",
+      "l1": "oui",
+      "l2": "ja",
+      "choices_l1": [
+        "non",
+        "aussi",
+        "bien"
+      ],
+      "choices_l2": [
+        "nein",
+        "auch",
+        "gut"
+      ]
+    },
+    {
+      "id": "qcm-nein",
+      "type": "qcm",
+      "l1": "non",
+      "l2": "nein",
+      "choices_l1": [
+        "oui",
+        "aussi",
+        "merci"
+      ],
+      "choices_l2": [
+        "ja",
+        "auch",
+        "danke"
+      ]
+    },
+    {
+      "id": "qcm-auch",
+      "type": "qcm",
+      "l1": "aussi",
+      "l2": "auch",
+      "choices_l1": [
+        "oui",
+        "non",
+        "bien"
+      ],
+      "choices_l2": [
+        "ja",
+        "nein",
+        "gut"
+      ]
+    },
+    {
+      "id": "listen-bitte",
+      "type": "listen",
+      "l1": "S'il te plaît !",
+      "l2": "Bitte!",
+      "choices_l1": [
+        "Pardon !",
+        "Merci !",
+        "Oui !"
+      ]
+    },
+    {
+      "id": "listen-danke-bitte",
+      "type": "listen",
+      "l1": "Merci ! De rien !",
+      "l2": "Danke! Bitte!",
+      "choices_l1": [
+        "Merci ! Pardon !",
+        "Oui ! Merci !",
+        "Pardon ! De rien !"
+      ]
+    },
+    {
+      "id": "listen-ja-bitte",
+      "type": "listen",
+      "l1": "Oui, s'il te plaît.",
+      "l2": "Ja, bitte.",
+      "choices_l1": [
+        "Non, merci.",
+        "Oui, merci.",
+        "Non, s'il te plaît."
+      ]
+    },
+    {
+      "id": "listen-nein-danke",
+      "type": "listen",
+      "l1": "Non, merci.",
+      "l2": "Nein, danke.",
+      "choices_l1": [
+        "Oui, merci.",
+        "Non, pardon.",
+        "Oui, s'il te plaît."
+      ]
+    },
+    {
+      "id": "listen-entschuldigung",
+      "type": "listen",
+      "l1": "Pardon !",
+      "l2": "Entschuldigung!",
+      "choices_l1": [
+        "Merci !",
+        "S'il te plaît !",
+        "Moi aussi !"
+      ]
+    },
+    {
+      "id": "listen-ich-auch",
+      "type": "listen",
+      "l1": "Moi aussi !",
+      "l2": "Ich auch!",
+      "choices_l1": [
+        "Pardon !",
+        "Merci !",
+        "Bien !"
+      ]
+    },
+    {
+      "id": "blank-ja-bitte",
+      "type": "fill-blank",
+      "l1": "Oui, s'il te plaît.",
+      "l2": "Ja, bitte.",
+      "missing_l1": "Oui",
+      "missing_l2": "bitte",
+      "blank_index_l1": 0,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "Non",
+        "Bien",
+        "Merci"
+      ],
+      "choices_l2": [
+        "danke",
+        "auch",
+        "gut"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-nein-danke",
+      "type": "fill-blank",
+      "l1": "Non, merci.",
+      "l2": "Nein, danke.",
+      "missing_l1": "Non",
+      "missing_l2": "Nein",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Oui",
+        "Bien",
+        "Pardon"
+      ],
+      "choices_l2": [
+        "Ja",
+        "Gut",
+        "Auch"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-danke-bitte",
+      "type": "fill-blank",
+      "l1": "Merci ! De rien !",
+      "l2": "Danke! Bitte!",
+      "missing_l1": "rien",
+      "missing_l2": "Bitte",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "merci",
+        "pardon",
+        "bien"
+      ],
+      "choices_l2": [
+        "Danke",
+        "Ja",
+        "Nein"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "match-mots",
+      "type": "match",
+      "l1": [
+        "oui",
+        "non",
+        "aussi",
+        "pardon"
+      ],
+      "l2": [
+        "ja",
+        "nein",
+        "auch",
+        "Entschuldigung"
+      ]
+    },
+    {
+      "id": "match-phrases",
+      "type": "match",
+      "l1": [
+        "S'il te plaît !",
+        "Pardon !",
+        "Moi aussi !",
+        "Non, merci."
+      ],
+      "l2": [
+        "Bitte!",
+        "Entschuldigung!",
+        "Ich auch!",
+        "Nein, danke."
+      ]
+    }
+  ]
+}

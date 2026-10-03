@@ -32,6 +32,9 @@ Les phrases à apprendre sont dans des cartes. Touche la phrase pour l'écouter,
 
 ## Essaie !
 
+- 🐰 Lea, ton amie allemande
+- 🦊 Toi
+
 ! 🐰 Hallo!
 > Salut !
 

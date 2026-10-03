@@ -1,0 +1,286 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-zwei",
+      "type": "qcm",
+      "l1": "2",
+      "l2": "zwei",
+      "choices_l1": [
+        "3",
+        "10",
+        "8"
+      ],
+      "choices_l2": [
+        "drei",
+        "zehn",
+        "acht"
+      ]
+    },
+    {
+      "id": "qcm-drei",
+      "type": "qcm",
+      "l1": "3",
+      "l2": "drei",
+      "choices_l1": [
+        "2",
+        "4",
+        "8"
+      ],
+      "choices_l2": [
+        "zwei",
+        "vier",
+        "acht"
+      ]
+    },
+    {
+      "id": "qcm-vier",
+      "type": "qcm",
+      "l1": "4",
+      "l2": "vier",
+      "choices_l1": [
+        "5",
+        "8",
+        "3"
+      ],
+      "choices_l2": [
+        "fünf",
+        "acht",
+        "drei"
+      ]
+    },
+    {
+      "id": "qcm-sechs",
+      "type": "qcm",
+      "l1": "6",
+      "l2": "sechs",
+      "choices_l1": [
+        "7",
+        "10",
+        "0"
+      ],
+      "choices_l2": [
+        "sieben",
+        "zehn",
+        "null"
+      ]
+    },
+    {
+      "id": "qcm-sieben",
+      "type": "qcm",
+      "l1": "7",
+      "l2": "sieben",
+      "choices_l1": [
+        "6",
+        "9",
+        "1"
+      ],
+      "choices_l2": [
+        "sechs",
+        "neun",
+        "eins"
+      ]
+    },
+    {
+      "id": "qcm-neun",
+      "type": "qcm",
+      "l1": "9",
+      "l2": "neun",
+      "choices_l1": [
+        "0",
+        "1",
+        "10"
+      ],
+      "choices_l2": [
+        "null",
+        "eins",
+        "zehn"
+      ]
+    },
+    {
+      "id": "listen-eins",
+      "type": "listen",
+      "l1": "1",
+      "l2": "eins",
+      "choices_l1": [
+        "2",
+        "9",
+        "10"
+      ]
+    },
+    {
+      "id": "listen-zwei",
+      "type": "listen",
+      "l1": "2",
+      "l2": "zwei",
+      "choices_l1": [
+        "3",
+        "10",
+        "7"
+      ]
+    },
+    {
+      "id": "listen-f-nf",
+      "type": "listen",
+      "l1": "5",
+      "l2": "fünf",
+      "choices_l1": [
+        "4",
+        "9",
+        "1"
+      ]
+    },
+    {
+      "id": "listen-acht",
+      "type": "listen",
+      "l1": "8",
+      "l2": "acht",
+      "choices_l1": [
+        "3",
+        "6",
+        "10"
+      ]
+    },
+    {
+      "id": "listen-zehn",
+      "type": "listen",
+      "l1": "10",
+      "l2": "zehn",
+      "choices_l1": [
+        "2",
+        "6",
+        "0"
+      ]
+    },
+    {
+      "id": "listen-null",
+      "type": "listen",
+      "l1": "0",
+      "l2": "null",
+      "choices_l1": [
+        "9",
+        "1",
+        "6"
+      ]
+    },
+    {
+      "id": "listen-wie-viel-f-nf",
+      "type": "listen",
+      "l1": "Combien ? Cinq !",
+      "l2": "Wie viel? Fünf!",
+      "choices_l1": [
+        "Combien ? Quatre !",
+        "Combien ? Neuf !",
+        "Combien ? Trois !"
+      ]
+    },
+    {
+      "id": "listen-zehn-finger",
+      "type": "listen",
+      "l1": "Dix doigts",
+      "l2": "Zehn Finger",
+      "choices_l1": [
+        "Deux doigts",
+        "Cinq doigts",
+        "Huit doigts"
+      ]
+    },
+    {
+      "id": "listen-eins-zwei-drei",
+      "type": "listen",
+      "l1": "Un, deux, trois !",
+      "l2": "Eins, zwei, drei!",
+      "choices_l1": [
+        "Deux, trois, quatre !",
+        "Un, deux, dix !",
+        "Un, neuf, trois !"
+      ]
+    },
+    {
+      "id": "blank-eins-zwei-drei",
+      "type": "fill-blank",
+      "l1": "Un, deux, trois !",
+      "l2": "Eins, zwei, drei!",
+      "missing_l1": "deux",
+      "missing_l2": "zwei",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "dix",
+        "quatre",
+        "cinq"
+      ],
+      "choices_l2": [
+        "drei",
+        "zehn",
+        "vier"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-eins-zwei-drei",
+      "type": "order",
+      "l1": "Un, deux, trois !",
+      "l2": "Eins, zwei, drei!",
+      "tokens_l1": [
+        "Un,",
+        "deux,",
+        "trois !"
+      ],
+      "tokens_l2": [
+        "Eins,",
+        "zwei,",
+        "drei!"
+      ]
+    },
+    {
+      "id": "match-1-4",
+      "type": "match",
+      "l1": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "l2": [
+        "eins",
+        "zwei",
+        "drei",
+        "vier"
+      ]
+    },
+    {
+      "id": "match-5-8",
+      "type": "match",
+      "l1": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "l2": [
+        "fünf",
+        "sechs",
+        "sieben",
+        "acht"
+      ]
+    },
+    {
+      "id": "match-0-9-10",
+      "type": "match",
+      "l1": [
+        "0",
+        "9",
+        "10",
+        "5"
+      ],
+      "l2": [
+        "null",
+        "neun",
+        "zehn",
+        "fünf"
+      ]
+    }
+  ]
+}

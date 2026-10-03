@@ -1,0 +1,28 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "listen-hallo",
+      "type": "listen",
+      "l1": "Salut !",
+      "l2": "Hallo!",
+      "choices_l1": [
+        "Merci !",
+        "Bravo !",
+        "Pardon !"
+      ]
+    },
+    {
+      "id": "listen-hallo-lea",
+      "type": "listen",
+      "l1": "Salut, Lea !",
+      "l2": "Hallo, Lea!",
+      "choices_l1": [
+        "Merci, Lea !",
+        "Bravo, Lea !",
+        "Pardon, Lea !"
+      ]
+    }
+  ]
+}

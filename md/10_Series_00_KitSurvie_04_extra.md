@@ -44,9 +44,9 @@
 > danke = merci
 
 ! Guten Tag! Tschüss!
-> Bonjour ! Salut !
+> Bonjour ! Au revoir !
 > Guten Tag = bonjour
-> Tschüss = salut
+> Tschüss = au revoir
 
 ! Nein, danke. Ja, bitte.
 > Non, merci. Oui, s'il te plaît.
@@ -84,13 +84,13 @@
 > Bitte = de rien
 
 ! Tschüss, [USER_NAME]!
-> Salut, [USER_NAME] !
-> Tschüss = salut
+> Au revoir, [USER_NAME] !
+> Tschüss = au revoir
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-{{fr:Bravo ! Tu sais dire bonjour, merci, pardon, te présenter, et dire que tu ne comprends pas. Tu peux te débrouiller dans presque toutes les situations simples !}}
+{{fr:Bravo ! Tu sais dire bonjour, merci, pardon, te présenter, et dire que tu ne comprends pas. Tu peux te débrouiller dans beaucoup de situations simples !}}
 
-{{fr:La suite, c'est la série Familie : la famille, et les verbes « être » et « avoir ».}}
+{{fr:La suite, c'est la série sur la famille : on apprendra aussi les verbes « être » et « avoir ».}} → {{Familie}}

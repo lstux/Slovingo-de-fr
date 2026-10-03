@@ -1,6 +1,6 @@
 # Kit de Survie (2/3) — Bitte und Entschuldigung
 
-@ https://commons.wikimedia.org/wiki/File:Happy_child_finds_joy.jpg | Enfant heureux, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Happy_child_finds_joy.jpg?width=800 | Enfant heureux, Wikimedia Commons, licence libre
 
 {{fr:Les mots qui ouvrent toutes les portes : s'il te plaît, pardon, oui, non !}}
 
