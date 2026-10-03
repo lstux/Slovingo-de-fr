@@ -49,7 +49,7 @@ Les dialogues remobilisent le vocabulaire de la série dans des situations concr
 - **`[USER_NAME]`** : réutilise ensuite ce prénom partout où on veut personnaliser (ex. `Freut mich, [USER_NAME]!`)
 - **Emoji du locuteur : `🦊`** — une tête d'animal plutôt qu'une silhouette humaine : plus ludique, et ça évite d'avoir à choisir un genre.
 
-**On le demande dès la première fiche.** `[ASK_USER_NAME]` apparaît une première fois tout au début de `00_Introduction_01_les-pays.md`, en français, avant tout contenu en allemand — comme la navigation n'est pas strictement linéaire (menu par catégories), un enfant peut atterrir sur n'importe quelle fiche en premier, et sans ça il verrait le nom de secours (`site.user_name_default`, ex. « Enfant ») dans les dialogues des séries. Le champ réapparaît ensuite dans le Kit de Survie (fiche 3, `Ich heiße [ASK_USER_NAME]`) et dans Familie (fiche 5), cette fois lié à la phrase allemande correspondante (« wie heißt du / ich heiße ») — il est alors pré-rempli avec le prénom déjà saisi, donc sans redemander vraiment.
+**On le demande dès la première fiche.** `[ASK_USER_NAME]` apparaît une première fois tout au début de `00_Introduction_01_comment-ca-marche.md`, en français, avant tout contenu en allemand — comme la navigation n'est pas strictement linéaire (menu par catégories), un enfant peut atterrir sur n'importe quelle fiche en premier, et sans ça il verrait le nom de secours (`site.user_name_default`, ex. « Enfant ») dans les dialogues des séries. Le champ réapparaît ensuite dans le Kit de Survie (fiche 3, `Ich heiße [ASK_USER_NAME]`) et dans Familie (fiche 5), cette fois lié à la phrase allemande correspondante (« wie heißt du / ich heiße ») — il est alors pré-rempli avec le prénom déjà saisi, donc sans redemander vraiment.
 
 Le nom de secours (si l'enfant n'a rien saisi) vient de `lang.json` → `site.user_name_default`, et le texte du champ de `site.user_name_placeholder`. Dans les exercices, les deux marqueurs sont remplacés par le prénom (résolu par [lstux/Slovingo#13](https://github.com/lstux/Slovingo/pull/13), fusionnée) : on peut donc les utiliser aussi dans les fiches extra.
 
@@ -59,7 +59,7 @@ Le nom de secours (si l'enfant n'a rien saisi) vient de `lang.json` → `site.us
 
 ```
 slovingo-de-fr/md/
-├── 00_Introduction_*.md          # Fiches d'intro (pays, langue, prononciation, nombres)
+├── 00_Introduction_*.md          # Fiches d'intro (comment ça marche, pays, langue, prononciation, nombres)
 ├── 10_Series_XX_Theme_YY_*.md    # Séries d'apprentissage
 ├── 20_Vocabulary_*.md            # Listes de vocabulaire autonomes (par thème ou niveau)
 └── 30_Annex_*.md                 # Notes culturelles, tableaux de grammaire, etc.
@@ -84,12 +84,34 @@ Le **thème visuel** de la série (couleurs, motif, photo de bandeau `img/style_
 
 ---
 
+## Écouter plutôt que lire
+
+Pour un enfant de 8 ans, lire une fiche entière est long : les explications importantes doivent aussi pouvoir s'**écouter** en français. On utilise pour ça le speakable en langue native, `{{fr:...}}` (voir [Format-SMD.txt](https://github.com/lstux/Slovingo/blob/main/docs/Format-SMD.txt), section 3, et [Slovingo#33](https://github.com/lstux/Slovingo/pull/33)) : un clic lit la phrase avec une voix française. Le texte reste affiché, souligné en pointillés avec un 🗣️.
+
+```
+{{fr:Le u allemand se dit « ou », comme dans « loup ».}}
+Le mot {{Haus}} veut dire « maison ».
+```
+
+Règles d'écriture :
+
+- **Une idée par `{{fr:...}}`**, courte (une à trois phrases). Une consigne ou une explication par rubrique suffit : pas besoin de tout mettre en `{{fr:...}}`.
+- **Pas de mot allemand dans un `{{fr:...}}`** : la voix française le prononcerait mal. On sépare : la phrase française en `{{fr:...}}`, le mot allemand à côté en `{{...}}` (langue apprise).
+- Pas de `**gras**` ni de `}}` à l'intérieur : le texte d'un speakable est lu tel quel.
+- Lecture **au clic uniquement**, jamais automatique.
+- Dans une audio-card, la phrase (`!`) est lue avec la voix allemande : on met le français dans les traductions, remarques et paragraphes, pas dans la phrase.
+
+Pour que ça marche : le build doit utiliser un moteur Slovingo qui contient la PR #33 (`slovingo_ref`), et l'appareil doit avoir une voix française en plus de la voix allemande.
+
+---
+
 ## Structure d'une fiche
 
 ### Fiches d'introduction (00_Introduction_*)
 
-- Où parle-t-on allemand, une langue déjà familière, prononciation, nombres
-- Pas d'explications longues
+- Comment ça marche (mode d'emploi de l'appli), où parle-t-on allemand, une langue déjà familière, prononciation, nombres (0 à 10)
+- Pas d'explications longues : **environ 250 mots maximum par fiche** (la fiche « Comment ça marche » est un peu plus longue, c'est le mode d'emploi)
+- Les consignes et explications sont à **écouter** : voir « Écouter plutôt que lire » ci-dessous
 
 ### Fiches d'apprentissage (01 à 04)
 

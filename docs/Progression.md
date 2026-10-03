@@ -15,7 +15,7 @@ Ce document décrit notre approche pédagogique.
 ## Structure générale
 
 **Phases :**
-- **Phase 0 : Introduction** — 4 fiches (pays, langue, prononciation, nombres)
+- **Phase 0 : Introduction** — 5 fiches (comment ça marche, pays, langue, prononciation, nombres de 0 à 10)
 - **Phase 1 : Kit de Survie** (Série 00) — 3 fiches + 1 extra de phrases essentielles
 - **Phase 2 : La vie quotidienne** (Séries 01-03) — Familie, Haus, Essen (18 fiches) ✅
 - **Phase 3 : En dehors de la maison** (Séries 04-06) — Stadt, Tiere, Spiele (18 fiches) ✅
@@ -58,6 +58,10 @@ Pour écrire une nouvelle série, s'appuyer sur ce qui existe déjà — et ne p
 | Stadt | in der / im, fahren (fährst) vs gehen, mit dem Bus, impératif **geh!** + nach links, um die Ecke, neben, sehen/treffen, **Was kostet das?** |
 | Tiere | pluriels (Vögel, -chen invariable et neutre), **comparatif** größer als / stärker, essen vs **fressen**, laufen (läufst) |
 | Spiele | spielen mit (dem/der), jeu sans article (Fußball spielen), **können** (+ savoir faire), Wer ist dran?, **Wollen wir…?**, verbes à ressort (mitmachen, einladen, anfangen) |
+
+**Prononciation : règles volontairement reportées.** La fiche de prononciation de l'intro ne garde que cinq astuces (u = « ou », ü/ö/ä, ei/ie/eu, ch/sch, w/v). Les autres règles sont à introduire dans les séries, au moment où un mot les rend utiles : z = « ts », j = « y », s + voyelle = « z », sp/st en début de mot (Stadt), ß = « ss » (Straße), accent sur la première syllabe, e final prononcé.
+
+**Nombres :** l'intro s'arrête à 10. Les nombres au-delà (11 à 20, puis l'ordre « unité + und + dizaine » à partir de 21) pourront faire l'objet d'une série dédiée « nombres », à décider.
 
 **Pas encore abordés** (à introduire en douceur plus tard) : le passé (*Perfekt* : « ich habe gespielt » — c'est le passé de l'oral, bien plus utile qu'un passé « écrit »), les jours et l'heure, les couleurs (seuls rot, grün, braun, rosa sont apparus), le vouvoiement actif (*Sie* conjugué), les terminaisons d'adjectifs devant un nom.
 
