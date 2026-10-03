@@ -52,14 +52,14 @@ Pour écrire une nouvelle série, s'appuyer sur ce qui existe déjà — et ne p
 | Série | Points de grammaire |
 |-------|---------------------|
 | Kit de Survie | schémas figés : wie heißt du / ich heiße, sprichst du, kein (« pas de », une seule mention : Familie et Essen le réutilisent). Le du / Sie n'est pas traité ici : il apparaît dans Stadt, quand on demande son chemin à un adulte |
-| Familie | mein/meine, dein/deine, **sein** (ich bin…), **haben**, âge avec sein, adjectif invariable après sein (≠ devant le nom), **ein → einen**, verbes réguliers au présent, **gern** |
+| Familie | un point par fiche : mein/meine (comme en français pour la famille) ; **sein** (ich bin, du bist, er/sie ist, sie sind) + âge, adjectif invariable après sein ; **haben** (habe, hast, hat, haben) + **ein → einen** et mein → meinen, donnés « à l'oreille », sans règle ; verbes réguliers au présent (ich, du, er/sie, wir) + **gern**. En passant, dans les cartes : und, aber, zu Hause, mit. Pas de dein/deine (aucune série suivante n'en a besoin) |
 | Haus | der/die/das (le dernier mot d'un mot composé décide), es gibt, im / in der, wo ist / wo sind, pluriels (die au pluriel), **nicht**, **verbes à ressort** (aufräumen), schlafen → schläfst |
 | Essen | essen (isst), trinken, pas d'article partitif, **möchten**, zum Frühstück (verbe en 2ᵉ position), schmecken, **mögen** + kein, nehmen (nimmst) |
 | Stadt | in der / im, fahren (fährst) vs gehen, mit dem Bus, impératif **geh!** + nach links, um die Ecke, neben, sehen/treffen, **Was kostet das?** |
 | Tiere | pluriels (Vögel, -chen invariable et neutre), **comparatif** größer als / stärker, essen vs **fressen**, laufen (läufst) |
 | Spiele | spielen mit (dem/der), jeu sans article (Fußball spielen), **können** (+ savoir faire), Wer ist dran?, **Wollen wir…?**, verbes à ressort (mitmachen, einladen, anfangen) |
 
-**Prononciation : règles volontairement reportées.** La fiche de prononciation de l'intro ne garde que cinq astuces (u = « ou », ü/ö/ä, ei/ie/eu, ch/sch, w/v). Les autres règles sont à introduire dans les séries, au moment où un mot les rend utiles : z = « ts », j = « y », s + voyelle = « z », sp/st en début de mot (Stadt), ß = « ss » (Straße), accent sur la première syllabe, e final prononcé.
+**Prononciation : règles volontairement reportées.** La fiche de prononciation de l'intro ne garde que cinq astuces (u = « ou », ü/ö/ä, ei/ie/eu, ch/sch, w/v). Les autres règles sont à introduire dans les séries, au moment où un mot les rend utiles. Déjà fait dans Familie : j = « y » (Jahre), ß = « ss » (groß), z = « ts » (zusammen). Restent : s + voyelle = « z », sp/st en début de mot (Stadt), accent sur la première syllabe, e final prononcé.
 
 **Nombres :** l'intro s'arrête à 10. Les nombres au-delà (11 à 20, puis l'ordre « unité + und + dizaine » à partir de 21) pourront faire l'objet d'une série dédiée « nombres », à décider.
 
@@ -86,6 +86,8 @@ Pour écrire une nouvelle série, s'appuyer sur ce qui existe déjà — et ne p
 
 - Phrases jusqu'à 5-6 mots
 - sein, haben, verbes réguliers, gern, möchten, mögen
+
+**Familie (allégée sur le modèle du Kit) :** 27 mots (6 + 6 + 7 + 6, plus *toll* et *bis bald* signalés dans le dialogue), un seul point de grammaire par fiche, pas de « vocabulaire complémentaire », explications à écouter. Les mots retirés (Eltern, Sohn, Tochter, jung, Onkel, Tante, Cousin, Geburtstag, dein, müde, tanzen, malen…) ne servent à aucune série suivante. À l'inverse, les mots dont Haus, Essen, Stadt, Tiere et Spiele ont besoin sans les réenseigner sont gardés (Mutter, Bruder, Schwester, Kinder, Oma, Haus, Garten, spielen, zusammen, gern, toll, einen, aber, zu Hause). Haus, Essen, etc. seront allégées de la même façon.
 - Cartes décomposées morceau par morceau
 
 **Exemple :**

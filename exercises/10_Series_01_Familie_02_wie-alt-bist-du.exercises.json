@@ -1,0 +1,406 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-klein",
+      "type": "qcm",
+      "l1": "petit",
+      "l2": "klein",
+      "choices_l1": [
+        "grand",
+        "âgé, vieux",
+        "mais"
+      ],
+      "choices_l2": [
+        "groß",
+        "alt",
+        "aber"
+      ]
+    },
+    {
+      "id": "qcm-gro",
+      "type": "qcm",
+      "l1": "grand",
+      "l2": "groß",
+      "choices_l1": [
+        "petit",
+        "âgé, vieux",
+        "mais"
+      ],
+      "choices_l2": [
+        "klein",
+        "alt",
+        "aber"
+      ]
+    },
+    {
+      "id": "qcm-alt",
+      "type": "qcm",
+      "l1": "âgé, vieux",
+      "l2": "alt",
+      "choices_l1": [
+        "petit",
+        "grand",
+        "mais"
+      ],
+      "choices_l2": [
+        "klein",
+        "groß",
+        "aber"
+      ]
+    },
+    {
+      "id": "qcm-aber",
+      "type": "qcm",
+      "l1": "mais",
+      "l2": "aber",
+      "choices_l1": [
+        "et",
+        "aussi",
+        "oui"
+      ],
+      "choices_l2": [
+        "und",
+        "auch",
+        "ja"
+      ]
+    },
+    {
+      "id": "qcm-wie-alt",
+      "type": "qcm",
+      "l1": "quel âge",
+      "l2": "wie alt",
+      "choices_l1": [
+        "ça va ?",
+        "comment tu t'appelles",
+        "petit"
+      ],
+      "choices_l2": [
+        "wie geht's",
+        "wie heißt du",
+        "klein"
+      ]
+    },
+    {
+      "id": "qcm-ich-bin",
+      "type": "qcm",
+      "l1": "je suis",
+      "l2": "ich bin",
+      "choices_l1": [
+        "tu es",
+        "il est / elle est",
+        "ils sont, elles sont"
+      ],
+      "choices_l2": [
+        "du bist",
+        "er ist / sie ist",
+        "sie sind"
+      ]
+    },
+    {
+      "id": "qcm-du-bist",
+      "type": "qcm",
+      "l1": "tu es",
+      "l2": "du bist",
+      "choices_l1": [
+        "je suis",
+        "il est / elle est",
+        "ils sont, elles sont"
+      ],
+      "choices_l2": [
+        "ich bin",
+        "er ist / sie ist",
+        "sie sind"
+      ]
+    },
+    {
+      "id": "listen-wie-alt-bist-du",
+      "type": "listen",
+      "l1": "Quel âge as-tu ?",
+      "l2": "Wie alt bist du?",
+      "choices_l1": [
+        "Comment tu t'appelles ?",
+        "Ça va ?",
+        "Tu parles français ?"
+      ]
+    },
+    {
+      "id": "listen-ich-bin-acht-jahre-alt",
+      "type": "listen",
+      "l1": "J'ai huit ans.",
+      "l2": "Ich bin acht Jahre alt.",
+      "choices_l1": [
+        "J'ai neuf ans.",
+        "J'ai dix ans.",
+        "J'ai trois ans."
+      ]
+    },
+    {
+      "id": "listen-mein-bruder-ist-zehn-jahre-alt",
+      "type": "listen",
+      "l1": "Mon frère a dix ans.",
+      "l2": "Mein Bruder ist zehn Jahre alt.",
+      "choices_l1": [
+        "Mon frère a deux ans.",
+        "Mon père a dix ans.",
+        "Ma sœur a dix ans."
+      ]
+    },
+    {
+      "id": "listen-meine-schwester-ist-klein",
+      "type": "listen",
+      "l1": "Ma sœur est petite.",
+      "l2": "Meine Schwester ist klein.",
+      "choices_l1": [
+        "Ma sœur est grande.",
+        "Ma mère est petite.",
+        "Mon frère est petit."
+      ]
+    },
+    {
+      "id": "listen-mein-vater-ist-gro",
+      "type": "listen",
+      "l1": "Mon père est grand.",
+      "l2": "Mein Vater ist groß.",
+      "choices_l1": [
+        "Mon père est petit.",
+        "Mon frère est grand.",
+        "Ma mère est grande."
+      ]
+    },
+    {
+      "id": "listen-die-kinder-sind-klein",
+      "type": "listen",
+      "l1": "Les enfants sont petits.",
+      "l2": "Die Kinder sind klein.",
+      "choices_l1": [
+        "Les enfants sont grands.",
+        "L'enfant est petit.",
+        "Les parents sont petits."
+      ]
+    },
+    {
+      "id": "listen-mein-bruder-ist-gro-aber-meine-schwester-ist-klein",
+      "type": "listen",
+      "l1": "Mon frère est grand, mais ma sœur est petite.",
+      "l2": "Mein Bruder ist groß, aber meine Schwester ist klein.",
+      "choices_l1": [
+        "Mon frère est petit, mais ma sœur est grande.",
+        "Mon père est grand, mais ma mère est petite.",
+        "Mon frère est grand, et ma sœur aussi."
+      ]
+    },
+    {
+      "id": "blank-ich-bin-acht-jahre-alt",
+      "type": "fill-blank",
+      "l1": "J'ai huit ans.",
+      "l2": "Ich bin acht Jahre alt.",
+      "missing_l1": "huit",
+      "missing_l2": "bin",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "neuf",
+        "dix",
+        "trois"
+      ],
+      "choices_l2": [
+        "bist",
+        "ist",
+        "sind"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-wie-alt-bist-du",
+      "type": "fill-blank",
+      "l1": "Quel âge as-tu ?",
+      "l2": "Wie alt bist du?",
+      "missing_l1": "as-tu",
+      "missing_l2": "bist",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "es-tu",
+        "vas-tu",
+        "fais-tu"
+      ],
+      "choices_l2": [
+        "bin",
+        "ist",
+        "sind"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-die-kinder-sind-klein",
+      "type": "fill-blank",
+      "l1": "Les enfants sont petits.",
+      "l2": "Die Kinder sind klein.",
+      "missing_l1": "sont",
+      "missing_l2": "sind",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "suis",
+        "es",
+        "est"
+      ],
+      "choices_l2": [
+        "bin",
+        "bist",
+        "ist"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-mein-vater-ist-gro",
+      "type": "fill-blank",
+      "l1": "Mon père est grand.",
+      "l2": "Mein Vater ist groß.",
+      "missing_l1": "grand",
+      "missing_l2": "groß",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "petit",
+        "âgé",
+        "vieux"
+      ],
+      "choices_l2": [
+        "klein",
+        "alt",
+        "aber"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-mein-bruder-ist-gro-aber-meine-schwester-ist-klein",
+      "type": "fill-blank",
+      "l1": "Mon frère est grand, mais ma sœur est petite.",
+      "l2": "Mein Bruder ist groß, aber meine Schwester ist klein.",
+      "missing_l1": "mais",
+      "missing_l2": "aber",
+      "blank_index_l1": 4,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "et",
+        "aussi",
+        "oui"
+      ],
+      "choices_l2": [
+        "und",
+        "auch",
+        "ja"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-wie-alt-bist-du",
+      "type": "order",
+      "l1": "Quel âge as-tu ?",
+      "l2": "Wie alt bist du?",
+      "tokens_l1": [
+        "Quel",
+        "âge",
+        "as-tu ?"
+      ],
+      "tokens_l2": [
+        "Wie",
+        "alt",
+        "bist",
+        "du?"
+      ]
+    },
+    {
+      "id": "order-ich-bin-acht-jahre-alt",
+      "type": "order",
+      "l1": "J'ai huit ans.",
+      "l2": "Ich bin acht Jahre alt.",
+      "tokens_l1": [
+        "J'ai",
+        "huit",
+        "ans."
+      ],
+      "tokens_l2": [
+        "Ich",
+        "bin",
+        "acht",
+        "Jahre",
+        "alt."
+      ]
+    },
+    {
+      "id": "order-meine-schwester-ist-klein",
+      "type": "order",
+      "l1": "Ma sœur est petite.",
+      "l2": "Meine Schwester ist klein.",
+      "tokens_l1": [
+        "Ma",
+        "sœur",
+        "est",
+        "petite."
+      ],
+      "tokens_l2": [
+        "Meine",
+        "Schwester",
+        "ist",
+        "klein."
+      ]
+    },
+    {
+      "id": "order-mein-bruder-ist-zehn-jahre-alt",
+      "type": "order",
+      "l1": "Mon frère a dix ans.",
+      "l2": "Mein Bruder ist zehn Jahre alt.",
+      "tokens_l1": [
+        "Mon",
+        "frère",
+        "a",
+        "dix",
+        "ans."
+      ],
+      "tokens_l2": [
+        "Mein",
+        "Bruder",
+        "ist",
+        "zehn",
+        "Jahre",
+        "alt."
+      ]
+    },
+    {
+      "id": "match-sein",
+      "type": "match",
+      "l1": [
+        "je suis",
+        "tu es",
+        "il est / elle est",
+        "ils sont, elles sont"
+      ],
+      "l2": [
+        "ich bin",
+        "du bist",
+        "er ist / sie ist",
+        "sie sind"
+      ]
+    },
+    {
+      "id": "match-mots",
+      "type": "match",
+      "l1": [
+        "petit",
+        "grand",
+        "âgé, vieux",
+        "mais"
+      ],
+      "l2": [
+        "klein",
+        "groß",
+        "alt",
+        "aber"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-die-mutter",
+      "type": "qcm",
+      "l1": "la mère",
+      "l2": "die Mutter",
+      "choices_l1": [
+        "la sœur",
+        "le père",
+        "le frère"
+      ],
+      "choices_l2": [
+        "die Schwester",
+        "der Vater",
+        "der Bruder"
+      ]
+    },
+    {
+      "id": "qcm-der-vater",
+      "type": "qcm",
+      "l1": "le père",
+      "l2": "der Vater",
+      "choices_l1": [
+        "le frère",
+        "la mère",
+        "la sœur"
+      ],
+      "choices_l2": [
+        "der Bruder",
+        "die Mutter",
+        "die Schwester"
+      ]
+    },
+    {
+      "id": "qcm-der-bruder",
+      "type": "qcm",
+      "l1": "le frère",
+      "l2": "der Bruder",
+      "choices_l1": [
+        "le père",
+        "la sœur",
+        "la mère"
+      ],
+      "choices_l2": [
+        "der Vater",
+        "die Schwester",
+        "die Mutter"
+      ]
+    },
+    {
+      "id": "qcm-die-schwester",
+      "type": "qcm",
+      "l1": "la sœur",
+      "l2": "die Schwester",
+      "choices_l1": [
+        "la mère",
+        "le frère",
+        "le père"
+      ],
+      "choices_l2": [
+        "die Mutter",
+        "der Bruder",
+        "der Vater"
+      ]
+    },
+    {
+      "id": "qcm-das-ist",
+      "type": "qcm",
+      "l1": "c'est",
+      "l2": "das ist",
+      "choices_l1": [
+        "et",
+        "merci",
+        "salut"
+      ],
+      "choices_l2": [
+        "und",
+        "danke",
+        "hallo"
+      ]
+    },
+    {
+      "id": "qcm-mein-vater",
+      "type": "qcm",
+      "l1": "mon père",
+      "l2": "mein Vater",
+      "choices_l1": [
+        "ma mère",
+        "mon frère",
+        "ma sœur"
+      ],
+      "choices_l2": [
+        "meine Mutter",
+        "mein Bruder",
+        "meine Schwester"
+      ]
+    },
+    {
+      "id": "qcm-meine-schwester",
+      "type": "qcm",
+      "l1": "ma sœur",
+      "l2": "meine Schwester",
+      "choices_l1": [
+        "mon frère",
+        "ma mère",
+        "mon père"
+      ],
+      "choices_l2": [
+        "mein Bruder",
+        "meine Mutter",
+        "mein Vater"
+      ]
+    },
+    {
+      "id": "listen-das-ist-meine-familie",
+      "type": "listen",
+      "l1": "C'est ma famille.",
+      "l2": "Das ist meine Familie.",
+      "choices_l1": [
+        "C'est mon père.",
+        "C'est ma mère.",
+        "C'est mon chien."
+      ]
+    },
+    {
+      "id": "listen-das-ist-mein-vater",
+      "type": "listen",
+      "l1": "C'est mon père.",
+      "l2": "Das ist mein Vater.",
+      "choices_l1": [
+        "C'est mon frère.",
+        "C'est ma mère.",
+        "C'est mon chien."
+      ]
+    },
+    {
+      "id": "listen-das-ist-meine-mutter",
+      "type": "listen",
+      "l1": "C'est ma mère.",
+      "l2": "Das ist meine Mutter.",
+      "choices_l1": [
+        "C'est ma sœur.",
+        "C'est mon père.",
+        "C'est ma famille."
+      ]
+    },
+    {
+      "id": "listen-mein-bruder-und-meine-schwester",
+      "type": "listen",
+      "l1": "Mon frère et ma sœur.",
+      "l2": "Mein Bruder und meine Schwester.",
+      "choices_l1": [
+        "Mon père et ma mère.",
+        "Ma mère et ma sœur.",
+        "Mon frère et mon père."
+      ]
+    },
+    {
+      "id": "listen-das-ist-mein-hund",
+      "type": "listen",
+      "l1": "C'est mon chien.",
+      "l2": "Das ist mein Hund.",
+      "choices_l1": [
+        "C'est mon frère.",
+        "C'est mon père.",
+        "C'est ma famille."
+      ]
+    },
+    {
+      "id": "listen-hallo-mama-hallo-papa",
+      "type": "listen",
+      "l1": "Salut, maman ! Salut, papa !",
+      "l2": "Hallo, Mama! Hallo, Papa!",
+      "choices_l1": [
+        "Merci, maman ! Merci, papa !",
+        "Salut, mamie ! Salut, papi !",
+        "Au revoir, maman ! Au revoir, papa !"
+      ]
+    },
+    {
+      "id": "blank-das-ist-meine-mutter",
+      "type": "fill-blank",
+      "l1": "C'est ma mère.",
+      "l2": "Das ist meine Mutter.",
+      "missing_l1": "ma",
+      "missing_l2": "meine",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "mon",
+        "et",
+        "merci"
+      ],
+      "choices_l2": [
+        "mein",
+        "und",
+        "danke"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-das-ist-mein-vater",
+      "type": "fill-blank",
+      "l1": "C'est mon père.",
+      "l2": "Das ist mein Vater.",
+      "missing_l1": "mon",
+      "missing_l2": "mein",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "ma",
+        "et",
+        "merci"
+      ],
+      "choices_l2": [
+        "meine",
+        "und",
+        "danke"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-mein-bruder-und-meine-schwester",
+      "type": "fill-blank",
+      "l1": "Mon frère et ma sœur.",
+      "l2": "Mein Bruder und meine Schwester.",
+      "missing_l1": "et",
+      "missing_l2": "und",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "merci",
+        "aussi",
+        "oui"
+      ],
+      "choices_l2": [
+        "danke",
+        "auch",
+        "ja"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-das-ist-meine-familie",
+      "type": "order",
+      "l1": "C'est ma famille.",
+      "l2": "Das ist meine Familie.",
+      "tokens_l1": [
+        "C'est",
+        "ma",
+        "famille."
+      ],
+      "tokens_l2": [
+        "Das",
+        "ist",
+        "meine",
+        "Familie."
+      ]
+    },
+    {
+      "id": "order-mein-bruder-und-meine-schwester",
+      "type": "order",
+      "l1": "Mon frère et ma sœur.",
+      "l2": "Mein Bruder und meine Schwester.",
+      "tokens_l1": [
+        "Mon",
+        "frère",
+        "et",
+        "ma",
+        "sœur."
+      ],
+      "tokens_l2": [
+        "Mein",
+        "Bruder",
+        "und",
+        "meine",
+        "Schwester."
+      ]
+    },
+    {
+      "id": "order-hallo-mama-hallo-papa",
+      "type": "order",
+      "l1": "Salut, maman ! Salut, papa !",
+      "l2": "Hallo, Mama! Hallo, Papa!",
+      "tokens_l1": [
+        "Salut,",
+        "maman !",
+        "Salut,",
+        "papa !"
+      ],
+      "tokens_l2": [
+        "Hallo,",
+        "Mama!",
+        "Hallo,",
+        "Papa!"
+      ]
+    },
+    {
+      "id": "match-famille",
+      "type": "match",
+      "l1": [
+        "la mère",
+        "le père",
+        "le frère",
+        "la sœur"
+      ],
+      "l2": [
+        "die Mutter",
+        "der Vater",
+        "der Bruder",
+        "die Schwester"
+      ]
+    },
+    {
+      "id": "match-mein-meine",
+      "type": "match",
+      "l1": [
+        "mon père",
+        "ma mère",
+        "mon frère",
+        "ma sœur"
+      ],
+      "l2": [
+        "mein Vater",
+        "meine Mutter",
+        "mein Bruder",
+        "meine Schwester"
+      ]
+    }
+  ]
+}

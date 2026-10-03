@@ -1,0 +1,440 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-die-oma",
+      "type": "qcm",
+      "l1": "la mamie",
+      "l2": "die Oma",
+      "choices_l1": [
+        "le papi",
+        "la mère",
+        "la sœur"
+      ],
+      "choices_l2": [
+        "der Opa",
+        "die Mutter",
+        "die Schwester"
+      ]
+    },
+    {
+      "id": "qcm-der-opa",
+      "type": "qcm",
+      "l1": "le papi",
+      "l2": "der Opa",
+      "choices_l1": [
+        "la mamie",
+        "le père",
+        "le frère"
+      ],
+      "choices_l2": [
+        "die Oma",
+        "der Vater",
+        "der Bruder"
+      ]
+    },
+    {
+      "id": "qcm-das-haus",
+      "type": "qcm",
+      "l1": "la maison",
+      "l2": "das Haus",
+      "choices_l1": [
+        "le jardin",
+        "le gâteau",
+        "à la maison"
+      ],
+      "choices_l2": [
+        "der Garten",
+        "der Kuchen",
+        "zu Hause"
+      ]
+    },
+    {
+      "id": "qcm-der-garten",
+      "type": "qcm",
+      "l1": "le jardin",
+      "l2": "der Garten",
+      "choices_l1": [
+        "la maison",
+        "le chat",
+        "le gâteau"
+      ],
+      "choices_l2": [
+        "das Haus",
+        "die Katze",
+        "der Kuchen"
+      ]
+    },
+    {
+      "id": "qcm-die-katze",
+      "type": "qcm",
+      "l1": "le chat",
+      "l2": "die Katze",
+      "choices_l1": [
+        "le jardin",
+        "le gâteau",
+        "la maison"
+      ],
+      "choices_l2": [
+        "der Garten",
+        "der Kuchen",
+        "das Haus"
+      ]
+    },
+    {
+      "id": "qcm-der-kuchen",
+      "type": "qcm",
+      "l1": "le gâteau",
+      "l2": "der Kuchen",
+      "choices_l1": [
+        "le jardin",
+        "le chat",
+        "la maison"
+      ],
+      "choices_l2": [
+        "der Garten",
+        "die Katze",
+        "das Haus"
+      ]
+    },
+    {
+      "id": "qcm-ich-habe",
+      "type": "qcm",
+      "l1": "j'ai",
+      "l2": "ich habe",
+      "choices_l1": [
+        "tu as",
+        "il a / elle a",
+        "ils ont, elles ont"
+      ],
+      "choices_l2": [
+        "du hast",
+        "er hat / sie hat",
+        "sie haben"
+      ]
+    },
+    {
+      "id": "qcm-du-hast",
+      "type": "qcm",
+      "l1": "tu as",
+      "l2": "du hast",
+      "choices_l1": [
+        "j'ai",
+        "il a / elle a",
+        "ils ont, elles ont"
+      ],
+      "choices_l2": [
+        "ich habe",
+        "er hat / sie hat",
+        "sie haben"
+      ]
+    },
+    {
+      "id": "listen-oma-und-opa-haben-ein-haus",
+      "type": "listen",
+      "l1": "Mamie et papi ont une maison.",
+      "l2": "Oma und Opa haben ein Haus.",
+      "choices_l1": [
+        "Mamie et papi ont un jardin.",
+        "Mamie et papi ont un chat.",
+        "Papa et maman ont une maison."
+      ]
+    },
+    {
+      "id": "listen-das-haus-hat-einen-garten",
+      "type": "listen",
+      "l1": "La maison a un jardin.",
+      "l2": "Das Haus hat einen Garten.",
+      "choices_l1": [
+        "La maison a un chat.",
+        "Le jardin a une maison.",
+        "La maison est grande."
+      ]
+    },
+    {
+      "id": "listen-oma-hat-einen-hund",
+      "type": "listen",
+      "l1": "Mamie a un chien.",
+      "l2": "Oma hat einen Hund.",
+      "choices_l1": [
+        "Papi a un chien.",
+        "Mamie a un chat.",
+        "Mamie a un gâteau."
+      ]
+    },
+    {
+      "id": "listen-opa-hat-eine-katze",
+      "type": "listen",
+      "l1": "Papi a un chat.",
+      "l2": "Opa hat eine Katze.",
+      "choices_l1": [
+        "Mamie a un chat.",
+        "Papi a un chien.",
+        "Papi a un gâteau."
+      ]
+    },
+    {
+      "id": "listen-hast-du-einen-hund",
+      "type": "listen",
+      "l1": "Tu as un chien ?",
+      "l2": "Hast du einen Hund?",
+      "choices_l1": [
+        "Tu as un chat ?",
+        "J'ai un chien.",
+        "Tu as un gâteau ?"
+      ]
+    },
+    {
+      "id": "listen-oma-und-opa-sind-zu-hause",
+      "type": "listen",
+      "l1": "Mamie et papi sont à la maison.",
+      "l2": "Oma und Opa sind zu Hause.",
+      "choices_l1": [
+        "Mamie et papi ont une maison.",
+        "Mamie et papi sont dans le jardin.",
+        "Papa et maman sont à la maison."
+      ]
+    },
+    {
+      "id": "listen-mein-bruder-hat-meinen-kuchen",
+      "type": "listen",
+      "l1": "Mon frère a mon gâteau !",
+      "l2": "Mein Bruder hat meinen Kuchen!",
+      "choices_l1": [
+        "Mon frère a un gâteau !",
+        "Mon père a mon gâteau !",
+        "Ma sœur a mon gâteau !"
+      ]
+    },
+    {
+      "id": "blank-oma-hat-einen-hund",
+      "type": "fill-blank",
+      "l1": "Mamie a un chien.",
+      "l2": "Oma hat einen Hund.",
+      "missing_l1": "a",
+      "missing_l2": "hat",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "ai",
+        "as",
+        "est"
+      ],
+      "choices_l2": [
+        "habe",
+        "hast",
+        "ist"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-hast-du-einen-hund",
+      "type": "fill-blank",
+      "l1": "Tu as un chien ?",
+      "l2": "Hast du einen Hund?",
+      "missing_l1": "chien",
+      "missing_l2": "einen",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "chat",
+        "gâteau",
+        "jardin"
+      ],
+      "choices_l2": [
+        "ein",
+        "eine",
+        "und"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-opa-hat-eine-katze",
+      "type": "fill-blank",
+      "l1": "Papi a un chat.",
+      "l2": "Opa hat eine Katze.",
+      "missing_l1": "chat",
+      "missing_l2": "eine",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "chien",
+        "gâteau",
+        "jardin"
+      ],
+      "choices_l2": [
+        "einen",
+        "ein",
+        "und"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-oma-und-opa-sind-zu-hause",
+      "type": "fill-blank",
+      "l1": "Mamie et papi sont à la maison.",
+      "l2": "Oma und Opa sind zu Hause.",
+      "missing_l1": "sont",
+      "missing_l2": "sind",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "ont",
+        "a",
+        "est"
+      ],
+      "choices_l2": [
+        "haben",
+        "ist",
+        "hat"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-das-haus-hat-einen-garten",
+      "type": "fill-blank",
+      "l1": "La maison a un jardin.",
+      "l2": "Das Haus hat einen Garten.",
+      "missing_l1": "jardin",
+      "missing_l2": "Garten",
+      "blank_index_l1": 4,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "gâteau",
+        "papi",
+        "chien"
+      ],
+      "choices_l2": [
+        "Kuchen",
+        "Opa",
+        "Hund"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-oma-hat-einen-hund",
+      "type": "order",
+      "l1": "Mamie a un chien.",
+      "l2": "Oma hat einen Hund.",
+      "tokens_l1": [
+        "Mamie",
+        "a",
+        "un",
+        "chien."
+      ],
+      "tokens_l2": [
+        "Oma",
+        "hat",
+        "einen",
+        "Hund."
+      ]
+    },
+    {
+      "id": "order-hast-du-einen-hund",
+      "type": "order",
+      "l1": "Tu as un chien ?",
+      "l2": "Hast du einen Hund?",
+      "tokens_l1": [
+        "Tu",
+        "as",
+        "un",
+        "chien ?"
+      ],
+      "tokens_l2": [
+        "Hast",
+        "du",
+        "einen",
+        "Hund?"
+      ]
+    },
+    {
+      "id": "order-oma-und-opa-sind-zu-hause",
+      "type": "order",
+      "l1": "Mamie et papi sont à la maison.",
+      "l2": "Oma und Opa sind zu Hause.",
+      "tokens_l1": [
+        "Mamie",
+        "et",
+        "papi",
+        "sont",
+        "à la maison."
+      ],
+      "tokens_l2": [
+        "Oma",
+        "und",
+        "Opa",
+        "sind",
+        "zu Hause."
+      ]
+    },
+    {
+      "id": "order-das-haus-hat-einen-garten",
+      "type": "order",
+      "l1": "La maison a un jardin.",
+      "l2": "Das Haus hat einen Garten.",
+      "tokens_l1": [
+        "La",
+        "maison",
+        "a",
+        "un",
+        "jardin."
+      ],
+      "tokens_l2": [
+        "Das",
+        "Haus",
+        "hat",
+        "einen",
+        "Garten."
+      ]
+    },
+    {
+      "id": "match-mots-1",
+      "type": "match",
+      "l1": [
+        "la mamie",
+        "le papi",
+        "la maison",
+        "le jardin"
+      ],
+      "l2": [
+        "die Oma",
+        "der Opa",
+        "das Haus",
+        "der Garten"
+      ]
+    },
+    {
+      "id": "match-mots-2",
+      "type": "match",
+      "l1": [
+        "le chat",
+        "le gâteau",
+        "à la maison",
+        "la maison"
+      ],
+      "l2": [
+        "die Katze",
+        "der Kuchen",
+        "zu Hause",
+        "das Haus"
+      ]
+    },
+    {
+      "id": "match-haben",
+      "type": "match",
+      "l1": [
+        "j'ai",
+        "tu as",
+        "il a / elle a",
+        "ils ont, elles ont"
+      ],
+      "l2": [
+        "ich habe",
+        "du hast",
+        "er hat / sie hat",
+        "sie haben"
+      ]
+    }
+  ]
+}
