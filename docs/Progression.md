@@ -51,7 +51,7 @@ Pour écrire une nouvelle série, s'appuyer sur ce qui existe déjà — et ne p
 
 | Série | Points de grammaire |
 |-------|---------------------|
-| Kit de Survie | schémas figés : wie heißt du / ich heiße, sprichst du, kein (« pas de »), du / Sie (culture) |
+| Kit de Survie | schémas figés : wie heißt du / ich heiße, sprichst du, kein (« pas de », une seule mention : Familie et Essen le réutilisent). Le du / Sie n'est pas traité ici : il apparaît dans Stadt, quand on demande son chemin à un adulte |
 | Familie | mein/meine, dein/deine, **sein** (ich bin…), **haben**, âge avec sein, adjectif invariable après sein (≠ devant le nom), **ein → einen**, verbes réguliers au présent, **gern** |
 | Haus | der/die/das (le dernier mot d'un mot composé décide), es gibt, im / in der, wo ist / wo sind, pluriels (die au pluriel), **nicht**, **verbes à ressort** (aufräumen), schlafen → schläfst |
 | Essen | essen (isst), trinken, pas d'article partitif, **möchten**, zum Frühstück (verbe en 2ᵉ position), schmecken, **mögen** + kein, nehmen (nimmst) |
@@ -72,6 +72,8 @@ Pour écrire une nouvelle série, s'appuyer sur ce qui existe déjà — et ne p
 ### Série 00 : Kit de Survie — Grand débutant
 
 **Objectif :** dire bonjour, au revoir, merci, être poli, se présenter, dire qu'on ne comprend pas
+
+**Budget :** 18 mots en tout (6 + 5 + 7), environ 200 à 330 mots par fiche (l'extra, avec son tableau récapitulatif, est plus long). Pas de « vocabulaire complémentaire » : un enfant de 8 ans doit retenir peu, mais l'avoir entendu souvent. Les mots retirés (copain/copine, aujourd'hui, à l'aide, merci beaucoup, enchanté, anglais, etc.) sont repris par les séries quand un contexte les rend utiles.
 
 - Phrases très courtes (1 à 4 mots)
 - Accent mis sur la prononciation
