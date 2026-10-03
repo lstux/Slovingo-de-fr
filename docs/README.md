@@ -47,6 +47,16 @@ Bienvenue ! Ce dossier contient les guides pour comprendre et contribuer au proj
 3. Générer les exercices JSON (voir la doc Slovingo principale)
 4. Ajouter dans `/exercises/`
 
+### Pour vérifier les textes d'interface :
+
+Quand le moteur Slovingo gagne une fonction, il peut lui manquer des textes dans `lang.json` → `ui` (l'enfant verrait alors de l'anglais). Le build affiche un avertissement ; pour le détail, avec le texte anglais à traduire :
+
+```
+python3 src/check_ui_keys.py --lang-dir <chemin du cours> --template
+```
+
+(depuis une copie de [lstux/Slovingo](https://github.com/lstux/Slovingo) — voir [Lang-json.md](https://github.com/lstux/Slovingo/blob/main/docs/Lang-json.md)). Le cours est écrit en tutoiement et avec des mots simples (« Choisir », « Relier », « Bravo ! »), comme la fiche « Comment ça marche ».
+
 ### Pour itérer sur la pédagogie :
 
 1. Tester les fiches avec des enfants
