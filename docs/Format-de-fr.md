@@ -163,7 +163,7 @@ Utiliser {{prononçable}} pour les mots-clés.
 
 ```
 
-Les anciennes rubriques « Vocabulaire complémentaire » et « Encore quelques phrases » sont **supprimées** dans les séries allégées (Kit de Survie, Familie) : mieux vaut peu de mots, entendus souvent. Les séries suivantes les perdront à leur tour en étant allégées.
+Les anciennes rubriques « Vocabulaire complémentaire » et « Encore quelques phrases » sont **supprimées** dans toutes les séries (depuis l'allègement) : mieux vaut peu de mots, entendus souvent.
 
 Les explications et l'intro de la fiche sont en `{{fr:…}}` (à écouter), sans mot allemand à l'intérieur ; un mot allemand se met juste après, avec une flèche : `{{fr:…}} → {{Mama}}`.
 
@@ -302,13 +302,13 @@ Le nombre de cartes audio dans `json/*.content.json` doit correspondre au nombre
 
 ## Exercices faits main
 
-Les exercices générés automatiquement sont pensés pour des adultes. Pour un enfant, ils posent des problèmes concrets : des mauvaises réponses tirées de séries pas encore vues (« Où est le parc ? » pour *tschüss*), des textes à trous ambigus sans traduction, des étiquettes parasites dans les phrases à remettre en ordre. Les fiches d'introduction, du Kit de Survie et de Familie ont donc des exercices **écrits à la main**, dans `exercises/<nom de la fiche>.exercises.json` (`"mode": "replace"` : ils remplacent les exercices générés).
+Les exercices générés automatiquement sont pensés pour des adultes. Pour un enfant, ils posent des problèmes concrets : des mauvaises réponses tirées de séries pas encore vues (« Où est le parc ? » pour *tschüss*), des textes à trous ambigus sans traduction, des étiquettes parasites dans les phrases à remettre en ordre. Toutes les fiches (introduction et séries) ont donc des exercices **écrits à la main**, dans `exercises/<nom de la fiche>.exercises.json` (`"mode": "replace"` : ils remplacent les exercices générés).
 
 Les fiches d'introduction n'ont des exercices que depuis [lstux/Slovingo#36](https://github.com/lstux/Slovingo/pull/36) ; avant, leurs fichiers sont simplement ignorés.
 
 ### Règles
 
-- **Que du déjà vu** : les mauvaises réponses en allemand viennent de la fiche elle-même ou des fiches précédentes (ordre : intro 1 → 5, puis Kit 1 → 3 et extra, puis Familie 1 → 5 et extra). En français, on peut inventer (« la France », « Merci beaucoup ! »).
+- **Que du déjà vu** : les mauvaises réponses en allemand viennent de la fiche elle-même ou des fiches précédentes (ordre : intro 1 → 5, puis chaque série de la fiche 1 à l'extra, dans l'ordre Kit, Familie, Haus, Essen, Stadt, Tiere, Spiele). En français, on peut inventer (« la France », « Merci beaucoup ! »).
 - **Une seule bonne réponse** : jamais de distracteur presque juste (*guten Tag* pour « salut », *hallo* pour « salut (au revoir) »).
 - **Même forme** : un mot contre des mots, une phrase contre des phrases de longueur proche, pour que la réponse ne se devine pas à sa longueur.
 - **Distracteurs utiles** : ils ciblent les vraies confusions (*kein* / *nein*, *vier* / *für*, *Deutsch* / *Deutschland*, *zwei* / *zehn*, *wie heißt du* / *wie geht's*).

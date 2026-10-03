@@ -1,0 +1,259 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "listen-es-regnet-wollen-wir-ein-brettspiel-spielen",
+      "type": "listen",
+      "l1": "Il pleut. On joue à un jeu de société ?",
+      "l2": "Es regnet. Wollen wir ein Brettspiel spielen?",
+      "choices_l1": [
+        "Il pleut. On joue au foot ?",
+        "Il fait beau. On joue à un jeu de société ?",
+        "Il pleut. On fait un puzzle ?"
+      ]
+    },
+    {
+      "id": "listen-ja-gern-machst-du-mit-tom",
+      "type": "listen",
+      "l1": "Oui, avec plaisir ! Tu joues aussi, Tom ?",
+      "l2": "Ja, gern! Machst du mit, Tom?",
+      "choices_l1": [
+        "Oui, avec plaisir ! Tu gagnes, Tom ?",
+        "Non, merci ! Tu joues aussi, Tom ?",
+        "Oui, avec plaisir ! C'est à toi, Tom ?"
+      ]
+    },
+    {
+      "id": "listen-klar-ich-mache-mit",
+      "type": "listen",
+      "l1": "Bien sûr, je joue aussi !",
+      "l2": "Klar, ich mache mit!",
+      "choices_l1": [
+        "Bien sûr, je gagne !",
+        "Non, je ne joue pas !",
+        "Bien sûr, c'est à moi !"
+      ]
+    },
+    {
+      "id": "listen-ich-bin-dran-ich-w-rfle-sechs",
+      "type": "listen",
+      "l1": "C'est à moi ! Je lance le dé… Six !",
+      "l2": "Ich bin dran! Ich würfle… Sechs!",
+      "choices_l1": [
+        "C'est à moi ! Je lance le dé… Cinq !",
+        "C'est à toi ! Lance le dé… Six !",
+        "C'est à moi ! Je lance le dé… Dix !"
+      ]
+    },
+    {
+      "id": "listen-du-kannst-gut-w-rfeln-tom",
+      "type": "listen",
+      "l1": "Tu sais bien lancer le dé, Tom !",
+      "l2": "Du kannst gut würfeln, Tom!",
+      "choices_l1": [
+        "Tu sais bien grimper, Tom !",
+        "Tu gagnes, Tom !",
+        "Tu sais bien nager, Tom !"
+      ]
+    },
+    {
+      "id": "listen-nein-ich-gewinne",
+      "type": "listen",
+      "l1": "Non, c'est moi qui gagne !",
+      "l2": "Nein, ich gewinne!",
+      "choices_l1": [
+        "Non, c'est moi qui perds !",
+        "Oui, tu gagnes !",
+        "Non, c'est à moi !"
+      ]
+    },
+    {
+      "id": "listen-kinder-spielt-fair",
+      "type": "listen",
+      "l1": "Les enfants, jouez fair-play !",
+      "l2": "Kinder, spielt fair!",
+      "choices_l1": [
+        "Les enfants, jouez ensemble !",
+        "Les enfants, venez !",
+        "Les enfants, à table !"
+      ]
+    },
+    {
+      "id": "listen-und-ich-gewinne-juhu",
+      "type": "listen",
+      "l1": "Et… je gagne ! Youpi !",
+      "l2": "Und… ich gewinne! Juhu!",
+      "choices_l1": [
+        "Et… je perds ! Pas de chance !",
+        "Et… tu gagnes ! Bravo !",
+        "Et… c'est à moi ! Youpi !"
+      ]
+    },
+    {
+      "id": "listen-gl-ckwunsch-nom-noch-einmal",
+      "type": "listen",
+      "l1": "Bravo, [USER_NAME] ! On en refait une ?",
+      "l2": "Glückwunsch, [USER_NAME]! Noch einmal?",
+      "choices_l1": [
+        "Merci, [USER_NAME] ! On en refait une ?",
+        "Bravo, [USER_NAME] ! C'est à toi ?",
+        "Au revoir, [USER_NAME] ! À bientôt !"
+      ]
+    },
+    {
+      "id": "blank-es-regnet-wollen-wir-ein-brettspiel-spielen",
+      "type": "fill-blank",
+      "l1": "Il pleut. On joue à un jeu de société ?",
+      "l2": "Es regnet. Wollen wir ein Brettspiel spielen?",
+      "missing_l1": "pleut",
+      "missing_l2": "regnet",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "joue",
+        "gagne",
+        "vient"
+      ],
+      "choices_l2": [
+        "spielt",
+        "gewinnt",
+        "kommt"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-klar-ich-mache-mit",
+      "type": "fill-blank",
+      "l1": "Bien sûr, je joue aussi !",
+      "l2": "Klar, ich mache mit!",
+      "missing_l1": "Bien",
+      "missing_l2": "Klar",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Non",
+        "Merci",
+        "Salut"
+      ],
+      "choices_l2": [
+        "Nein",
+        "Danke",
+        "Tschüss"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-du-kannst-gut-w-rfeln-tom",
+      "type": "fill-blank",
+      "l1": "Tu sais bien lancer le dé, Tom !",
+      "l2": "Du kannst gut würfeln, Tom!",
+      "missing_l1": "sais",
+      "missing_l2": "kannst",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "sait",
+        "es",
+        "as"
+      ],
+      "choices_l2": [
+        "kann",
+        "bist",
+        "hast"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-kinder-spielt-fair",
+      "type": "fill-blank",
+      "l1": "Les enfants, jouez fair-play !",
+      "l2": "Kinder, spielt fair!",
+      "missing_l1": "jouez",
+      "missing_l2": "fair",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "mangez",
+        "dormez",
+        "venez"
+      ],
+      "choices_l2": [
+        "kaputt",
+        "lustig",
+        "toll"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-klar-ich-mache-mit",
+      "type": "order",
+      "l1": "Bien sûr, je joue aussi !",
+      "l2": "Klar, ich mache mit!",
+      "tokens_l1": [
+        "Bien sûr,",
+        "je",
+        "joue",
+        "aussi !"
+      ],
+      "tokens_l2": [
+        "Klar,",
+        "ich",
+        "mache",
+        "mit!"
+      ]
+    },
+    {
+      "id": "order-du-kannst-gut-w-rfeln-tom",
+      "type": "order",
+      "l1": "Tu sais bien lancer le dé, Tom !",
+      "l2": "Du kannst gut würfeln, Tom!",
+      "tokens_l1": [
+        "Tu",
+        "sais",
+        "bien",
+        "lancer le dé,",
+        "Tom !"
+      ],
+      "tokens_l2": [
+        "Du",
+        "kannst",
+        "gut",
+        "würfeln,",
+        "Tom!"
+      ]
+    },
+    {
+      "id": "order-gl-ckwunsch-nom-noch-einmal",
+      "type": "order",
+      "l1": "Bravo, [USER_NAME] ! On en refait une ?",
+      "l2": "Glückwunsch, [USER_NAME]! Noch einmal?",
+      "tokens_l1": [
+        "Bravo,",
+        "[USER_NAME] !",
+        "On en refait une ?"
+      ],
+      "tokens_l2": [
+        "Glückwunsch,",
+        "[USER_NAME]!",
+        "Noch einmal?"
+      ]
+    },
+    {
+      "id": "match-repliques",
+      "type": "match",
+      "l1": [
+        "C'est à qui ?",
+        "Je gagne !",
+        "Moi aussi, je joue !",
+        "Oui, encore une fois !"
+      ],
+      "l2": [
+        "Wer ist dran?",
+        "Ich gewinne!",
+        "Ich mache auch mit!",
+        "Ja, noch einmal!"
+      ]
+    }
+  ]
+}

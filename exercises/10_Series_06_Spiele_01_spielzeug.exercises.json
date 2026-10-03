@@ -1,0 +1,334 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-der-ball",
+      "type": "qcm",
+      "l1": "le ballon",
+      "l2": "der Ball",
+      "choices_l1": [
+        "la poupée",
+        "le cerf-volant",
+        "le puzzle"
+      ],
+      "choices_l2": [
+        "die Puppe",
+        "der Drachen",
+        "das Puzzle"
+      ]
+    },
+    {
+      "id": "qcm-die-puppe",
+      "type": "qcm",
+      "l1": "la poupée",
+      "l2": "die Puppe",
+      "choices_l1": [
+        "le ballon",
+        "le puzzle",
+        "le jeu de société"
+      ],
+      "choices_l2": [
+        "der Ball",
+        "das Puzzle",
+        "das Brettspiel"
+      ]
+    },
+    {
+      "id": "qcm-der-drachen",
+      "type": "qcm",
+      "l1": "le cerf-volant",
+      "l2": "der Drachen",
+      "choices_l1": [
+        "le ballon",
+        "la poupée",
+        "le jeu de société"
+      ],
+      "choices_l2": [
+        "der Ball",
+        "die Puppe",
+        "das Brettspiel"
+      ]
+    },
+    {
+      "id": "qcm-das-puzzle",
+      "type": "qcm",
+      "l1": "le puzzle",
+      "l2": "das Puzzle",
+      "choices_l1": [
+        "le jeu de société",
+        "la poupée",
+        "le cerf-volant"
+      ],
+      "choices_l2": [
+        "das Brettspiel",
+        "die Puppe",
+        "der Drachen"
+      ]
+    },
+    {
+      "id": "qcm-das-brettspiel",
+      "type": "qcm",
+      "l1": "le jeu de société",
+      "l2": "das Brettspiel",
+      "choices_l1": [
+        "le puzzle",
+        "le ballon",
+        "le cerf-volant"
+      ],
+      "choices_l2": [
+        "das Puzzle",
+        "der Ball",
+        "der Drachen"
+      ]
+    },
+    {
+      "id": "qcm-kaputt",
+      "type": "qcm",
+      "l1": "cassé",
+      "l2": "kaputt",
+      "choices_l1": [
+        "drôle",
+        "petit",
+        "génial"
+      ],
+      "choices_l2": [
+        "lustig",
+        "klein",
+        "toll"
+      ]
+    },
+    {
+      "id": "qcm-mit-dem-ball",
+      "type": "qcm",
+      "l1": "avec le ballon",
+      "l2": "mit dem Ball",
+      "choices_l1": [
+        "avec la poupée",
+        "sous le lit",
+        "sur la table"
+      ],
+      "choices_l2": [
+        "mit der Puppe",
+        "unter dem Bett",
+        "auf dem Tisch"
+      ]
+    },
+    {
+      "id": "listen-ich-spiele-mit-dem-ball",
+      "type": "listen",
+      "l1": "Je joue avec le ballon.",
+      "l2": "Ich spiele mit dem Ball.",
+      "choices_l1": [
+        "Je joue avec la poupée.",
+        "Je joue au foot.",
+        "Tu joues avec le ballon."
+      ]
+    },
+    {
+      "id": "listen-spielst-du-mit-der-puppe",
+      "type": "listen",
+      "l1": "Tu joues avec la poupée ?",
+      "l2": "Spielst du mit der Puppe?",
+      "choices_l1": [
+        "Tu joues avec le ballon ?",
+        "Tu aimes la poupée ?",
+        "Je joue avec la poupée."
+      ]
+    },
+    {
+      "id": "listen-wir-machen-ein-puzzle",
+      "type": "listen",
+      "l1": "On fait un puzzle.",
+      "l2": "Wir machen ein Puzzle.",
+      "choices_l1": [
+        "On fait un gâteau.",
+        "On joue au ballon.",
+        "On a un puzzle."
+      ]
+    },
+    {
+      "id": "listen-ich-mag-brettspiele",
+      "type": "listen",
+      "l1": "J'aime bien les jeux de société.",
+      "l2": "Ich mag Brettspiele.",
+      "choices_l1": [
+        "J'aime bien les puzzles.",
+        "J'aime bien les poupées.",
+        "Je n'aime pas les jeux de société."
+      ]
+    },
+    {
+      "id": "listen-der-drachen-fliegt",
+      "type": "listen",
+      "l1": "Le cerf-volant vole !",
+      "l2": "Der Drachen fliegt!",
+      "choices_l1": [
+        "L'oiseau vole !",
+        "Le ballon vole !",
+        "Le cerf-volant est cassé !"
+      ]
+    },
+    {
+      "id": "listen-oh-nein-der-ball-ist-kaputt",
+      "type": "listen",
+      "l1": "Oh non, le ballon est cassé !",
+      "l2": "Oh nein, der Ball ist kaputt!",
+      "choices_l1": [
+        "Oh non, la poupée est cassée !",
+        "Oh oui, le ballon est génial !",
+        "Oh non, le ballon est sous le lit !"
+      ]
+    },
+    {
+      "id": "blank-ich-spiele-mit-dem-ball",
+      "type": "fill-blank",
+      "l1": "Je joue avec le ballon.",
+      "l2": "Ich spiele mit dem Ball.",
+      "missing_l1": "avec",
+      "missing_l2": "mit",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "sur",
+        "sous",
+        "et"
+      ],
+      "choices_l2": [
+        "und",
+        "auf",
+        "unter"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-der-drachen-fliegt",
+      "type": "fill-blank",
+      "l1": "Le cerf-volant vole !",
+      "l2": "Der Drachen fliegt!",
+      "missing_l1": "vole",
+      "missing_l2": "fliegt",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "nage",
+        "saute",
+        "dort"
+      ],
+      "choices_l2": [
+        "schwimmt",
+        "springt",
+        "schläft"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-oh-nein-der-ball-ist-kaputt",
+      "type": "fill-blank",
+      "l1": "Oh non, le ballon est cassé !",
+      "l2": "Oh nein, der Ball ist kaputt!",
+      "missing_l1": "cassé",
+      "missing_l2": "kaputt",
+      "blank_index_l1": 5,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "drôle",
+        "génial",
+        "petit"
+      ],
+      "choices_l2": [
+        "lustig",
+        "toll",
+        "klein"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-wir-machen-ein-puzzle",
+      "type": "fill-blank",
+      "l1": "On fait un puzzle.",
+      "l2": "Wir machen ein Puzzle.",
+      "missing_l1": "puzzle",
+      "missing_l2": "Puzzle",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "ballon",
+        "gâteau",
+        "dessin"
+      ],
+      "choices_l2": [
+        "Ball",
+        "Drachen",
+        "Kuchen"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-ich-spiele-mit-dem-ball",
+      "type": "order",
+      "l1": "Je joue avec le ballon.",
+      "l2": "Ich spiele mit dem Ball.",
+      "tokens_l1": [
+        "Je",
+        "joue",
+        "avec le ballon."
+      ],
+      "tokens_l2": [
+        "Ich",
+        "spiele",
+        "mit dem Ball."
+      ]
+    },
+    {
+      "id": "order-spielst-du-mit-der-puppe",
+      "type": "order",
+      "l1": "Tu joues avec la poupée ?",
+      "l2": "Spielst du mit der Puppe?",
+      "tokens_l1": [
+        "Tu",
+        "joues",
+        "avec la poupée ?"
+      ],
+      "tokens_l2": [
+        "Spielst",
+        "du",
+        "mit der Puppe?"
+      ]
+    },
+    {
+      "id": "order-der-ball-ist-unter-dem-bett",
+      "type": "order",
+      "l1": "Le ballon est sous le lit.",
+      "l2": "Der Ball ist unter dem Bett.",
+      "tokens_l1": [
+        "Le ballon",
+        "est",
+        "sous",
+        "le lit."
+      ],
+      "tokens_l2": [
+        "Der Ball",
+        "ist",
+        "unter",
+        "dem Bett."
+      ]
+    },
+    {
+      "id": "match-jouets",
+      "type": "match",
+      "l1": [
+        "le ballon",
+        "la poupée",
+        "le cerf-volant",
+        "le puzzle"
+      ],
+      "l2": [
+        "der Ball",
+        "die Puppe",
+        "der Drachen",
+        "das Puzzle"
+      ]
+    }
+  ]
+}

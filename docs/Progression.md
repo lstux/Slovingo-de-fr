@@ -27,13 +27,16 @@ Chaque série = 1 à 2 semaines d'apprentissage décontracté (6 fiches, une par
 
 ## Stratégie de vocabulaire
 
-### Par fiche : ~7 essentiels + 2-3 complémentaires
+### Par fiche : ~6 mots, et c'est tout
 
-- **6-7 mots essentiels** (« Les nouveaux mots ») : ceux qu'on retrouve dans les phrases, le dialogue et les exercices
-- **2-3 mots complémentaires** : bonus, moins sollicités
-- **2-3 mots signalés** dans le dialogue, au maximum
+- **5 à 7 mots** (« Les nouveaux mots ») : ceux qu'on retrouve dans les phrases, le dialogue et les exercices
+- **pas de mots complémentaires** : un enfant de 8 ans doit retenir peu, mais l'avoir entendu souvent
+- **2 à 4 mots signalés** dans le dialogue, au maximum
+- **un seul point de grammaire** par fiche ; le reste est donné en formules toutes faites, sans théorie
 
-Soit **~40 mots par série** au total dans le tableau de la fiche extra, dont ~28 essentiels. C'est un plafond : au-delà, un enfant de 8 ans décroche. Les mots transparents (Musik, Puzzle, Zoo…) coûtent moins cher que les autres.
+Soit **~25 mots par série** au total dans le tableau de la fiche extra (Familie 27, Haus 27, Essen 26, Stadt 25, Tiere 26, Spiele 26). Avant l'allègement, c'était ~40 à 48 : trop pour un enfant de 8 ans. Les mots transparents (Musik, Puzzle, Zoo…) coûtent moins cher que les autres.
+
+Quand on retire un mot d'une série, on vérifie qu'aucune série suivante ne s'en sert sans le réenseigner (ou alors on le garde).
 
 ### Apprentissage cumulatif
 
@@ -57,7 +60,7 @@ Pour écrire une nouvelle série, s'appuyer sur ce qui existe déjà — et ne p
 | Essen | un point par fiche : **pas d'article partitif** (Ich esse Brot) ; **ich möchte / möchtest du** (+ avoir faim, soif avec haben) ; **ich mag / magst du** + kein ; **ich nehme / nimmst du** pour commander. Donnés tels quels : du isst, das schmeckt gut, oder, sehr, Probier mal. Pas de « zum Frühstück » (verbe en 2ᵉ position) : à garder pour plus tard |
 | Stadt | un point par fiche : **im / in der** pour les lieux (rappel de Haus) ; **fahren vs gehen** + mit dem Bus / Fahrrad / Auto ; **Geh…!** + nach links / rechts, geradeaus ; **Was kostet das?** (+ nombres, Euro sans s). Donnés tels quels : du fährst, du siehst, in den Park / in die Schule, um die Ecke, ich habe mich verlaufen. Retirés : le vouvoiement (Ihre Hilfe), la comptine du feu rouge |
 | Tiere | un point par fiche : les mots en **-chen** (toujours das, invariables au pluriel) ; les **bruits d'animaux** (die Kuh macht Muh) ; le **comparatif** kleiner / größer **als** ; **essen vs fressen**. Donnés tels quels : die Vögel, die Hühner, er läuft, möchtet ihr, kommt ! |
-| Spiele | spielen mit (dem/der), jeu sans article (Fußball spielen), **können** (+ savoir faire), Wer ist dran?, **Wollen wir…?**, verbes à ressort (mitmachen, einladen, anfangen) |
+| Spiele | un point par fiche : **spielen mit dem / der** (formules) ; jeu **sans article** (Ich spiele Fußball) ; **können** (+ savoir faire, verbe à la fin) ; **Wollen wir…?** Donnés tels quels : Wer ist dran? / Ich bin dran!, Machst du mit? / Ich mache mit! (verbe à ressort), es regnet. Retirés : einladen, anfangen, recht haben |
 
 **Prononciation : règles volontairement reportées.** La fiche de prononciation de l'intro ne garde que cinq astuces (u = « ou », ü/ö/ä, ei/ie/eu, ch/sch, w/v). Les autres règles sont à introduire dans les séries, au moment où un mot les rend utiles. Déjà fait dans Familie : j = « y » (Jahre), ß = « ss » (groß), z = « ts » (zusammen). Restent : s + voyelle = « z », sp/st en début de mot (Stadt), accent sur la première syllabe, e final prononcé.
 
@@ -96,6 +99,8 @@ Pour écrire une nouvelle série, s'appuyer sur ce qui existe déjà — et ne p
 **Stadt (allégée) :** 25 mots (6 + 6 + 6 + 6, plus *weit* et *ich habe mich verlaufen* signalés dans le dialogue). Retirés : Straße, Supermarkt, Kino, Spielplatz, Straßenbahn, Zug, Haltestelle, Bahnhof, die Ecke, Ampel, rot, grün, kosten (gardé en formule), Taschengeld (en Coin allemand), teuer, billig, einfach. Gardés pour la suite : Eisdiele, gehen, kommt, neben, Park, sehen, was.
 
 **Tiere (allégée) :** 26 mots (6 + 6 + 6 + 6, plus *Schau mal* et *der Streichelzoo* signalés dans le dialogue). Retirés : Schildkröte, Aquarium, füttern (gardé en formule dans le dialogue), streicheln, Ziege, Hahn, Gras, rosa, Bär, Streifen (gardé dans une carte), braun, Fell, Schwanz, Flügel, Ente (gardée dans une carte), Schnabel, Gehege, Teich, Gern geschehen. Gardés pour Spiele : fliegt, schwimmen, springen.
+
+**Spiele (allégée) :** 26 mots (6 + 6 + 6 + 6, plus *es regnet* et *klar* signalés dans le dialogue). Retirés : Bauklötze, Roboter, neu, schaukeln, rutschen, Trampolin, Karte, Regel, So ein Pech, einladen, Rennen, anfangen, recht haben. Dernière série : aucune dépendance en aval.
 - Cartes décomposées morceau par morceau
 
 **Exemple :**

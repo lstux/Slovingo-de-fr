@@ -1,0 +1,317 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-wollen-wir",
+      "type": "qcm",
+      "l1": "On… ? (pour proposer)",
+      "l2": "Wollen wir…?",
+      "choices_l1": [
+        "C'est à qui ?",
+        "je peux, je sais"
+      ],
+      "choices_l2": [
+        "Wer ist dran?",
+        "ich kann"
+      ]
+    },
+    {
+      "id": "qcm-mitmachen",
+      "type": "qcm",
+      "l1": "jouer aussi",
+      "l2": "mitmachen",
+      "choices_l1": [
+        "gagner",
+        "perdre",
+        "ranger"
+      ],
+      "choices_l2": [
+        "gewinnen",
+        "verlieren",
+        "aufräumen"
+      ]
+    },
+    {
+      "id": "qcm-die-mannschaft",
+      "type": "qcm",
+      "l1": "l'équipe",
+      "l2": "die Mannschaft",
+      "choices_l1": [
+        "le but",
+        "la famille",
+        "l'aire de jeux"
+      ],
+      "choices_l2": [
+        "das Tor",
+        "die Familie",
+        "der Spielplatz"
+      ]
+    },
+    {
+      "id": "qcm-das-tor",
+      "type": "qcm",
+      "l1": "le but",
+      "l2": "das Tor",
+      "choices_l1": [
+        "l'équipe",
+        "le ballon",
+        "la porte"
+      ],
+      "choices_l2": [
+        "die Mannschaft",
+        "der Ball",
+        "die Tür"
+      ]
+    },
+    {
+      "id": "qcm-fair",
+      "type": "qcm",
+      "l1": "fair-play",
+      "l2": "fair",
+      "choices_l1": [
+        "cassé",
+        "drôle",
+        "génial"
+      ],
+      "choices_l2": [
+        "kaputt",
+        "lustig",
+        "toll"
+      ]
+    },
+    {
+      "id": "qcm-gl-ckwunsch",
+      "type": "qcm",
+      "l1": "Bravo !",
+      "l2": "Glückwunsch!",
+      "choices_l1": [
+        "Bon appétit !",
+        "À bientôt !",
+        "Regarde !"
+      ],
+      "choices_l2": [
+        "Guten Appetit!",
+        "Bis bald!",
+        "Schau mal!"
+      ]
+    },
+    {
+      "id": "listen-wollen-wir-spielen",
+      "type": "listen",
+      "l1": "On joue ?",
+      "l2": "Wollen wir spielen?",
+      "choices_l1": [
+        "On mange ?",
+        "Tu joues ?",
+        "On gagne ?"
+      ]
+    },
+    {
+      "id": "listen-wollen-wir-fu-ball-spielen",
+      "type": "listen",
+      "l1": "On joue au foot ?",
+      "l2": "Wollen wir Fußball spielen?",
+      "choices_l1": [
+        "On joue au chat ?",
+        "On joue à cache-cache ?",
+        "Tu aimes le foot ?"
+      ]
+    },
+    {
+      "id": "listen-machst-du-mit",
+      "type": "listen",
+      "l1": "Tu joues avec nous ?",
+      "l2": "Machst du mit?",
+      "choices_l1": [
+        "Tu gagnes ?",
+        "C'est à toi ?",
+        "Tu ranges ?"
+      ]
+    },
+    {
+      "id": "listen-ja-ich-mache-mit",
+      "type": "listen",
+      "l1": "Oui, je joue aussi !",
+      "l2": "Ja, ich mache mit!",
+      "choices_l1": [
+        "Non, je ne joue pas !",
+        "Oui, je gagne !",
+        "Oui, c'est à moi !"
+      ]
+    },
+    {
+      "id": "listen-wir-sind-eine-mannschaft",
+      "type": "listen",
+      "l1": "On est une équipe !",
+      "l2": "Wir sind eine Mannschaft!",
+      "choices_l1": [
+        "On est une famille !",
+        "On est au zoo !",
+        "On a un ballon !"
+      ]
+    },
+    {
+      "id": "listen-tor-gl-ckwunsch",
+      "type": "listen",
+      "l1": "But ! Bravo !",
+      "l2": "Tor! Glückwunsch!",
+      "choices_l1": [
+        "But ! Pas de chance !",
+        "Bravo ! Merci !",
+        "Tu gagnes ! Bravo !"
+      ]
+    },
+    {
+      "id": "blank-wollen-wir-fu-ball-spielen",
+      "type": "fill-blank",
+      "l1": "On joue au foot ?",
+      "l2": "Wollen wir Fußball spielen?",
+      "missing_l1": "foot",
+      "missing_l2": "Wollen",
+      "blank_index_l1": 3,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "chat",
+        "ballon",
+        "parc"
+      ],
+      "choices_l2": [
+        "Kannst",
+        "Bist",
+        "Hast"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ja-ich-mache-mit",
+      "type": "fill-blank",
+      "l1": "Oui, je joue aussi !",
+      "l2": "Ja, ich mache mit!",
+      "missing_l1": "aussi",
+      "missing_l2": "mit",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "pas",
+        "ensuite",
+        "là-bas"
+      ],
+      "choices_l2": [
+        "auf",
+        "nicht",
+        "dann"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-wir-sind-eine-mannschaft",
+      "type": "fill-blank",
+      "l1": "On est une équipe !",
+      "l2": "Wir sind eine Mannschaft!",
+      "missing_l1": "équipe",
+      "missing_l2": "Mannschaft",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "famille",
+        "ville",
+        "école"
+      ],
+      "choices_l2": [
+        "Familie",
+        "Stadt",
+        "Schule"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-spiel-bitte-fair",
+      "type": "fill-blank",
+      "l1": "Joue fair-play, s'il te plaît !",
+      "l2": "Spiel bitte fair!",
+      "missing_l1": "Joue",
+      "missing_l2": "fair",
+      "blank_index_l1": 0,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "Mange",
+        "Dors",
+        "Range"
+      ],
+      "choices_l2": [
+        "kaputt",
+        "lustig",
+        "klein"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-wollen-wir-fu-ball-spielen",
+      "type": "order",
+      "l1": "On joue au foot ?",
+      "l2": "Wollen wir Fußball spielen?",
+      "tokens_l1": [
+        "On",
+        "joue",
+        "au foot ?"
+      ],
+      "tokens_l2": [
+        "Wollen",
+        "wir",
+        "Fußball",
+        "spielen?"
+      ]
+    },
+    {
+      "id": "order-ja-ich-mache-mit",
+      "type": "order",
+      "l1": "Oui, je joue aussi !",
+      "l2": "Ja, ich mache mit!",
+      "tokens_l1": [
+        "Oui,",
+        "je",
+        "joue",
+        "aussi !"
+      ],
+      "tokens_l2": [
+        "Ja,",
+        "ich",
+        "mache",
+        "mit!"
+      ]
+    },
+    {
+      "id": "order-wir-sind-eine-mannschaft",
+      "type": "order",
+      "l1": "On est une équipe !",
+      "l2": "Wir sind eine Mannschaft!",
+      "tokens_l1": [
+        "On",
+        "est",
+        "une équipe !"
+      ],
+      "tokens_l2": [
+        "Wir",
+        "sind",
+        "eine Mannschaft!"
+      ]
+    },
+    {
+      "id": "match-mots",
+      "type": "match",
+      "l1": [
+        "jouer aussi",
+        "l'équipe",
+        "le but",
+        "Bravo !"
+      ],
+      "l2": [
+        "mitmachen",
+        "die Mannschaft",
+        "das Tor",
+        "Glückwunsch!"
+      ]
+    }
+  ]
+}

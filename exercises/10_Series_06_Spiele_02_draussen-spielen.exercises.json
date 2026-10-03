@@ -1,0 +1,320 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-fu-ball",
+      "type": "qcm",
+      "l1": "le foot",
+      "l2": "Fußball",
+      "choices_l1": [
+        "le jeu du chat",
+        "le ballon",
+        "l'aire de jeux"
+      ],
+      "choices_l2": [
+        "Fangen",
+        "der Ball",
+        "der Spielplatz"
+      ]
+    },
+    {
+      "id": "qcm-fangen",
+      "type": "qcm",
+      "l1": "le jeu du chat",
+      "l2": "Fangen",
+      "choices_l1": [
+        "le foot",
+        "cache-cache",
+        "le puzzle"
+      ],
+      "choices_l2": [
+        "Fußball",
+        "Verstecken",
+        "das Puzzle"
+      ]
+    },
+    {
+      "id": "qcm-die-schaukel",
+      "type": "qcm",
+      "l1": "la balançoire",
+      "l2": "die Schaukel",
+      "choices_l1": [
+        "le toboggan",
+        "l'aire de jeux",
+        "le ballon"
+      ],
+      "choices_l2": [
+        "die Rutsche",
+        "der Spielplatz",
+        "der Ball"
+      ]
+    },
+    {
+      "id": "qcm-die-rutsche",
+      "type": "qcm",
+      "l1": "le toboggan",
+      "l2": "die Rutsche",
+      "choices_l1": [
+        "la balançoire",
+        "l'aire de jeux",
+        "la poupée"
+      ],
+      "choices_l2": [
+        "die Schaukel",
+        "der Spielplatz",
+        "die Puppe"
+      ]
+    },
+    {
+      "id": "qcm-der-spielplatz",
+      "type": "qcm",
+      "l1": "l'aire de jeux",
+      "l2": "der Spielplatz",
+      "choices_l1": [
+        "le parc",
+        "le jardin",
+        "la balançoire"
+      ],
+      "choices_l2": [
+        "der Park",
+        "der Garten",
+        "die Schaukel"
+      ]
+    },
+    {
+      "id": "qcm-klettern",
+      "type": "qcm",
+      "l1": "grimper",
+      "l2": "klettern",
+      "choices_l1": [
+        "sauter",
+        "courir",
+        "nager"
+      ],
+      "choices_l2": [
+        "springen",
+        "laufen",
+        "schwimmen"
+      ]
+    },
+    {
+      "id": "listen-ich-spiele-gern-fu-ball",
+      "type": "listen",
+      "l1": "J'aime jouer au foot.",
+      "l2": "Ich spiele gern Fußball.",
+      "choices_l1": [
+        "J'aime jouer au chat.",
+        "J'aime grimper.",
+        "Je joue avec le ballon."
+      ]
+    },
+    {
+      "id": "listen-spielen-wir-fangen",
+      "type": "listen",
+      "l1": "On joue au chat ?",
+      "l2": "Spielen wir Fangen?",
+      "choices_l1": [
+        "On joue au foot ?",
+        "On joue à cache-cache ?",
+        "On joue ensemble ?"
+      ]
+    },
+    {
+      "id": "listen-die-schaukel-ist-frei",
+      "type": "listen",
+      "l1": "La balançoire est libre !",
+      "l2": "Die Schaukel ist frei!",
+      "choices_l1": [
+        "Le toboggan est libre !",
+        "La balançoire est cassée !",
+        "La balançoire est grande !"
+      ]
+    },
+    {
+      "id": "listen-die-rutsche-ist-sehr-gro",
+      "type": "listen",
+      "l1": "Le toboggan est très grand.",
+      "l2": "Die Rutsche ist sehr groß.",
+      "choices_l1": [
+        "La balançoire est très grande.",
+        "Le toboggan est très petit.",
+        "L'aire de jeux est très grande."
+      ]
+    },
+    {
+      "id": "listen-ich-klettere-gern",
+      "type": "listen",
+      "l1": "J'aime grimper.",
+      "l2": "Ich klettere gern.",
+      "choices_l1": [
+        "J'aime sauter.",
+        "J'aime nager.",
+        "J'aime courir."
+      ]
+    },
+    {
+      "id": "listen-wir-gehen-auf-den-spielplatz",
+      "type": "listen",
+      "l1": "On va à l'aire de jeux.",
+      "l2": "Wir gehen auf den Spielplatz.",
+      "choices_l1": [
+        "On va au parc.",
+        "On va à l'école.",
+        "On joue à l'aire de jeux."
+      ]
+    },
+    {
+      "id": "blank-ich-spiele-gern-fu-ball",
+      "type": "fill-blank",
+      "l1": "J'aime jouer au foot.",
+      "l2": "Ich spiele gern Fußball.",
+      "missing_l1": "foot",
+      "missing_l2": "Fußball",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "chat",
+        "ballon",
+        "parc"
+      ],
+      "choices_l2": [
+        "Fangen",
+        "Verstecken",
+        "Puzzle"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-die-schaukel-ist-frei",
+      "type": "fill-blank",
+      "l1": "La balançoire est libre !",
+      "l2": "Die Schaukel ist frei!",
+      "missing_l1": "balançoire",
+      "missing_l2": "Schaukel",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "poupée",
+        "cuisine",
+        "porte"
+      ],
+      "choices_l2": [
+        "Rutsche",
+        "Puppe",
+        "Küche"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-klettere-gern",
+      "type": "fill-blank",
+      "l1": "J'aime grimper.",
+      "l2": "Ich klettere gern.",
+      "missing_l1": "grimper",
+      "missing_l2": "klettere",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "jouer",
+        "nager",
+        "dormir"
+      ],
+      "choices_l2": [
+        "spiele",
+        "schwimme",
+        "schlafe"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-wir-spielen-fu-ball-im-park",
+      "type": "fill-blank",
+      "l1": "On joue au foot dans le parc.",
+      "l2": "Wir spielen Fußball im Park.",
+      "missing_l1": "parc",
+      "missing_l2": "Park",
+      "blank_index_l1": 6,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "jardin",
+        "lit",
+        "zoo"
+      ],
+      "choices_l2": [
+        "Garten",
+        "Bett",
+        "Zoo"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-wir-spielen-fu-ball-im-park",
+      "type": "order",
+      "l1": "On joue au foot dans le parc.",
+      "l2": "Wir spielen Fußball im Park.",
+      "tokens_l1": [
+        "On",
+        "joue",
+        "au foot",
+        "dans le parc."
+      ],
+      "tokens_l2": [
+        "Wir",
+        "spielen",
+        "Fußball",
+        "im Park."
+      ]
+    },
+    {
+      "id": "order-wir-gehen-auf-den-spielplatz",
+      "type": "order",
+      "l1": "On va à l'aire de jeux.",
+      "l2": "Wir gehen auf den Spielplatz.",
+      "tokens_l1": [
+        "On",
+        "va",
+        "à l'aire de jeux."
+      ],
+      "tokens_l2": [
+        "Wir",
+        "gehen",
+        "auf den Spielplatz."
+      ]
+    },
+    {
+      "id": "order-die-rutsche-ist-sehr-gro",
+      "type": "order",
+      "l1": "Le toboggan est très grand.",
+      "l2": "Die Rutsche ist sehr groß.",
+      "tokens_l1": [
+        "Le toboggan",
+        "est",
+        "très",
+        "grand."
+      ],
+      "tokens_l2": [
+        "Die Rutsche",
+        "ist",
+        "sehr",
+        "groß."
+      ]
+    },
+    {
+      "id": "match-jeux",
+      "type": "match",
+      "l1": [
+        "le foot",
+        "le jeu du chat",
+        "la balançoire",
+        "le toboggan"
+      ],
+      "l2": [
+        "Fußball",
+        "Fangen",
+        "die Schaukel",
+        "die Rutsche"
+      ]
+    }
+  ]
+}
