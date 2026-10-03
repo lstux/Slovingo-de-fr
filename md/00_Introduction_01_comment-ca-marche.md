@@ -53,7 +53,16 @@ Commence par le **Kit de Survie** : les mots magiques pour se débrouiller.
 
 ## Les exercices
 
-{{fr:Pour t'entraîner, appuie sur « Exercices » : des petits jeux pour chaque fiche.}}
+{{fr:Pour t'entraîner, appuie sur le bouton cible, en haut de la page : ce sont des petits jeux pour chaque fiche.}}
+
+Les boutons en haut de la page :
+
+- 🏠 l'accueil
+- 👀 voir ou cacher les traductions
+- 🎯 les exercices
+- ⚙️ les réglages
+
+Dans les exercices, tu vas trouver :
 
 - 🔤 choisir la bonne réponse
 - ✏️ compléter une phrase
@@ -67,4 +76,4 @@ Tes scores s'affichent sur l'accueil, et 🔥 compte les jours de suite où tu t
 
 ## Pour les parents
 
-Si rien ne s'entend, vérifiez que l'appareil a une voix allemande et une voix française, et réglez-les dans « Paramètres » (voix, vitesse, lecture lente, voix de chaque personnage).
+Si rien ne s'entend, vérifiez que l'appareil a une voix allemande et une voix française, et réglez-les avec le bouton ⚙️ (voix, vitesse, lecture lente, voix de chaque personnage).
