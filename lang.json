@@ -22,7 +22,7 @@
     "theme_color": "#003399",
     "storage_prefix": "de-fr",
     "url_path": "/slovingo/de-fr/",
-    "user_name_default": "Enfant",
+    "user_name_default": "Linus",
     "user_name_placeholder": "Ton nom",
     "deploy_host": "www.lslinux.org",
     "deploy_path": "/var/www/lslinux.org/htdocs/slovingo/de-fr/"

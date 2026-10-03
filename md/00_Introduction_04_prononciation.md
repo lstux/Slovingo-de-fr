@@ -19,7 +19,7 @@
 
 ## 2. Les lettres à deux points
 
-{{fr:ü se dit comme le u de « tu ». ö se dit comme le eu de « peur ». ä se dit comme le è de « père ».}}
+{{fr:ü se dit comme le u de « tu ». ö se dit comme le eu de « bleu ». ä se dit comme le è de « père ».}}
 
 | Deutsch | Français |
 |---------|----------|
@@ -31,7 +31,7 @@
 
 ## 3. ei, ie, eu
 
-{{fr:On entend la deuxième lettre : ei se dit « aï », ie se dit « i », et eu se dit « oï ».}}
+{{fr:Trois paires à retenir : ei se dit « aï », ie se dit « i » (le e ne s'entend pas), et eu se dit « oï ».}}
 
 | Deutsch | Ça se dit | Français |
 |---------|-----------|----------|

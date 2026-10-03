@@ -62,10 +62,10 @@
 > ich verstehe nicht = je ne comprends pas
 
 ! 🐰 Kein Problem! Tschüss, [USER_NAME]!
-> Pas de problème ! Salut, [USER_NAME] !
+> Pas de problème ! Au revoir, [USER_NAME] !
 
 ! 🦊 Tschüss, Lea!
-> Salut, Lea !
+> Au revoir, Lea !
 
 ---
 

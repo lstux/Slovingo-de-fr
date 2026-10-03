@@ -32,6 +32,9 @@ Les phrases à apprendre sont dans des cartes. Touche la phrase pour l'écouter,
 
 ## Essaie !
 
+- 🐰 Lea, ton amie allemande
+- 🦊 Toi
+
 ! 🐰 Hallo!
 > Salut !
 
@@ -50,7 +53,7 @@ Commence par le **Kit de Survie** : les mots magiques pour se débrouiller.
 
 ## Les exercices
 
-{{fr:Pour t'entraîner, appuie sur « Exercices » : des petits jeux pour chaque fiche.}}
+{{fr:Pour t'entraîner, appuie sur « Exercices » : des petits jeux pour chaque fiche des séries.}}
 
 - 🔤 choisir la bonne réponse
 - ✏️ compléter une phrase
