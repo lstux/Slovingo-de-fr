@@ -1,0 +1,395 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-spielen",
+      "type": "qcm",
+      "l1": "jouer",
+      "l2": "spielen",
+      "choices_l1": [
+        "chanter",
+        "rire",
+        "cuisiner"
+      ],
+      "choices_l2": [
+        "singen",
+        "lachen",
+        "kochen"
+      ]
+    },
+    {
+      "id": "qcm-singen",
+      "type": "qcm",
+      "l1": "chanter",
+      "l2": "singen",
+      "choices_l1": [
+        "jouer",
+        "rire",
+        "cuisiner"
+      ],
+      "choices_l2": [
+        "spielen",
+        "lachen",
+        "kochen"
+      ]
+    },
+    {
+      "id": "qcm-lachen",
+      "type": "qcm",
+      "l1": "rire",
+      "l2": "lachen",
+      "choices_l1": [
+        "jouer",
+        "chanter",
+        "cuisiner"
+      ],
+      "choices_l2": [
+        "spielen",
+        "singen",
+        "kochen"
+      ]
+    },
+    {
+      "id": "qcm-kochen",
+      "type": "qcm",
+      "l1": "cuisiner",
+      "l2": "kochen",
+      "choices_l1": [
+        "jouer",
+        "chanter",
+        "rire"
+      ],
+      "choices_l2": [
+        "spielen",
+        "singen",
+        "lachen"
+      ]
+    },
+    {
+      "id": "qcm-zusammen",
+      "type": "qcm",
+      "l1": "ensemble",
+      "l2": "zusammen",
+      "choices_l1": [
+        "avec plaisir",
+        "aussi",
+        "mais"
+      ],
+      "choices_l2": [
+        "gern",
+        "auch",
+        "aber"
+      ]
+    },
+    {
+      "id": "qcm-gern",
+      "type": "qcm",
+      "l1": "avec plaisir",
+      "l2": "gern",
+      "choices_l1": [
+        "ensemble",
+        "aussi",
+        "mais"
+      ],
+      "choices_l2": [
+        "zusammen",
+        "auch",
+        "aber"
+      ]
+    },
+    {
+      "id": "qcm-du-spielst",
+      "type": "qcm",
+      "l1": "tu joues",
+      "l2": "du spielst",
+      "choices_l1": [
+        "je joue",
+        "il joue / elle joue",
+        "on joue, nous jouons"
+      ],
+      "choices_l2": [
+        "ich spiele",
+        "er spielt / sie spielt",
+        "wir spielen"
+      ]
+    },
+    {
+      "id": "listen-ich-spiele-gern",
+      "type": "listen",
+      "l1": "J'aime jouer.",
+      "l2": "Ich spiele gern.",
+      "choices_l1": [
+        "J'aime chanter.",
+        "J'aime rire.",
+        "J'aime cuisiner."
+      ]
+    },
+    {
+      "id": "listen-wir-spielen-zusammen",
+      "type": "listen",
+      "l1": "On joue ensemble.",
+      "l2": "Wir spielen zusammen.",
+      "choices_l1": [
+        "On chante ensemble.",
+        "On rit ensemble.",
+        "On cuisine ensemble."
+      ]
+    },
+    {
+      "id": "listen-meine-mutter-kocht-gern",
+      "type": "listen",
+      "l1": "Ma mère aime cuisiner.",
+      "l2": "Meine Mutter kocht gern.",
+      "choices_l1": [
+        "Ma mère aime chanter.",
+        "Mon père aime cuisiner.",
+        "Ma sœur aime cuisiner."
+      ]
+    },
+    {
+      "id": "listen-mein-vater-singt-gern",
+      "type": "listen",
+      "l1": "Mon père aime chanter.",
+      "l2": "Mein Vater singt gern.",
+      "choices_l1": [
+        "Mon père aime jouer.",
+        "Mon frère aime chanter.",
+        "Ma mère aime chanter."
+      ]
+    },
+    {
+      "id": "listen-wir-lachen-zusammen",
+      "type": "listen",
+      "l1": "On rit ensemble.",
+      "l2": "Wir lachen zusammen.",
+      "choices_l1": [
+        "On joue ensemble.",
+        "On chante ensemble.",
+        "On cuisine ensemble."
+      ]
+    },
+    {
+      "id": "listen-ich-spiele-gern-mit-tom",
+      "type": "listen",
+      "l1": "J'aime jouer avec Tom.",
+      "l2": "Ich spiele gern mit Tom.",
+      "choices_l1": [
+        "J'aime chanter avec Tom.",
+        "J'aime jouer avec Lea.",
+        "Tom aime jouer avec moi."
+      ]
+    },
+    {
+      "id": "listen-spielst-du-gern",
+      "type": "listen",
+      "l1": "Tu aimes jouer ?",
+      "l2": "Spielst du gern?",
+      "choices_l1": [
+        "Tu aimes chanter ?",
+        "Tu aimes cuisiner ?",
+        "Tu aimes rire ?"
+      ]
+    },
+    {
+      "id": "listen-opa-singt-und-wir-lachen",
+      "type": "listen",
+      "l1": "Papi chante, et on rit !",
+      "l2": "Opa singt, und wir lachen!",
+      "choices_l1": [
+        "Papi rit, et on chante !",
+        "Mamie chante, et on rit !",
+        "Papi chante, et on joue !"
+      ]
+    },
+    {
+      "id": "blank-ich-spiele-gern",
+      "type": "fill-blank",
+      "l1": "J'aime jouer.",
+      "l2": "Ich spiele gern.",
+      "missing_l1": "jouer",
+      "missing_l2": "gern",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "chanter",
+        "rire",
+        "cuisiner"
+      ],
+      "choices_l2": [
+        "zusammen",
+        "aber",
+        "und"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-wir-spielen-zusammen",
+      "type": "fill-blank",
+      "l1": "On joue ensemble.",
+      "l2": "Wir spielen zusammen.",
+      "missing_l1": "joue",
+      "missing_l2": "spielen",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "chante",
+        "rit",
+        "cuisine"
+      ],
+      "choices_l2": [
+        "spiele",
+        "spielst",
+        "spielt"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-spielst-du-gern",
+      "type": "fill-blank",
+      "l1": "Tu aimes jouer ?",
+      "l2": "Spielst du gern?",
+      "missing_l1": "jouer",
+      "missing_l2": "Spielst",
+      "blank_index_l1": 2,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "chanter",
+        "rire",
+        "cuisiner"
+      ],
+      "choices_l2": [
+        "Spiele",
+        "Spielen",
+        "Spielt"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-meine-mutter-kocht-gern",
+      "type": "fill-blank",
+      "l1": "Ma mère aime cuisiner.",
+      "l2": "Meine Mutter kocht gern.",
+      "missing_l1": "cuisiner",
+      "missing_l2": "kocht",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "chanter",
+        "jouer",
+        "rire"
+      ],
+      "choices_l2": [
+        "singt",
+        "spielt",
+        "kochen"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-ich-spiele-gern-mit-tom",
+      "type": "order",
+      "l1": "J'aime jouer avec Tom.",
+      "l2": "Ich spiele gern mit Tom.",
+      "tokens_l1": [
+        "J'aime",
+        "jouer",
+        "avec",
+        "Tom."
+      ],
+      "tokens_l2": [
+        "Ich",
+        "spiele",
+        "gern",
+        "mit",
+        "Tom."
+      ]
+    },
+    {
+      "id": "order-wir-spielen-zusammen",
+      "type": "order",
+      "l1": "On joue ensemble.",
+      "l2": "Wir spielen zusammen.",
+      "tokens_l1": [
+        "On",
+        "joue",
+        "ensemble."
+      ],
+      "tokens_l2": [
+        "Wir",
+        "spielen",
+        "zusammen."
+      ]
+    },
+    {
+      "id": "order-meine-mutter-kocht-gern",
+      "type": "order",
+      "l1": "Ma mère aime cuisiner.",
+      "l2": "Meine Mutter kocht gern.",
+      "tokens_l1": [
+        "Ma",
+        "mère",
+        "aime",
+        "cuisiner."
+      ],
+      "tokens_l2": [
+        "Meine",
+        "Mutter",
+        "kocht",
+        "gern."
+      ]
+    },
+    {
+      "id": "order-opa-singt-und-wir-lachen",
+      "type": "order",
+      "l1": "Papi chante, et on rit !",
+      "l2": "Opa singt, und wir lachen!",
+      "tokens_l1": [
+        "Papi",
+        "chante,",
+        "et",
+        "on",
+        "rit !"
+      ],
+      "tokens_l2": [
+        "Opa",
+        "singt,",
+        "und",
+        "wir",
+        "lachen!"
+      ]
+    },
+    {
+      "id": "match-verbes",
+      "type": "match",
+      "l1": [
+        "jouer",
+        "chanter",
+        "rire",
+        "cuisiner"
+      ],
+      "l2": [
+        "spielen",
+        "singen",
+        "lachen",
+        "kochen"
+      ]
+    },
+    {
+      "id": "match-spielen",
+      "type": "match",
+      "l1": [
+        "je joue",
+        "tu joues",
+        "il joue / elle joue",
+        "on joue, nous jouons"
+      ],
+      "l2": [
+        "ich spiele",
+        "du spielst",
+        "er spielt / sie spielt",
+        "wir spielen"
+      ]
+    }
+  ]
+}

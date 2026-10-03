@@ -1,0 +1,298 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "listen-hallo-das-ist-mein-haus",
+      "type": "listen",
+      "l1": "Salut ! C'est ma maison.",
+      "l2": "Hallo! Das ist mein Haus.",
+      "choices_l1": [
+        "Salut ! C'est mon jardin.",
+        "Salut ! C'est ma famille.",
+        "Salut ! C'est mon chien."
+      ]
+    },
+    {
+      "id": "listen-hallo-lea-das-haus-ist-gro",
+      "type": "listen",
+      "l1": "Salut, Lea ! La maison est grande !",
+      "l2": "Hallo, Lea! Das Haus ist groß!",
+      "choices_l1": [
+        "Salut, Lea ! La maison est petite !",
+        "Salut, Lea ! Le jardin est grand !",
+        "Merci, Lea ! La maison est grande !"
+      ]
+    },
+    {
+      "id": "listen-das-ist-tom-er-ist-mein-freund",
+      "type": "listen",
+      "l1": "Voici Tom. C'est mon copain.",
+      "l2": "Das ist Tom. Er ist mein Freund.",
+      "choices_l1": [
+        "Voici Tom. C'est mon frère.",
+        "Voici Tom. C'est mon père.",
+        "Voici Tom. Il a neuf ans."
+      ]
+    },
+    {
+      "id": "listen-ich-bin-neun-jahre-alt-und-du",
+      "type": "listen",
+      "l1": "J'ai neuf ans. Et toi ?",
+      "l2": "Ich bin neun Jahre alt. Und du?",
+      "choices_l1": [
+        "J'ai huit ans. Et toi ?",
+        "J'ai dix ans. Et toi ?",
+        "J'ai neuf ans. Merci !"
+      ]
+    },
+    {
+      "id": "listen-hallo-kinder-ich-bin-oma-hilde-ich-habe-einen-kuchen",
+      "type": "listen",
+      "l1": "Salut, les enfants ! Je suis Mamie Hilde. J'ai un gâteau !",
+      "l2": "Hallo, Kinder! Ich bin Oma Hilde. Ich habe einen Kuchen!",
+      "choices_l1": [
+        "Salut, les enfants ! Je suis Mamie Hilde. J'ai un chat !",
+        "Salut, les enfants ! Je suis Mamie Hilde. J'ai un chien !",
+        "Au revoir, les enfants ! Je suis Mamie Hilde. J'ai un gâteau !"
+      ]
+    },
+    {
+      "id": "listen-danke-der-kuchen-ist-toll",
+      "type": "listen",
+      "l1": "Merci ! Le gâteau est génial !",
+      "l2": "Danke! Der Kuchen ist toll!",
+      "choices_l1": [
+        "Merci ! Le jardin est génial !",
+        "Merci ! La maison est grande !",
+        "Pardon ! Le gâteau est génial !"
+      ]
+    },
+    {
+      "id": "listen-spielen-wir-zusammen",
+      "type": "listen",
+      "l1": "On joue ensemble ?",
+      "l2": "Spielen wir zusammen?",
+      "choices_l1": [
+        "On chante ensemble ?",
+        "On rit ensemble ?",
+        "Tu aimes jouer ?"
+      ]
+    },
+    {
+      "id": "listen-ja-gern",
+      "type": "listen",
+      "l1": "Oui, avec plaisir !",
+      "l2": "Ja, gern!",
+      "choices_l1": [
+        "Non, merci !",
+        "Oui, ensemble !",
+        "Oui, merci !"
+      ]
+    },
+    {
+      "id": "listen-tsch-ss-kinder-bis-bald",
+      "type": "listen",
+      "l1": "Au revoir, les enfants ! À bientôt !",
+      "l2": "Tschüss, Kinder! Bis bald!",
+      "choices_l1": [
+        "Salut, les enfants ! Ça va ?",
+        "Au revoir, les enfants ! Merci !",
+        "Bonjour, les enfants ! À bientôt !"
+      ]
+    },
+    {
+      "id": "listen-tsch-ss-oma-hilde",
+      "type": "listen",
+      "l1": "Au revoir, Mamie Hilde !",
+      "l2": "Tschüss, Oma Hilde!",
+      "choices_l1": [
+        "Merci, Mamie Hilde !",
+        "Bonjour, Mamie Hilde !",
+        "Pardon, Mamie Hilde !"
+      ]
+    },
+    {
+      "id": "blank-das-ist-tom-er-ist-mein-freund",
+      "type": "fill-blank",
+      "l1": "Voici Tom. C'est mon copain.",
+      "l2": "Das ist Tom. Er ist mein Freund.",
+      "missing_l1": "copain",
+      "missing_l2": "Freund",
+      "blank_index_l1": 4,
+      "blank_index_l2": 6,
+      "choices_l1": [
+        "frère",
+        "père",
+        "papi"
+      ],
+      "choices_l2": [
+        "Bruder",
+        "Vater",
+        "Opa"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-bin-neun-jahre-alt-und-du",
+      "type": "fill-blank",
+      "l1": "J'ai neuf ans. Et toi ?",
+      "l2": "Ich bin neun Jahre alt. Und du?",
+      "missing_l1": "neuf",
+      "missing_l2": "neun",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "huit",
+        "dix",
+        "deux"
+      ],
+      "choices_l2": [
+        "acht",
+        "zehn",
+        "zwei"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-danke-der-kuchen-ist-toll",
+      "type": "fill-blank",
+      "l1": "Merci ! Le gâteau est génial !",
+      "l2": "Danke! Der Kuchen ist toll!",
+      "missing_l1": "génial",
+      "missing_l2": "toll",
+      "blank_index_l1": 5,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "petit",
+        "vieux",
+        "grand"
+      ],
+      "choices_l2": [
+        "klein",
+        "alt",
+        "gern"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-tsch-ss-kinder-bis-bald",
+      "type": "fill-blank",
+      "l1": "Au revoir, les enfants ! À bientôt !",
+      "l2": "Tschüss, Kinder! Bis bald!",
+      "missing_l1": "bientôt",
+      "missing_l2": "bald",
+      "blank_index_l1": 6,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "demain",
+        "ensemble",
+        "toujours"
+      ],
+      "choices_l2": [
+        "gern",
+        "toll",
+        "alt"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-spielen-wir-zusammen",
+      "type": "order",
+      "l1": "On joue ensemble ?",
+      "l2": "Spielen wir zusammen?",
+      "tokens_l1": [
+        "On",
+        "joue",
+        "ensemble ?"
+      ],
+      "tokens_l2": [
+        "Spielen",
+        "wir",
+        "zusammen?"
+      ]
+    },
+    {
+      "id": "order-das-ist-tom-er-ist-mein-freund",
+      "type": "order",
+      "l1": "Voici Tom. C'est mon copain.",
+      "l2": "Das ist Tom. Er ist mein Freund.",
+      "tokens_l1": [
+        "Voici",
+        "Tom.",
+        "C'est",
+        "mon",
+        "copain."
+      ],
+      "tokens_l2": [
+        "Das",
+        "ist",
+        "Tom.",
+        "Er",
+        "ist",
+        "mein",
+        "Freund."
+      ]
+    },
+    {
+      "id": "order-hallo-lea-das-haus-ist-gro",
+      "type": "order",
+      "l1": "Salut, Lea ! La maison est grande !",
+      "l2": "Hallo, Lea! Das Haus ist groß!",
+      "tokens_l1": [
+        "Salut,",
+        "Lea !",
+        "La",
+        "maison",
+        "est",
+        "grande !"
+      ],
+      "tokens_l2": [
+        "Hallo,",
+        "Lea!",
+        "Das",
+        "Haus",
+        "ist",
+        "groß!"
+      ]
+    },
+    {
+      "id": "order-ich-bin-neun-jahre-alt-und-du",
+      "type": "order",
+      "l1": "J'ai neuf ans. Et toi ?",
+      "l2": "Ich bin neun Jahre alt. Und du?",
+      "tokens_l1": [
+        "J'ai",
+        "neuf",
+        "ans.",
+        "Et",
+        "toi ?"
+      ],
+      "tokens_l2": [
+        "Ich",
+        "bin",
+        "neun",
+        "Jahre",
+        "alt.",
+        "Und",
+        "du?"
+      ]
+    },
+    {
+      "id": "match-repliques",
+      "type": "match",
+      "l1": [
+        "Oui, avec plaisir !",
+        "On joue ensemble ?",
+        "Au revoir, Mamie Hilde !",
+        "Merci ! Le gâteau est génial !"
+      ],
+      "l2": [
+        "Ja, gern!",
+        "Spielen wir zusammen?",
+        "Tschüss, Oma Hilde!",
+        "Danke! Der Kuchen ist toll!"
+      ]
+    }
+  ]
+}
