@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (animaux qui courent, volent, nagent...) sur Wikimedia Commons
 
-Ce que font les animaux : manger, courir, voler, nager, sauter. Et une distinction amusante entre manger « comme un humain » et manger « comme un animal ».
+{{fr:Ce que font les animaux : courir, voler, nager, sauter… et manger. Mais attention, un animal ne mange pas comme toi !}}
 
 ---
 
@@ -15,109 +15,63 @@ Ce que font les animaux : manger, courir, voler, nager, sauter. Et une distincti
 | fliegen | voler |
 | schwimmen | nager |
 | springen | sauter |
-| der Flügel | l'aile |
+| schnell | vite |
 
 ---
 
-## Aujourd'hui on apprend...
+## Manger comme un animal
 
-### Fressen ou essen ?
-
-En allemand, on ne dit pas la même chose pour un humain et pour un animal !
+{{fr:En allemand, il y a deux verbes pour manger : un pour les gens, et un pour les animaux. Le verbe des gens, tu le connais déjà !}}
 
 | Deutsch | Français |
 |---------|----------|
-| Ich esse Brot. | Je mange du pain. (humain) |
-| Der Hund frisst. | Le chien mange. (animal) |
-
-### Laufen — encore un changement de voyelle
-
-| Deutsch | Français |
-|---------|----------|
-| ich laufe | je cours |
-| du läufst | tu cours |
-| er/sie läuft | il/elle court |
-
-Toujours la même famille de verbes que schlafen, fahren, sehen et treffen !
+| Ich esse Brot. | Je mange du pain. |
+| Der Hund frisst. | Le chien mange. |
 
 ---
 
 ## Des phrases
 
-! Der Hund frisst schnell.
-> Le chien mange vite.
-> Der Hund frisst = le chien mange
-> schnell = vite
+! Der Hund frisst.
+> Le chien mange.
+> frisst = mange (animal)
 
 ! Die Katze läuft schnell.
 > Le chat court vite.
-> Die Katze läuft = le chat court
+> läuft = court
 > schnell = vite
++ Le a devient ä, comme {{du fährst}} : {{ich laufe}}, mais {{sie läuft}}.
 
 ! Der Vogel fliegt.
 > L'oiseau vole.
-> Der Vogel fliegt = l'oiseau vole
+> fliegt = vole
 
-! Der Fisch schwimmt im Aquarium.
-> Le poisson nage dans l'aquarium.
-> Der Fisch schwimmt = le poisson nage
-> im Aquarium = dans l'aquarium
+! Der Fisch schwimmt.
+> Le poisson nage.
+> schwimmt = nage
 
 ! Das Kaninchen springt.
 > Le lapin saute.
-> Das Kaninchen springt = le lapin saute
+> springt = saute
 
-! Der Vogel hat Flügel.
-> L'oiseau a des ailes.
-> Der Vogel hat = l'oiseau a
-> Flügel = des ailes
-
+! Ich schwimme gern.
+> J'aime nager.
+> Ich schwimme gern = j'aime nager
 
 ---
 
 ## On révise
 
-! Fische schwimmen, Vögel fliegen, und Kaninchen springen.
-> Les poissons nagent, les oiseaux volent, et les lapins sautent.
-> Fische schwimmen = les poissons nagent
-> Vögel fliegen = les oiseaux volent
-> und Kaninchen springen = et les lapins sautent
+! Fische schwimmen und Vögel fliegen.
+> Les poissons nagent et les oiseaux volent.
 
 ! Der Hund frisst, aber ich esse!
-> Le chien mange (comme un animal), mais moi je mange (comme un humain) !
-> Der Hund frisst = le chien mange
-> aber ich esse = mais moi je mange
+> Le chien mange comme un animal, mais moi, je mange comme une personne !
+> frisst = mange (animal)
+> esse = mange (personne)
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Attention à ne pas confondre !** Dire d'une personne qu'elle « frisst » plutôt que « isst » est un peu insultant en allemand — ça veut dire qu'elle mange comme un animal, sans manières !
-
-**La légende de la cigogne.** En Allemagne comme en Alsace, une vieille légende raconte que ce sont les cigognes ({{Störche}}) qui apportent les bébés — une histoire que beaucoup d'enfants allemands connaissent aussi.
-
----
-
-## Vocabulaire complémentaire
-
-| Deutsch | Français |
-|---------|----------|
-| die Ente | le canard |
-| der Schnabel | le bec |
-
----
-
-## Encore quelques phrases
-
-! Die Ente hat einen Schnabel.
-> Le canard a un bec.
-> Die Ente hat = le canard a
-> einen Schnabel = un bec
-
-
-
-! Das Kaninchen springt gern im Garten.
-> Le lapin aime sauter dans le jardin.
-> Das Kaninchen = le lapin
-> springt gern = aime sauter
-> im Garten = dans le jardin
+{{fr:Attention : dire qu'une personne mange comme un animal, ce n'est pas très gentil ! Ça veut dire qu'elle mange sans aucune manière.}} → {{Er frisst!}}
