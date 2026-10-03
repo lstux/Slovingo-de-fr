@@ -1,8 +1,8 @@
 # Série Haus (5/5) — Verstecken spielen
 
-@ https://commons.wikimedia.org/wiki/File:Living_room_(Unsplash).jpg | Salon, Wikimedia Commons, licence libre
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Living_room_%28Unsplash%29.jpg?width=800 | Salon, Wikimedia Commons, licence libre
 
-Retour chez Lea ! Cette fois, on joue à cache-cache dans toute la maison. Aucun mot nouveau, à part deux ou trois signalés en chemin.
+{{fr:Retour chez Lea ! Cette fois, on joue à cache-cache dans toute la maison. Écoute bien où chacun se cache !}}
 
 ---
 
@@ -19,85 +19,55 @@ Retour chez Lea ! Cette fois, on joue à cache-cache dans toute la maison. Aucun
 
 ! 🐰 Spielen wir Verstecken?
 > On joue à cache-cache ?
-> Spielen wir Verstecken = on joue à cache-cache
 + Mot nouveau signalé : {{Verstecken}} = cache-cache.
 
-! 🦊 Ja, gern! Wo ist ein gutes Versteck?
-> Oui, avec plaisir ! Où est une bonne cachette ?
-> Wo ist ein gutes Versteck = où est une bonne cachette
+! 🦊 Ja, gern! Es gibt viele Zimmer!
+> Oui, avec plaisir ! Il y a plein de pièces !
+> viele Zimmer = plein de pièces
 
-! 🐨 Es gibt viele Zimmer im Haus!
-> Il y a plein de pièces dans la maison !
-> Es gibt viele Zimmer = il y a plein de pièces
-> im Haus = dans la maison
-
-! 🐰 Ich verstecke mich im Schrank!
+! 🐨 Ich verstecke mich im Schrank!
 > Je me cache dans l'armoire !
 > Ich verstecke mich = je me cache
-> im Schrank = dans l'armoire
 
-! 🦊 Und ich sitze hinter dem Sofa!
-> Et moi, je m'assois derrière le canapé !
-> hinter dem Sofa = derrière le canapé
-+ Mot nouveau signalé : {{hinter}} = derrière.
-
-! 🐨 Ich bin unter dem Bett!
-> Moi, je suis sous le lit !
-> unter dem Bett = sous le lit
+! 🐰 Und ich bin unter dem Bett!
+> Et moi, je suis sous le lit !
 + Mot nouveau signalé : {{unter}} = sous.
+
+! 🦊 Ich bin hinter dem Sofa!
+> Moi, je suis derrière le canapé !
++ Mot nouveau signalé : {{hinter}} = derrière.
 
 ! 🦉 Wo seid ihr? Ich suche euch!
 > Où êtes-vous ? Je vous cherche !
 > Wo seid ihr = où êtes-vous
 > Ich suche euch = je vous cherche
 
-! 🐰 Ich bin hier, im Schrank!
-> Je suis là, dans l'armoire !
-> Ich bin hier = je suis là
+! 🦉 Ich sehe Tom! Er ist im Schrank!
+> Je vois Tom ! Il est dans l'armoire !
+> Ich sehe = je vois
 
-! 🦉 Ich sehe dich! Und wo ist [USER_NAME]?
-> Je te vois ! Et où est [USER_NAME] ?
-> Ich sehe dich = je te vois
+! 🐨 Oh nein!
+> Oh non !
+
+! 🦉 Und wo ist [USER_NAME]?
+> Et où est [USER_NAME] ?
 
 ! 🦊 Hier bin ich, hinter dem Sofa!
 > Me voilà, derrière le canapé !
 > Hier bin ich = me voilà
 
-! 🦉 Gefunden! Das war lustig!
-> Trouvé ! C'était drôle !
+! 🦉 Gefunden! Das ist lustig!
+> Trouvé ! C'est drôle !
 > Gefunden = trouvé
-> Das war lustig = c'était drôle
-+ Mot nouveau signalé : {{lustig}} = drôle, amusant.
++ Mot nouveau signalé : {{lustig}} = drôle.
 
-! 🐨 Noch einmal? Ich verstecke mich jetzt!
-> Encore une fois ? Je me cache maintenant !
+! 🐰 Noch einmal? Jetzt suche ich!
+> Encore une fois ? Maintenant, c'est moi qui cherche !
 > Noch einmal = encore une fois
-+ Mot nouveau signalé : {{Noch einmal}} = encore une fois.
+> Jetzt suche ich = maintenant, je cherche
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Verstecken, un classique universel.** Le cache-cache se joue en Allemagne à peu près comme partout ! Le mot pour « trouvé » — {{Gefunden!}} — se crie fort, un peu comme notre « trouvé ! ».
-
-**Hinter, unter, in — les petits mots de position.** Tu viens de croiser trois mots utiles pour dire où se trouve quelque chose : {{hinter}} (derrière), {{unter}} (sous), et {{in}} (dans, déjà vu). Tu les recroiseras souvent — pas besoin de tout retenir d'un coup, ils reviendront naturellement dans les prochaines séries.
-
----
-
-## Encore quelques phrases
-
-! Das Spielzeug ist unter dem Bett.
-> Le jouet est sous le lit.
-> Das Spielzeug = le jouet
-> unter dem Bett = sous le lit
-
-! Mein Buch ist hinter dem Regal.
-> Mon livre est derrière l'étagère.
-> Mein Buch = mon livre
-> hinter dem Regal = derrière l'étagère
-
-! Wir spielen gern Verstecken zusammen.
-> On aime jouer à cache-cache ensemble.
-> Wir spielen gern = on aime jouer
-> Verstecken = à cache-cache
-> zusammen = ensemble
+{{fr:Quand on trouve quelqu'un, on le crie très fort !}} → {{Gefunden!}}

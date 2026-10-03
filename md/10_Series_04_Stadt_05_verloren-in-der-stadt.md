@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (enfant qui cherche son chemin, glacier en ville...) sur Wikimedia Commons
 
-Tu as rendez-vous avec Lea au glacier… mais tu ne sais plus où tu es ! Heureusement, tu croises Tom. Tu connais presque tous les mots ; les nouveaux sont signalés en chemin.
+{{fr:Tu as rendez-vous avec Lea au glacier… mais tu ne sais plus où tu es ! Heureusement, tu croises Tom.}}
 
 ---
 
@@ -17,95 +17,48 @@ Tu as rendez-vous avec Lea au glacier… mais tu ne sais plus où tu es ! Heureu
 ## Le dialogue
 
 ! 🦊 Tom! Hallo! Ich habe mich verlaufen.
-> Tom ! Salut ! J'ai perdu mon chemin.
-> Ich habe mich verlaufen = j'ai perdu mon chemin
-+ Mot nouveau signalé : {{sich verlaufen}} = se perdre (à pied). Ne dis pas « Ich bin verloren » : ça voudrait dire un truc du genre « je suis fichu » !
+> Tom ! Salut ! Je ne trouve plus mon chemin.
++ Mot nouveau signalé : {{Ich habe mich verlaufen}} = je ne trouve plus mon chemin.
 
 ! 🐨 Oh! Was suchst du?
 > Oh ! Qu'est-ce que tu cherches ?
-> Was = quoi
-> suchst du = tu cherches
+> Was suchst du = qu'est-ce que tu cherches
 
 ! 🦊 Die Eisdiele. Ich treffe Lea dort.
 > Le glacier. Je retrouve Lea là-bas.
-> Die Eisdiele = le glacier
-> Ich treffe = je retrouve
-> dort = là-bas
 
-! 🐨 Das ist einfach! Geh geradeaus.
-> C'est facile ! Va tout droit.
-> Das ist einfach = c'est facile
-> Geh geradeaus = va tout droit
-+ Mot nouveau signalé : {{einfach}} = facile.
-
-! 🦊 Geradeaus. Und dann?
-> Tout droit. Et ensuite ?
-> Geradeaus = tout droit
-> Und dann = et ensuite
-
-! 🐨 Dann nach links. Die Eisdiele ist neben der Bäckerei.
-> Ensuite à gauche. Le glacier est à côté de la boulangerie.
-> Dann nach links = ensuite à gauche
-> neben der Bäckerei = à côté de la boulangerie
+! 🐨 Geh geradeaus. Dann nach links.
+> Va tout droit. Ensuite, à gauche.
 
 ! 🦊 Ist es weit?
 > C'est loin ?
-> Ist es = est-ce que c'est
-> weit = loin
 + Mot nouveau signalé : {{weit}} = loin.
 
 ! 🐨 Nein! Fünf Minuten zu Fuß. Ich komme mit!
 > Non ! Cinq minutes à pied. Je viens avec toi !
-> Fünf Minuten = cinq minutes
-> zu Fuß = à pied
 > Ich komme mit = je viens avec toi
 
 ! 🦊 Super! Danke, Tom!
 > Super ! Merci, Tom !
-> Danke = merci
 
 ! 🐰 Hallo, [USER_NAME]! Hallo, Tom! Ich kaufe ein Eis. Und ihr?
 > Salut, [USER_NAME] ! Salut, Tom ! J'achète une glace. Et vous ?
-> Ich kaufe ein Eis = j'achète une glace
 > Und ihr = et vous
-+ {{ihr}} = vous (quand on parle à plusieurs copains).
 
 ! 🦊 Was kostet ein Eis?
 > Combien coûte une glace ?
-> Was kostet = combien coûte
-> ein Eis = une glace
 
 ! 🐰 Zwei Euro.
 > Deux euros.
-> Zwei Euro = deux euros
 
-! 🦊 Ich nehme ein Eis, bitte! Lecker!
-> Je prends une glace, s'il vous plaît ! Trop bon !
-> Ich nehme = je prends
-> ein Eis = une glace
-> Lecker = trop bon
+! 🦊 Ich nehme ein Eis, bitte!
+> Je prends une glace, s'il vous plaît !
+
+! 🐨 Ich auch! Lecker!
+> Moi aussi ! Trop bon !
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-**Perdu ? Demande à quelqu'un !** Si tu ne trouves plus ton chemin, demande à un commerçant ou à une famille avec des enfants : {{Entschuldigung, ich habe mich verlaufen.}} Les gens aident volontiers.
-
-**Le glacier italien.** Beaucoup de glaciers allemands ont été créés par des familles venues d'Italie. Le plus célèbre chez les enfants : le {{Spaghettieis}}, une glace à la vanille qui ressemble à des spaghettis à la sauce tomate… mais avec de la fraise !
-
----
-
-## Encore quelques phrases
-
-! Ich komme mit!
-> Je viens avec toi !
-> Ich komme mit = je viens avec toi
-
-! Die Bäckerei ist nicht weit.
-> La boulangerie n'est pas loin.
-> nicht weit = pas loin
-
-! Ich habe mich verlaufen. Wo ist die Schule?
-> J'ai perdu mon chemin. Où est l'école ?
-> Ich habe mich verlaufen = j'ai perdu mon chemin
-> Wo ist = où est
+{{fr:Si tu ne trouves plus ton chemin, demande à un commerçant, ou à une famille avec des enfants. Les gens aident volontiers.}} → {{Entschuldigung, ich habe mich verlaufen.}}

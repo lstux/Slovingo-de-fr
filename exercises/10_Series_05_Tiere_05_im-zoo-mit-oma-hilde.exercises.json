@@ -1,0 +1,257 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "listen-wir-sind-im-zoo-was-m-chtet-ihr-sehen",
+      "type": "listen",
+      "l1": "On est au zoo ! Qu'est-ce que vous voulez voir ?",
+      "l2": "Wir sind im Zoo! Was möchtet ihr sehen?",
+      "choices_l1": [
+        "On est à la ferme ! Qu'est-ce que vous voulez voir ?",
+        "On est au zoo ! Qu'est-ce que vous voulez manger ?",
+        "On est au parc ! Qu'est-ce que vous voulez faire ?"
+      ]
+    },
+    {
+      "id": "listen-ich-m-chte-die-giraffen-sehen",
+      "type": "listen",
+      "l1": "Je voudrais voir les girafes !",
+      "l2": "Ich möchte die Giraffen sehen!",
+      "choices_l1": [
+        "Je voudrais voir les lions !",
+        "Je voudrais voir les singes !",
+        "J'aime bien les girafes !"
+      ]
+    },
+    {
+      "id": "listen-schau-mal-ein-elefant",
+      "type": "listen",
+      "l1": "Regarde, un éléphant !",
+      "l2": "Schau mal, ein Elefant!",
+      "choices_l1": [
+        "Regarde, un lion !",
+        "Regarde, une girafe !",
+        "C'est un éléphant !"
+      ]
+    },
+    {
+      "id": "listen-er-ist-so-gro-gr-er-als-ein-auto",
+      "type": "listen",
+      "l1": "Il est tellement grand ! Plus grand qu'une voiture !",
+      "l2": "Er ist so groß! Größer als ein Auto!",
+      "choices_l1": [
+        "Il est tellement petit ! Plus petit qu'une voiture !",
+        "Il est tellement grand ! Plus grand qu'une maison !",
+        "Il est tellement fort ! Plus fort qu'une voiture !"
+      ]
+    },
+    {
+      "id": "listen-und-der-l-we-schl-ft",
+      "type": "listen",
+      "l1": "Et le lion dort.",
+      "l2": "Und der Löwe schläft.",
+      "choices_l1": [
+        "Et le lion mange.",
+        "Et le singe dort.",
+        "Et le lion court."
+      ]
+    },
+    {
+      "id": "listen-die-affen-sind-lustig-sie-springen",
+      "type": "listen",
+      "l1": "Les singes sont drôles ! Ils sautent !",
+      "l2": "Die Affen sind lustig! Sie springen!",
+      "choices_l1": [
+        "Les singes sont drôles ! Ils courent !",
+        "Les lions sont drôles ! Ils sautent !",
+        "Les singes sont forts ! Ils sautent !"
+      ]
+    },
+    {
+      "id": "listen-m-chtet-ihr-die-schafe-f-ttern-im-streichelzoo",
+      "type": "listen",
+      "l1": "Vous voulez nourrir les moutons ? Au mini-zoo !",
+      "l2": "Möchtet ihr die Schafe füttern? Im Streichelzoo!",
+      "choices_l1": [
+        "Vous voulez voir les moutons ? Au mini-zoo !",
+        "Vous voulez nourrir les canards ? Au mini-zoo !",
+        "Vous voulez nourrir les moutons ? À la ferme !"
+      ]
+    },
+    {
+      "id": "listen-schau-mal-die-enten-schwimmen",
+      "type": "listen",
+      "l1": "Regarde, les canards nagent !",
+      "l2": "Schau mal, die Enten schwimmen!",
+      "choices_l1": [
+        "Regarde, les canards volent !",
+        "Regarde, les poissons nagent !",
+        "Regarde, les canards mangent !"
+      ]
+    },
+    {
+      "id": "listen-kommt-wir-gehen-in-die-eisdiele",
+      "type": "listen",
+      "l1": "Venez, on va au glacier !",
+      "l2": "Kommt, wir gehen in die Eisdiele!",
+      "choices_l1": [
+        "Venez, on va au zoo !",
+        "Venez, on va au parc !",
+        "Venez, on mange une glace !"
+      ]
+    },
+    {
+      "id": "blank-schau-mal-ein-elefant",
+      "type": "fill-blank",
+      "l1": "Regarde, un éléphant !",
+      "l2": "Schau mal, ein Elefant!",
+      "missing_l1": "éléphant",
+      "missing_l2": "Elefant",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "lion",
+        "singe",
+        "ours"
+      ],
+      "choices_l2": [
+        "Löwe",
+        "Affe",
+        "Zebra"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-und-der-l-we-schl-ft",
+      "type": "fill-blank",
+      "l1": "Et le lion dort.",
+      "l2": "Und der Löwe schläft.",
+      "missing_l1": "dort",
+      "missing_l2": "schläft",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "mange",
+        "saute",
+        "court"
+      ],
+      "choices_l2": [
+        "frisst",
+        "springt",
+        "läuft"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-die-affen-sind-lustig-sie-springen",
+      "type": "fill-blank",
+      "l1": "Les singes sont drôles ! Ils sautent !",
+      "l2": "Die Affen sind lustig! Sie springen!",
+      "missing_l1": "sautent",
+      "missing_l2": "springen",
+      "blank_index_l1": 6,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "nagent",
+        "volent",
+        "dorment"
+      ],
+      "choices_l2": [
+        "schwimmen",
+        "fliegen",
+        "schlafen"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-m-chte-die-giraffen-sehen",
+      "type": "fill-blank",
+      "l1": "Je voudrais voir les girafes !",
+      "l2": "Ich möchte die Giraffen sehen!",
+      "missing_l1": "girafes",
+      "missing_l2": "Giraffen",
+      "blank_index_l1": 4,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "lions",
+        "singes",
+        "zèbres"
+      ],
+      "choices_l2": [
+        "Affen",
+        "Hühner",
+        "Vögel"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-schau-mal-die-enten-schwimmen",
+      "type": "order",
+      "l1": "Regarde, les canards nagent !",
+      "l2": "Schau mal, die Enten schwimmen!",
+      "tokens_l1": [
+        "Regarde,",
+        "les canards",
+        "nagent !"
+      ],
+      "tokens_l2": [
+        "Schau mal,",
+        "die Enten",
+        "schwimmen!"
+      ]
+    },
+    {
+      "id": "order-ich-m-chte-die-giraffen-sehen",
+      "type": "order",
+      "l1": "Je voudrais voir les girafes !",
+      "l2": "Ich möchte die Giraffen sehen!",
+      "tokens_l1": [
+        "Je",
+        "voudrais",
+        "voir",
+        "les girafes !"
+      ],
+      "tokens_l2": [
+        "Ich",
+        "möchte",
+        "die Giraffen",
+        "sehen!"
+      ]
+    },
+    {
+      "id": "order-kommt-wir-gehen-in-die-eisdiele",
+      "type": "order",
+      "l1": "Venez, on va au glacier !",
+      "l2": "Kommt, wir gehen in die Eisdiele!",
+      "tokens_l1": [
+        "Venez,",
+        "on",
+        "va",
+        "au glacier !"
+      ],
+      "tokens_l2": [
+        "Kommt,",
+        "wir",
+        "gehen",
+        "in die Eisdiele!"
+      ]
+    },
+    {
+      "id": "match-repliques",
+      "type": "match",
+      "l1": [
+        "Regarde, un éléphant !",
+        "Et le lion dort.",
+        "J'aime bien les zèbres !",
+        "Oui, avec plaisir !"
+      ],
+      "l2": [
+        "Schau mal, ein Elefant!",
+        "Und der Löwe schläft.",
+        "Ich mag die Zebras!",
+        "Ja, gern!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-der-l-we",
+      "type": "qcm",
+      "l1": "le lion",
+      "l2": "der Löwe",
+      "choices_l1": [
+        "l'éléphant",
+        "le singe",
+        "la girafe"
+      ],
+      "choices_l2": [
+        "der Elefant",
+        "der Affe",
+        "die Giraffe"
+      ]
+    },
+    {
+      "id": "qcm-der-elefant",
+      "type": "qcm",
+      "l1": "l'éléphant",
+      "l2": "der Elefant",
+      "choices_l1": [
+        "le lion",
+        "la girafe",
+        "le zèbre"
+      ],
+      "choices_l2": [
+        "der Löwe",
+        "die Giraffe",
+        "das Zebra"
+      ]
+    },
+    {
+      "id": "qcm-der-affe",
+      "type": "qcm",
+      "l1": "le singe",
+      "l2": "der Affe",
+      "choices_l1": [
+        "le lion",
+        "l'éléphant",
+        "le zèbre"
+      ],
+      "choices_l2": [
+        "der Löwe",
+        "der Elefant",
+        "das Zebra"
+      ]
+    },
+    {
+      "id": "qcm-die-giraffe",
+      "type": "qcm",
+      "l1": "la girafe",
+      "l2": "die Giraffe",
+      "choices_l1": [
+        "le zèbre",
+        "le singe",
+        "l'éléphant"
+      ],
+      "choices_l2": [
+        "das Zebra",
+        "der Affe",
+        "der Elefant"
+      ]
+    },
+    {
+      "id": "qcm-das-zebra",
+      "type": "qcm",
+      "l1": "le zèbre",
+      "l2": "das Zebra",
+      "choices_l1": [
+        "la girafe",
+        "le lion",
+        "le singe"
+      ],
+      "choices_l2": [
+        "die Giraffe",
+        "der Löwe",
+        "der Affe"
+      ]
+    },
+    {
+      "id": "qcm-stark",
+      "type": "qcm",
+      "l1": "fort",
+      "l2": "stark",
+      "choices_l1": [
+        "grand",
+        "petit",
+        "drôle"
+      ],
+      "choices_l2": [
+        "groß",
+        "klein",
+        "lustig"
+      ]
+    },
+    {
+      "id": "listen-der-elefant-ist-gro",
+      "type": "listen",
+      "l1": "L'éléphant est grand.",
+      "l2": "Der Elefant ist groß.",
+      "choices_l1": [
+        "L'éléphant est petit.",
+        "Le lion est grand.",
+        "La girafe est grande."
+      ]
+    },
+    {
+      "id": "listen-die-giraffe-ist-gr-er-als-das-zebra",
+      "type": "listen",
+      "l1": "La girafe est plus grande que le zèbre.",
+      "l2": "Die Giraffe ist größer als das Zebra.",
+      "choices_l1": [
+        "Le zèbre est plus grand que la girafe.",
+        "La girafe est plus petite que le zèbre.",
+        "La girafe est plus grande que le lion."
+      ]
+    },
+    {
+      "id": "listen-der-affe-ist-kleiner-als-der-elefant",
+      "type": "listen",
+      "l1": "Le singe est plus petit que l'éléphant.",
+      "l2": "Der Affe ist kleiner als der Elefant.",
+      "choices_l1": [
+        "Le singe est plus grand que l'éléphant.",
+        "Le lion est plus petit que l'éléphant.",
+        "L'éléphant est plus petit que le singe."
+      ]
+    },
+    {
+      "id": "listen-der-l-we-ist-stark",
+      "type": "listen",
+      "l1": "Le lion est fort.",
+      "l2": "Der Löwe ist stark.",
+      "choices_l1": [
+        "Le lion est drôle.",
+        "Le singe est fort.",
+        "Le lion est petit."
+      ]
+    },
+    {
+      "id": "listen-ich-mag-affen-sie-sind-lustig",
+      "type": "listen",
+      "l1": "J'aime bien les singes. Ils sont drôles !",
+      "l2": "Ich mag Affen. Sie sind lustig!",
+      "choices_l1": [
+        "J'aime bien les lions. Ils sont forts !",
+        "J'aime bien les singes. Ils sont petits !",
+        "Je n'aime pas les singes."
+      ]
+    },
+    {
+      "id": "listen-das-zebra-hat-streifen",
+      "type": "listen",
+      "l1": "Le zèbre a des rayures.",
+      "l2": "Das Zebra hat Streifen.",
+      "choices_l1": [
+        "Le zèbre est grand.",
+        "La girafe a des rayures.",
+        "Le zèbre a faim."
+      ]
+    },
+    {
+      "id": "blank-die-giraffe-ist-gr-er-als-das-zebra",
+      "type": "fill-blank",
+      "l1": "La girafe est plus grande que le zèbre.",
+      "l2": "Die Giraffe ist größer als das Zebra.",
+      "missing_l1": "grande",
+      "missing_l2": "größer",
+      "blank_index_l1": 4,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "petite",
+        "forte",
+        "drôle"
+      ],
+      "choices_l2": [
+        "kleiner",
+        "groß",
+        "stark"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-der-affe-ist-kleiner-als-der-elefant",
+      "type": "fill-blank",
+      "l1": "Le singe est plus petit que l'éléphant.",
+      "l2": "Der Affe ist kleiner als der Elefant.",
+      "missing_l1": "que",
+      "missing_l2": "als",
+      "blank_index_l1": 5,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "et",
+        "mais",
+        "ou"
+      ],
+      "choices_l2": [
+        "und",
+        "aber",
+        "oder"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-der-l-we-ist-stark",
+      "type": "fill-blank",
+      "l1": "Le lion est fort.",
+      "l2": "Der Löwe ist stark.",
+      "missing_l1": "lion",
+      "missing_l2": "Löwe",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "singe",
+        "loup",
+        "tigre"
+      ],
+      "choices_l2": [
+        "Affe",
+        "Elefant",
+        "Hund"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-im-zoo-sehe-ich-l-wen-und-giraffen",
+      "type": "fill-blank",
+      "l1": "Au zoo, je vois des lions et des girafes.",
+      "l2": "Im Zoo sehe ich Löwen und Giraffen.",
+      "missing_l1": "vois",
+      "missing_l2": "sehe",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "ai",
+        "mange",
+        "achète"
+      ],
+      "choices_l2": [
+        "habe",
+        "esse",
+        "kaufe"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-die-giraffe-ist-gr-er-als-das-zebra",
+      "type": "order",
+      "l1": "La girafe est plus grande que le zèbre.",
+      "l2": "Die Giraffe ist größer als das Zebra.",
+      "tokens_l1": [
+        "La girafe",
+        "est",
+        "plus grande",
+        "que",
+        "le zèbre."
+      ],
+      "tokens_l2": [
+        "Die Giraffe",
+        "ist",
+        "größer",
+        "als",
+        "das Zebra."
+      ]
+    },
+    {
+      "id": "order-der-hund-ist-kleiner-als-das-pferd",
+      "type": "order",
+      "l1": "Le chien est plus petit que le cheval.",
+      "l2": "Der Hund ist kleiner als das Pferd.",
+      "tokens_l1": [
+        "Le chien",
+        "est",
+        "plus petit",
+        "que",
+        "le cheval."
+      ],
+      "tokens_l2": [
+        "Der Hund",
+        "ist",
+        "kleiner",
+        "als",
+        "das Pferd."
+      ]
+    },
+    {
+      "id": "order-der-l-we-ist-stark",
+      "type": "order",
+      "l1": "Le lion est fort.",
+      "l2": "Der Löwe ist stark.",
+      "tokens_l1": [
+        "Le",
+        "lion",
+        "est",
+        "fort."
+      ],
+      "tokens_l2": [
+        "Der",
+        "Löwe",
+        "ist",
+        "stark."
+      ]
+    },
+    {
+      "id": "match-zoo",
+      "type": "match",
+      "l1": [
+        "le lion",
+        "l'éléphant",
+        "le singe",
+        "la girafe"
+      ],
+      "l2": [
+        "der Löwe",
+        "der Elefant",
+        "der Affe",
+        "die Giraffe"
+      ]
+    }
+  ]
+}

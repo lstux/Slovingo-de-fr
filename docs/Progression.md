@@ -27,13 +27,16 @@ Chaque série = 1 à 2 semaines d'apprentissage décontracté (6 fiches, une par
 
 ## Stratégie de vocabulaire
 
-### Par fiche : ~7 essentiels + 2-3 complémentaires
+### Par fiche : ~6 mots, et c'est tout
 
-- **6-7 mots essentiels** (« Les nouveaux mots ») : ceux qu'on retrouve dans les phrases, le dialogue et les exercices
-- **2-3 mots complémentaires** : bonus, moins sollicités
-- **2-3 mots signalés** dans le dialogue, au maximum
+- **5 à 7 mots** (« Les nouveaux mots ») : ceux qu'on retrouve dans les phrases, le dialogue et les exercices
+- **pas de mots complémentaires** : un enfant de 8 ans doit retenir peu, mais l'avoir entendu souvent
+- **2 à 4 mots signalés** dans le dialogue, au maximum
+- **un seul point de grammaire** par fiche ; le reste est donné en formules toutes faites, sans théorie
 
-Soit **~40 mots par série** au total dans le tableau de la fiche extra, dont ~28 essentiels. C'est un plafond : au-delà, un enfant de 8 ans décroche. Les mots transparents (Musik, Puzzle, Zoo…) coûtent moins cher que les autres.
+Soit **~25 mots par série** au total dans le tableau de la fiche extra (Familie 27, Haus 27, Essen 26, Stadt 25, Tiere 26, Spiele 26). Avant l'allègement, c'était ~40 à 48 : trop pour un enfant de 8 ans. Les mots transparents (Musik, Puzzle, Zoo…) coûtent moins cher que les autres.
+
+Quand on retire un mot d'une série, on vérifie qu'aucune série suivante ne s'en sert sans le réenseigner (ou alors on le garde).
 
 ### Apprentissage cumulatif
 
@@ -53,17 +56,17 @@ Pour écrire une nouvelle série, s'appuyer sur ce qui existe déjà — et ne p
 |-------|---------------------|
 | Kit de Survie | schémas figés : wie heißt du / ich heiße, sprichst du, kein (« pas de », une seule mention : Familie et Essen le réutilisent). Le du / Sie n'est pas traité ici : il apparaît dans Stadt, quand on demande son chemin à un adulte |
 | Familie | un point par fiche : mein/meine (comme en français pour la famille) ; **sein** (ich bin, du bist, er/sie ist, sie sind) + âge, adjectif invariable après sein ; **haben** (habe, hast, hat, haben) + **ein → einen** et mein → meinen, donnés « à l'oreille », sans règle ; verbes réguliers au présent (ich, du, er/sie, wir) + **gern**. En passant, dans les cartes : und, aber, zu Hause, mit. Pas de dein/deine (aucune série suivante n'en a besoin) |
-| Haus | der/die/das (le dernier mot d'un mot composé décide), es gibt, im / in der, wo ist / wo sind, pluriels (die au pluriel), **nicht**, **verbes à ressort** (aufräumen), schlafen → schläfst |
-| Essen | essen (isst), trinken, pas d'article partitif, **möchten**, zum Frühstück (verbe en 2ᵉ position), schmecken, **mögen** + kein, nehmen (nimmst) |
-| Stadt | in der / im, fahren (fährst) vs gehen, mit dem Bus, impératif **geh!** + nach links, um die Ecke, neben, sehen/treffen, **Was kostet das?** |
-| Tiere | pluriels (Vögel, -chen invariable et neutre), **comparatif** größer als / stärker, essen vs **fressen**, laufen (läufst) |
-| Spiele | spielen mit (dem/der), jeu sans article (Fußball spielen), **können** (+ savoir faire), Wer ist dran?, **Wollen wir…?**, verbes à ressort (mitmachen, einladen, anfangen) |
+| Haus | un point par fiche : **es gibt** (+ astuce : le dernier mot d'un mot collé décide de l'article) ; **im / in der**, en formules toutes faites ; **wo ist / wo sind** + pluriel toujours en die ; **nicht**. Donnés tels quels, sans théorie : ich räume … auf (verbe à ressort), er schläft / schläfst du, auf / unter / hinter dem…, ich verstecke mich, wo seid ihr |
+| Essen | un point par fiche : **pas d'article partitif** (Ich esse Brot) ; **ich möchte / möchtest du** (+ avoir faim, soif avec haben) ; **ich mag / magst du** + kein ; **ich nehme / nimmst du** pour commander. Donnés tels quels : du isst, das schmeckt gut, oder, sehr, Probier mal. Pas de « zum Frühstück » (verbe en 2ᵉ position) : à garder pour plus tard |
+| Stadt | un point par fiche : **im / in der** pour les lieux (rappel de Haus) ; **fahren vs gehen** + mit dem Bus / Fahrrad / Auto ; **Geh…!** + nach links / rechts, geradeaus ; **Was kostet das?** (+ nombres, Euro sans s). Donnés tels quels : du fährst, du siehst, in den Park / in die Schule, um die Ecke, ich habe mich verlaufen. Retirés : le vouvoiement (Ihre Hilfe), la comptine du feu rouge |
+| Tiere | un point par fiche : les mots en **-chen** (toujours das, invariables au pluriel) ; les **bruits d'animaux** (die Kuh macht Muh) ; le **comparatif** kleiner / größer **als** ; **essen vs fressen**. Donnés tels quels : die Vögel, die Hühner, er läuft, möchtet ihr, kommt ! |
+| Spiele | un point par fiche : **spielen mit dem / der** (formules) ; jeu **sans article** (Ich spiele Fußball) ; **können** (+ savoir faire, verbe à la fin) ; **Wollen wir…?** Donnés tels quels : Wer ist dran? / Ich bin dran!, Machst du mit? / Ich mache mit! (verbe à ressort), es regnet. Retirés : einladen, anfangen, recht haben |
 
 **Prononciation : règles volontairement reportées.** La fiche de prononciation de l'intro ne garde que cinq astuces (u = « ou », ü/ö/ä, ei/ie/eu, ch/sch, w/v). Les autres règles sont à introduire dans les séries, au moment où un mot les rend utiles. Déjà fait dans Familie : j = « y » (Jahre), ß = « ss » (groß), z = « ts » (zusammen). Restent : s + voyelle = « z », sp/st en début de mot (Stadt), accent sur la première syllabe, e final prononcé.
 
 **Nombres :** l'intro s'arrête à 10. Les nombres au-delà (11 à 20, puis l'ordre « unité + und + dizaine » à partir de 21) pourront faire l'objet d'une série dédiée « nombres », à décider.
 
-**Pas encore abordés** (à introduire en douceur plus tard) : le passé (*Perfekt* : « ich habe gespielt » — c'est le passé de l'oral, bien plus utile qu'un passé « écrit »), les jours et l'heure, les couleurs (seuls rot, grün, braun, rosa sont apparus), le vouvoiement actif (*Sie* conjugué), les terminaisons d'adjectifs devant un nom.
+**Pas encore abordés** (à introduire en douceur plus tard) : le passé (*Perfekt* : « ich habe gespielt » — c'est le passé de l'oral, bien plus utile qu'un passé « écrit »), les jours et l'heure, les couleurs (rot, grün, braun et rosa ont été retirés de Stadt et Tiere : une série couleurs reste à faire), le vouvoiement actif (*Sie* conjugué), les terminaisons d'adjectifs devant un nom.
 
 ---
 
@@ -87,7 +90,17 @@ Pour écrire une nouvelle série, s'appuyer sur ce qui existe déjà — et ne p
 - Phrases jusqu'à 5-6 mots
 - sein, haben, verbes réguliers, gern, möchten, mögen
 
-**Familie (allégée sur le modèle du Kit) :** 27 mots (6 + 6 + 7 + 6, plus *toll* et *bis bald* signalés dans le dialogue), un seul point de grammaire par fiche, pas de « vocabulaire complémentaire », explications à écouter. Les mots retirés (Eltern, Sohn, Tochter, jung, Onkel, Tante, Cousin, Geburtstag, dein, müde, tanzen, malen…) ne servent à aucune série suivante. À l'inverse, les mots dont Haus, Essen, Stadt, Tiere et Spiele ont besoin sans les réenseigner sont gardés (Mutter, Bruder, Schwester, Kinder, Oma, Haus, Garten, spielen, zusammen, gern, toll, einen, aber, zu Hause). Haus, Essen, etc. seront allégées de la même façon.
+**Familie (allégée sur le modèle du Kit) :** 27 mots (6 + 6 + 7 + 6, plus *toll* et *bis bald* signalés dans le dialogue), un seul point de grammaire par fiche, pas de « vocabulaire complémentaire », explications à écouter. Les mots retirés (Eltern, Sohn, Tochter, jung, Onkel, Tante, Cousin, Geburtstag, dein, müde, tanzen, malen…) ne servent à aucune série suivante. À l'inverse, les mots dont Haus, Essen, Stadt, Tiere et Spiele ont besoin sans les réenseigner sont gardés (Mutter, Bruder, Schwester, Kinder, Oma, Haus, Garten, spielen, zusammen, gern, toll, einen, aber, zu Hause). Les séries suivantes sont allégées de la même façon.
+
+**Haus (allégée) :** 27 mots (6 + 5 + 6 + 6, plus *Verstecken, unter, hinter, lustig* signalés dans le dialogue). Retirés : Flur, Keller, Balkon, Regal, Teppich, Schlüssel, offen, geschlossen, suchen, sitzen, helfen, aufwachen, lieber (*gemütlich* reste en Coin allemand). Gardés pour la suite : es gibt, dort, auf, unter, lustig, viele, jetzt, mich, ihr, schläft, Bett.
+
+**Essen (allégée) :** 26 mots (6 + 6 + 6 + 6, plus *Guten Appetit* et *satt* signalés dans le dialogue). Retirés : Gemüse, Apfel, Abendessen, Brötchen (en Coin allemand), schmecken (gardé en formule), heiß, probieren, Schnitzel, Pommes, Apfelstrudel. Gardés pour la suite : Brezel, Brot, Eis, Hunger, lecker, mag, mal, möchte, möchtest, nehme, oder, sehr, super, süß.
+
+**Stadt (allégée) :** 25 mots (6 + 6 + 6 + 6, plus *weit* et *ich habe mich verlaufen* signalés dans le dialogue). Retirés : Straße, Supermarkt, Kino, Spielplatz, Straßenbahn, Zug, Haltestelle, Bahnhof, die Ecke, Ampel, rot, grün, kosten (gardé en formule), Taschengeld (en Coin allemand), teuer, billig, einfach. Gardés pour la suite : Eisdiele, gehen, kommt, neben, Park, sehen, was.
+
+**Tiere (allégée) :** 26 mots (6 + 6 + 6 + 6, plus *Schau mal* et *der Streichelzoo* signalés dans le dialogue). Retirés : Schildkröte, Aquarium, füttern (gardé en formule dans le dialogue), streicheln, Ziege, Hahn, Gras, rosa, Bär, Streifen (gardé dans une carte), braun, Fell, Schwanz, Flügel, Ente (gardée dans une carte), Schnabel, Gehege, Teich, Gern geschehen. Gardés pour Spiele : fliegt, schwimmen, springen.
+
+**Spiele (allégée) :** 26 mots (6 + 6 + 6 + 6, plus *es regnet* et *klar* signalés dans le dialogue). Retirés : Bauklötze, Roboter, neu, schaukeln, rutschen, Trampolin, Karte, Regel, So ein Pech, einladen, Rennen, anfangen, recht haben. Dernière série : aucune dépendance en aval.
 - Cartes décomposées morceau par morceau
 
 **Exemple :**

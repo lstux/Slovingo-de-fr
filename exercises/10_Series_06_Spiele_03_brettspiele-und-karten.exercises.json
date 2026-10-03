@@ -1,0 +1,332 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-der-w-rfel",
+      "type": "qcm",
+      "l1": "le dé",
+      "l2": "der Würfel",
+      "choices_l1": [
+        "le ballon",
+        "le puzzle",
+        "le jeu de société"
+      ],
+      "choices_l2": [
+        "der Ball",
+        "das Puzzle",
+        "das Brettspiel"
+      ]
+    },
+    {
+      "id": "qcm-w-rfeln",
+      "type": "qcm",
+      "l1": "lancer le dé",
+      "l2": "würfeln",
+      "choices_l1": [
+        "gagner",
+        "perdre",
+        "grimper"
+      ],
+      "choices_l2": [
+        "gewinnen",
+        "verlieren",
+        "klettern"
+      ]
+    },
+    {
+      "id": "qcm-gewinnen",
+      "type": "qcm",
+      "l1": "gagner",
+      "l2": "gewinnen",
+      "choices_l1": [
+        "perdre",
+        "lancer le dé",
+        "jouer"
+      ],
+      "choices_l2": [
+        "verlieren",
+        "würfeln",
+        "spielen"
+      ]
+    },
+    {
+      "id": "qcm-verlieren",
+      "type": "qcm",
+      "l1": "perdre",
+      "l2": "verlieren",
+      "choices_l1": [
+        "gagner",
+        "lancer le dé",
+        "jouer"
+      ],
+      "choices_l2": [
+        "gewinnen",
+        "würfeln",
+        "spielen"
+      ]
+    },
+    {
+      "id": "qcm-ich-kann",
+      "type": "qcm",
+      "l1": "je peux, je sais",
+      "l2": "ich kann",
+      "choices_l1": [
+        "je voudrais",
+        "j'aime bien",
+        "je prends"
+      ],
+      "choices_l2": [
+        "ich möchte",
+        "ich mag",
+        "ich nehme"
+      ]
+    },
+    {
+      "id": "qcm-wer-ist-dran",
+      "type": "qcm",
+      "l1": "C'est à qui ?",
+      "l2": "Wer ist dran?",
+      "choices_l1": [
+        "Où est l'école ?",
+        "Quel âge as-tu ?",
+        "Ça va ?"
+      ],
+      "choices_l2": [
+        "Wo ist die Schule?",
+        "Wie alt bist du?",
+        "Wie geht's?"
+      ]
+    },
+    {
+      "id": "listen-wer-ist-dran",
+      "type": "listen",
+      "l1": "C'est à qui ?",
+      "l2": "Wer ist dran?",
+      "choices_l1": [
+        "C'est à moi !",
+        "Qui gagne ?",
+        "C'est à toi !"
+      ]
+    },
+    {
+      "id": "listen-ich-bin-dran",
+      "type": "listen",
+      "l1": "C'est à moi !",
+      "l2": "Ich bin dran!",
+      "choices_l1": [
+        "C'est à toi !",
+        "C'est à qui ?",
+        "Je gagne !"
+      ]
+    },
+    {
+      "id": "listen-du-bist-dran-w-rfle",
+      "type": "listen",
+      "l1": "C'est à toi. Lance le dé !",
+      "l2": "Du bist dran. Würfle!",
+      "choices_l1": [
+        "C'est à moi. Lance le dé !",
+        "C'est à toi. Tu gagnes !",
+        "C'est à qui ? Lance le dé !"
+      ]
+    },
+    {
+      "id": "listen-kannst-du-schwimmen",
+      "type": "listen",
+      "l1": "Tu sais nager ?",
+      "l2": "Kannst du schwimmen?",
+      "choices_l1": [
+        "Tu sais grimper ?",
+        "Tu aimes nager ?",
+        "Je sais nager."
+      ]
+    },
+    {
+      "id": "listen-ich-gewinne",
+      "type": "listen",
+      "l1": "Je gagne !",
+      "l2": "Ich gewinne!",
+      "choices_l1": [
+        "Je perds !",
+        "Tu gagnes !",
+        "C'est à moi !"
+      ]
+    },
+    {
+      "id": "listen-ich-verliere-nicht-gern",
+      "type": "listen",
+      "l1": "Je n'aime pas perdre.",
+      "l2": "Ich verliere nicht gern.",
+      "choices_l1": [
+        "J'aime bien perdre.",
+        "Je n'aime pas gagner.",
+        "Je ne perds pas."
+      ]
+    },
+    {
+      "id": "listen-wer-gewinnt-lea-oder-oma",
+      "type": "listen",
+      "l1": "Qui gagne ? Lea ou mamie ?",
+      "l2": "Wer gewinnt? Lea oder Oma?",
+      "choices_l1": [
+        "Qui perd ? Lea ou mamie ?",
+        "Qui gagne ? Tom ou mamie ?",
+        "Qui joue ? Lea ou mamie ?"
+      ]
+    },
+    {
+      "id": "blank-ich-bin-dran",
+      "type": "fill-blank",
+      "l1": "C'est à moi !",
+      "l2": "Ich bin dran!",
+      "missing_l1": "moi",
+      "missing_l2": "bin",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "toi",
+        "qui",
+        "nous"
+      ],
+      "choices_l2": [
+        "bist",
+        "ist",
+        "habe"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-kannst-du-schwimmen",
+      "type": "fill-blank",
+      "l1": "Tu sais nager ?",
+      "l2": "Kannst du schwimmen?",
+      "missing_l1": "nager",
+      "missing_l2": "Kannst",
+      "blank_index_l1": 2,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "grimper",
+        "courir",
+        "voler"
+      ],
+      "choices_l2": [
+        "Kann",
+        "Hast",
+        "Bist"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-verliere-nicht-gern",
+      "type": "fill-blank",
+      "l1": "Je n'aime pas perdre.",
+      "l2": "Ich verliere nicht gern.",
+      "missing_l1": "perdre",
+      "missing_l2": "verliere",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "gagner",
+        "jouer",
+        "dormir"
+      ],
+      "choices_l2": [
+        "gewinne",
+        "spiele",
+        "schlafe"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-tom-kann-gut-w-rfeln",
+      "type": "fill-blank",
+      "l1": "Tom sait bien lancer le dé.",
+      "l2": "Tom kann gut würfeln.",
+      "missing_l1": "sait",
+      "missing_l2": "kann",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "sais",
+        "est",
+        "a"
+      ],
+      "choices_l2": [
+        "kannst",
+        "ist",
+        "hat"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-tom-kann-gut-w-rfeln",
+      "type": "order",
+      "l1": "Tom sait bien lancer le dé.",
+      "l2": "Tom kann gut würfeln.",
+      "tokens_l1": [
+        "Tom",
+        "sait",
+        "bien",
+        "lancer le dé."
+      ],
+      "tokens_l2": [
+        "Tom",
+        "kann",
+        "gut",
+        "würfeln."
+      ]
+    },
+    {
+      "id": "order-du-bist-dran-w-rfle",
+      "type": "order",
+      "l1": "C'est à toi. Lance le dé !",
+      "l2": "Du bist dran. Würfle!",
+      "tokens_l1": [
+        "C'est",
+        "à toi.",
+        "Lance",
+        "le dé !"
+      ],
+      "tokens_l2": [
+        "Du",
+        "bist",
+        "dran.",
+        "Würfle!"
+      ]
+    },
+    {
+      "id": "order-ich-verliere-nicht-gern",
+      "type": "order",
+      "l1": "Je n'aime pas perdre.",
+      "l2": "Ich verliere nicht gern.",
+      "tokens_l1": [
+        "Je",
+        "n'aime pas",
+        "perdre."
+      ],
+      "tokens_l2": [
+        "Ich",
+        "verliere",
+        "nicht",
+        "gern."
+      ]
+    },
+    {
+      "id": "match-jeux",
+      "type": "match",
+      "l1": [
+        "le dé",
+        "lancer le dé",
+        "gagner",
+        "perdre"
+      ],
+      "l2": [
+        "der Würfel",
+        "würfeln",
+        "gewinnen",
+        "verlieren"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "listen-spielen-wir-verstecken",
+      "type": "listen",
+      "l1": "On joue à cache-cache ?",
+      "l2": "Spielen wir Verstecken?",
+      "choices_l1": [
+        "On joue ensemble ?",
+        "On chante ensemble ?",
+        "Tu aimes jouer ?"
+      ]
+    },
+    {
+      "id": "listen-ich-verstecke-mich-im-schrank",
+      "type": "listen",
+      "l1": "Je me cache dans l'armoire !",
+      "l2": "Ich verstecke mich im Schrank!",
+      "choices_l1": [
+        "Je me cache sous le lit !",
+        "Je me cache derrière le canapé !",
+        "Je cherche dans l'armoire !"
+      ]
+    },
+    {
+      "id": "listen-und-ich-bin-unter-dem-bett",
+      "type": "listen",
+      "l1": "Et moi, je suis sous le lit !",
+      "l2": "Und ich bin unter dem Bett!",
+      "choices_l1": [
+        "Et moi, je suis sur le lit !",
+        "Et moi, je suis derrière le lit !",
+        "Et moi, je suis dans l'armoire !"
+      ]
+    },
+    {
+      "id": "listen-ich-bin-hinter-dem-sofa",
+      "type": "listen",
+      "l1": "Moi, je suis derrière le canapé !",
+      "l2": "Ich bin hinter dem Sofa!",
+      "choices_l1": [
+        "Moi, je suis sous le canapé !",
+        "Moi, je suis sur le canapé !",
+        "Moi, je suis derrière l'armoire !"
+      ]
+    },
+    {
+      "id": "listen-wo-seid-ihr-ich-suche-euch",
+      "type": "listen",
+      "l1": "Où êtes-vous ? Je vous cherche !",
+      "l2": "Wo seid ihr? Ich suche euch!",
+      "choices_l1": [
+        "Où es-tu ? Je te cherche !",
+        "Où est Tom ? Je le cherche !",
+        "Vous êtes là ? Je vous vois !"
+      ]
+    },
+    {
+      "id": "listen-ich-sehe-tom-er-ist-im-schrank",
+      "type": "listen",
+      "l1": "Je vois Tom ! Il est dans l'armoire !",
+      "l2": "Ich sehe Tom! Er ist im Schrank!",
+      "choices_l1": [
+        "Je vois Tom ! Il est sous le lit !",
+        "Je vois Lea ! Elle est dans l'armoire !",
+        "Je cherche Tom ! Il est dans l'armoire !"
+      ]
+    },
+    {
+      "id": "listen-hier-bin-ich-hinter-dem-sofa",
+      "type": "listen",
+      "l1": "Me voilà, derrière le canapé !",
+      "l2": "Hier bin ich, hinter dem Sofa!",
+      "choices_l1": [
+        "Me voilà, sous le canapé !",
+        "Me voilà, dans l'armoire !",
+        "Me voilà, derrière l'armoire !"
+      ]
+    },
+    {
+      "id": "listen-gefunden-das-ist-lustig",
+      "type": "listen",
+      "l1": "Trouvé ! C'est drôle !",
+      "l2": "Gefunden! Das ist lustig!",
+      "choices_l1": [
+        "Trouvé ! C'est génial !",
+        "Perdu ! C'est drôle !",
+        "Trouvé ! C'est grand !"
+      ]
+    },
+    {
+      "id": "listen-noch-einmal-jetzt-suche-ich",
+      "type": "listen",
+      "l1": "Encore une fois ? Maintenant, c'est moi qui cherche !",
+      "l2": "Noch einmal? Jetzt suche ich!",
+      "choices_l1": [
+        "Encore une fois ? Maintenant, c'est moi qui me cache !",
+        "On joue ensemble ? Maintenant, c'est moi qui cherche !",
+        "Encore une fois ? Maintenant, c'est toi qui cherches !"
+      ]
+    },
+    {
+      "id": "blank-und-ich-bin-unter-dem-bett",
+      "type": "fill-blank",
+      "l1": "Et moi, je suis sous le lit !",
+      "l2": "Und ich bin unter dem Bett!",
+      "missing_l1": "sous",
+      "missing_l2": "unter",
+      "blank_index_l1": 4,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "derrière",
+        "sur",
+        "dans"
+      ],
+      "choices_l2": [
+        "hinter",
+        "auf",
+        "und"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-bin-hinter-dem-sofa",
+      "type": "fill-blank",
+      "l1": "Moi, je suis derrière le canapé !",
+      "l2": "Ich bin hinter dem Sofa!",
+      "missing_l1": "derrière",
+      "missing_l2": "hinter",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "sous",
+        "sur",
+        "dans"
+      ],
+      "choices_l2": [
+        "unter",
+        "auf",
+        "und"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-gefunden-das-ist-lustig",
+      "type": "fill-blank",
+      "l1": "Trouvé ! C'est drôle !",
+      "l2": "Gefunden! Das ist lustig!",
+      "missing_l1": "drôle",
+      "missing_l2": "lustig",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "grand",
+        "petit",
+        "génial"
+      ],
+      "choices_l2": [
+        "groß",
+        "klein",
+        "toll"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-sehe-tom-er-ist-im-schrank",
+      "type": "fill-blank",
+      "l1": "Je vois Tom ! Il est dans l'armoire !",
+      "l2": "Ich sehe Tom! Er ist im Schrank!",
+      "missing_l1": "vois",
+      "missing_l2": "sehe",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "cherche",
+        "suis",
+        "ai"
+      ],
+      "choices_l2": [
+        "suche",
+        "bin",
+        "habe"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-spielen-wir-verstecken",
+      "type": "order",
+      "l1": "On joue à cache-cache ?",
+      "l2": "Spielen wir Verstecken?",
+      "tokens_l1": [
+        "On",
+        "joue",
+        "à cache-cache ?"
+      ],
+      "tokens_l2": [
+        "Spielen",
+        "wir",
+        "Verstecken?"
+      ]
+    },
+    {
+      "id": "order-ich-bin-hinter-dem-sofa",
+      "type": "order",
+      "l1": "Moi, je suis derrière le canapé !",
+      "l2": "Ich bin hinter dem Sofa!",
+      "tokens_l1": [
+        "Moi,",
+        "je suis",
+        "derrière",
+        "le canapé !"
+      ],
+      "tokens_l2": [
+        "Ich",
+        "bin",
+        "hinter",
+        "dem Sofa!"
+      ]
+    },
+    {
+      "id": "order-und-ich-bin-unter-dem-bett",
+      "type": "order",
+      "l1": "Et moi, je suis sous le lit !",
+      "l2": "Und ich bin unter dem Bett!",
+      "tokens_l1": [
+        "Et",
+        "moi,",
+        "je suis",
+        "sous",
+        "le lit !"
+      ],
+      "tokens_l2": [
+        "Und",
+        "ich",
+        "bin",
+        "unter",
+        "dem Bett!"
+      ]
+    },
+    {
+      "id": "match-repliques",
+      "type": "match",
+      "l1": [
+        "On joue à cache-cache ?",
+        "Je me cache dans l'armoire !",
+        "Moi, je suis derrière le canapé !",
+        "Trouvé ! C'est drôle !"
+      ],
+      "l2": [
+        "Spielen wir Verstecken?",
+        "Ich verstecke mich im Schrank!",
+        "Ich bin hinter dem Sofa!",
+        "Gefunden! Das ist lustig!"
+      ]
+    }
+  ]
+}

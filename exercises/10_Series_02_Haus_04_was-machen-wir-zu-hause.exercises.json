@@ -1,0 +1,371 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-schlafen",
+      "type": "qcm",
+      "l1": "dormir",
+      "l2": "schlafen",
+      "choices_l1": [
+        "ranger",
+        "ouvrir",
+        "fermer"
+      ],
+      "choices_l2": [
+        "aufräumen",
+        "öffnen",
+        "schließen"
+      ]
+    },
+    {
+      "id": "qcm-aufr-umen",
+      "type": "qcm",
+      "l1": "ranger",
+      "l2": "aufräumen",
+      "choices_l1": [
+        "dormir",
+        "ouvrir",
+        "jouer"
+      ],
+      "choices_l2": [
+        "schlafen",
+        "öffnen",
+        "spielen"
+      ]
+    },
+    {
+      "id": "qcm-ffnen",
+      "type": "qcm",
+      "l1": "ouvrir",
+      "l2": "öffnen",
+      "choices_l1": [
+        "fermer",
+        "ranger",
+        "dormir"
+      ],
+      "choices_l2": [
+        "schließen",
+        "aufräumen",
+        "schlafen"
+      ]
+    },
+    {
+      "id": "qcm-schlie-en",
+      "type": "qcm",
+      "l1": "fermer",
+      "l2": "schließen",
+      "choices_l1": [
+        "ouvrir",
+        "dormir",
+        "ranger"
+      ],
+      "choices_l2": [
+        "öffnen",
+        "schlafen",
+        "aufräumen"
+      ]
+    },
+    {
+      "id": "qcm-nicht",
+      "type": "qcm",
+      "l1": "ne… pas",
+      "l2": "nicht",
+      "choices_l1": [
+        "non",
+        "maintenant",
+        "aussi"
+      ],
+      "choices_l2": [
+        "nein",
+        "jetzt",
+        "auch"
+      ]
+    },
+    {
+      "id": "qcm-jetzt",
+      "type": "qcm",
+      "l1": "maintenant",
+      "l2": "jetzt",
+      "choices_l1": [
+        "ensemble",
+        "là-bas",
+        "aussi"
+      ],
+      "choices_l2": [
+        "zusammen",
+        "dort",
+        "auch"
+      ]
+    },
+    {
+      "id": "listen-ich-schlafe-im-schlafzimmer",
+      "type": "listen",
+      "l1": "Je dors dans la chambre.",
+      "l2": "Ich schlafe im Schlafzimmer.",
+      "choices_l1": [
+        "Je joue dans la chambre.",
+        "Je dors dans le salon.",
+        "Je range la chambre."
+      ]
+    },
+    {
+      "id": "listen-mein-bruder-schl-ft-jetzt",
+      "type": "listen",
+      "l1": "Mon frère dort maintenant.",
+      "l2": "Mein Bruder schläft jetzt.",
+      "choices_l1": [
+        "Mon frère joue maintenant.",
+        "Mon père dort maintenant.",
+        "Mon frère ne dort pas."
+      ]
+    },
+    {
+      "id": "listen-schl-fst-du",
+      "type": "listen",
+      "l1": "Tu dors ?",
+      "l2": "Schläfst du?",
+      "choices_l1": [
+        "Tu joues ?",
+        "Tu ranges ?",
+        "Je dors."
+      ]
+    },
+    {
+      "id": "listen-ich-schlafe-nicht",
+      "type": "listen",
+      "l1": "Je ne dors pas !",
+      "l2": "Ich schlafe nicht!",
+      "choices_l1": [
+        "Je dors !",
+        "Je ne joue pas !",
+        "Tu ne dors pas !"
+      ]
+    },
+    {
+      "id": "listen-ich-r-ume-mein-zimmer-auf",
+      "type": "listen",
+      "l1": "Je range ma chambre.",
+      "l2": "Ich räume mein Zimmer auf.",
+      "choices_l1": [
+        "Je ferme ma chambre.",
+        "Je range ma cuisine.",
+        "Je dors dans ma chambre."
+      ]
+    },
+    {
+      "id": "listen-ich-ffne-das-fenster",
+      "type": "listen",
+      "l1": "J'ouvre la fenêtre.",
+      "l2": "Ich öffne das Fenster.",
+      "choices_l1": [
+        "Je ferme la fenêtre.",
+        "J'ouvre la porte.",
+        "Je ferme la porte."
+      ]
+    },
+    {
+      "id": "listen-ich-schlie-e-die-t-r",
+      "type": "listen",
+      "l1": "Je ferme la porte.",
+      "l2": "Ich schließe die Tür.",
+      "choices_l1": [
+        "J'ouvre la porte.",
+        "Je ferme la fenêtre.",
+        "J'ouvre la fenêtre."
+      ]
+    },
+    {
+      "id": "blank-ich-schlafe-nicht",
+      "type": "fill-blank",
+      "l1": "Je ne dors pas !",
+      "l2": "Ich schlafe nicht!",
+      "missing_l1": "dors",
+      "missing_l2": "nicht",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "joue",
+        "range",
+        "ferme"
+      ],
+      "choices_l2": [
+        "nein",
+        "jetzt",
+        "auch"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-ffne-das-fenster",
+      "type": "fill-blank",
+      "l1": "J'ouvre la fenêtre.",
+      "l2": "Ich öffne das Fenster.",
+      "missing_l1": "fenêtre",
+      "missing_l2": "öffne",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "porte",
+        "lampe",
+        "chambre"
+      ],
+      "choices_l2": [
+        "schließe",
+        "schlafe",
+        "spiele"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-schlie-e-die-t-r",
+      "type": "fill-blank",
+      "l1": "Je ferme la porte.",
+      "l2": "Ich schließe die Tür.",
+      "missing_l1": "ferme",
+      "missing_l2": "schließe",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "ouvre",
+        "range",
+        "dors"
+      ],
+      "choices_l2": [
+        "öffne",
+        "schlafe",
+        "spiele"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-mein-bruder-schl-ft-jetzt",
+      "type": "fill-blank",
+      "l1": "Mon frère dort maintenant.",
+      "l2": "Mein Bruder schläft jetzt.",
+      "missing_l1": "maintenant",
+      "missing_l2": "schläft",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "ensemble",
+        "aussi",
+        "là-bas"
+      ],
+      "choices_l2": [
+        "schlafe",
+        "schlafen",
+        "spiele"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-r-ume-mein-zimmer-auf",
+      "type": "fill-blank",
+      "l1": "Je range ma chambre.",
+      "l2": "Ich räume mein Zimmer auf.",
+      "missing_l1": "range",
+      "missing_l2": "auf",
+      "blank_index_l1": 1,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "ouvre",
+        "ferme",
+        "dors"
+      ],
+      "choices_l2": [
+        "nicht",
+        "jetzt",
+        "dort"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-ich-r-ume-mein-zimmer-auf",
+      "type": "order",
+      "l1": "Je range ma chambre.",
+      "l2": "Ich räume mein Zimmer auf.",
+      "tokens_l1": [
+        "Je",
+        "range",
+        "ma",
+        "chambre."
+      ],
+      "tokens_l2": [
+        "Ich",
+        "räume",
+        "mein",
+        "Zimmer",
+        "auf."
+      ]
+    },
+    {
+      "id": "order-ich-schlafe-nicht",
+      "type": "order",
+      "l1": "Je ne dors pas !",
+      "l2": "Ich schlafe nicht!",
+      "tokens_l1": [
+        "Je",
+        "ne",
+        "dors",
+        "pas !"
+      ],
+      "tokens_l2": [
+        "Ich",
+        "schlafe",
+        "nicht!"
+      ]
+    },
+    {
+      "id": "order-mein-bruder-schl-ft-jetzt",
+      "type": "order",
+      "l1": "Mon frère dort maintenant.",
+      "l2": "Mein Bruder schläft jetzt.",
+      "tokens_l1": [
+        "Mon",
+        "frère",
+        "dort",
+        "maintenant."
+      ],
+      "tokens_l2": [
+        "Mein",
+        "Bruder",
+        "schläft",
+        "jetzt."
+      ]
+    },
+    {
+      "id": "order-ich-ffne-das-fenster",
+      "type": "order",
+      "l1": "J'ouvre la fenêtre.",
+      "l2": "Ich öffne das Fenster.",
+      "tokens_l1": [
+        "J'ouvre",
+        "la",
+        "fenêtre."
+      ],
+      "tokens_l2": [
+        "Ich",
+        "öffne",
+        "das",
+        "Fenster."
+      ]
+    },
+    {
+      "id": "match-verbes",
+      "type": "match",
+      "l1": [
+        "dormir",
+        "ranger",
+        "ouvrir",
+        "fermer"
+      ],
+      "l2": [
+        "schlafen",
+        "aufräumen",
+        "öffnen",
+        "schließen"
+      ]
+    }
+  ]
+}

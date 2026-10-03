@@ -1,0 +1,333 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-der-hamster",
+      "type": "qcm",
+      "l1": "le hamster",
+      "l2": "der Hamster",
+      "choices_l1": [
+        "l'oiseau",
+        "le lapin",
+        "le poisson"
+      ],
+      "choices_l2": [
+        "der Vogel",
+        "das Kaninchen",
+        "der Fisch"
+      ]
+    },
+    {
+      "id": "qcm-der-vogel",
+      "type": "qcm",
+      "l1": "l'oiseau",
+      "l2": "der Vogel",
+      "choices_l1": [
+        "le hamster",
+        "le poisson",
+        "le cochon d'Inde"
+      ],
+      "choices_l2": [
+        "der Hamster",
+        "der Fisch",
+        "das Meerschweinchen"
+      ]
+    },
+    {
+      "id": "qcm-das-kaninchen",
+      "type": "qcm",
+      "l1": "le lapin",
+      "l2": "das Kaninchen",
+      "choices_l1": [
+        "le cochon d'Inde",
+        "le hamster",
+        "l'oiseau"
+      ],
+      "choices_l2": [
+        "das Meerschweinchen",
+        "der Hamster",
+        "der Vogel"
+      ]
+    },
+    {
+      "id": "qcm-das-meerschweinchen",
+      "type": "qcm",
+      "l1": "le cochon d'Inde",
+      "l2": "das Meerschweinchen",
+      "choices_l1": [
+        "le lapin",
+        "le hamster",
+        "le poisson"
+      ],
+      "choices_l2": [
+        "das Kaninchen",
+        "der Hamster",
+        "der Fisch"
+      ]
+    },
+    {
+      "id": "qcm-der-fisch",
+      "type": "qcm",
+      "l1": "le poisson",
+      "l2": "der Fisch",
+      "choices_l1": [
+        "l'oiseau",
+        "le hamster",
+        "le lapin"
+      ],
+      "choices_l2": [
+        "der Vogel",
+        "der Hamster",
+        "das Kaninchen"
+      ]
+    },
+    {
+      "id": "qcm-das-haustier",
+      "type": "qcm",
+      "l1": "l'animal de compagnie",
+      "l2": "das Haustier",
+      "choices_l1": [
+        "la maison",
+        "le jardin",
+        "le jouet"
+      ],
+      "choices_l2": [
+        "das Haus",
+        "der Garten",
+        "das Spielzeug"
+      ]
+    },
+    {
+      "id": "listen-hast-du-ein-haustier",
+      "type": "listen",
+      "l1": "Tu as un animal de compagnie ?",
+      "l2": "Hast du ein Haustier?",
+      "choices_l1": [
+        "Tu as un chien ?",
+        "Tu as un hamster ?",
+        "J'ai un animal de compagnie."
+      ]
+    },
+    {
+      "id": "listen-ich-habe-einen-hamster",
+      "type": "listen",
+      "l1": "J'ai un hamster.",
+      "l2": "Ich habe einen Hamster.",
+      "choices_l1": [
+        "J'ai un lapin.",
+        "J'ai un poisson.",
+        "Tu as un hamster ?"
+      ]
+    },
+    {
+      "id": "listen-das-kaninchen-ist-s",
+      "type": "listen",
+      "l1": "Le lapin est mignon.",
+      "l2": "Das Kaninchen ist süß.",
+      "choices_l1": [
+        "Le lapin est petit.",
+        "Le hamster est mignon.",
+        "Le lapin est sucré."
+      ]
+    },
+    {
+      "id": "listen-wir-haben-zwei-meerschweinchen",
+      "type": "listen",
+      "l1": "On a deux cochons d'Inde.",
+      "l2": "Wir haben zwei Meerschweinchen.",
+      "choices_l1": [
+        "On a deux lapins.",
+        "On a trois cochons d'Inde.",
+        "On a deux hamsters."
+      ]
+    },
+    {
+      "id": "listen-der-vogel-ist-klein",
+      "type": "listen",
+      "l1": "L'oiseau est petit.",
+      "l2": "Der Vogel ist klein.",
+      "choices_l1": [
+        "L'oiseau est grand.",
+        "Le poisson est petit.",
+        "Le hamster est petit."
+      ]
+    },
+    {
+      "id": "listen-ich-habe-kein-haustier",
+      "type": "listen",
+      "l1": "Je n'ai pas d'animal de compagnie.",
+      "l2": "Ich habe kein Haustier.",
+      "choices_l1": [
+        "J'ai un animal de compagnie.",
+        "Je n'ai pas de chien.",
+        "Tu n'as pas d'animal de compagnie."
+      ]
+    },
+    {
+      "id": "listen-der-fisch-ist-im-wasser",
+      "type": "listen",
+      "l1": "Le poisson est dans l'eau.",
+      "l2": "Der Fisch ist im Wasser.",
+      "choices_l1": [
+        "Le poisson est dans le jardin.",
+        "L'oiseau est dans l'eau.",
+        "Le chat est dans l'eau."
+      ]
+    },
+    {
+      "id": "blank-ich-habe-einen-hamster",
+      "type": "fill-blank",
+      "l1": "J'ai un hamster.",
+      "l2": "Ich habe einen Hamster.",
+      "missing_l1": "hamster",
+      "missing_l2": "einen",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "lapin",
+        "poisson",
+        "chien"
+      ],
+      "choices_l2": [
+        "eine",
+        "ein",
+        "und"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-habe-kein-haustier",
+      "type": "fill-blank",
+      "l1": "Je n'ai pas d'animal de compagnie.",
+      "l2": "Ich habe kein Haustier.",
+      "missing_l1": "compagnie",
+      "missing_l2": "kein",
+      "blank_index_l1": 5,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "maison",
+        "jardin",
+        "école"
+      ],
+      "choices_l2": [
+        "nicht",
+        "nein",
+        "auch"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-das-kaninchen-ist-s",
+      "type": "fill-blank",
+      "l1": "Le lapin est mignon.",
+      "l2": "Das Kaninchen ist süß.",
+      "missing_l1": "lapin",
+      "missing_l2": "Kaninchen",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "hamster",
+        "poisson",
+        "chat"
+      ],
+      "choices_l2": [
+        "Hamster",
+        "Vogel",
+        "Fisch"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-wir-haben-zwei-meerschweinchen",
+      "type": "fill-blank",
+      "l1": "On a deux cochons d'Inde.",
+      "l2": "Wir haben zwei Meerschweinchen.",
+      "missing_l1": "deux",
+      "missing_l2": "zwei",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "trois",
+        "dix",
+        "huit"
+      ],
+      "choices_l2": [
+        "drei",
+        "zehn",
+        "acht"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-ich-habe-kein-haustier",
+      "type": "order",
+      "l1": "Je n'ai pas d'animal de compagnie.",
+      "l2": "Ich habe kein Haustier.",
+      "tokens_l1": [
+        "Je",
+        "n'ai pas",
+        "d'animal",
+        "de compagnie."
+      ],
+      "tokens_l2": [
+        "Ich",
+        "habe",
+        "kein",
+        "Haustier."
+      ]
+    },
+    {
+      "id": "order-mein-hamster-ist-klein",
+      "type": "order",
+      "l1": "Mon hamster est petit.",
+      "l2": "Mein Hamster ist klein.",
+      "tokens_l1": [
+        "Mon",
+        "hamster",
+        "est",
+        "petit."
+      ],
+      "tokens_l2": [
+        "Mein",
+        "Hamster",
+        "ist",
+        "klein."
+      ]
+    },
+    {
+      "id": "order-der-fisch-ist-im-wasser",
+      "type": "order",
+      "l1": "Le poisson est dans l'eau.",
+      "l2": "Der Fisch ist im Wasser.",
+      "tokens_l1": [
+        "Le",
+        "poisson",
+        "est",
+        "dans l'eau."
+      ],
+      "tokens_l2": [
+        "Der",
+        "Fisch",
+        "ist",
+        "im Wasser."
+      ]
+    },
+    {
+      "id": "match-animaux",
+      "type": "match",
+      "l1": [
+        "le hamster",
+        "l'oiseau",
+        "le lapin",
+        "le poisson"
+      ],
+      "l2": [
+        "der Hamster",
+        "der Vogel",
+        "das Kaninchen",
+        "der Fisch"
+      ]
+    }
+  ]
+}

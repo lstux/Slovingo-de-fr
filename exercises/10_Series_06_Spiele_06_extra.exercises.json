@@ -1,0 +1,413 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-w-rfeln",
+      "type": "qcm",
+      "l1": "lancer le dé",
+      "l2": "würfeln",
+      "choices_l1": [
+        "gagner",
+        "perdre",
+        "grimper"
+      ],
+      "choices_l2": [
+        "gewinnen",
+        "verlieren",
+        "klettern"
+      ]
+    },
+    {
+      "id": "qcm-mitmachen",
+      "type": "qcm",
+      "l1": "jouer aussi",
+      "l2": "mitmachen",
+      "choices_l1": [
+        "ranger",
+        "gagner",
+        "grimper"
+      ],
+      "choices_l2": [
+        "aufräumen",
+        "gewinnen",
+        "klettern"
+      ]
+    },
+    {
+      "id": "qcm-es-regnet",
+      "type": "qcm",
+      "l1": "il pleut",
+      "l2": "es regnet",
+      "choices_l1": [
+        "il y a",
+        "c'est",
+        "bien sûr"
+      ],
+      "choices_l2": [
+        "es gibt",
+        "das ist",
+        "klar"
+      ]
+    },
+    {
+      "id": "qcm-klar",
+      "type": "qcm",
+      "l1": "bien sûr",
+      "l2": "klar",
+      "choices_l1": [
+        "fair-play",
+        "cassé",
+        "drôle"
+      ],
+      "choices_l2": [
+        "fair",
+        "kaputt",
+        "lustig"
+      ]
+    },
+    {
+      "id": "qcm-der-spielplatz",
+      "type": "qcm",
+      "l1": "l'aire de jeux",
+      "l2": "der Spielplatz",
+      "choices_l1": [
+        "le jeu de société",
+        "le jouet",
+        "le parc"
+      ],
+      "choices_l2": [
+        "das Brettspiel",
+        "das Spielzeug",
+        "der Park"
+      ]
+    },
+    {
+      "id": "qcm-kaputt",
+      "type": "qcm",
+      "l1": "cassé",
+      "l2": "kaputt",
+      "choices_l1": [
+        "libre",
+        "génial",
+        "drôle"
+      ],
+      "choices_l2": [
+        "frei",
+        "toll",
+        "lustig"
+      ]
+    },
+    {
+      "id": "qcm-der-drachen",
+      "type": "qcm",
+      "l1": "le cerf-volant",
+      "l2": "der Drachen",
+      "choices_l1": [
+        "le ballon",
+        "l'oiseau",
+        "le dé"
+      ],
+      "choices_l2": [
+        "der Ball",
+        "der Vogel",
+        "der Würfel"
+      ]
+    },
+    {
+      "id": "qcm-verlieren",
+      "type": "qcm",
+      "l1": "perdre",
+      "l2": "verlieren",
+      "choices_l1": [
+        "gagner",
+        "lancer le dé",
+        "jouer aussi"
+      ],
+      "choices_l2": [
+        "gewinnen",
+        "würfeln",
+        "mitmachen"
+      ]
+    },
+    {
+      "id": "listen-ich-spiele-mit-dem-ball",
+      "type": "listen",
+      "l1": "Je joue avec le ballon.",
+      "l2": "Ich spiele mit dem Ball.",
+      "choices_l1": [
+        "Je joue au foot.",
+        "Je joue avec la poupée.",
+        "Tu joues avec le ballon."
+      ]
+    },
+    {
+      "id": "listen-oh-nein-die-puppe-ist-kaputt",
+      "type": "listen",
+      "l1": "Oh non, la poupée est cassée !",
+      "l2": "Oh nein, die Puppe ist kaputt!",
+      "choices_l1": [
+        "Oh non, le ballon est cassé !",
+        "Oh oui, la poupée est géniale !",
+        "Oh non, la poupée est sous le lit !"
+      ]
+    },
+    {
+      "id": "listen-wir-spielen-fangen-auf-dem-spielplatz",
+      "type": "listen",
+      "l1": "On joue au chat à l'aire de jeux.",
+      "l2": "Wir spielen Fangen auf dem Spielplatz.",
+      "choices_l1": [
+        "On joue au foot à l'aire de jeux.",
+        "On joue au chat dans le jardin.",
+        "On joue à cache-cache à l'aire de jeux."
+      ]
+    },
+    {
+      "id": "listen-kannst-du-klettern",
+      "type": "listen",
+      "l1": "Tu sais grimper ?",
+      "l2": "Kannst du klettern?",
+      "choices_l1": [
+        "Tu sais nager ?",
+        "Tu aimes grimper ?",
+        "Je sais grimper."
+      ]
+    },
+    {
+      "id": "listen-w-rfle-f-nf",
+      "type": "listen",
+      "l1": "Lance le dé ! Cinq !",
+      "l2": "Würfle! Fünf!",
+      "choices_l1": [
+        "Lance le dé ! Six !",
+        "Lance le dé ! Deux !",
+        "Je lance le dé ! Cinq !"
+      ]
+    },
+    {
+      "id": "listen-ich-gewinne-nicht-ich-verliere",
+      "type": "listen",
+      "l1": "Je ne gagne pas, je perds.",
+      "l2": "Ich gewinne nicht, ich verliere.",
+      "choices_l1": [
+        "Je ne perds pas, je gagne.",
+        "Tu ne gagnes pas, tu perds.",
+        "Je gagne, je ne perds pas."
+      ]
+    },
+    {
+      "id": "listen-es-regnet-wollen-wir-ein-puzzle-machen",
+      "type": "listen",
+      "l1": "Il pleut. On fait un puzzle ?",
+      "l2": "Es regnet. Wollen wir ein Puzzle machen?",
+      "choices_l1": [
+        "Il pleut. On joue au foot ?",
+        "Il fait beau. On fait un puzzle ?",
+        "Il pleut. On fait un gâteau ?"
+      ]
+    },
+    {
+      "id": "listen-klar-spielen-wir-noch-einmal",
+      "type": "listen",
+      "l1": "Bien sûr ! On en refait une ?",
+      "l2": "Klar! Spielen wir noch einmal?",
+      "choices_l1": [
+        "Non ! On arrête ?",
+        "Bien sûr ! C'est à moi ?",
+        "Bravo ! On en refait une ?"
+      ]
+    },
+    {
+      "id": "blank-ich-spiele-mit-dem-ball",
+      "type": "fill-blank",
+      "l1": "Je joue avec le ballon.",
+      "l2": "Ich spiele mit dem Ball.",
+      "missing_l1": "ballon",
+      "missing_l2": "Ball",
+      "blank_index_l1": 4,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "dé",
+        "but",
+        "puzzle"
+      ],
+      "choices_l2": [
+        "Puppe",
+        "Würfel",
+        "Tor"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-wir-spielen-fangen-auf-dem-spielplatz",
+      "type": "fill-blank",
+      "l1": "On joue au chat à l'aire de jeux.",
+      "l2": "Wir spielen Fangen auf dem Spielplatz.",
+      "missing_l1": "chat",
+      "missing_l2": "Fangen",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "foot",
+        "ballon",
+        "puzzle"
+      ],
+      "choices_l2": [
+        "Fußball",
+        "Puzzle",
+        "Ball"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-gewinne-nicht-ich-verliere",
+      "type": "fill-blank",
+      "l1": "Je ne gagne pas, je perds.",
+      "l2": "Ich gewinne nicht, ich verliere.",
+      "missing_l1": "perds",
+      "missing_l2": "verliere",
+      "blank_index_l1": 5,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "gagne",
+        "joue",
+        "dors"
+      ],
+      "choices_l2": [
+        "gewinne",
+        "spiele",
+        "würfle"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-machst-du-mit-wir-sind-eine-mannschaft",
+      "type": "fill-blank",
+      "l1": "Tu joues avec nous ? On est une équipe.",
+      "l2": "Machst du mit? Wir sind eine Mannschaft.",
+      "missing_l1": "équipe",
+      "missing_l2": "Mannschaft",
+      "blank_index_l1": 8,
+      "blank_index_l2": 6,
+      "choices_l1": [
+        "famille",
+        "école",
+        "ville"
+      ],
+      "choices_l2": [
+        "Familie",
+        "Schule",
+        "Stadt"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-wir-spielen-fangen-auf-dem-spielplatz",
+      "type": "order",
+      "l1": "On joue au chat à l'aire de jeux.",
+      "l2": "Wir spielen Fangen auf dem Spielplatz.",
+      "tokens_l1": [
+        "On",
+        "joue",
+        "au chat",
+        "à l'aire de jeux.",
+        "au foot"
+      ],
+      "tokens_l2": [
+        "Wir",
+        "spielen",
+        "Fangen",
+        "auf dem Spielplatz.",
+        "Fußball"
+      ]
+    },
+    {
+      "id": "order-kannst-du-klettern",
+      "type": "order",
+      "l1": "Tu sais grimper ?",
+      "l2": "Kannst du klettern?",
+      "tokens_l1": [
+        "Tu",
+        "sais",
+        "grimper ?",
+        "nager ?"
+      ],
+      "tokens_l2": [
+        "Kannst",
+        "du",
+        "klettern?",
+        "schwimmen?"
+      ]
+    },
+    {
+      "id": "order-es-regnet-wollen-wir-ein-puzzle-machen",
+      "type": "order",
+      "l1": "Il pleut. On fait un puzzle ?",
+      "l2": "Es regnet. Wollen wir ein Puzzle machen?",
+      "tokens_l1": [
+        "Il pleut.",
+        "On",
+        "fait",
+        "un puzzle ?",
+        "joue"
+      ],
+      "tokens_l2": [
+        "Es regnet.",
+        "Wollen",
+        "wir",
+        "ein Puzzle",
+        "machen?",
+        "spielen?"
+      ]
+    },
+    {
+      "id": "match-jouets",
+      "type": "match",
+      "l1": [
+        "le ballon",
+        "la poupée",
+        "la balançoire",
+        "le toboggan"
+      ],
+      "l2": [
+        "der Ball",
+        "die Puppe",
+        "die Schaukel",
+        "die Rutsche"
+      ]
+    },
+    {
+      "id": "match-verbes",
+      "type": "match",
+      "l1": [
+        "gagner",
+        "perdre",
+        "grimper",
+        "lancer le dé"
+      ],
+      "l2": [
+        "gewinnen",
+        "verlieren",
+        "klettern",
+        "würfeln"
+      ]
+    },
+    {
+      "id": "match-mots",
+      "type": "match",
+      "l1": [
+        "l'équipe",
+        "le but",
+        "il pleut",
+        "bien sûr"
+      ],
+      "l2": [
+        "die Mannschaft",
+        "das Tor",
+        "es regnet",
+        "klar"
+      ]
+    }
+  ]
+}

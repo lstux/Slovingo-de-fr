@@ -1,0 +1,320 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-links",
+      "type": "qcm",
+      "l1": "à gauche",
+      "l2": "links",
+      "choices_l1": [
+        "à droite",
+        "tout droit",
+        "ensuite"
+      ],
+      "choices_l2": [
+        "rechts",
+        "geradeaus",
+        "dann"
+      ]
+    },
+    {
+      "id": "qcm-rechts",
+      "type": "qcm",
+      "l1": "à droite",
+      "l2": "rechts",
+      "choices_l1": [
+        "à gauche",
+        "tout droit",
+        "à côté de"
+      ],
+      "choices_l2": [
+        "links",
+        "geradeaus",
+        "neben"
+      ]
+    },
+    {
+      "id": "qcm-geradeaus",
+      "type": "qcm",
+      "l1": "tout droit",
+      "l2": "geradeaus",
+      "choices_l1": [
+        "à gauche",
+        "à droite",
+        "ensuite"
+      ],
+      "choices_l2": [
+        "links",
+        "rechts",
+        "dann"
+      ]
+    },
+    {
+      "id": "qcm-neben",
+      "type": "qcm",
+      "l1": "à côté de",
+      "l2": "neben",
+      "choices_l1": [
+        "sur",
+        "sous",
+        "derrière"
+      ],
+      "choices_l2": [
+        "auf",
+        "unter",
+        "hinter"
+      ]
+    },
+    {
+      "id": "qcm-dann",
+      "type": "qcm",
+      "l1": "ensuite",
+      "l2": "dann",
+      "choices_l1": [
+        "maintenant",
+        "là-bas",
+        "aussi"
+      ],
+      "choices_l2": [
+        "jetzt",
+        "dort",
+        "auch"
+      ]
+    },
+    {
+      "id": "qcm-geh-nach-links",
+      "type": "qcm",
+      "l1": "Va à gauche !",
+      "l2": "Geh nach links!",
+      "choices_l1": [
+        "Va à droite !",
+        "Va tout droit !"
+      ],
+      "choices_l2": [
+        "Geh nach rechts!",
+        "Geh geradeaus!"
+      ]
+    },
+    {
+      "id": "listen-entschuldigung-wo-ist-die-eisdiele",
+      "type": "listen",
+      "l1": "Pardon, où est le glacier ?",
+      "l2": "Entschuldigung, wo ist die Eisdiele?",
+      "choices_l1": [
+        "Pardon, où est l'école ?",
+        "Merci, où est le glacier ?",
+        "Pardon, où est la boulangerie ?"
+      ]
+    },
+    {
+      "id": "listen-geh-geradeaus",
+      "type": "listen",
+      "l1": "Va tout droit.",
+      "l2": "Geh geradeaus.",
+      "choices_l1": [
+        "Va à gauche.",
+        "Va à droite.",
+        "Viens ici."
+      ]
+    },
+    {
+      "id": "listen-dann-nach-links",
+      "type": "listen",
+      "l1": "Ensuite, à gauche.",
+      "l2": "Dann nach links.",
+      "choices_l1": [
+        "Ensuite, à droite.",
+        "Ensuite, tout droit.",
+        "Maintenant, à gauche."
+      ]
+    },
+    {
+      "id": "listen-nein-nicht-links-rechts",
+      "type": "listen",
+      "l1": "Non, pas à gauche, à droite !",
+      "l2": "Nein, nicht links, rechts!",
+      "choices_l1": [
+        "Non, pas à droite, à gauche !",
+        "Oui, à gauche, puis à droite !",
+        "Non, pas tout droit, à droite !"
+      ]
+    },
+    {
+      "id": "listen-die-eisdiele-ist-neben-der-schule",
+      "type": "listen",
+      "l1": "Le glacier est à côté de l'école.",
+      "l2": "Die Eisdiele ist neben der Schule.",
+      "choices_l1": [
+        "Le glacier est derrière l'école.",
+        "Le glacier est à côté du parc.",
+        "L'école est à côté du glacier."
+      ]
+    },
+    {
+      "id": "listen-der-park-ist-neben-der-b-ckerei",
+      "type": "listen",
+      "l1": "Le parc est à côté de la boulangerie.",
+      "l2": "Der Park ist neben der Bäckerei.",
+      "choices_l1": [
+        "Le parc est derrière la boulangerie.",
+        "Le parc est à côté de l'école.",
+        "La boulangerie est dans le parc."
+      ]
+    },
+    {
+      "id": "blank-geh-geradeaus",
+      "type": "fill-blank",
+      "l1": "Va tout droit.",
+      "l2": "Geh geradeaus.",
+      "missing_l1": "droit",
+      "missing_l2": "geradeaus",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "gauche",
+        "loin",
+        "vite"
+      ],
+      "choices_l2": [
+        "links",
+        "rechts",
+        "dann"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-dann-nach-links",
+      "type": "fill-blank",
+      "l1": "Ensuite, à gauche.",
+      "l2": "Dann nach links.",
+      "missing_l1": "gauche",
+      "missing_l2": "links",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "droite",
+        "côté",
+        "pied"
+      ],
+      "choices_l2": [
+        "rechts",
+        "geradeaus",
+        "dort"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-die-eisdiele-ist-neben-der-schule",
+      "type": "fill-blank",
+      "l1": "Le glacier est à côté de l'école.",
+      "l2": "Die Eisdiele ist neben der Schule.",
+      "missing_l1": "côté",
+      "missing_l2": "neben",
+      "blank_index_l1": 4,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "droite",
+        "gauche",
+        "pied"
+      ],
+      "choices_l2": [
+        "unter",
+        "hinter",
+        "auf"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-nein-nicht-links-rechts",
+      "type": "fill-blank",
+      "l1": "Non, pas à gauche, à droite !",
+      "l2": "Nein, nicht links, rechts!",
+      "missing_l1": "droite",
+      "missing_l2": "rechts",
+      "blank_index_l1": 5,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "gauche",
+        "côté",
+        "pied"
+      ],
+      "choices_l2": [
+        "links",
+        "geradeaus",
+        "dann"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-die-eisdiele-ist-neben-der-schule",
+      "type": "order",
+      "l1": "Le glacier est à côté de l'école.",
+      "l2": "Die Eisdiele ist neben der Schule.",
+      "tokens_l1": [
+        "Le glacier",
+        "est",
+        "à côté de",
+        "l'école."
+      ],
+      "tokens_l2": [
+        "Die Eisdiele",
+        "ist",
+        "neben",
+        "der Schule."
+      ]
+    },
+    {
+      "id": "order-entschuldigung-wo-ist-die-eisdiele",
+      "type": "order",
+      "l1": "Pardon, où est le glacier ?",
+      "l2": "Entschuldigung, wo ist die Eisdiele?",
+      "tokens_l1": [
+        "Pardon,",
+        "où",
+        "est",
+        "le glacier ?"
+      ],
+      "tokens_l2": [
+        "Entschuldigung,",
+        "wo",
+        "ist",
+        "die Eisdiele?"
+      ]
+    },
+    {
+      "id": "order-nein-nicht-links-rechts",
+      "type": "order",
+      "l1": "Non, pas à gauche, à droite !",
+      "l2": "Nein, nicht links, rechts!",
+      "tokens_l1": [
+        "Non,",
+        "pas",
+        "à gauche,",
+        "à droite !"
+      ],
+      "tokens_l2": [
+        "Nein,",
+        "nicht",
+        "links,",
+        "rechts!"
+      ]
+    },
+    {
+      "id": "match-directions",
+      "type": "match",
+      "l1": [
+        "à gauche",
+        "à droite",
+        "tout droit",
+        "à côté de"
+      ],
+      "l2": [
+        "links",
+        "rechts",
+        "geradeaus",
+        "neben"
+      ]
+    }
+  ]
+}

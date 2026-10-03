@@ -1,0 +1,336 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-der-hunger",
+      "type": "qcm",
+      "l1": "la faim",
+      "l2": "der Hunger",
+      "choices_l1": [
+        "la soif",
+        "le déjeuner",
+        "le petit-déjeuner"
+      ],
+      "choices_l2": [
+        "der Durst",
+        "das Mittagessen",
+        "das Frühstück"
+      ]
+    },
+    {
+      "id": "qcm-der-durst",
+      "type": "qcm",
+      "l1": "la soif",
+      "l2": "der Durst",
+      "choices_l1": [
+        "la faim",
+        "le déjeuner",
+        "le lait"
+      ],
+      "choices_l2": [
+        "der Hunger",
+        "das Mittagessen",
+        "die Milch"
+      ]
+    },
+    {
+      "id": "qcm-das-fr-hst-ck",
+      "type": "qcm",
+      "l1": "le petit-déjeuner",
+      "l2": "das Frühstück",
+      "choices_l1": [
+        "le déjeuner",
+        "la faim",
+        "le pain"
+      ],
+      "choices_l2": [
+        "das Mittagessen",
+        "der Hunger",
+        "das Brot"
+      ]
+    },
+    {
+      "id": "qcm-das-mittagessen",
+      "type": "qcm",
+      "l1": "le déjeuner",
+      "l2": "das Mittagessen",
+      "choices_l1": [
+        "le petit-déjeuner",
+        "la soif",
+        "la viande"
+      ],
+      "choices_l2": [
+        "das Frühstück",
+        "der Durst",
+        "das Fleisch"
+      ]
+    },
+    {
+      "id": "qcm-ich-m-chte",
+      "type": "qcm",
+      "l1": "je voudrais",
+      "l2": "ich möchte",
+      "choices_l1": [
+        "j'ai",
+        "je mange",
+        "je bois"
+      ],
+      "choices_l2": [
+        "ich habe",
+        "ich esse",
+        "ich trinke"
+      ]
+    },
+    {
+      "id": "qcm-fertig",
+      "type": "qcm",
+      "l1": "prêt",
+      "l2": "fertig",
+      "choices_l1": [
+        "grand",
+        "petit",
+        "génial"
+      ],
+      "choices_l2": [
+        "groß",
+        "klein",
+        "toll"
+      ]
+    },
+    {
+      "id": "listen-ich-habe-hunger",
+      "type": "listen",
+      "l1": "J'ai faim !",
+      "l2": "Ich habe Hunger!",
+      "choices_l1": [
+        "J'ai soif !",
+        "Je mange !",
+        "Tu as faim ?"
+      ]
+    },
+    {
+      "id": "listen-hast-du-durst",
+      "type": "listen",
+      "l1": "Tu as soif ?",
+      "l2": "Hast du Durst?",
+      "choices_l1": [
+        "Tu as faim ?",
+        "J'ai soif.",
+        "Tu bois de l'eau ?"
+      ]
+    },
+    {
+      "id": "listen-ich-m-chte-wasser-bitte",
+      "type": "listen",
+      "l1": "Je voudrais de l'eau, s'il te plaît.",
+      "l2": "Ich möchte Wasser, bitte.",
+      "choices_l1": [
+        "Je voudrais du lait, s'il te plaît.",
+        "Je bois de l'eau, merci.",
+        "Je voudrais du pain, s'il te plaît."
+      ]
+    },
+    {
+      "id": "listen-m-chtest-du-brot",
+      "type": "listen",
+      "l1": "Tu voudrais du pain ?",
+      "l2": "Möchtest du Brot?",
+      "choices_l1": [
+        "Tu voudrais du lait ?",
+        "Tu manges du pain ?",
+        "Je voudrais du pain."
+      ]
+    },
+    {
+      "id": "listen-das-fr-hst-ck-ist-fertig",
+      "type": "listen",
+      "l1": "Le petit-déjeuner est prêt !",
+      "l2": "Das Frühstück ist fertig!",
+      "choices_l1": [
+        "Le déjeuner est prêt !",
+        "Le petit-déjeuner est bon !",
+        "Le pain est prêt !"
+      ]
+    },
+    {
+      "id": "listen-das-mittagessen-ist-fertig",
+      "type": "listen",
+      "l1": "Le déjeuner est prêt !",
+      "l2": "Das Mittagessen ist fertig!",
+      "choices_l1": [
+        "Le petit-déjeuner est prêt !",
+        "Le déjeuner est bon !",
+        "La maison est prête !"
+      ]
+    },
+    {
+      "id": "listen-ich-habe-durst-ich-m-chte-milch",
+      "type": "listen",
+      "l1": "J'ai soif. Je voudrais du lait.",
+      "l2": "Ich habe Durst. Ich möchte Milch.",
+      "choices_l1": [
+        "J'ai faim. Je voudrais du lait.",
+        "J'ai soif. Je voudrais de l'eau.",
+        "J'ai soif. Je bois du lait."
+      ]
+    },
+    {
+      "id": "blank-ich-habe-hunger",
+      "type": "fill-blank",
+      "l1": "J'ai faim !",
+      "l2": "Ich habe Hunger!",
+      "missing_l1": "faim",
+      "missing_l2": "Hunger",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "soif",
+        "pain",
+        "chaud"
+      ],
+      "choices_l2": [
+        "Durst",
+        "Brot",
+        "Milch"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-m-chte-wasser-bitte",
+      "type": "fill-blank",
+      "l1": "Je voudrais de l'eau, s'il te plaît.",
+      "l2": "Ich möchte Wasser, bitte.",
+      "missing_l1": "voudrais",
+      "missing_l2": "möchte",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "mange",
+        "bois",
+        "suis"
+      ],
+      "choices_l2": [
+        "habe",
+        "esse",
+        "bin"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-das-mittagessen-ist-fertig",
+      "type": "fill-blank",
+      "l1": "Le déjeuner est prêt !",
+      "l2": "Das Mittagessen ist fertig!",
+      "missing_l1": "prêt",
+      "missing_l2": "fertig",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "grand",
+        "petit",
+        "génial"
+      ],
+      "choices_l2": [
+        "klein",
+        "groß",
+        "toll"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-hast-du-durst",
+      "type": "fill-blank",
+      "l1": "Tu as soif ?",
+      "l2": "Hast du Durst?",
+      "missing_l1": "soif",
+      "missing_l2": "Durst",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "faim",
+        "lait",
+        "pain"
+      ],
+      "choices_l2": [
+        "Hunger",
+        "Wasser",
+        "Milch"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-ich-m-chte-wasser-bitte",
+      "type": "order",
+      "l1": "Je voudrais de l'eau, s'il te plaît.",
+      "l2": "Ich möchte Wasser, bitte.",
+      "tokens_l1": [
+        "Je",
+        "voudrais",
+        "de l'eau,",
+        "s'il te plaît."
+      ],
+      "tokens_l2": [
+        "Ich",
+        "möchte",
+        "Wasser,",
+        "bitte."
+      ]
+    },
+    {
+      "id": "order-das-fr-hst-ck-ist-fertig",
+      "type": "order",
+      "l1": "Le petit-déjeuner est prêt !",
+      "l2": "Das Frühstück ist fertig!",
+      "tokens_l1": [
+        "Le",
+        "petit-déjeuner",
+        "est",
+        "prêt !"
+      ],
+      "tokens_l2": [
+        "Das",
+        "Frühstück",
+        "ist",
+        "fertig!"
+      ]
+    },
+    {
+      "id": "order-ich-habe-durst-ich-m-chte-milch",
+      "type": "order",
+      "l1": "J'ai soif. Je voudrais du lait.",
+      "l2": "Ich habe Durst. Ich möchte Milch.",
+      "tokens_l1": [
+        "J'ai",
+        "soif.",
+        "Je",
+        "voudrais",
+        "du lait."
+      ],
+      "tokens_l2": [
+        "Ich",
+        "habe",
+        "Durst.",
+        "Ich",
+        "möchte",
+        "Milch."
+      ]
+    },
+    {
+      "id": "match-repas",
+      "type": "match",
+      "l1": [
+        "la faim",
+        "la soif",
+        "le petit-déjeuner",
+        "le déjeuner"
+      ],
+      "l2": [
+        "der Hunger",
+        "der Durst",
+        "das Frühstück",
+        "das Mittagessen"
+      ]
+    }
+  ]
+}

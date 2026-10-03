@@ -1,0 +1,314 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-sehen",
+      "type": "qcm",
+      "l1": "voir",
+      "l2": "sehen",
+      "choices_l1": [
+        "acheter",
+        "retrouver (quelqu'un)",
+        "aller (à pied)"
+      ],
+      "choices_l2": [
+        "kaufen",
+        "treffen",
+        "gehen"
+      ]
+    },
+    {
+      "id": "qcm-kaufen",
+      "type": "qcm",
+      "l1": "acheter",
+      "l2": "kaufen",
+      "choices_l1": [
+        "voir",
+        "retrouver (quelqu'un)",
+        "manger"
+      ],
+      "choices_l2": [
+        "sehen",
+        "treffen",
+        "essen"
+      ]
+    },
+    {
+      "id": "qcm-treffen",
+      "type": "qcm",
+      "l1": "retrouver (quelqu'un)",
+      "l2": "treffen",
+      "choices_l1": [
+        "voir",
+        "acheter",
+        "jouer"
+      ],
+      "choices_l2": [
+        "sehen",
+        "kaufen",
+        "spielen"
+      ]
+    },
+    {
+      "id": "qcm-das-geld",
+      "type": "qcm",
+      "l1": "l'argent",
+      "l2": "das Geld",
+      "choices_l1": [
+        "l'euro",
+        "le pain",
+        "la glace"
+      ],
+      "choices_l2": [
+        "der Euro",
+        "das Brot",
+        "das Eis"
+      ]
+    },
+    {
+      "id": "qcm-was-kostet-das",
+      "type": "qcm",
+      "l1": "combien ça coûte ?",
+      "l2": "was kostet das?",
+      "choices_l1": [
+        "où est l'école ?",
+        "ça va ?"
+      ],
+      "choices_l2": [
+        "wo ist die Schule?",
+        "wie geht's"
+      ]
+    },
+    {
+      "id": "listen-was-kostet-das",
+      "type": "listen",
+      "l1": "Combien ça coûte ?",
+      "l2": "Was kostet das?",
+      "choices_l1": [
+        "C'est loin ?",
+        "Où est le glacier ?",
+        "Tu as de l'argent ?"
+      ]
+    },
+    {
+      "id": "listen-das-kostet-drei-euro",
+      "type": "listen",
+      "l1": "Ça coûte trois euros.",
+      "l2": "Das kostet drei Euro.",
+      "choices_l1": [
+        "Ça coûte deux euros.",
+        "Ça coûte dix euros.",
+        "Ça coûte huit euros."
+      ]
+    },
+    {
+      "id": "listen-ich-kaufe-ein-eis",
+      "type": "listen",
+      "l1": "J'achète une glace.",
+      "l2": "Ich kaufe ein Eis.",
+      "choices_l1": [
+        "Je mange une glace.",
+        "J'achète un bretzel.",
+        "Je voudrais une glace."
+      ]
+    },
+    {
+      "id": "listen-hast-du-geld",
+      "type": "listen",
+      "l1": "Tu as de l'argent ?",
+      "l2": "Hast du Geld?",
+      "choices_l1": [
+        "Tu as faim ?",
+        "Tu as un chien ?",
+        "J'ai de l'argent."
+      ]
+    },
+    {
+      "id": "listen-siehst-du-den-park",
+      "type": "listen",
+      "l1": "Tu vois le parc ?",
+      "l2": "Siehst du den Park?",
+      "choices_l1": [
+        "Tu vas au parc ?",
+        "Tu vois l'école ?",
+        "Je vois le parc."
+      ]
+    },
+    {
+      "id": "listen-ich-treffe-lea-im-park",
+      "type": "listen",
+      "l1": "Je retrouve Lea au parc.",
+      "l2": "Ich treffe Lea im Park.",
+      "choices_l1": [
+        "Je retrouve Tom au parc.",
+        "Je vois Lea au parc.",
+        "Je retrouve Lea à l'école."
+      ]
+    },
+    {
+      "id": "listen-ich-sehe-die-eisdiele",
+      "type": "listen",
+      "l1": "Je vois le glacier !",
+      "l2": "Ich sehe die Eisdiele!",
+      "choices_l1": [
+        "Je vois l'école !",
+        "J'achète une glace !",
+        "Je vois le parc !"
+      ]
+    },
+    {
+      "id": "blank-das-kostet-drei-euro",
+      "type": "fill-blank",
+      "l1": "Ça coûte trois euros.",
+      "l2": "Das kostet drei Euro.",
+      "missing_l1": "trois",
+      "missing_l2": "drei",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "deux",
+        "dix",
+        "huit"
+      ],
+      "choices_l2": [
+        "zwei",
+        "zehn",
+        "acht"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-kaufe-ein-eis",
+      "type": "fill-blank",
+      "l1": "J'achète une glace.",
+      "l2": "Ich kaufe ein Eis.",
+      "missing_l1": "glace",
+      "missing_l2": "kaufe",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "pomme",
+        "saucisse",
+        "brioche"
+      ],
+      "choices_l2": [
+        "sehe",
+        "treffe",
+        "esse"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-siehst-du-den-park",
+      "type": "fill-blank",
+      "l1": "Tu vois le parc ?",
+      "l2": "Siehst du den Park?",
+      "missing_l1": "vois",
+      "missing_l2": "Siehst",
+      "blank_index_l1": 1,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "vas",
+        "manges",
+        "joues"
+      ],
+      "choices_l2": [
+        "Sehe",
+        "Isst",
+        "Spielst"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-treffe-lea-im-park",
+      "type": "fill-blank",
+      "l1": "Je retrouve Lea au parc.",
+      "l2": "Ich treffe Lea im Park.",
+      "missing_l1": "retrouve",
+      "missing_l2": "treffe",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "achète",
+        "mange",
+        "bois"
+      ],
+      "choices_l2": [
+        "kaufe",
+        "esse",
+        "trinke"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-das-kostet-drei-euro",
+      "type": "order",
+      "l1": "Ça coûte trois euros.",
+      "l2": "Das kostet drei Euro.",
+      "tokens_l1": [
+        "Ça",
+        "coûte",
+        "trois euros."
+      ],
+      "tokens_l2": [
+        "Das",
+        "kostet",
+        "drei",
+        "Euro."
+      ]
+    },
+    {
+      "id": "order-ich-treffe-lea-im-park",
+      "type": "order",
+      "l1": "Je retrouve Lea au parc.",
+      "l2": "Ich treffe Lea im Park.",
+      "tokens_l1": [
+        "Je",
+        "retrouve",
+        "Lea",
+        "au parc."
+      ],
+      "tokens_l2": [
+        "Ich",
+        "treffe",
+        "Lea",
+        "im Park."
+      ]
+    },
+    {
+      "id": "order-mama-kauft-brot-in-der-b-ckerei",
+      "type": "order",
+      "l1": "Maman achète du pain à la boulangerie.",
+      "l2": "Mama kauft Brot in der Bäckerei.",
+      "tokens_l1": [
+        "Maman",
+        "achète",
+        "du pain",
+        "à la boulangerie."
+      ],
+      "tokens_l2": [
+        "Mama",
+        "kauft",
+        "Brot",
+        "in der Bäckerei."
+      ]
+    },
+    {
+      "id": "match-mots",
+      "type": "match",
+      "l1": [
+        "voir",
+        "retrouver (quelqu'un)",
+        "acheter",
+        "l'argent"
+      ],
+      "l2": [
+        "sehen",
+        "treffen",
+        "kaufen",
+        "das Geld"
+      ]
+    }
+  ]
+}

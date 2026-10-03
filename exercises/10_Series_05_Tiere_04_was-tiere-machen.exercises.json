@@ -1,0 +1,322 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-fressen",
+      "type": "qcm",
+      "l1": "manger (pour un animal)",
+      "l2": "fressen",
+      "choices_l1": [
+        "courir",
+        "nager",
+        "voler"
+      ],
+      "choices_l2": [
+        "laufen",
+        "schwimmen",
+        "fliegen"
+      ]
+    },
+    {
+      "id": "qcm-laufen",
+      "type": "qcm",
+      "l1": "courir",
+      "l2": "laufen",
+      "choices_l1": [
+        "sauter",
+        "voler",
+        "nager"
+      ],
+      "choices_l2": [
+        "springen",
+        "fliegen",
+        "schwimmen"
+      ]
+    },
+    {
+      "id": "qcm-fliegen",
+      "type": "qcm",
+      "l1": "voler",
+      "l2": "fliegen",
+      "choices_l1": [
+        "nager",
+        "courir",
+        "sauter"
+      ],
+      "choices_l2": [
+        "schwimmen",
+        "laufen",
+        "springen"
+      ]
+    },
+    {
+      "id": "qcm-schwimmen",
+      "type": "qcm",
+      "l1": "nager",
+      "l2": "schwimmen",
+      "choices_l1": [
+        "voler",
+        "sauter",
+        "courir"
+      ],
+      "choices_l2": [
+        "fliegen",
+        "springen",
+        "laufen"
+      ]
+    },
+    {
+      "id": "qcm-springen",
+      "type": "qcm",
+      "l1": "sauter",
+      "l2": "springen",
+      "choices_l1": [
+        "courir",
+        "nager",
+        "voler"
+      ],
+      "choices_l2": [
+        "laufen",
+        "schwimmen",
+        "fliegen"
+      ]
+    },
+    {
+      "id": "qcm-schnell",
+      "type": "qcm",
+      "l1": "vite",
+      "l2": "schnell",
+      "choices_l1": [
+        "fort",
+        "grand",
+        "drôle"
+      ],
+      "choices_l2": [
+        "stark",
+        "groß",
+        "lustig"
+      ]
+    },
+    {
+      "id": "listen-der-hund-frisst",
+      "type": "listen",
+      "l1": "Le chien mange.",
+      "l2": "Der Hund frisst.",
+      "choices_l1": [
+        "Le chien court.",
+        "Le chien saute.",
+        "Le chat mange."
+      ]
+    },
+    {
+      "id": "listen-die-katze-l-uft-schnell",
+      "type": "listen",
+      "l1": "Le chat court vite.",
+      "l2": "Die Katze läuft schnell.",
+      "choices_l1": [
+        "Le chat mange vite.",
+        "Le chien court vite.",
+        "Le chat saute vite."
+      ]
+    },
+    {
+      "id": "listen-der-vogel-fliegt",
+      "type": "listen",
+      "l1": "L'oiseau vole.",
+      "l2": "Der Vogel fliegt.",
+      "choices_l1": [
+        "L'oiseau nage.",
+        "Le poisson vole.",
+        "L'oiseau saute."
+      ]
+    },
+    {
+      "id": "listen-der-fisch-schwimmt",
+      "type": "listen",
+      "l1": "Le poisson nage.",
+      "l2": "Der Fisch schwimmt.",
+      "choices_l1": [
+        "Le poisson vole.",
+        "L'oiseau nage.",
+        "Le poisson mange."
+      ]
+    },
+    {
+      "id": "listen-das-kaninchen-springt",
+      "type": "listen",
+      "l1": "Le lapin saute.",
+      "l2": "Das Kaninchen springt.",
+      "choices_l1": [
+        "Le lapin court.",
+        "Le lapin mange.",
+        "Le chat saute."
+      ]
+    },
+    {
+      "id": "listen-ich-schwimme-gern",
+      "type": "listen",
+      "l1": "J'aime nager.",
+      "l2": "Ich schwimme gern.",
+      "choices_l1": [
+        "J'aime courir.",
+        "J'aime sauter.",
+        "Je nage vite."
+      ]
+    },
+    {
+      "id": "blank-der-hund-frisst",
+      "type": "fill-blank",
+      "l1": "Le chien mange.",
+      "l2": "Der Hund frisst.",
+      "missing_l1": "mange",
+      "missing_l2": "frisst",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "vole",
+        "nage",
+        "dort"
+      ],
+      "choices_l2": [
+        "isst",
+        "fliegt",
+        "schwimmt"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-der-vogel-fliegt",
+      "type": "fill-blank",
+      "l1": "L'oiseau vole.",
+      "l2": "Der Vogel fliegt.",
+      "missing_l1": "vole",
+      "missing_l2": "fliegt",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "nage",
+        "saute",
+        "court"
+      ],
+      "choices_l2": [
+        "schwimmt",
+        "springt",
+        "läuft"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-die-katze-l-uft-schnell",
+      "type": "fill-blank",
+      "l1": "Le chat court vite.",
+      "l2": "Die Katze läuft schnell.",
+      "missing_l1": "court",
+      "missing_l2": "läuft",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "vole",
+        "nage",
+        "mange"
+      ],
+      "choices_l2": [
+        "fliegt",
+        "schwimmt",
+        "frisst"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-der-hund-frisst-aber-ich-esse",
+      "type": "fill-blank",
+      "l1": "Le chien mange comme un animal, mais moi, je mange comme une personne !",
+      "l2": "Der Hund frisst, aber ich esse!",
+      "missing_l1": "personne",
+      "missing_l2": "esse",
+      "blank_index_l1": 12,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "animal",
+        "chien",
+        "lapin"
+      ],
+      "choices_l2": [
+        "frisst",
+        "isst",
+        "schwimme"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-die-katze-l-uft-schnell",
+      "type": "order",
+      "l1": "Le chat court vite.",
+      "l2": "Die Katze läuft schnell.",
+      "tokens_l1": [
+        "Le",
+        "chat",
+        "court",
+        "vite."
+      ],
+      "tokens_l2": [
+        "Die",
+        "Katze",
+        "läuft",
+        "schnell."
+      ]
+    },
+    {
+      "id": "order-fische-schwimmen-und-v-gel-fliegen",
+      "type": "order",
+      "l1": "Les poissons nagent et les oiseaux volent.",
+      "l2": "Fische schwimmen und Vögel fliegen.",
+      "tokens_l1": [
+        "Les poissons",
+        "nagent",
+        "et",
+        "les oiseaux",
+        "volent."
+      ],
+      "tokens_l2": [
+        "Fische",
+        "schwimmen",
+        "und",
+        "Vögel",
+        "fliegen."
+      ]
+    },
+    {
+      "id": "order-das-kaninchen-springt",
+      "type": "order",
+      "l1": "Le lapin saute.",
+      "l2": "Das Kaninchen springt.",
+      "tokens_l1": [
+        "Le",
+        "lapin",
+        "saute."
+      ],
+      "tokens_l2": [
+        "Das",
+        "Kaninchen",
+        "springt."
+      ]
+    },
+    {
+      "id": "match-verbes",
+      "type": "match",
+      "l1": [
+        "courir",
+        "voler",
+        "nager",
+        "sauter"
+      ],
+      "l2": [
+        "laufen",
+        "fliegen",
+        "schwimmen",
+        "springen"
+      ]
+    }
+  ]
+}

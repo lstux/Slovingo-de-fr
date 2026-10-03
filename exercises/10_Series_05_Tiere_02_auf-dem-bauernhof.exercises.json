@@ -1,0 +1,356 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-der-bauernhof",
+      "type": "qcm",
+      "l1": "la ferme",
+      "l2": "der Bauernhof",
+      "choices_l1": [
+        "la vache",
+        "le cheval",
+        "le mouton"
+      ],
+      "choices_l2": [
+        "die Kuh",
+        "das Pferd",
+        "das Schaf"
+      ]
+    },
+    {
+      "id": "qcm-die-kuh",
+      "type": "qcm",
+      "l1": "la vache",
+      "l2": "die Kuh",
+      "choices_l1": [
+        "le cheval",
+        "le mouton",
+        "le cochon"
+      ],
+      "choices_l2": [
+        "das Pferd",
+        "das Schaf",
+        "das Schwein"
+      ]
+    },
+    {
+      "id": "qcm-das-pferd",
+      "type": "qcm",
+      "l1": "le cheval",
+      "l2": "das Pferd",
+      "choices_l1": [
+        "la vache",
+        "le mouton",
+        "la poule"
+      ],
+      "choices_l2": [
+        "die Kuh",
+        "das Schaf",
+        "das Huhn"
+      ]
+    },
+    {
+      "id": "qcm-das-schaf",
+      "type": "qcm",
+      "l1": "le mouton",
+      "l2": "das Schaf",
+      "choices_l1": [
+        "le cochon",
+        "la poule",
+        "la vache"
+      ],
+      "choices_l2": [
+        "das Schwein",
+        "das Huhn",
+        "die Kuh"
+      ]
+    },
+    {
+      "id": "qcm-das-schwein",
+      "type": "qcm",
+      "l1": "le cochon",
+      "l2": "das Schwein",
+      "choices_l1": [
+        "le mouton",
+        "le cheval",
+        "la poule"
+      ],
+      "choices_l2": [
+        "das Schaf",
+        "das Pferd",
+        "das Huhn"
+      ]
+    },
+    {
+      "id": "qcm-das-huhn",
+      "type": "qcm",
+      "l1": "la poule",
+      "l2": "das Huhn",
+      "choices_l1": [
+        "la vache",
+        "le cochon",
+        "le mouton"
+      ],
+      "choices_l2": [
+        "die Kuh",
+        "das Schwein",
+        "das Schaf"
+      ]
+    },
+    {
+      "id": "qcm-die-kuh-macht-muh",
+      "type": "qcm",
+      "l1": "La vache fait meuh.",
+      "l2": "Die Kuh macht Muh.",
+      "choices_l1": [
+        "Le mouton fait bêê.",
+        "Le chien fait ouaf ouaf.",
+        "La poule fait cot cot."
+      ],
+      "choices_l2": [
+        "Das Schaf macht Mäh.",
+        "Der Hund macht Wau wau.",
+        "Das Huhn macht Gack gack."
+      ]
+    },
+    {
+      "id": "listen-die-kuh-macht-muh",
+      "type": "listen",
+      "l1": "La vache fait meuh.",
+      "l2": "Die Kuh macht Muh.",
+      "choices_l1": [
+        "Le mouton fait bêê.",
+        "La poule fait cot cot.",
+        "Le chien fait ouaf ouaf."
+      ]
+    },
+    {
+      "id": "listen-das-pferd-ist-gro",
+      "type": "listen",
+      "l1": "Le cheval est grand.",
+      "l2": "Das Pferd ist groß.",
+      "choices_l1": [
+        "Le cheval est petit.",
+        "Le cochon est grand.",
+        "La vache est grande."
+      ]
+    },
+    {
+      "id": "listen-das-schaf-ist-auf-dem-bauernhof",
+      "type": "listen",
+      "l1": "Le mouton est à la ferme.",
+      "l2": "Das Schaf ist auf dem Bauernhof.",
+      "choices_l1": [
+        "Le cheval est à la ferme.",
+        "Le mouton est au zoo.",
+        "Le cochon est à la ferme."
+      ]
+    },
+    {
+      "id": "listen-das-schwein-ist-dick",
+      "type": "listen",
+      "l1": "Le cochon est gros.",
+      "l2": "Das Schwein ist dick.",
+      "choices_l1": [
+        "Le cochon est petit.",
+        "Le cheval est gros.",
+        "Le cochon est mignon."
+      ]
+    },
+    {
+      "id": "listen-die-h-hner-sind-klein",
+      "type": "listen",
+      "l1": "Les poules sont petites.",
+      "l2": "Die Hühner sind klein.",
+      "choices_l1": [
+        "Les poules sont grandes.",
+        "Les vaches sont petites.",
+        "La poule est petite."
+      ]
+    },
+    {
+      "id": "listen-ich-mag-pferde",
+      "type": "listen",
+      "l1": "J'aime bien les chevaux.",
+      "l2": "Ich mag Pferde.",
+      "choices_l1": [
+        "J'aime bien les vaches.",
+        "J'aime bien les moutons.",
+        "Je n'aime pas les chevaux."
+      ]
+    },
+    {
+      "id": "blank-die-kuh-macht-muh",
+      "type": "fill-blank",
+      "l1": "La vache fait meuh.",
+      "l2": "Die Kuh macht Muh.",
+      "missing_l1": "vache",
+      "missing_l2": "Kuh",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "poule",
+        "chèvre",
+        "brebis"
+      ],
+      "choices_l2": [
+        "Schaf",
+        "Huhn",
+        "Pferd"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-das-schaf-ist-auf-dem-bauernhof",
+      "type": "fill-blank",
+      "l1": "Le mouton est à la ferme.",
+      "l2": "Das Schaf ist auf dem Bauernhof.",
+      "missing_l1": "ferme",
+      "missing_l2": "Bauernhof",
+      "blank_index_l1": 5,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "maison",
+        "plage",
+        "forêt"
+      ],
+      "choices_l2": [
+        "Garten",
+        "Park",
+        "Zoo"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-die-h-hner-sind-klein",
+      "type": "fill-blank",
+      "l1": "Les poules sont petites.",
+      "l2": "Die Hühner sind klein.",
+      "missing_l1": "poules",
+      "missing_l2": "Hühner",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "vaches",
+        "chèvres",
+        "brebis"
+      ],
+      "choices_l2": [
+        "Huhn",
+        "Pferde",
+        "Schafe"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-das-pferd-ist-gro-aber-das-schaf-ist-klein",
+      "type": "fill-blank",
+      "l1": "Le cheval est grand, mais le mouton est petit.",
+      "l2": "Das Pferd ist groß, aber das Schaf ist klein.",
+      "missing_l1": "mais",
+      "missing_l2": "aber",
+      "blank_index_l1": 4,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "et",
+        "ou",
+        "aussi"
+      ],
+      "choices_l2": [
+        "und",
+        "oder",
+        "auch"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-die-kuh-macht-muh",
+      "type": "order",
+      "l1": "La vache fait meuh.",
+      "l2": "Die Kuh macht Muh.",
+      "tokens_l1": [
+        "La",
+        "vache",
+        "fait",
+        "meuh."
+      ],
+      "tokens_l2": [
+        "Die",
+        "Kuh",
+        "macht",
+        "Muh."
+      ]
+    },
+    {
+      "id": "order-das-schaf-ist-auf-dem-bauernhof",
+      "type": "order",
+      "l1": "Le mouton est à la ferme.",
+      "l2": "Das Schaf ist auf dem Bauernhof.",
+      "tokens_l1": [
+        "Le",
+        "mouton",
+        "est",
+        "à la ferme."
+      ],
+      "tokens_l2": [
+        "Das",
+        "Schaf",
+        "ist",
+        "auf dem Bauernhof."
+      ]
+    },
+    {
+      "id": "order-auf-dem-bauernhof-gibt-es-k-he-und-schafe",
+      "type": "order",
+      "l1": "À la ferme, il y a des vaches et des moutons.",
+      "l2": "Auf dem Bauernhof gibt es Kühe und Schafe.",
+      "tokens_l1": [
+        "À la ferme,",
+        "il y a",
+        "des vaches",
+        "et",
+        "des moutons."
+      ],
+      "tokens_l2": [
+        "Auf dem Bauernhof",
+        "gibt es",
+        "Kühe",
+        "und",
+        "Schafe."
+      ]
+    },
+    {
+      "id": "match-ferme",
+      "type": "match",
+      "l1": [
+        "la vache",
+        "le cheval",
+        "le mouton",
+        "le cochon"
+      ],
+      "l2": [
+        "die Kuh",
+        "das Pferd",
+        "das Schaf",
+        "das Schwein"
+      ]
+    },
+    {
+      "id": "match-bruits",
+      "type": "match",
+      "l1": [
+        "La vache fait meuh.",
+        "Le mouton fait bêê.",
+        "Le chien fait ouaf ouaf.",
+        "La poule fait cot cot."
+      ],
+      "l2": [
+        "Die Kuh macht Muh.",
+        "Das Schaf macht Mäh.",
+        "Der Hund macht Wau wau.",
+        "Das Huhn macht Gack gack."
+      ]
+    }
+  ]
+}
