@@ -53,7 +53,7 @@ Commence par le **Kit de Survie** : les mots magiques pour se débrouiller.
 
 ## Les exercices
 
-{{fr:Pour t'entraîner, appuie sur « Exercices » : des petits jeux pour chaque fiche des séries.}}
+{{fr:Pour t'entraîner, appuie sur « Exercices » : des petits jeux pour chaque fiche.}}
 
 - 🔤 choisir la bonne réponse
 - ✏️ compléter une phrase

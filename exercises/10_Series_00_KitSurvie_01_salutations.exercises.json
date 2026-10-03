@@ -1,0 +1,300 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-hallo",
+      "type": "qcm",
+      "l1": "salut",
+      "l2": "hallo",
+      "choices_l1": [
+        "merci",
+        "bien",
+        "non"
+      ],
+      "choices_l2": [
+        "danke",
+        "gut",
+        "nein"
+      ]
+    },
+    {
+      "id": "qcm-guten-tag",
+      "type": "qcm",
+      "l1": "bonjour",
+      "l2": "guten Tag",
+      "choices_l1": [
+        "merci",
+        "ça va ?",
+        "bien"
+      ],
+      "choices_l2": [
+        "danke",
+        "wie geht's",
+        "gut"
+      ]
+    },
+    {
+      "id": "qcm-tsch-ss",
+      "type": "qcm",
+      "l1": "salut (au revoir)",
+      "l2": "tschüss",
+      "choices_l1": [
+        "merci",
+        "bien",
+        "ça va ?"
+      ],
+      "choices_l2": [
+        "danke",
+        "gut",
+        "wie geht's"
+      ]
+    },
+    {
+      "id": "qcm-wie-geht-s",
+      "type": "qcm",
+      "l1": "ça va ?",
+      "l2": "wie geht's",
+      "choices_l1": [
+        "bonjour",
+        "merci",
+        "salut (au revoir)"
+      ],
+      "choices_l2": [
+        "guten Tag",
+        "danke",
+        "tschüss"
+      ]
+    },
+    {
+      "id": "qcm-gut",
+      "type": "qcm",
+      "l1": "bien",
+      "l2": "gut",
+      "choices_l1": [
+        "merci",
+        "salut",
+        "non"
+      ],
+      "choices_l2": [
+        "danke",
+        "hallo",
+        "nein"
+      ]
+    },
+    {
+      "id": "qcm-danke",
+      "type": "qcm",
+      "l1": "merci",
+      "l2": "danke",
+      "choices_l1": [
+        "bien",
+        "salut",
+        "salut (au revoir)"
+      ],
+      "choices_l2": [
+        "gut",
+        "hallo",
+        "tschüss"
+      ]
+    },
+    {
+      "id": "listen-hallo",
+      "type": "listen",
+      "l1": "Salut !",
+      "l2": "Hallo!",
+      "choices_l1": [
+        "Merci !",
+        "Bien !",
+        "Ça va ?"
+      ]
+    },
+    {
+      "id": "listen-guten-tag",
+      "type": "listen",
+      "l1": "Bonjour !",
+      "l2": "Guten Tag!",
+      "choices_l1": [
+        "Merci !",
+        "Bien !",
+        "Ça va ?"
+      ]
+    },
+    {
+      "id": "listen-tsch-ss",
+      "type": "listen",
+      "l1": "Salut ! (pour partir)",
+      "l2": "Tschüss!",
+      "choices_l1": [
+        "Merci ! (pour remercier)",
+        "Ça va ? (pour demander)",
+        "Bien ! (pour répondre)"
+      ]
+    },
+    {
+      "id": "listen-wie-geht-s",
+      "type": "listen",
+      "l1": "Ça va ?",
+      "l2": "Wie geht's?",
+      "choices_l1": [
+        "Merci !",
+        "Bonjour !",
+        "Bien !"
+      ]
+    },
+    {
+      "id": "listen-gut-danke",
+      "type": "listen",
+      "l1": "Bien, merci !",
+      "l2": "Gut, danke!",
+      "choices_l1": [
+        "Non, merci.",
+        "Bonjour, ça va ?",
+        "Bien, et toi ?"
+      ]
+    },
+    {
+      "id": "listen-hallo-wie-geht-s",
+      "type": "listen",
+      "l1": "Salut ! Ça va ?",
+      "l2": "Hallo! Wie geht's?",
+      "choices_l1": [
+        "Salut ! Merci !",
+        "Bien ! Ça va ?",
+        "Merci ! Salut !"
+      ]
+    },
+    {
+      "id": "blank-gut-danke",
+      "type": "fill-blank",
+      "l1": "Bien, merci !",
+      "l2": "Gut, danke!",
+      "missing_l1": "merci",
+      "missing_l2": "danke",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "salut",
+        "bonjour",
+        "non"
+      ],
+      "choices_l2": [
+        "hallo",
+        "tschüss",
+        "nein"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-hallo-wie-geht-s",
+      "type": "fill-blank",
+      "l1": "Salut ! Ça va ?",
+      "l2": "Hallo! Wie geht's?",
+      "missing_l1": "Salut",
+      "missing_l2": "Hallo",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Merci",
+        "Bien",
+        "Pardon"
+      ],
+      "choices_l2": [
+        "Danke",
+        "Tschüss",
+        "Gut"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-guten-tag",
+      "type": "fill-blank",
+      "l1": "Bonjour !",
+      "l2": "Guten Tag!",
+      "missing_l1": "Bonjour",
+      "missing_l2": "Tag",
+      "blank_index_l1": 0,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "Merci",
+        "Bien",
+        "Pardon"
+      ],
+      "choices_l2": [
+        "Hallo",
+        "Gut",
+        "Danke"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-wie-geht-s",
+      "type": "fill-blank",
+      "l1": "Ça va ?",
+      "l2": "Wie geht's?",
+      "missing_l1": "va",
+      "missing_l2": "Wie",
+      "blank_index_l1": 1,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "bien",
+        "merci",
+        "salut"
+      ],
+      "choices_l2": [
+        "Gut",
+        "Ich",
+        "Hallo"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-hallo-wie-geht-s",
+      "type": "order",
+      "l1": "Salut ! Ça va ?",
+      "l2": "Hallo! Wie geht's?",
+      "tokens_l1": [
+        "Salut !",
+        "Ça",
+        "va ?"
+      ],
+      "tokens_l2": [
+        "Hallo!",
+        "Wie",
+        "geht's?"
+      ]
+    },
+    {
+      "id": "match-mots-1",
+      "type": "match",
+      "l1": [
+        "salut",
+        "bonjour",
+        "ça va ?",
+        "merci"
+      ],
+      "l2": [
+        "hallo",
+        "guten Tag",
+        "wie geht's",
+        "danke"
+      ]
+    },
+    {
+      "id": "match-mots-2",
+      "type": "match",
+      "l1": [
+        "salut (au revoir)",
+        "bien",
+        "salut",
+        "merci"
+      ],
+      "l2": [
+        "tschüss",
+        "gut",
+        "hallo",
+        "danke"
+      ]
+    }
+  ]
+}

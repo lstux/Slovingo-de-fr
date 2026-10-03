@@ -1,0 +1,141 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "listen-banane",
+      "type": "listen",
+      "l1": "banane",
+      "l2": "Banane",
+      "choices_l1": [
+        "musique",
+        "famille",
+        "zoo"
+      ]
+    },
+    {
+      "id": "listen-musik",
+      "type": "listen",
+      "l1": "musique",
+      "l2": "Musik",
+      "choices_l1": [
+        "banane",
+        "pizza",
+        "famille"
+      ]
+    },
+    {
+      "id": "listen-familie",
+      "type": "listen",
+      "l1": "famille",
+      "l2": "Familie",
+      "choices_l1": [
+        "musique",
+        "banane",
+        "pizza"
+      ]
+    },
+    {
+      "id": "listen-pizza",
+      "type": "listen",
+      "l1": "pizza",
+      "l2": "Pizza",
+      "choices_l1": [
+        "banane",
+        "zoo",
+        "musique"
+      ]
+    },
+    {
+      "id": "listen-zoo",
+      "type": "listen",
+      "l1": "zoo",
+      "l2": "Zoo",
+      "choices_l1": [
+        "pizza",
+        "famille",
+        "banane"
+      ]
+    },
+    {
+      "id": "qcm-musik",
+      "type": "qcm",
+      "l1": "musique",
+      "l2": "Musik",
+      "choices_l1": [
+        "banane",
+        "famille",
+        "zoo"
+      ],
+      "choices_l2": [
+        "Familie",
+        "Banane",
+        "Pizza"
+      ]
+    },
+    {
+      "id": "qcm-familie",
+      "type": "qcm",
+      "l1": "famille",
+      "l2": "Familie",
+      "choices_l1": [
+        "musique",
+        "pizza",
+        "banane"
+      ],
+      "choices_l2": [
+        "Musik",
+        "Zoo",
+        "Banane"
+      ]
+    },
+    {
+      "id": "qcm-banane",
+      "type": "qcm",
+      "l1": "banane",
+      "l2": "Banane",
+      "choices_l1": [
+        "pizza",
+        "zoo",
+        "famille"
+      ],
+      "choices_l2": [
+        "Pizza",
+        "Musik",
+        "Zoo"
+      ]
+    },
+    {
+      "id": "match-mots-1",
+      "type": "match",
+      "l1": [
+        "banane",
+        "musique",
+        "famille",
+        "maman, papa"
+      ],
+      "l2": [
+        "Banane",
+        "Musik",
+        "Familie",
+        "Mama, Papa"
+      ]
+    },
+    {
+      "id": "match-mots-2",
+      "type": "match",
+      "l1": [
+        "pizza",
+        "zoo",
+        "famille",
+        "musique"
+      ],
+      "l2": [
+        "Pizza",
+        "Zoo",
+        "Familie",
+        "Musik"
+      ]
+    }
+  ]
+}

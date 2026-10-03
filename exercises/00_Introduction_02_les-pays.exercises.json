@@ -1,0 +1,95 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-deutschland",
+      "type": "qcm",
+      "l1": "l'Allemagne",
+      "l2": "Deutschland",
+      "choices_l1": [
+        "l'Autriche",
+        "la Suisse"
+      ],
+      "choices_l2": [
+        "Österreich",
+        "Schweiz"
+      ]
+    },
+    {
+      "id": "qcm-sterreich",
+      "type": "qcm",
+      "l1": "l'Autriche",
+      "l2": "Österreich",
+      "choices_l1": [
+        "l'Allemagne",
+        "la Suisse"
+      ],
+      "choices_l2": [
+        "Deutschland",
+        "Schweiz"
+      ]
+    },
+    {
+      "id": "qcm-schweiz",
+      "type": "qcm",
+      "l1": "la Suisse",
+      "l2": "Schweiz",
+      "choices_l1": [
+        "l'Allemagne",
+        "l'Autriche"
+      ],
+      "choices_l2": [
+        "Deutschland",
+        "Österreich"
+      ]
+    },
+    {
+      "id": "listen-deutschland",
+      "type": "listen",
+      "l1": "l'Allemagne",
+      "l2": "Deutschland",
+      "choices_l1": [
+        "l'Autriche",
+        "la Suisse",
+        "la France"
+      ]
+    },
+    {
+      "id": "listen-sterreich",
+      "type": "listen",
+      "l1": "l'Autriche",
+      "l2": "Österreich",
+      "choices_l1": [
+        "l'Allemagne",
+        "la Suisse",
+        "la France"
+      ]
+    },
+    {
+      "id": "listen-schweiz",
+      "type": "listen",
+      "l1": "la Suisse",
+      "l2": "Schweiz",
+      "choices_l1": [
+        "l'Allemagne",
+        "l'Autriche",
+        "la France"
+      ]
+    },
+    {
+      "id": "match-pays",
+      "type": "match",
+      "l1": [
+        "l'Allemagne",
+        "l'Autriche",
+        "la Suisse"
+      ],
+      "l2": [
+        "Deutschland",
+        "Österreich",
+        "Schweiz"
+      ]
+    }
+  ]
+}
