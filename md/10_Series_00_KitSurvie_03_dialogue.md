@@ -39,8 +39,8 @@
 > Comment tu t'appelles ?
 > Wie heißt du = comment tu t'appelles
 
-! 🦊 Ich heiße [ASK_USER_NAME].
-> Je m'appelle [dis-nous ton prénom].
+! 🦊 Ich heiße [USER_NAME].
+> Je m'appelle [USER_NAME].
 > Ich heiße = je m'appelle
 + {{Ich heiße}} + ton prénom : ça marche partout pour te présenter.
 
