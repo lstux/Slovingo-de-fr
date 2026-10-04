@@ -4,6 +4,8 @@
 
 Un cours d'allemand construit sur le framework [Slovingo](https://github.com/lstux/Slovingo), conçu spécialement pour les enfants francophones.
 
+L'app s'appelle **Fuchsbau**, « le terrier du renard » en allemand : le coin où le petit renard 🦊 (toi) retrouve Lea 🐰 pour apprendre.
+
 ## 📚 Qu'est-ce qu'il y a dedans ?
 
 - **Fiches** : cartes interactives avec prononciation et audio
