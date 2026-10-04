@@ -193,9 +193,13 @@ Les explications et l'intro de la fiche sont en `{{fr:…}}` (à écouter), sans
 ### Fiche 06 : Extra
 
 - Tableau de **tout** le vocabulaire de la série (y compris les mots signalés du dialogue)
-- 15-18 cartes audio recombinant librement ce vocabulaire
-- Sert de matière première pour les exercices
-- Aucun mot nouveau (ou alors signalé par une remarque `+`)
+- Puis `## Des mini-dialogues pour tout mélanger` : **3 ou 4 petites scènes** (3 à 6 répliques chacune), pas une liste de phrases. 15 à 18 cartes audio au total (le Kit de Survie, qui n'a que Lea, en a 16 en 3 scènes)
+- Chaque scène : `### Scène N — Titre`, puis une ligne de contexte en français `{{fr:…}}` (sans mot allemand, sans accord au genre pour l'enfant), puis les cartes avec l'avatar du locuteur après le `!` (`! 🐨 Hast du eine Schwester?`)
+- Les scènes recombinent le vocabulaire dans des situations **nouvelles** : on ne reprend pas le dialogue de la fiche 05. Elles peuvent faire un clin d'œil à un gag de la série (le gâteau de Tom, le jouet sous le lit…)
+- **Aucun mot nouveau** : chaque mot allemand d'une carte a déjà été enseigné (intro, séries précédentes, fiches 01 à 05 de la série). Les formes déjà vues sont reprises telles quelles (*ich räume … auf*, *du bist*…)
+- Un décorticage par carte, une ligne `>` par morceau (comme partout)
+- Le Coin allemand de fin de fiche reste après les scènes
+- Sert de matière première aux exercices : chaque exercice de type phrase reprend une carte entière, mot pour mot
 
 ---
 

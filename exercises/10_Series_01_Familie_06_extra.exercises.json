@@ -131,294 +131,6 @@
       ]
     },
     {
-      "id": "listen-das-ist-meine-familie-mein-vater-meine-mutter-und-mein-bruder",
-      "type": "listen",
-      "l1": "C'est ma famille : mon père, ma mère et mon frère.",
-      "l2": "Das ist meine Familie: mein Vater, meine Mutter und mein Bruder.",
-      "choices_l1": [
-        "C'est ma famille : mon père, ma mère et ma sœur.",
-        "C'est ma famille : mon père, ma mère et mon chien.",
-        "C'est ma famille : mon frère, ma sœur et mon père."
-      ]
-    },
-    {
-      "id": "listen-wie-alt-bist-du-ich-bin-acht-jahre-alt",
-      "type": "listen",
-      "l1": "Quel âge as-tu ? J'ai huit ans.",
-      "l2": "Wie alt bist du? Ich bin acht Jahre alt.",
-      "choices_l1": [
-        "Quel âge as-tu ? J'ai neuf ans.",
-        "Comment tu t'appelles ? J'ai huit ans.",
-        "Quel âge as-tu ? J'ai dix ans."
-      ]
-    },
-    {
-      "id": "listen-meine-schwester-ist-klein-aber-mein-bruder-ist-gro",
-      "type": "listen",
-      "l1": "Ma sœur est petite, mais mon frère est grand.",
-      "l2": "Meine Schwester ist klein, aber mein Bruder ist groß.",
-      "choices_l1": [
-        "Ma sœur est grande, mais mon frère est petit.",
-        "Ma mère est petite, mais mon père est grand.",
-        "Ma sœur est petite, et mon frère aussi."
-      ]
-    },
-    {
-      "id": "listen-oma-und-opa-haben-ein-haus-und-einen-garten",
-      "type": "listen",
-      "l1": "Mamie et papi ont une maison et un jardin.",
-      "l2": "Oma und Opa haben ein Haus und einen Garten.",
-      "choices_l1": [
-        "Mamie et papi ont une maison et un chat.",
-        "Mamie et papi ont un chien et un jardin.",
-        "Mamie et papi sont à la maison."
-      ]
-    },
-    {
-      "id": "listen-opa-ist-zu-hause-er-kocht-gern",
-      "type": "listen",
-      "l1": "Papi est à la maison. Il aime cuisiner.",
-      "l2": "Opa ist zu Hause. Er kocht gern.",
-      "choices_l1": [
-        "Papi est à la maison. Il aime chanter.",
-        "Mamie est à la maison. Elle aime cuisiner.",
-        "Papi a une maison. Il aime cuisiner."
-      ]
-    },
-    {
-      "id": "listen-ich-habe-einen-hund-er-ist-toll",
-      "type": "listen",
-      "l1": "J'ai un chien. Il est génial !",
-      "l2": "Ich habe einen Hund. Er ist toll!",
-      "choices_l1": [
-        "J'ai un chat. Il est génial !",
-        "J'ai un chien. Il est petit !",
-        "Tu as un chien ? Il est génial !"
-      ]
-    },
-    {
-      "id": "listen-mein-vater-kocht-gern-und-meine-mutter-singt-gern",
-      "type": "listen",
-      "l1": "Mon père aime cuisiner, et ma mère aime chanter.",
-      "l2": "Mein Vater kocht gern, und meine Mutter singt gern.",
-      "choices_l1": [
-        "Mon père aime chanter, et ma mère aime cuisiner.",
-        "Mon père aime cuisiner, et mon frère aime chanter.",
-        "Mon père aime jouer, et ma mère aime chanter."
-      ]
-    },
-    {
-      "id": "listen-die-kinder-lachen",
-      "type": "listen",
-      "l1": "Les enfants rient.",
-      "l2": "Die Kinder lachen.",
-      "choices_l1": [
-        "Les enfants chantent.",
-        "Les enfants jouent.",
-        "L'enfant rit."
-      ]
-    },
-    {
-      "id": "listen-tsch-ss-oma-bis-bald",
-      "type": "listen",
-      "l1": "Au revoir, mamie ! À bientôt !",
-      "l2": "Tschüss, Oma! Bis bald!",
-      "choices_l1": [
-        "Au revoir, papi ! À bientôt !",
-        "Merci, mamie ! À bientôt !",
-        "Salut, mamie ! Ça va ?"
-      ]
-    },
-    {
-      "id": "blank-oma-und-opa-haben-ein-haus-und-einen-garten",
-      "type": "fill-blank",
-      "l1": "Mamie et papi ont une maison et un jardin.",
-      "l2": "Oma und Opa haben ein Haus und einen Garten.",
-      "missing_l1": "jardin",
-      "missing_l2": "einen",
-      "blank_index_l1": 8,
-      "blank_index_l2": 7,
-      "choices_l1": [
-        "chat",
-        "gâteau",
-        "chien"
-      ],
-      "choices_l2": [
-        "ein",
-        "eine",
-        "und"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-hast-du-eine-katze",
-      "type": "fill-blank",
-      "l1": "Tu as un chat ?",
-      "l2": "Hast du eine Katze?",
-      "missing_l1": "as",
-      "missing_l2": "Hast",
-      "blank_index_l1": 1,
-      "blank_index_l2": 0,
-      "choices_l1": [
-        "es",
-        "ai",
-        "a"
-      ],
-      "choices_l2": [
-        "Bist",
-        "Habe",
-        "Hat"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-opa-ist-zu-hause-er-kocht-gern",
-      "type": "fill-blank",
-      "l1": "Papi est à la maison. Il aime cuisiner.",
-      "l2": "Opa ist zu Hause. Er kocht gern.",
-      "missing_l1": "cuisiner",
-      "missing_l2": "kocht",
-      "blank_index_l1": 7,
-      "blank_index_l2": 5,
-      "choices_l1": [
-        "chanter",
-        "jouer",
-        "rire"
-      ],
-      "choices_l2": [
-        "singt",
-        "spielt",
-        "lachen"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-meine-schwester-ist-klein-aber-mein-bruder-ist-gro",
-      "type": "fill-blank",
-      "l1": "Ma sœur est petite, mais mon frère est grand.",
-      "l2": "Meine Schwester ist klein, aber mein Bruder ist groß.",
-      "missing_l1": "mais",
-      "missing_l2": "aber",
-      "blank_index_l1": 4,
-      "blank_index_l2": 4,
-      "choices_l1": [
-        "et",
-        "ensemble",
-        "aussi"
-      ],
-      "choices_l2": [
-        "und",
-        "gern",
-        "zusammen"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-ich-habe-einen-hund-er-ist-toll",
-      "type": "fill-blank",
-      "l1": "J'ai un chien. Il est génial !",
-      "l2": "Ich habe einen Hund. Er ist toll!",
-      "missing_l1": "génial",
-      "missing_l2": "toll",
-      "blank_index_l1": 5,
-      "blank_index_l2": 6,
-      "choices_l1": [
-        "petit",
-        "vieux",
-        "grand"
-      ],
-      "choices_l2": [
-        "klein",
-        "alt",
-        "gern"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "order-wir-spielen-gern-zusammen",
-      "type": "order",
-      "l1": "On aime jouer ensemble.",
-      "l2": "Wir spielen gern zusammen.",
-      "tokens_l1": [
-        "On",
-        "aime",
-        "jouer",
-        "ensemble.",
-        "chanter"
-      ],
-      "tokens_l2": [
-        "Wir",
-        "spielen",
-        "gern",
-        "zusammen.",
-        "spiele"
-      ]
-    },
-    {
-      "id": "order-hast-du-eine-katze",
-      "type": "order",
-      "l1": "Tu as un chat ?",
-      "l2": "Hast du eine Katze?",
-      "tokens_l1": [
-        "Tu",
-        "as",
-        "un",
-        "chat ?",
-        "chien ?"
-      ],
-      "tokens_l2": [
-        "Hast",
-        "du",
-        "eine",
-        "Katze?",
-        "einen"
-      ]
-    },
-    {
-      "id": "order-opa-ist-zu-hause-er-kocht-gern",
-      "type": "order",
-      "l1": "Papi est à la maison. Il aime cuisiner.",
-      "l2": "Opa ist zu Hause. Er kocht gern.",
-      "tokens_l1": [
-        "Papi",
-        "est",
-        "à la maison.",
-        "Il",
-        "aime",
-        "cuisiner.",
-        "chanter."
-      ],
-      "tokens_l2": [
-        "Opa",
-        "ist",
-        "zu Hause.",
-        "Er",
-        "kocht",
-        "gern.",
-        "hat"
-      ]
-    },
-    {
-      "id": "order-tsch-ss-oma-bis-bald",
-      "type": "order",
-      "l1": "Au revoir, mamie ! À bientôt !",
-      "l2": "Tschüss, Oma! Bis bald!",
-      "tokens_l1": [
-        "Au revoir,",
-        "mamie !",
-        "À",
-        "bientôt !",
-        "merci !"
-      ],
-      "tokens_l2": [
-        "Tschüss,",
-        "Oma!",
-        "Bis",
-        "bald!",
-        "gern!"
-      ]
-    },
-    {
       "id": "match-famille",
       "type": "match",
       "l1": [
@@ -464,6 +176,304 @@
         "zusammen",
         "gern",
         "bis bald"
+      ]
+    },
+    {
+      "id": "listen-ja-meine-schwester-ist-klein",
+      "type": "listen",
+      "l1": "Oui ! Ma sœur est petite.",
+      "l2": "Ja! Meine Schwester ist klein.",
+      "choices_l1": [
+        "Oui ! Ma sœur est grande.",
+        "Oui ! Mon frère est petit.",
+        "Non ! Ma sœur est petite."
+      ]
+    },
+    {
+      "id": "listen-ja-mein-bruder-ist-zehn-jahre-alt",
+      "type": "listen",
+      "l1": "Oui ! Mon frère a dix ans.",
+      "l2": "Ja! Mein Bruder ist zehn Jahre alt.",
+      "choices_l1": [
+        "Oui ! Mon frère a huit ans.",
+        "Oui ! Ma sœur a dix ans.",
+        "Non ! Mon frère a dix ans."
+      ]
+    },
+    {
+      "id": "listen-toll-ich-habe-einen-bruder-und-eine-katze",
+      "type": "listen",
+      "l1": "Génial ! J'ai un frère et un chat.",
+      "l2": "Toll! Ich habe einen Bruder und eine Katze.",
+      "choices_l1": [
+        "Génial ! J'ai une sœur et un chat.",
+        "Génial ! J'ai un frère et un chien.",
+        "Génial ! Tu as un frère et un chat."
+      ]
+    },
+    {
+      "id": "listen-nein-aber-oma-hat-einen-hund",
+      "type": "listen",
+      "l1": "Non, mais mamie a un chien.",
+      "l2": "Nein, aber Oma hat einen Hund.",
+      "choices_l1": [
+        "Oui, mais mamie a un chien.",
+        "Non, mais papi a un chien.",
+        "Non, mais mamie a un chat."
+      ]
+    },
+    {
+      "id": "listen-ich-habe-einen-kuchen-wir-lachen-zusammen",
+      "type": "listen",
+      "l1": "J'ai un gâteau ! On rit ensemble !",
+      "l2": "Ich habe einen Kuchen! Wir lachen zusammen!",
+      "choices_l1": [
+        "J'ai un gâteau ! On chante ensemble !",
+        "J'ai un chat ! On rit ensemble !",
+        "Tu as un gâteau ! On rit ensemble !"
+      ]
+    },
+    {
+      "id": "listen-mein-bruder-hat-meinen-kuchen",
+      "type": "listen",
+      "l1": "Mon frère a mon gâteau !",
+      "l2": "Mein Bruder hat meinen Kuchen!",
+      "choices_l1": [
+        "Ma sœur a mon gâteau !",
+        "Mon frère a mon chat !",
+        "Mon frère a ton gâteau !"
+      ]
+    },
+    {
+      "id": "listen-tsch-ss-oma-hilde-bis-bald",
+      "type": "listen",
+      "l1": "Au revoir, Mamie Hilde ! À bientôt !",
+      "l2": "Tschüss, Oma Hilde! Bis bald!",
+      "choices_l1": [
+        "Bonjour, Mamie Hilde ! À bientôt !",
+        "Au revoir, Mamie Hilde ! Merci !",
+        "Au revoir, Lea ! À bientôt !"
+      ]
+    },
+    {
+      "id": "blank-hast-du-auch-einen-bruder",
+      "type": "fill-blank",
+      "l1": "Tu as aussi un frère ?",
+      "l2": "Hast du auch einen Bruder?",
+      "missing_l1": "aussi",
+      "missing_l2": "auch",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "mais",
+        "et",
+        "bien"
+      ],
+      "choices_l2": [
+        "und",
+        "aber",
+        "gern"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-hallo-kinder-das-haus-hat-einen-garten",
+      "type": "fill-blank",
+      "l1": "Salut, les enfants ! La maison a un jardin.",
+      "l2": "Hallo, Kinder! Das Haus hat einen Garten.",
+      "missing_l1": "jardin",
+      "missing_l2": "Garten",
+      "blank_index_l1": 8,
+      "blank_index_l2": 6,
+      "choices_l1": [
+        "gâteau",
+        "chien",
+        "frère"
+      ],
+      "choices_l2": [
+        "Kuchen",
+        "Hund",
+        "Bruder"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-und-opa-singt-gern",
+      "type": "fill-blank",
+      "l1": "Et papi aime chanter !",
+      "l2": "Und Opa singt gern!",
+      "missing_l1": "chanter",
+      "missing_l2": "singt",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "cuisiner",
+        "jouer",
+        "rire"
+      ],
+      "choices_l2": [
+        "spielt",
+        "kocht",
+        "hat"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-mein-bruder-hat-meinen-kuchen",
+      "type": "fill-blank",
+      "l1": "Mon frère a mon gâteau !",
+      "l2": "Mein Bruder hat meinen Kuchen!",
+      "missing_l1": "a",
+      "missing_l2": "hat",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "est",
+        "as",
+        "ai"
+      ],
+      "choices_l2": [
+        "ist",
+        "habe",
+        "hast"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-danke-du-bist-toll",
+      "type": "fill-blank",
+      "l1": "Merci ! Tu es top !",
+      "l2": "Danke! Du bist toll!",
+      "missing_l1": "es",
+      "missing_l2": "bist",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "est",
+        "suis",
+        "as"
+      ],
+      "choices_l2": [
+        "ist",
+        "bin",
+        "hast"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-wir-spielen-gern-zusammen-nom",
+      "type": "order",
+      "l1": "On aime jouer ensemble, [USER_NAME] !",
+      "l2": "Wir spielen gern zusammen, [USER_NAME]!",
+      "tokens_l1": [
+        "On",
+        "aime",
+        "jouer",
+        "ensemble,",
+        "[USER_NAME] !"
+      ],
+      "tokens_l2": [
+        "Wir",
+        "spielen",
+        "gern",
+        "zusammen,",
+        "[USER_NAME]!"
+      ]
+    },
+    {
+      "id": "order-hast-du-auch-einen-bruder",
+      "type": "order",
+      "l1": "Tu as aussi un frère ?",
+      "l2": "Hast du auch einen Bruder?",
+      "tokens_l1": [
+        "Tu",
+        "as",
+        "aussi",
+        "un",
+        "frère ?",
+        "une"
+      ],
+      "tokens_l2": [
+        "Hast",
+        "du",
+        "auch",
+        "einen",
+        "Bruder?",
+        "eine"
+      ]
+    },
+    {
+      "id": "order-nein-aber-oma-hat-einen-hund",
+      "type": "order",
+      "l1": "Non, mais mamie a un chien.",
+      "l2": "Nein, aber Oma hat einen Hund.",
+      "tokens_l1": [
+        "Non,",
+        "mais",
+        "mamie",
+        "a",
+        "un",
+        "chien."
+      ],
+      "tokens_l2": [
+        "Nein,",
+        "aber",
+        "Oma",
+        "hat",
+        "einen",
+        "Hund."
+      ]
+    },
+    {
+      "id": "order-mein-bruder-hat-meinen-kuchen",
+      "type": "order",
+      "l1": "Mon frère a mon gâteau !",
+      "l2": "Mein Bruder hat meinen Kuchen!",
+      "tokens_l1": [
+        "Mon",
+        "frère",
+        "a",
+        "mon",
+        "gâteau !"
+      ],
+      "tokens_l2": [
+        "Mein",
+        "Bruder",
+        "hat",
+        "meinen",
+        "Kuchen!"
+      ]
+    },
+    {
+      "id": "match-cartes-1",
+      "type": "match",
+      "l1": [
+        "Au revoir, les enfants ! À bientôt !",
+        "Non ! Mon gâteau !",
+        "Tu as une sœur ?",
+        "Et papi aime chanter !"
+      ],
+      "l2": [
+        "Tschüss, Kinder! Bis bald!",
+        "Nein! Mein Kuchen!",
+        "Hast du eine Schwester?",
+        "Und Opa singt gern!"
+      ]
+    },
+    {
+      "id": "match-cartes-2",
+      "type": "match",
+      "l1": [
+        "Oui ! Ma sœur est petite.",
+        "Mon frère a mon gâteau !",
+        "Merci ! Tu es top !",
+        "Oui, avec plaisir ! Tu es géniale, Lea !"
+      ],
+      "l2": [
+        "Ja! Meine Schwester ist klein.",
+        "Mein Bruder hat meinen Kuchen!",
+        "Danke! Du bist toll!",
+        "Ja, gern! Du bist toll, Lea!"
       ]
     }
   ]

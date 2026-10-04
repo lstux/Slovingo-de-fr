@@ -16,7 +16,7 @@ Ce document décrit notre approche pédagogique.
 
 **Phases :**
 - **Phase 0 : Introduction** — 5 fiches (comment ça marche, pays, langue, prononciation, nombres de 0 à 10)
-- **Phase 1 : Kit de Survie** (Série 00) — 3 fiches + 1 extra de phrases essentielles
+- **Phase 1 : Kit de Survie** (Série 00) — 3 fiches + 1 extra en mini-dialogues
 - **Phase 2 : La vie quotidienne** (Séries 01-03) — Familie, Haus, Essen (18 fiches) ✅
 - **Phase 3 : En dehors de la maison** (Séries 04-06) — Stadt, Tiere, Spiele (18 fiches) ✅
 - **Phase 4 : Extension** (Séries 07+) — fêtes et moments de l'année, école, couleurs, corps, vêtements, météo
@@ -171,9 +171,9 @@ Pour écrire une nouvelle série, s'appuyer sur ce qui existe déjà — et ne p
 
 ### Jour 7 : Fiche 06 — Extra
 - Tableau récapitulatif du vocabulaire
-- 15-20 cartes audio sans mot nouveau
+- 3 ou 4 mini-dialogues (15-18 cartes audio au total) qui recombinent les mots dans des situations nouvelles, sans mot nouveau
 - Base pour les exercices
-- **Activité :** faire les exercices, jouer, construire une série de jours
+- **Activité :** jouer les scènes à deux (chacun un personnage), faire les exercices, construire une série de jours
 
 ### Jour 8+ : Répétition / exploration
 - Jeux de révision de série

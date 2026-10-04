@@ -131,237 +131,6 @@
       ]
     },
     {
-      "id": "listen-ich-spiele-mit-dem-ball",
-      "type": "listen",
-      "l1": "Je joue avec le ballon.",
-      "l2": "Ich spiele mit dem Ball.",
-      "choices_l1": [
-        "Je joue au foot.",
-        "Je joue avec la poupée.",
-        "Tu joues avec le ballon."
-      ]
-    },
-    {
-      "id": "listen-oh-nein-die-puppe-ist-kaputt",
-      "type": "listen",
-      "l1": "Oh non, la poupée est cassée !",
-      "l2": "Oh nein, die Puppe ist kaputt!",
-      "choices_l1": [
-        "Oh non, le ballon est cassé !",
-        "Oh oui, la poupée est géniale !",
-        "Oh non, la poupée est sous le lit !"
-      ]
-    },
-    {
-      "id": "listen-wir-spielen-fangen-auf-dem-spielplatz",
-      "type": "listen",
-      "l1": "On joue au chat à l'aire de jeux.",
-      "l2": "Wir spielen Fangen auf dem Spielplatz.",
-      "choices_l1": [
-        "On joue au foot à l'aire de jeux.",
-        "On joue au chat dans le jardin.",
-        "On joue à cache-cache à l'aire de jeux."
-      ]
-    },
-    {
-      "id": "listen-kannst-du-klettern",
-      "type": "listen",
-      "l1": "Tu sais grimper ?",
-      "l2": "Kannst du klettern?",
-      "choices_l1": [
-        "Tu sais nager ?",
-        "Tu aimes grimper ?",
-        "Je sais grimper."
-      ]
-    },
-    {
-      "id": "listen-w-rfle-f-nf",
-      "type": "listen",
-      "l1": "Lance le dé ! Cinq !",
-      "l2": "Würfle! Fünf!",
-      "choices_l1": [
-        "Lance le dé ! Six !",
-        "Lance le dé ! Deux !",
-        "Je lance le dé ! Cinq !"
-      ]
-    },
-    {
-      "id": "listen-ich-gewinne-nicht-ich-verliere",
-      "type": "listen",
-      "l1": "Je ne gagne pas, je perds.",
-      "l2": "Ich gewinne nicht, ich verliere.",
-      "choices_l1": [
-        "Je ne perds pas, je gagne.",
-        "Tu ne gagnes pas, tu perds.",
-        "Je gagne, je ne perds pas."
-      ]
-    },
-    {
-      "id": "listen-es-regnet-wollen-wir-ein-puzzle-machen",
-      "type": "listen",
-      "l1": "Il pleut. On fait un puzzle ?",
-      "l2": "Es regnet. Wollen wir ein Puzzle machen?",
-      "choices_l1": [
-        "Il pleut. On joue au foot ?",
-        "Il fait beau. On fait un puzzle ?",
-        "Il pleut. On fait un gâteau ?"
-      ]
-    },
-    {
-      "id": "listen-klar-spielen-wir-noch-einmal",
-      "type": "listen",
-      "l1": "Bien sûr ! On en refait une ?",
-      "l2": "Klar! Spielen wir noch einmal?",
-      "choices_l1": [
-        "Non ! On arrête ?",
-        "Bien sûr ! C'est à moi ?",
-        "Bravo ! On en refait une ?"
-      ]
-    },
-    {
-      "id": "blank-ich-spiele-mit-dem-ball",
-      "type": "fill-blank",
-      "l1": "Je joue avec le ballon.",
-      "l2": "Ich spiele mit dem Ball.",
-      "missing_l1": "ballon",
-      "missing_l2": "Ball",
-      "blank_index_l1": 4,
-      "blank_index_l2": 4,
-      "choices_l1": [
-        "dé",
-        "but",
-        "puzzle"
-      ],
-      "choices_l2": [
-        "Puppe",
-        "Würfel",
-        "Tor"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-wir-spielen-fangen-auf-dem-spielplatz",
-      "type": "fill-blank",
-      "l1": "On joue au chat à l'aire de jeux.",
-      "l2": "Wir spielen Fangen auf dem Spielplatz.",
-      "missing_l1": "chat",
-      "missing_l2": "Fangen",
-      "blank_index_l1": 3,
-      "blank_index_l2": 2,
-      "choices_l1": [
-        "foot",
-        "ballon",
-        "puzzle"
-      ],
-      "choices_l2": [
-        "Fußball",
-        "Puzzle",
-        "Ball"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-ich-gewinne-nicht-ich-verliere",
-      "type": "fill-blank",
-      "l1": "Je ne gagne pas, je perds.",
-      "l2": "Ich gewinne nicht, ich verliere.",
-      "missing_l1": "perds",
-      "missing_l2": "verliere",
-      "blank_index_l1": 5,
-      "blank_index_l2": 4,
-      "choices_l1": [
-        "gagne",
-        "joue",
-        "dors"
-      ],
-      "choices_l2": [
-        "gewinne",
-        "spiele",
-        "würfle"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-machst-du-mit-wir-sind-eine-mannschaft",
-      "type": "fill-blank",
-      "l1": "Tu joues avec nous ? On est une équipe.",
-      "l2": "Machst du mit? Wir sind eine Mannschaft.",
-      "missing_l1": "équipe",
-      "missing_l2": "Mannschaft",
-      "blank_index_l1": 8,
-      "blank_index_l2": 6,
-      "choices_l1": [
-        "famille",
-        "école",
-        "ville"
-      ],
-      "choices_l2": [
-        "Familie",
-        "Schule",
-        "Stadt"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "order-wir-spielen-fangen-auf-dem-spielplatz",
-      "type": "order",
-      "l1": "On joue au chat à l'aire de jeux.",
-      "l2": "Wir spielen Fangen auf dem Spielplatz.",
-      "tokens_l1": [
-        "On",
-        "joue",
-        "au chat",
-        "à l'aire de jeux.",
-        "au foot"
-      ],
-      "tokens_l2": [
-        "Wir",
-        "spielen",
-        "Fangen",
-        "auf dem Spielplatz.",
-        "Fußball"
-      ]
-    },
-    {
-      "id": "order-kannst-du-klettern",
-      "type": "order",
-      "l1": "Tu sais grimper ?",
-      "l2": "Kannst du klettern?",
-      "tokens_l1": [
-        "Tu",
-        "sais",
-        "grimper ?",
-        "nager ?"
-      ],
-      "tokens_l2": [
-        "Kannst",
-        "du",
-        "klettern?",
-        "schwimmen?"
-      ]
-    },
-    {
-      "id": "order-es-regnet-wollen-wir-ein-puzzle-machen",
-      "type": "order",
-      "l1": "Il pleut. On fait un puzzle ?",
-      "l2": "Es regnet. Wollen wir ein Puzzle machen?",
-      "tokens_l1": [
-        "Il pleut.",
-        "On",
-        "fait",
-        "un puzzle ?",
-        "joue"
-      ],
-      "tokens_l2": [
-        "Es regnet.",
-        "Wollen",
-        "wir",
-        "ein Puzzle",
-        "machen?",
-        "spielen?"
-      ]
-    },
-    {
       "id": "match-jouets",
       "type": "match",
       "l1": [
@@ -407,6 +176,295 @@
         "das Tor",
         "es regnet",
         "klar"
+      ]
+    },
+    {
+      "id": "listen-wir-sind-eine-mannschaft-nom",
+      "type": "listen",
+      "l1": "On est une équipe, [USER_NAME] !",
+      "l2": "Wir sind eine Mannschaft, [USER_NAME]!",
+      "choices_l1": [
+        "On est une famille, [USER_NAME] !",
+        "On gagne, [USER_NAME] !",
+        "Tu es une équipe, [USER_NAME] !"
+      ]
+    },
+    {
+      "id": "listen-wir-gehen-auf-den-spielplatz-die-schaukel-ist-frei",
+      "type": "listen",
+      "l1": "On va sur l'aire de jeux ! La balançoire est libre !",
+      "l2": "Wir gehen auf den Spielplatz! Die Schaukel ist frei!",
+      "choices_l1": [
+        "On va sur l'aire de jeux ! Le toboggan est libre !",
+        "On va au parc ! La balançoire est libre !",
+        "On va sur l'aire de jeux ! La balançoire est cassée !"
+      ]
+    },
+    {
+      "id": "listen-die-rutsche-ist-sehr-gro-ich-klettere-gern",
+      "type": "listen",
+      "l1": "Le toboggan est très grand ! J'aime grimper.",
+      "l2": "Die Rutsche ist sehr groß! Ich klettere gern.",
+      "choices_l1": [
+        "Le toboggan est très petit ! J'aime grimper.",
+        "La balançoire est très grande ! J'aime grimper.",
+        "Le toboggan est très grand ! J'aime courir."
+      ]
+    },
+    {
+      "id": "listen-ja-gern-du-bist-dran",
+      "type": "listen",
+      "l1": "Oui, avec plaisir ! C'est à toi !",
+      "l2": "Ja, gern! Du bist dran!",
+      "choices_l1": [
+        "Oui, avec plaisir ! C'est à moi !",
+        "Non, merci ! C'est à toi !",
+        "Oui, avec plaisir ! C'est à Lea !"
+      ]
+    },
+    {
+      "id": "listen-oh-nein-der-drachen-ist-kaputt",
+      "type": "listen",
+      "l1": "Oh non, le cerf-volant est cassé !",
+      "l2": "Oh nein, der Drachen ist kaputt!",
+      "choices_l1": [
+        "Oh non, le ballon est cassé !",
+        "Oh non, le cerf-volant vole !",
+        "Oh oui, le cerf-volant est cassé !"
+      ]
+    },
+    {
+      "id": "listen-das-puzzle-ist-unter-dem-bett",
+      "type": "listen",
+      "l1": "Le puzzle est sous le lit !",
+      "l2": "Das Puzzle ist unter dem Bett!",
+      "choices_l1": [
+        "Le puzzle est sur le lit !",
+        "Le jouet est sous le lit !",
+        "Le puzzle est dans l'armoire !"
+      ]
+    },
+    {
+      "id": "listen-ich-verliere-nicht-gern-ich-gewinne",
+      "type": "listen",
+      "l1": "Je n'aime pas perdre. Je gagne !",
+      "l2": "Ich verliere nicht gern. Ich gewinne!",
+      "choices_l1": [
+        "J'aime perdre. Je gagne !",
+        "Je n'aime pas perdre. Je perds !",
+        "Je n'aime pas gagner. Je gagne !"
+      ]
+    },
+    {
+      "id": "blank-wollen-wir-fu-ball-spielen",
+      "type": "fill-blank",
+      "l1": "On joue au foot ?",
+      "l2": "Wollen wir Fußball spielen?",
+      "missing_l1": "foot",
+      "missing_l2": "Fußball",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "chat",
+        "puzzle",
+        "cache-cache"
+      ],
+      "choices_l2": [
+        "Fangen",
+        "Puzzle",
+        "Verstecken"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ja-ich-mache-mit",
+      "type": "fill-blank",
+      "l1": "Oui, je joue aussi !",
+      "l2": "Ja, ich mache mit!",
+      "missing_l1": "joue",
+      "missing_l2": "mache",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "gagne",
+        "perds",
+        "lance"
+      ],
+      "choices_l2": [
+        "machst",
+        "machen",
+        "würfle"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-spielen-wir-fangen",
+      "type": "fill-blank",
+      "l1": "On joue à chat ?",
+      "l2": "Spielen wir Fangen?",
+      "missing_l1": "chat",
+      "missing_l2": "Fangen",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "foot",
+        "puzzle",
+        "cache-cache"
+      ],
+      "choices_l2": [
+        "Fußball",
+        "Puzzle",
+        "Verstecken"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-w-rfle-f-nf",
+      "type": "fill-blank",
+      "l1": "Je lance le dé… Cinq !",
+      "l2": "Ich würfle… Fünf!",
+      "missing_l1": "Cinq",
+      "missing_l2": "Fünf",
+      "blank_index_l1": 4,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "Six",
+        "Trois",
+        "Dix"
+      ],
+      "choices_l2": [
+        "Sechs",
+        "Drei",
+        "Zehn"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-tor-gl-ckwunsch-lea",
+      "type": "fill-blank",
+      "l1": "But ! Bravo, Lea !",
+      "l2": "Tor! Glückwunsch, Lea!",
+      "missing_l1": "Bravo",
+      "missing_l2": "Glückwunsch",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "Merci",
+        "Pardon",
+        "Salut"
+      ],
+      "choices_l2": [
+        "Danke",
+        "Tschüss",
+        "Entschuldigung"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-wir-sind-eine-mannschaft-nom",
+      "type": "order",
+      "l1": "On est une équipe, [USER_NAME] !",
+      "l2": "Wir sind eine Mannschaft, [USER_NAME]!",
+      "tokens_l1": [
+        "On",
+        "est",
+        "une équipe,",
+        "[USER_NAME] !"
+      ],
+      "tokens_l2": [
+        "Wir",
+        "sind",
+        "eine",
+        "Mannschaft,",
+        "[USER_NAME]!"
+      ]
+    },
+    {
+      "id": "order-wir-machen-ein-puzzle",
+      "type": "order",
+      "l1": "On fait un puzzle !",
+      "l2": "Wir machen ein Puzzle!",
+      "tokens_l1": [
+        "On",
+        "fait",
+        "un",
+        "puzzle !"
+      ],
+      "tokens_l2": [
+        "Wir",
+        "machen",
+        "ein",
+        "Puzzle!"
+      ]
+    },
+    {
+      "id": "order-du-kannst-gut-w-rfeln",
+      "type": "order",
+      "l1": "Tu sais bien lancer le dé !",
+      "l2": "Du kannst gut würfeln!",
+      "tokens_l1": [
+        "Tu",
+        "sais",
+        "bien",
+        "lancer le dé !"
+      ],
+      "tokens_l2": [
+        "Du",
+        "kannst",
+        "gut",
+        "würfeln!"
+      ]
+    },
+    {
+      "id": "order-gl-ckwunsch-wollen-wir-noch-einmal-spielen",
+      "type": "order",
+      "l1": "Bravo ! On rejoue une fois ?",
+      "l2": "Glückwunsch! Wollen wir noch einmal spielen?",
+      "tokens_l1": [
+        "Bravo !",
+        "On",
+        "rejoue",
+        "une fois ?"
+      ],
+      "tokens_l2": [
+        "Glückwunsch!",
+        "Wollen",
+        "wir",
+        "noch",
+        "einmal",
+        "spielen?"
+      ]
+    },
+    {
+      "id": "match-cartes-1",
+      "type": "match",
+      "l1": [
+        "On joue au foot ?",
+        "Oui, je joue aussi !",
+        "On joue à chat ?",
+        "Bien ! Où est le puzzle ?"
+      ],
+      "l2": [
+        "Wollen wir Fußball spielen?",
+        "Ja, ich mache mit!",
+        "Spielen wir Fangen?",
+        "Gut! Wo ist das Puzzle?"
+      ]
+    },
+    {
+      "id": "match-cartes-2",
+      "type": "match",
+      "l1": [
+        "Je lance le dé… Cinq !",
+        "Tu sais bien lancer le dé !",
+        "But ! Bravo, Lea !",
+        "Oh non, le cerf-volant est cassé !"
+      ],
+      "l2": [
+        "Ich würfle… Fünf!",
+        "Du kannst gut würfeln!",
+        "Tor! Glückwunsch, Lea!",
+        "Oh nein, der Drachen ist kaputt!"
       ]
     }
   ]

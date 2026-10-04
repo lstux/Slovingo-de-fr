@@ -115,265 +115,6 @@
       ]
     },
     {
-      "id": "listen-guten-tag-tsch-ss",
-      "type": "listen",
-      "l1": "Bonjour ! Au revoir !",
-      "l2": "Guten Tag! Tschüss!",
-      "choices_l1": [
-        "Au revoir ! Bonjour !",
-        "Bonjour ! Merci !",
-        "Salut ! Ça va ?"
-      ]
-    },
-    {
-      "id": "listen-nein-danke-ja-bitte",
-      "type": "listen",
-      "l1": "Non, merci. Oui, s'il te plaît.",
-      "l2": "Nein, danke. Ja, bitte.",
-      "choices_l1": [
-        "Oui, merci. Non, s'il te plaît.",
-        "Non, pardon. Oui, merci.",
-        "Oui, s'il te plaît. Non, merci."
-      ]
-    },
-    {
-      "id": "listen-ich-spreche-kein-deutsch",
-      "type": "listen",
-      "l1": "Je ne parle pas allemand.",
-      "l2": "Ich spreche kein Deutsch.",
-      "choices_l1": [
-        "Je ne parle pas français.",
-        "Je parle allemand.",
-        "Je ne comprends pas l'allemand."
-      ]
-    },
-    {
-      "id": "listen-sprichst-du-franz-sisch",
-      "type": "listen",
-      "l1": "Tu parles français ?",
-      "l2": "Sprichst du Französisch?",
-      "choices_l1": [
-        "Tu parles allemand ?",
-        "Comment tu t'appelles ?",
-        "Je parle français."
-      ]
-    },
-    {
-      "id": "listen-danke-lea-bitte",
-      "type": "listen",
-      "l1": "Merci, Lea ! De rien !",
-      "l2": "Danke, Lea! Bitte!",
-      "choices_l1": [
-        "Pardon, Lea ! Merci !",
-        "Salut, Lea ! Ça va ?",
-        "De rien, Lea ! Merci !"
-      ]
-    },
-    {
-      "id": "listen-wie-hei-t-du-ich-hei-e-nom",
-      "type": "listen",
-      "l1": "Comment tu t'appelles ? Je m'appelle [USER_NAME].",
-      "l2": "Wie heißt du? Ich heiße [USER_NAME].",
-      "choices_l1": [
-        "Ça va ? Je m'appelle [USER_NAME].",
-        "Tu parles français ? Je m'appelle [USER_NAME].",
-        "Comment tu t'appelles ? Je parle français."
-      ]
-    },
-    {
-      "id": "listen-tsch-ss-nom",
-      "type": "listen",
-      "l1": "Au revoir, [USER_NAME] !",
-      "l2": "Tschüss, [USER_NAME]!",
-      "choices_l1": [
-        "Salut, [USER_NAME] ! Ça va ?",
-        "Merci, [USER_NAME] !",
-        "Pardon, [USER_NAME] !"
-      ]
-    },
-    {
-      "id": "blank-ich-spreche-kein-deutsch",
-      "type": "fill-blank",
-      "l1": "Je ne parle pas allemand.",
-      "l2": "Ich spreche kein Deutsch.",
-      "missing_l1": "allemand",
-      "missing_l2": "kein",
-      "blank_index_l1": 4,
-      "blank_index_l2": 2,
-      "choices_l1": [
-        "français",
-        "anglais",
-        "italien"
-      ],
-      "choices_l2": [
-        "nein",
-        "nicht",
-        "auch"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-entschuldigung-ich-verstehe-nicht",
-      "type": "fill-blank",
-      "l1": "Pardon, je ne comprends pas.",
-      "l2": "Entschuldigung, ich verstehe nicht.",
-      "missing_l1": "Pardon",
-      "missing_l2": "Entschuldigung",
-      "blank_index_l1": 0,
-      "blank_index_l2": 0,
-      "choices_l1": [
-        "Merci",
-        "Bonjour",
-        "Salut"
-      ],
-      "choices_l2": [
-        "Danke",
-        "Bitte",
-        "Tschüss"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-wie-hei-t-du-ich-hei-e-nom",
-      "type": "fill-blank",
-      "l1": "Comment tu t'appelles ? Je m'appelle [USER_NAME].",
-      "l2": "Wie heißt du? Ich heiße [USER_NAME].",
-      "missing_l1": "Comment",
-      "missing_l2": "heiße",
-      "blank_index_l1": 0,
-      "blank_index_l2": 4,
-      "choices_l1": [
-        "Pourquoi",
-        "Où",
-        "Quand"
-      ],
-      "choices_l2": [
-        "spreche",
-        "verstehe",
-        "bitte"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-nein-danke-ja-bitte",
-      "type": "fill-blank",
-      "l1": "Non, merci. Oui, s'il te plaît.",
-      "l2": "Nein, danke. Ja, bitte.",
-      "missing_l1": "Oui",
-      "missing_l2": "bitte",
-      "blank_index_l1": 2,
-      "blank_index_l2": 3,
-      "choices_l1": [
-        "Non",
-        "Bien",
-        "Merci"
-      ],
-      "choices_l2": [
-        "danke",
-        "auch",
-        "gut"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "order-sprichst-du-franz-sisch",
-      "type": "order",
-      "l1": "Tu parles français ?",
-      "l2": "Sprichst du Französisch?",
-      "tokens_l1": [
-        "Tu",
-        "parles",
-        "français ?",
-        "allemand ?"
-      ],
-      "tokens_l2": [
-        "Sprichst",
-        "du",
-        "Französisch?",
-        "Deutsch?"
-      ]
-    },
-    {
-      "id": "order-ich-spreche-kein-deutsch",
-      "type": "order",
-      "l1": "Je ne parle pas allemand.",
-      "l2": "Ich spreche kein Deutsch.",
-      "tokens_l1": [
-        "Je",
-        "ne",
-        "parle",
-        "pas",
-        "allemand.",
-        "français."
-      ],
-      "tokens_l2": [
-        "Ich",
-        "spreche",
-        "kein",
-        "Deutsch.",
-        "nein"
-      ]
-    },
-    {
-      "id": "order-wie-hei-t-du-ich-hei-e-nom",
-      "type": "order",
-      "l1": "Comment tu t'appelles ? Je m'appelle [USER_NAME].",
-      "l2": "Wie heißt du? Ich heiße [USER_NAME].",
-      "tokens_l1": [
-        "Comment",
-        "tu",
-        "t'appelles ?",
-        "Je",
-        "m'appelle",
-        "[USER_NAME]."
-      ],
-      "tokens_l2": [
-        "Wie",
-        "heißt",
-        "du?",
-        "Ich",
-        "heiße",
-        "[USER_NAME]."
-      ]
-    },
-    {
-      "id": "order-entschuldigung-ich-verstehe-nicht",
-      "type": "order",
-      "l1": "Pardon, je ne comprends pas.",
-      "l2": "Entschuldigung, ich verstehe nicht.",
-      "tokens_l1": [
-        "Pardon,",
-        "je",
-        "ne",
-        "comprends",
-        "pas.",
-        "parle"
-      ],
-      "tokens_l2": [
-        "Entschuldigung,",
-        "ich",
-        "verstehe",
-        "nicht.",
-        "heiße"
-      ]
-    },
-    {
-      "id": "order-danke-lea-bitte",
-      "type": "order",
-      "l1": "Merci, Lea ! De rien !",
-      "l2": "Danke, Lea! Bitte!",
-      "tokens_l1": [
-        "Merci,",
-        "Lea !",
-        "De rien !"
-      ],
-      "tokens_l2": [
-        "Danke,",
-        "Lea!",
-        "Bitte!"
-      ]
-    },
-    {
       "id": "match-saluer",
       "type": "match",
       "l1": [
@@ -419,6 +160,273 @@
         "sprichst du",
         "ich verstehe nicht",
         "Entschuldigung"
+      ]
+    },
+    {
+      "id": "listen-nein-danke-banane-bitte",
+      "type": "listen",
+      "l1": "Non, merci. Une banane, s'il te plaît !",
+      "l2": "Nein, danke. Banane, bitte!",
+      "choices_l1": [
+        "Oui, merci. Une banane, s'il te plaît !",
+        "Non, merci. Une pizza, s'il te plaît !",
+        "Non, pardon. Une banane, s'il te plaît !"
+      ]
+    },
+    {
+      "id": "listen-gut-wasser-nom",
+      "type": "listen",
+      "l1": "Bien ! De l'eau, [USER_NAME] ?",
+      "l2": "Gut! Wasser, [USER_NAME]?",
+      "choices_l1": [
+        "Bien ! Du pain, [USER_NAME] ?",
+        "Pardon ! De l'eau, [USER_NAME] ?",
+        "Bien ! De la pizza, [USER_NAME] ?"
+      ]
+    },
+    {
+      "id": "listen-entschuldigung-wie-hei-t-du",
+      "type": "listen",
+      "l1": "Pardon, comment tu t'appelles ?",
+      "l2": "Entschuldigung, wie heißt du?",
+      "choices_l1": [
+        "Pardon, tu parles allemand ?",
+        "Salut, comment tu t'appelles ?",
+        "Pardon, je m'appelle Lea."
+      ]
+    },
+    {
+      "id": "listen-hallo-nom-sprichst-du-deutsch",
+      "type": "listen",
+      "l1": "Salut, [USER_NAME] ! Tu parles allemand ?",
+      "l2": "Hallo, [USER_NAME]! Sprichst du Deutsch?",
+      "choices_l1": [
+        "Salut, [USER_NAME] ! Tu parles français ?",
+        "Salut, [USER_NAME] ! Comment tu t'appelles ?",
+        "Au revoir, [USER_NAME] ! Tu parles allemand ?"
+      ]
+    },
+    {
+      "id": "listen-nein-ich-spreche-franz-sisch",
+      "type": "listen",
+      "l1": "Non, je parle français.",
+      "l2": "Nein, ich spreche Französisch.",
+      "choices_l1": [
+        "Oui, je parle français.",
+        "Non, je parle allemand.",
+        "Non, je ne parle pas français."
+      ]
+    },
+    {
+      "id": "listen-kein-problem-nom-ich-spreche-deutsch",
+      "type": "listen",
+      "l1": "Pas de problème, [USER_NAME] ! Je parle allemand.",
+      "l2": "Kein Problem, [USER_NAME]! Ich spreche Deutsch.",
+      "choices_l1": [
+        "Pas de problème, [USER_NAME] ! Je parle français.",
+        "Merci, [USER_NAME] ! Je parle allemand.",
+        "Pas de problème, [USER_NAME] ! Je ne parle pas allemand."
+      ]
+    },
+    {
+      "id": "listen-null-tsch-ss",
+      "type": "listen",
+      "l1": "Zéro ! Au revoir !",
+      "l2": "Null! Tschüss!",
+      "choices_l1": [
+        "Zéro ! Bonjour !",
+        "Un ! Au revoir !",
+        "Zéro ! Merci !"
+      ]
+    },
+    {
+      "id": "blank-ja-bitte",
+      "type": "fill-blank",
+      "l1": "Oui, s'il te plaît !",
+      "l2": "Ja, bitte!",
+      "missing_l1": "Oui",
+      "missing_l2": "bitte",
+      "blank_index_l1": 0,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "Non",
+        "Bien",
+        "Merci"
+      ],
+      "choices_l2": [
+        "danke",
+        "nein",
+        "auch"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-nein-ich-spreche-franz-sisch",
+      "type": "fill-blank",
+      "l1": "Non, je parle français.",
+      "l2": "Nein, ich spreche Französisch.",
+      "missing_l1": "français",
+      "missing_l2": "Französisch",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "allemand",
+        "anglais",
+        "italien"
+      ],
+      "choices_l2": [
+        "Deutsch",
+        "Deutschland",
+        "Schweiz"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-entschuldigung-wie-hei-t-du",
+      "type": "fill-blank",
+      "l1": "Pardon, comment tu t'appelles ?",
+      "l2": "Entschuldigung, wie heißt du?",
+      "missing_l1": "Pardon",
+      "missing_l2": "heißt",
+      "blank_index_l1": 0,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "Merci",
+        "Bonjour",
+        "Salut"
+      ],
+      "choices_l2": [
+        "spreche",
+        "verstehe",
+        "geht's"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-kein-problem-nom-ich-spreche-deutsch",
+      "type": "fill-blank",
+      "l1": "Pas de problème, [USER_NAME] ! Je parle allemand.",
+      "l2": "Kein Problem, [USER_NAME]! Ich spreche Deutsch.",
+      "missing_l1": "problème",
+      "missing_l2": "Kein",
+      "blank_index_l1": 2,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "merci",
+        "salut",
+        "pardon"
+      ],
+      "choices_l2": [
+        "Nein",
+        "Ja",
+        "Auch"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-nein-ich-spreche-franz-sisch",
+      "type": "order",
+      "l1": "Non, je parle français.",
+      "l2": "Nein, ich spreche Französisch.",
+      "tokens_l1": [
+        "Non,",
+        "je",
+        "parle",
+        "français.",
+        "allemand."
+      ],
+      "tokens_l2": [
+        "Nein,",
+        "ich",
+        "spreche",
+        "Französisch.",
+        "Deutsch."
+      ]
+    },
+    {
+      "id": "order-entschuldigung-wie-hei-t-du",
+      "type": "order",
+      "l1": "Pardon, comment tu t'appelles ?",
+      "l2": "Entschuldigung, wie heißt du?",
+      "tokens_l1": [
+        "Pardon,",
+        "comment",
+        "tu",
+        "t'appelles ?"
+      ],
+      "tokens_l2": [
+        "Entschuldigung,",
+        "wie",
+        "heißt",
+        "du?"
+      ]
+    },
+    {
+      "id": "order-hallo-nom-sprichst-du-deutsch",
+      "type": "order",
+      "l1": "Salut, [USER_NAME] ! Tu parles allemand ?",
+      "l2": "Hallo, [USER_NAME]! Sprichst du Deutsch?",
+      "tokens_l1": [
+        "Salut,",
+        "[USER_NAME] !",
+        "Tu",
+        "parles",
+        "allemand ?"
+      ],
+      "tokens_l2": [
+        "Hallo,",
+        "[USER_NAME]!",
+        "Sprichst",
+        "du",
+        "Deutsch?"
+      ]
+    },
+    {
+      "id": "order-drei-zwei-eins",
+      "type": "order",
+      "l1": "Trois, deux, un…",
+      "l2": "Drei, zwei, eins…",
+      "tokens_l1": [
+        "Trois,",
+        "deux,",
+        "un…"
+      ],
+      "tokens_l2": [
+        "Drei,",
+        "zwei,",
+        "eins…"
+      ]
+    },
+    {
+      "id": "match-cartes-scenes",
+      "type": "match",
+      "l1": [
+        "Pardon, comment tu t'appelles ?",
+        "Non, je parle français.",
+        "Oui, s'il te plaît !",
+        "Merci, Lea !"
+      ],
+      "l2": [
+        "Entschuldigung, wie heißt du?",
+        "Nein, ich spreche Französisch.",
+        "Ja, bitte!",
+        "Danke, Lea!"
+      ]
+    },
+    {
+      "id": "match-compte-a-rebours",
+      "type": "match",
+      "l1": [
+        "Dix, neuf, huit, sept…",
+        "Six, cinq, quatre !",
+        "Trois, deux, un…",
+        "Zéro ! Au revoir !"
+      ],
+      "l2": [
+        "Zehn, neun, acht, sieben…",
+        "Sechs, fünf, vier!",
+        "Drei, zwei, eins…",
+        "Null! Tschüss!"
       ]
     }
   ]

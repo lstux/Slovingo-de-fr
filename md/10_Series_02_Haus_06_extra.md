@@ -40,57 +40,124 @@
 
 ---
 
-## Les phrases
+## Des mini-dialogues pour tout mélanger
 
-! Es gibt vier Zimmer und eine Küche.
-> Il y a quatre pièces et une cuisine.
+### Scène 1 — La visite de la maison
+
+{{fr:Lea te fait visiter sa maison, pièce par pièce.}}
+
+! 🐰 Das ist die Küche. Der Tisch ist groß!
+> Voici la cuisine. La table est grande !
+> Das ist = voici
+> die Küche = la cuisine
+> Der Tisch ist groß = la table est grande
+
+! 🦊 Wo ist das Badezimmer?
+> Où est la salle de bain ?
+> Wo ist = où est
+> das Badezimmer = la salle de bain
+
+! 🐰 Das Badezimmer ist dort. Das Fenster ist klein.
+> La salle de bain est là-bas. La fenêtre est petite.
+> Das Badezimmer ist dort = la salle de bain est là-bas
+> Das Fenster ist klein = la fenêtre est petite
+
+! 🐰 Und hier ist das Wohnzimmer. Es gibt ein Sofa!
+> Et ici, c'est le salon. Il y a un canapé !
+> hier ist = ici, c'est
 > Es gibt = il y a
+> ein Sofa = un canapé
 
-! Die Küche ist klein, aber das Wohnzimmer ist groß.
-> La cuisine est petite, mais le salon est grand.
-> Die Küche = la cuisine
-> das Wohnzimmer = le salon
+---
 
-! Das Sofa ist im Wohnzimmer.
-> Le canapé est dans le salon.
-> im Wohnzimmer = dans le salon
+### Scène 2 — Où est le jouet de Tom ?
 
-! Der Tisch und die Stühle sind in der Küche.
-> La table et les chaises sont dans la cuisine.
-> in der Küche = dans la cuisine
+{{fr:Tom cherche son jouet dans la chambre. Qui sait où il est ?}}
 
-! Wo sind meine Bücher? Sie sind auf dem Tisch.
-> Où sont mes livres ? Ils sont sur la table.
-> Sie sind = ils sont
+! 🐨 Wo ist mein Spielzeug?
+> Où est mon jouet ?
+> Wo ist = où est
+> mein Spielzeug = mon jouet
 
-! Mein Spielzeug ist unter dem Bett.
-> Mon jouet est sous le lit.
+! 🦊 Das Spielzeug ist nicht im Schrank.
+> Le jouet n'est pas dans l'armoire.
+> ist nicht = n'est pas
+> im Schrank = dans l'armoire
+
+! 🐨 Das Spielzeug ist nicht auf dem Tisch!
+> Le jouet n'est pas sur la table !
+> auf dem Tisch = sur la table
+
+! 🦊 Die Katze ist auf dem Bett, und das Spielzeug ist unter dem Bett!
+> Le chat est sur le lit, et le jouet est sous le lit !
+> auf dem Bett = sur le lit
 > unter dem Bett = sous le lit
 
-! Die Katze ist hinter dem Schrank.
-> Le chat est derrière l'armoire.
-> hinter dem Schrank = derrière l'armoire
+! 🐨 Danke! Du bist toll!
+> Merci ! Tu es top !
+> Danke = merci
+> Du bist = tu es
+> toll = génial, top
 
-! Ich öffne das Fenster und ich schließe die Tür.
-> J'ouvre la fenêtre et je ferme la porte.
+---
+
+### Scène 3 — On range le salon
+
+{{fr:Oma Hilde veut un salon bien rangé. Tout le monde s'y met !}}
+
+! 🦉 Hallo, Kinder! Ich räume das Wohnzimmer auf.
+> Salut, les enfants ! Je range le salon.
+> Hallo, Kinder = salut, les enfants
+> Ich räume das Wohnzimmer auf = je range le salon
+
+! 🐨 Ich öffne das Fenster.
+> J'ouvre la fenêtre.
 > Ich öffne = j'ouvre
-> ich schließe = je ferme
+> das Fenster = la fenêtre
 
-! Mein Bruder schläft, aber ich schlafe nicht.
-> Mon frère dort, mais moi, je ne dors pas.
-> schläft = dort
+! 🐰 Ich schließe die Tür. Es gibt viele Bücher!
+> Je ferme la porte. Il y a plein de livres !
+> Ich schließe = je ferme
+> die Tür = la porte
+> viele Bücher = plein de livres
 
-! Ich räume jetzt mein Zimmer auf.
-> Je range ma chambre maintenant.
-> Ich räume auf = je range
+! 🦊 Ich räume auch auf! Wir spielen jetzt zusammen.
+> Moi aussi, je range ! Maintenant, on joue ensemble.
+> Ich räume auch auf = moi aussi, je range
+> Wir spielen = on joue
+> jetzt zusammen = maintenant ensemble
 
-! Spielen wir Verstecken? Ja, gern!
-> On joue à cache-cache ? Oui, avec plaisir !
-> Verstecken = cache-cache
+! 🦉 Danke, Kinder! Das Wohnzimmer ist toll!
+> Merci, les enfants ! Le salon est génial !
+> Danke = merci
+> Das Wohnzimmer ist toll = le salon est génial
 
-! Das ist lustig!
-> C'est drôle !
-> lustig = drôle
+---
+
+### Scène 4 — Tom ne dort pas
+
+{{fr:Tom dit qu'il ne dort pas… mais regarde bien la suite !}}
+
+! 🦉 Schläfst du, Tom?
+> Tu dors, Tom ?
+> Schläfst du = tu dors
+
+! 🐨 Nein, ich schlafe nicht!
+> Non, je ne dors pas !
+> ich schlafe = je dors
+> nicht = pas
+
+! 🦉 Das Sofa ist dort. Und das Bett ist im Schlafzimmer.
+> Le canapé est là-bas. Et le lit est dans la chambre.
+> Das Sofa ist dort = le canapé est là-bas
+> das Bett = le lit
+> im Schlafzimmer = dans la chambre
+
+! 🐨 Ich schlafe auf dem Sofa. Tschüss!
+> Je dors sur le canapé. Au revoir !
+> Ich schlafe = je dors
+> auf dem Sofa = sur le canapé
+> Tschüss = au revoir
 
 ---
 

@@ -40,60 +40,126 @@
 
 ---
 
-## Les phrases
+## Des mini-dialogues pour tout mélanger
 
-! Das ist meine Familie: mein Vater, meine Mutter und mein Bruder.
-> C'est ma famille : mon père, ma mère et mon frère.
-> meine Familie = ma famille
+### Scène 1 — La photo de famille
 
-! Wie alt bist du? Ich bin acht Jahre alt.
-> Quel âge as-tu ? J'ai huit ans.
-> Wie alt bist du = quel âge as-tu
-> Ich bin acht Jahre alt = j'ai huit ans
+{{fr:Tom regarde une photo de ta famille. Il veut tout savoir !}}
 
-! Meine Schwester ist klein, aber mein Bruder ist groß.
-> Ma sœur est petite, mais mon frère est grand.
-> klein = petite
-> aber = mais
-> groß = grand
+! 🐨 Hast du eine Schwester?
+> Tu as une sœur ?
+> Hast du = tu as
+> eine Schwester = une sœur
 
-! Oma und Opa haben ein Haus und einen Garten.
-> Mamie et papi ont une maison et un jardin.
-> haben = ont
+! 🦊 Ja! Meine Schwester ist klein.
+> Oui ! Ma sœur est petite.
+> Meine Schwester = ma sœur
+> ist klein = est petite
 
-! Hast du eine Katze?
-> Tu as un chat ?
+! 🐨 Hast du auch einen Bruder?
+> Tu as aussi un frère ?
+> auch = aussi
+> einen Bruder = un frère
+
+! 🦊 Ja! Mein Bruder ist zehn Jahre alt.
+> Oui ! Mon frère a dix ans.
+> Mein Bruder = mon frère
+> zehn Jahre alt = dix ans
+
+! 🐨 Toll! Ich habe einen Bruder und eine Katze.
+> Génial ! J'ai un frère et un chat.
+> Toll = génial
+> Ich habe = j'ai
+> einen Bruder = un frère
+> eine Katze = un chat
+
+---
+
+### Scène 2 — Dans le jardin d'Oma Hilde
+
+{{fr:Oma Hilde a un gâteau, et un grand jardin pour tout le monde !}}
+
+! 🦉 Hallo, Kinder! Das Haus hat einen Garten.
+> Salut, les enfants ! La maison a un jardin.
+> Hallo, Kinder = salut, les enfants
+> Das Haus hat = la maison a
+> einen Garten = un jardin
+
+! 🐰 Der Garten ist groß! Hast du einen Garten, [USER_NAME]?
+> Le jardin est grand ! Tu as un jardin, [USER_NAME] ?
+> Der Garten ist groß = le jardin est grand
 > Hast du = tu as
 
-! Opa ist zu Hause. Er kocht gern.
-> Papi est à la maison. Il aime cuisiner.
-> zu Hause = à la maison
-> Er kocht gern = il aime cuisiner
+! 🦊 Nein, aber Oma hat einen Hund.
+> Non, mais mamie a un chien.
+> Nein = non
+> aber = mais
+> Oma hat = mamie a
 
-! Ich habe einen Hund. Er ist toll!
-> J'ai un chien. Il est génial !
-> Ich habe einen Hund = j'ai un chien
-> Er ist toll = il est génial
+! 🦉 Ich habe einen Kuchen! Wir lachen zusammen!
+> J'ai un gâteau ! On rit ensemble !
+> Ich habe = j'ai
+> Wir lachen = on rit
+> zusammen = ensemble
 
-! Wir spielen gern zusammen.
-> On aime jouer ensemble.
-> Wir spielen gern = on aime jouer
+! 🐰 Und Opa singt gern!
+> Et papi aime chanter !
+> Und = et
+> Opa singt gern = papi aime chanter
 
-! Mein Vater kocht gern, und meine Mutter singt gern.
-> Mon père aime cuisiner, et ma mère aime chanter.
-> kocht gern = aime cuisiner
-> singt gern = aime chanter
+---
 
-! Die Kinder lachen.
-> Les enfants rient.
-> lachen = rient
+### Scène 3 — Où est le gâteau ?
 
-! Oma hat einen Kuchen. Der Kuchen ist toll!
-> Mamie a un gâteau. Le gâteau est génial !
+{{fr:Oh non ! Le gâteau de Tom a disparu…}}
+
+! 🐨 Nein! Mein Kuchen!
+> Non ! Mon gâteau !
+> Nein = non
+> Mein Kuchen = mon gâteau
+
+! 🐨 Mein Bruder hat meinen Kuchen!
+> Mon frère a mon gâteau !
+> Mein Bruder = mon frère
+> hat = a
+> meinen Kuchen = mon gâteau
+
+! 🦊 Wir lachen zusammen! Ich habe auch einen Kuchen.
+> On rit ensemble ! Moi aussi, j'ai un gâteau.
+> Wir lachen zusammen = on rit ensemble
+> Ich habe auch = moi aussi, j'ai
 > einen Kuchen = un gâteau
 
-! Tschüss, Oma! Bis bald!
-> Au revoir, mamie ! À bientôt !
+! 🐨 Danke! Du bist toll!
+> Merci ! Tu es top !
+> Danke = merci
+> Du bist = tu es
+> toll = génial, top
+
+---
+
+### Scène 4 — On se dit à bientôt
+
+{{fr:La journée est finie. Il est temps de se dire au revoir !}}
+
+! 🐰 Wir spielen gern zusammen, [USER_NAME]!
+> On aime jouer ensemble, [USER_NAME] !
+> Wir spielen gern = on aime jouer
+> zusammen = ensemble
+
+! 🦊 Ja, gern! Du bist toll, Lea!
+> Oui, avec plaisir ! Tu es géniale, Lea !
+> Ja, gern = oui, avec plaisir
+> Du bist toll = tu es géniale
+
+! 🦉 Tschüss, Kinder! Bis bald!
+> Au revoir, les enfants ! À bientôt !
+> Tschüss = au revoir
+> Bis bald = à bientôt
+
+! 🦊 Tschüss, Oma Hilde! Bis bald!
+> Au revoir, Mamie Hilde ! À bientôt !
+> Tschüss = au revoir
 > Bis bald = à bientôt
 
 ---

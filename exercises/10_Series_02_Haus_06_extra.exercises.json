@@ -131,245 +131,6 @@
       ]
     },
     {
-      "id": "listen-es-gibt-vier-zimmer-und-eine-k-che",
-      "type": "listen",
-      "l1": "Il y a quatre pièces et une cuisine.",
-      "l2": "Es gibt vier Zimmer und eine Küche.",
-      "choices_l1": [
-        "Il y a deux pièces et une cuisine.",
-        "Il y a quatre pièces et un jardin.",
-        "C'est une cuisine et quatre pièces."
-      ]
-    },
-    {
-      "id": "listen-die-k-che-ist-klein-aber-das-wohnzimmer-ist-gro",
-      "type": "listen",
-      "l1": "La cuisine est petite, mais le salon est grand.",
-      "l2": "Die Küche ist klein, aber das Wohnzimmer ist groß.",
-      "choices_l1": [
-        "La cuisine est grande, mais le salon est petit.",
-        "La chambre est petite, mais le salon est grand.",
-        "La cuisine est petite, et le salon aussi."
-      ]
-    },
-    {
-      "id": "listen-wo-sind-meine-b-cher-sie-sind-auf-dem-tisch",
-      "type": "listen",
-      "l1": "Où sont mes livres ? Ils sont sur la table.",
-      "l2": "Wo sind meine Bücher? Sie sind auf dem Tisch.",
-      "choices_l1": [
-        "Où sont mes livres ? Ils sont sous la table.",
-        "Où sont mes jouets ? Ils sont sur la table.",
-        "Où est mon livre ? Il est sur la table."
-      ]
-    },
-    {
-      "id": "listen-mein-spielzeug-ist-unter-dem-bett",
-      "type": "listen",
-      "l1": "Mon jouet est sous le lit.",
-      "l2": "Mein Spielzeug ist unter dem Bett.",
-      "choices_l1": [
-        "Mon jouet est sur le lit.",
-        "Mon livre est sous le lit.",
-        "Mon jouet est derrière le lit."
-      ]
-    },
-    {
-      "id": "listen-die-katze-ist-hinter-dem-schrank",
-      "type": "listen",
-      "l1": "Le chat est derrière l'armoire.",
-      "l2": "Die Katze ist hinter dem Schrank.",
-      "choices_l1": [
-        "Le chat est sous l'armoire.",
-        "Le chat est dans l'armoire.",
-        "Le chien est derrière l'armoire."
-      ]
-    },
-    {
-      "id": "listen-ich-ffne-das-fenster-und-ich-schlie-e-die-t-r",
-      "type": "listen",
-      "l1": "J'ouvre la fenêtre et je ferme la porte.",
-      "l2": "Ich öffne das Fenster und ich schließe die Tür.",
-      "choices_l1": [
-        "Je ferme la fenêtre et j'ouvre la porte.",
-        "J'ouvre la porte et je ferme la fenêtre.",
-        "J'ouvre la fenêtre et la porte."
-      ]
-    },
-    {
-      "id": "listen-ich-r-ume-jetzt-mein-zimmer-auf",
-      "type": "listen",
-      "l1": "Je range ma chambre maintenant.",
-      "l2": "Ich räume jetzt mein Zimmer auf.",
-      "choices_l1": [
-        "Je dors dans ma chambre maintenant.",
-        "Je ne range pas ma chambre.",
-        "Mon frère range sa chambre."
-      ]
-    },
-    {
-      "id": "listen-spielen-wir-verstecken-ja-gern",
-      "type": "listen",
-      "l1": "On joue à cache-cache ? Oui, avec plaisir !",
-      "l2": "Spielen wir Verstecken? Ja, gern!",
-      "choices_l1": [
-        "On joue à cache-cache ? Non, merci !",
-        "On chante ensemble ? Oui, avec plaisir !",
-        "On joue ensemble ? Oui, avec plaisir !"
-      ]
-    },
-    {
-      "id": "blank-mein-spielzeug-ist-unter-dem-bett",
-      "type": "fill-blank",
-      "l1": "Mon jouet est sous le lit.",
-      "l2": "Mein Spielzeug ist unter dem Bett.",
-      "missing_l1": "sous",
-      "missing_l2": "unter",
-      "blank_index_l1": 3,
-      "blank_index_l2": 3,
-      "choices_l1": [
-        "derrière",
-        "sur",
-        "dans"
-      ],
-      "choices_l2": [
-        "hinter",
-        "auf",
-        "nicht"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-die-katze-ist-hinter-dem-schrank",
-      "type": "fill-blank",
-      "l1": "Le chat est derrière l'armoire.",
-      "l2": "Die Katze ist hinter dem Schrank.",
-      "missing_l1": "derrière",
-      "missing_l2": "hinter",
-      "blank_index_l1": 3,
-      "blank_index_l2": 3,
-      "choices_l1": [
-        "sous",
-        "sur",
-        "dans"
-      ],
-      "choices_l2": [
-        "unter",
-        "auf",
-        "jetzt"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-mein-bruder-schl-ft-aber-ich-schlafe-nicht",
-      "type": "fill-blank",
-      "l1": "Mon frère dort, mais moi, je ne dors pas.",
-      "l2": "Mein Bruder schläft, aber ich schlafe nicht.",
-      "missing_l1": "mais",
-      "missing_l2": "nicht",
-      "blank_index_l1": 3,
-      "blank_index_l2": 6,
-      "choices_l1": [
-        "et",
-        "aussi",
-        "ensemble"
-      ],
-      "choices_l2": [
-        "nein",
-        "jetzt",
-        "auch"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-das-sofa-ist-im-wohnzimmer",
-      "type": "fill-blank",
-      "l1": "Le canapé est dans le salon.",
-      "l2": "Das Sofa ist im Wohnzimmer.",
-      "missing_l1": "salon",
-      "missing_l2": "Wohnzimmer",
-      "blank_index_l1": 5,
-      "blank_index_l2": 4,
-      "choices_l1": [
-        "jardin",
-        "chambre",
-        "lit"
-      ],
-      "choices_l2": [
-        "Badezimmer",
-        "Schlafzimmer",
-        "Küche"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "order-mein-spielzeug-ist-unter-dem-bett",
-      "type": "order",
-      "l1": "Mon jouet est sous le lit.",
-      "l2": "Mein Spielzeug ist unter dem Bett.",
-      "tokens_l1": [
-        "Mon",
-        "jouet",
-        "est",
-        "sous",
-        "le lit.",
-        "sur"
-      ],
-      "tokens_l2": [
-        "Mein",
-        "Spielzeug",
-        "ist",
-        "unter",
-        "dem Bett.",
-        "auf"
-      ]
-    },
-    {
-      "id": "order-ich-r-ume-jetzt-mein-zimmer-auf",
-      "type": "order",
-      "l1": "Je range ma chambre maintenant.",
-      "l2": "Ich räume jetzt mein Zimmer auf.",
-      "tokens_l1": [
-        "Je",
-        "range",
-        "ma",
-        "chambre",
-        "maintenant.",
-        "pas"
-      ],
-      "tokens_l2": [
-        "Ich",
-        "räume",
-        "jetzt",
-        "mein",
-        "Zimmer",
-        "auf.",
-        "nicht"
-      ]
-    },
-    {
-      "id": "order-die-katze-ist-hinter-dem-schrank",
-      "type": "order",
-      "l1": "Le chat est derrière l'armoire.",
-      "l2": "Die Katze ist hinter dem Schrank.",
-      "tokens_l1": [
-        "Le",
-        "chat",
-        "est",
-        "derrière",
-        "l'armoire.",
-        "sous"
-      ],
-      "tokens_l2": [
-        "Die",
-        "Katze",
-        "ist",
-        "hinter",
-        "dem Schrank.",
-        "unter"
-      ]
-    },
-    {
       "id": "match-maison",
       "type": "match",
       "l1": [
@@ -415,6 +176,300 @@
         "aufräumen",
         "öffnen",
         "schließen"
+      ]
+    },
+    {
+      "id": "listen-das-badezimmer-ist-dort-das-fenster-ist-klein",
+      "type": "listen",
+      "l1": "La salle de bain est là-bas. La fenêtre est petite.",
+      "l2": "Das Badezimmer ist dort. Das Fenster ist klein.",
+      "choices_l1": [
+        "La salle de bain est là-bas. La fenêtre est grande.",
+        "La cuisine est là-bas. La fenêtre est petite.",
+        "La salle de bain est ici. La fenêtre est petite."
+      ]
+    },
+    {
+      "id": "listen-und-hier-ist-das-wohnzimmer-es-gibt-ein-sofa",
+      "type": "listen",
+      "l1": "Et ici, c'est le salon. Il y a un canapé !",
+      "l2": "Und hier ist das Wohnzimmer. Es gibt ein Sofa!",
+      "choices_l1": [
+        "Et ici, c'est la cuisine. Il y a un canapé !",
+        "Et ici, c'est le salon. Il y a un lit !",
+        "Et là-bas, c'est le salon. Il y a un canapé !"
+      ]
+    },
+    {
+      "id": "listen-das-spielzeug-ist-nicht-im-schrank",
+      "type": "listen",
+      "l1": "Le jouet n'est pas dans l'armoire.",
+      "l2": "Das Spielzeug ist nicht im Schrank.",
+      "choices_l1": [
+        "Le jouet est dans l'armoire.",
+        "Le livre n'est pas dans l'armoire.",
+        "Le jouet n'est pas sur la table."
+      ]
+    },
+    {
+      "id": "listen-die-katze-ist-auf-dem-bett-und-das-spielzeug-ist-unter-dem-bett",
+      "type": "listen",
+      "l1": "Le chat est sur le lit, et le jouet est sous le lit !",
+      "l2": "Die Katze ist auf dem Bett, und das Spielzeug ist unter dem Bett!",
+      "choices_l1": [
+        "Le chat est sous le lit, et le jouet est sur le lit !",
+        "Le chat est sur le lit, et le jouet est dans l'armoire !",
+        "Le chien est sur le lit, et le jouet est sous le lit !"
+      ]
+    },
+    {
+      "id": "listen-ich-ffne-das-fenster",
+      "type": "listen",
+      "l1": "J'ouvre la fenêtre.",
+      "l2": "Ich öffne das Fenster.",
+      "choices_l1": [
+        "Je ferme la fenêtre.",
+        "J'ouvre la porte.",
+        "Tu ouvres la fenêtre."
+      ]
+    },
+    {
+      "id": "listen-ich-schlie-e-die-t-r-es-gibt-viele-b-cher",
+      "type": "listen",
+      "l1": "Je ferme la porte. Il y a plein de livres !",
+      "l2": "Ich schließe die Tür. Es gibt viele Bücher!",
+      "choices_l1": [
+        "J'ouvre la porte. Il y a plein de livres !",
+        "Je ferme la fenêtre. Il y a plein de livres !",
+        "Je ferme la porte. Il y a plein de jouets !"
+      ]
+    },
+    {
+      "id": "listen-nein-ich-schlafe-nicht",
+      "type": "listen",
+      "l1": "Non, je ne dors pas !",
+      "l2": "Nein, ich schlafe nicht!",
+      "choices_l1": [
+        "Oui, je dors !",
+        "Non, tu ne dors pas !",
+        "Non, je ne range pas !"
+      ]
+    },
+    {
+      "id": "blank-wo-ist-das-badezimmer",
+      "type": "fill-blank",
+      "l1": "Où est la salle de bain ?",
+      "l2": "Wo ist das Badezimmer?",
+      "missing_l1": "Où",
+      "missing_l2": "Wo",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Qui",
+        "Et",
+        "Non"
+      ],
+      "choices_l2": [
+        "Gut",
+        "Es",
+        "Ich"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-das-spielzeug-ist-nicht-auf-dem-tisch",
+      "type": "fill-blank",
+      "l1": "Le jouet n'est pas sur la table !",
+      "l2": "Das Spielzeug ist nicht auf dem Tisch!",
+      "missing_l1": "sur",
+      "missing_l2": "auf",
+      "blank_index_l1": 4,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "sous",
+        "dans",
+        "derrière"
+      ],
+      "choices_l2": [
+        "unter",
+        "hinter",
+        "in"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-schlie-e-die-t-r-es-gibt-viele-b-cher",
+      "type": "fill-blank",
+      "l1": "Je ferme la porte. Il y a plein de livres !",
+      "l2": "Ich schließe die Tür. Es gibt viele Bücher!",
+      "missing_l1": "ferme",
+      "missing_l2": "schließe",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "ouvre",
+        "dors",
+        "range"
+      ],
+      "choices_l2": [
+        "öffne",
+        "schlafe",
+        "räume"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-schl-fst-du-tom",
+      "type": "fill-blank",
+      "l1": "Tu dors, Tom ?",
+      "l2": "Schläfst du, Tom?",
+      "missing_l1": "dors",
+      "missing_l2": "Schläfst",
+      "blank_index_l1": 1,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "joues",
+        "as",
+        "ranges"
+      ],
+      "choices_l2": [
+        "Spielst",
+        "Hast",
+        "Wo"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-das-sofa-ist-dort-und-das-bett-ist-im-schlafzimmer",
+      "type": "fill-blank",
+      "l1": "Le canapé est là-bas. Et le lit est dans la chambre.",
+      "l2": "Das Sofa ist dort. Und das Bett ist im Schlafzimmer.",
+      "missing_l1": "chambre",
+      "missing_l2": "Schlafzimmer",
+      "blank_index_l1": 10,
+      "blank_index_l2": 9,
+      "choices_l1": [
+        "cuisine",
+        "cave",
+        "cour"
+      ],
+      "choices_l2": [
+        "Wohnzimmer",
+        "Badezimmer",
+        "Küche"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-ich-ffne-das-fenster",
+      "type": "order",
+      "l1": "J'ouvre la fenêtre.",
+      "l2": "Ich öffne das Fenster.",
+      "tokens_l1": [
+        "J'ouvre",
+        "la",
+        "fenêtre.",
+        "le"
+      ],
+      "tokens_l2": [
+        "Ich",
+        "öffne",
+        "das",
+        "Fenster.",
+        "die"
+      ]
+    },
+    {
+      "id": "order-das-spielzeug-ist-nicht-im-schrank",
+      "type": "order",
+      "l1": "Le jouet n'est pas dans l'armoire.",
+      "l2": "Das Spielzeug ist nicht im Schrank.",
+      "tokens_l1": [
+        "Le",
+        "jouet",
+        "n'est",
+        "pas",
+        "dans",
+        "l'armoire."
+      ],
+      "tokens_l2": [
+        "Das",
+        "Spielzeug",
+        "ist",
+        "nicht",
+        "im",
+        "Schrank."
+      ]
+    },
+    {
+      "id": "order-schl-fst-du-tom",
+      "type": "order",
+      "l1": "Tu dors, Tom ?",
+      "l2": "Schläfst du, Tom?",
+      "tokens_l1": [
+        "Tu",
+        "dors,",
+        "Tom ?"
+      ],
+      "tokens_l2": [
+        "Schläfst",
+        "du,",
+        "Tom?"
+      ]
+    },
+    {
+      "id": "order-danke-kinder-das-wohnzimmer-ist-toll",
+      "type": "order",
+      "l1": "Merci, les enfants ! Le salon est génial !",
+      "l2": "Danke, Kinder! Das Wohnzimmer ist toll!",
+      "tokens_l1": [
+        "Merci,",
+        "les",
+        "enfants !",
+        "Le",
+        "salon",
+        "est",
+        "génial !"
+      ],
+      "tokens_l2": [
+        "Danke,",
+        "Kinder!",
+        "Das",
+        "Wohnzimmer",
+        "ist",
+        "toll!"
+      ]
+    },
+    {
+      "id": "match-cartes-1",
+      "type": "match",
+      "l1": [
+        "Où est mon jouet ?",
+        "Tu dors, Tom ?",
+        "J'ouvre la fenêtre.",
+        "Merci ! Tu es top !"
+      ],
+      "l2": [
+        "Wo ist mein Spielzeug?",
+        "Schläfst du, Tom?",
+        "Ich öffne das Fenster.",
+        "Danke! Du bist toll!"
+      ]
+    },
+    {
+      "id": "match-cartes-2",
+      "type": "match",
+      "l1": [
+        "Le jouet n'est pas dans l'armoire.",
+        "Le jouet n'est pas sur la table !",
+        "Non, je ne dors pas !",
+        "Où est la salle de bain ?"
+      ],
+      "l2": [
+        "Das Spielzeug ist nicht im Schrank.",
+        "Das Spielzeug ist nicht auf dem Tisch!",
+        "Nein, ich schlafe nicht!",
+        "Wo ist das Badezimmer?"
       ]
     }
   ]

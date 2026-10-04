@@ -54,6 +54,7 @@
     "voice": "Voix",
     "voice_automatic": "Automatique",
     "playback_speed": "Vitesse de lecture",
+    "playback_speed_native": "Vitesse de lecture ({lang})",
     "slow_playback_speed": "Lecture lente",
     "of_normal_speed": "de la vitesse normale",
     "settings_audio": "Son",

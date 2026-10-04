@@ -39,51 +39,127 @@
 
 ---
 
-## Les phrases
+## Des mini-dialogues pour tout mélanger
 
-! Ich habe einen Hamster und ein Kaninchen.
-> J'ai un hamster et un lapin.
+### Scène 1 — Les animaux de la maison
 
-! Auf dem Bauernhof gibt es Kühe, Schweine und Hühner.
-> À la ferme, il y a des vaches, des cochons et des poules.
-> gibt es = il y a
+{{fr:Tom te demande si tu as un animal de compagnie. Lea aussi veut tout savoir !}}
 
-! Die Kuh macht Muh.
-> La vache fait meuh.
+! 🐨 Hast du ein Haustier?
+> Tu as un animal de compagnie ?
+> Hast du = tu as
+> ein Haustier = un animal de compagnie
 
-! Der Elefant ist größer als das Pferd.
-> L'éléphant est plus grand que le cheval.
-> größer als = plus grand que
+! 🦊 Ich habe einen Hamster. Mein Hamster ist klein.
+> J'ai un hamster. Mon hamster est petit.
+> Ich habe = j'ai
+> einen Hamster = un hamster
+> Mein Hamster ist klein = mon hamster est petit
 
-! Der Löwe ist stark.
-> Le lion est fort.
+! 🐨 Ich habe kein Haustier, aber Lea hat eine Katze.
+> Moi, je n'ai pas d'animal, mais Lea a un chat.
+> kein Haustier = pas d'animal
+> aber = mais
+> Lea hat = Lea a
+> eine Katze = un chat
 
-! Das Pferd läuft schnell.
-> Le cheval court vite.
+! 🐰 Meine Katze läuft schnell!
+> Mon chat court vite !
+> Meine Katze = mon chat
 > läuft = court
+> schnell = vite
 
-! Die Vögel fliegen.
-> Les oiseaux volent.
-> Die Vögel = les oiseaux
+! 🐨 Toll! Die Katze ist süß!
+> Génial ! Le chat est mignon !
+> Toll = génial
+> süß = mignon
 
-! Der Fisch schwimmt im Wasser.
-> Le poisson nage dans l'eau.
-> schwimmt = nage
+---
 
-! Das Kaninchen springt im Garten.
-> Le lapin saute dans le jardin.
+### Scène 2 — À la ferme
+
+{{fr:Lea et toi visitez une ferme. Quels animaux allez-vous voir ?}}
+
+! 🐰 Die Kuh macht Muh! Das Schaf ist auf dem Bauernhof.
+> La vache fait meuh ! Le mouton est à la ferme.
+> Die Kuh macht Muh = la vache fait meuh
+> Das Schaf = le mouton
+> auf dem Bauernhof = à la ferme
+
+! 🦊 Das Pferd ist groß und läuft schnell!
+> Le cheval est grand et court vite !
+> Das Pferd = le cheval
+> groß = grand
+> läuft schnell = court vite
+
+! 🐰 Ich mag Pferde. Und du?
+> Moi, j'aime bien les chevaux. Et toi ?
+> Ich mag = j'aime bien
+> Pferde = les chevaux
+> Und du = et toi
+
+! 🦊 Ich mag die Hühner. Sie sind klein!
+> Moi, j'aime bien les poules. Elles sont petites !
+> die Hühner = les poules
+> Sie sind klein = elles sont petites
+
+---
+
+### Scène 3 — Au zoo, qui est le plus fort ?
+
+{{fr:Au zoo, Tom et toi comparez les animaux.}}
+
+! 🐨 Schau mal! Der Elefant ist groß!
+> Regarde ! L'éléphant est grand !
+> Schau mal = regarde
+> Der Elefant ist groß = l'éléphant est grand
+
+! 🦊 Der Elefant ist größer als das Pferd!
+> L'éléphant est plus grand que le cheval !
+> größer als = plus grand que
+> das Pferd = le cheval
+
+! 🐨 Der Löwe ist stark, aber der Affe ist lustig!
+> Le lion est fort, mais le singe est drôle !
+> Der Löwe ist stark = le lion est fort
+> der Affe ist lustig = le singe est drôle
+
+! 🦊 Ich mag Affen. Sie springen!
+> J'aime bien les singes. Ils sautent !
+> Ich mag Affen = j'aime bien les singes
+> Sie springen = ils sautent
+
+! 🐨 Ich mag Löwen. Sie sind stark!
+> Moi, j'aime bien les lions. Ils sont forts !
+> Ich mag Löwen = j'aime bien les lions
+> Sie sind stark = ils sont forts
+
+---
+
+### Scène 4 — Au mini-zoo
+
+{{fr:Oma Hilde te laisse nourrir les animaux du mini-zoo.}}
+
+! 🦉 Hallo, Kinder! Das Schaf frisst.
+> Salut, les enfants ! Le mouton mange.
+> Hallo, Kinder = salut, les enfants
+> Das Schaf frisst = le mouton mange
+
+! 🐰 Das Schaf frisst, aber ich esse Obst!
+> Le mouton mange, mais moi, je mange des fruits !
+> aber = mais
+> ich esse Obst = je mange des fruits
+
+! 🦊 Schau mal, das Kaninchen springt!
+> Regarde, le lapin saute !
+> Schau mal = regarde
+> das Kaninchen = le lapin
 > springt = saute
 
-! Die Katze frisst.
-> Le chat mange.
-> frisst = mange (animal)
-
-! Schau mal, ein Affe!
-> Regarde, un singe !
-> Schau mal = regarde
-
-! Der Streichelzoo ist toll!
-> Le mini-zoo, c'est génial !
+! 🦉 Das Schaf ist toll, Kinder! Bis bald!
+> Le mouton est génial, les enfants ! À bientôt !
+> Das Schaf ist toll = le mouton est génial
+> Bis bald = à bientôt
 
 ---
 
