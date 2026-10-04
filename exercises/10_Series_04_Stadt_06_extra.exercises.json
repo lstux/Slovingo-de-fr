@@ -115,238 +115,6 @@
       ]
     },
     {
-      "id": "listen-wo-ist-das-schwimmbad",
-      "type": "listen",
-      "l1": "Où est la piscine ?",
-      "l2": "Wo ist das Schwimmbad?",
-      "choices_l1": [
-        "Où est le parc ?",
-        "Où est l'école ?",
-        "C'est la piscine."
-      ]
-    },
-    {
-      "id": "listen-geh-geradeaus-dann-nach-rechts",
-      "type": "listen",
-      "l1": "Va tout droit, ensuite à droite.",
-      "l2": "Geh geradeaus, dann nach rechts.",
-      "choices_l1": [
-        "Va tout droit, ensuite à gauche.",
-        "Va à droite, ensuite tout droit.",
-        "Va à gauche, ensuite à droite."
-      ]
-    },
-    {
-      "id": "listen-die-eisdiele-ist-neben-dem-park",
-      "type": "listen",
-      "l1": "Le glacier est à côté du parc.",
-      "l2": "Die Eisdiele ist neben dem Park.",
-      "choices_l1": [
-        "Le glacier est dans le parc.",
-        "Le glacier est à côté de l'école.",
-        "Le parc est derrière le glacier."
-      ]
-    },
-    {
-      "id": "listen-ist-die-schule-weit-nein-wir-gehen-zu-fu",
-      "type": "listen",
-      "l1": "L'école, c'est loin ? Non, on y va à pied.",
-      "l2": "Ist die Schule weit? Nein, wir gehen zu Fuß.",
-      "choices_l1": [
-        "L'école, c'est loin ? Oui, on y va en bus.",
-        "Le parc, c'est loin ? Non, on y va à pied.",
-        "L'école, c'est grand ? Non, on y va à pied."
-      ]
-    },
-    {
-      "id": "listen-was-kostet-eine-brezel",
-      "type": "listen",
-      "l1": "Combien coûte un bretzel ?",
-      "l2": "Was kostet eine Brezel?",
-      "choices_l1": [
-        "Combien coûte une glace ?",
-        "Tu veux un bretzel ?",
-        "J'achète un bretzel."
-      ]
-    },
-    {
-      "id": "listen-das-kostet-einen-euro",
-      "type": "listen",
-      "l1": "Ça coûte un euro.",
-      "l2": "Das kostet einen Euro.",
-      "choices_l1": [
-        "Ça coûte deux euros.",
-        "Ça coûte dix euros.",
-        "Ça coûte trois euros."
-      ]
-    },
-    {
-      "id": "listen-ich-treffe-tom-im-park",
-      "type": "listen",
-      "l1": "Je retrouve Tom au parc.",
-      "l2": "Ich treffe Tom im Park.",
-      "choices_l1": [
-        "Je vois Tom au parc.",
-        "Je retrouve Lea au parc.",
-        "Je retrouve Tom à l'école."
-      ]
-    },
-    {
-      "id": "listen-ich-habe-mich-verlaufen",
-      "type": "listen",
-      "l1": "Je ne trouve plus mon chemin !",
-      "l2": "Ich habe mich verlaufen!",
-      "choices_l1": [
-        "Je ne trouve plus mon livre !",
-        "Je n'ai plus faim !",
-        "Je vais à pied !"
-      ]
-    },
-    {
-      "id": "blank-ich-fahre-mit-dem-fahrrad",
-      "type": "fill-blank",
-      "l1": "Je vais à vélo.",
-      "l2": "Ich fahre mit dem Fahrrad.",
-      "missing_l1": "vélo",
-      "missing_l2": "fahre",
-      "blank_index_l1": 3,
-      "blank_index_l2": 1,
-      "choices_l1": [
-        "pied",
-        "bus",
-        "parc"
-      ],
-      "choices_l2": [
-        "gehe",
-        "sehe",
-        "kaufe"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-geh-geradeaus-dann-nach-rechts",
-      "type": "fill-blank",
-      "l1": "Va tout droit, ensuite à droite.",
-      "l2": "Geh geradeaus, dann nach rechts.",
-      "missing_l1": "ensuite",
-      "missing_l2": "dann",
-      "blank_index_l1": 3,
-      "blank_index_l2": 2,
-      "choices_l1": [
-        "et",
-        "mais",
-        "pas"
-      ],
-      "choices_l2": [
-        "und",
-        "aber",
-        "nicht"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-ich-kaufe-brot-in-der-b-ckerei",
-      "type": "fill-blank",
-      "l1": "J'achète du pain à la boulangerie.",
-      "l2": "Ich kaufe Brot in der Bäckerei.",
-      "missing_l1": "boulangerie",
-      "missing_l2": "Bäckerei",
-      "blank_index_l1": 5,
-      "blank_index_l2": 5,
-      "choices_l1": [
-        "piscine",
-        "école",
-        "cuisine"
-      ],
-      "choices_l2": [
-        "Eisdiele",
-        "Schule",
-        "Küche"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-siehst-du-den-bus",
-      "type": "fill-blank",
-      "l1": "Tu vois le bus ?",
-      "l2": "Siehst du den Bus?",
-      "missing_l1": "bus",
-      "missing_l2": "Bus",
-      "blank_index_l1": 3,
-      "blank_index_l2": 3,
-      "choices_l1": [
-        "parc",
-        "jardin",
-        "chien"
-      ],
-      "choices_l2": [
-        "Park",
-        "Garten",
-        "Hund"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "order-geh-geradeaus-dann-nach-rechts",
-      "type": "order",
-      "l1": "Va tout droit, ensuite à droite.",
-      "l2": "Geh geradeaus, dann nach rechts.",
-      "tokens_l1": [
-        "Va",
-        "tout droit,",
-        "ensuite",
-        "à droite.",
-        "à gauche."
-      ],
-      "tokens_l2": [
-        "Geh",
-        "geradeaus,",
-        "dann",
-        "nach rechts.",
-        "links."
-      ]
-    },
-    {
-      "id": "order-ich-treffe-tom-im-park",
-      "type": "order",
-      "l1": "Je retrouve Tom au parc.",
-      "l2": "Ich treffe Tom im Park.",
-      "tokens_l1": [
-        "Je",
-        "retrouve",
-        "Tom",
-        "au parc.",
-        "achète"
-      ],
-      "tokens_l2": [
-        "Ich",
-        "treffe",
-        "Tom",
-        "im Park.",
-        "kaufe"
-      ]
-    },
-    {
-      "id": "order-die-eisdiele-ist-neben-dem-park",
-      "type": "order",
-      "l1": "Le glacier est à côté du parc.",
-      "l2": "Die Eisdiele ist neben dem Park.",
-      "tokens_l1": [
-        "Le glacier",
-        "est",
-        "à côté",
-        "du parc.",
-        "dans"
-      ],
-      "tokens_l2": [
-        "Die Eisdiele",
-        "ist",
-        "neben",
-        "dem Park.",
-        "unter"
-      ]
-    },
-    {
       "id": "match-lieux",
       "type": "match",
       "l1": [
@@ -392,6 +160,299 @@
         "rechts",
         "geradeaus",
         "dann"
+      ]
+    },
+    {
+      "id": "listen-ich-bin-in-der-b-ckerei-und-du",
+      "type": "listen",
+      "l1": "Je suis à la boulangerie. Et toi ?",
+      "l2": "Ich bin in der Bäckerei. Und du?",
+      "choices_l1": [
+        "Je suis à l'école. Et toi ?",
+        "Je suis à la boulangerie. Et lui ?",
+        "Tu es à la boulangerie. Et moi ?"
+      ]
+    },
+    {
+      "id": "listen-ich-bin-im-park-der-park-ist-neben-der-b-ckerei",
+      "type": "listen",
+      "l1": "Moi, je suis dans le parc. Le parc est à côté de la boulangerie !",
+      "l2": "Ich bin im Park. Der Park ist neben der Bäckerei!",
+      "choices_l1": [
+        "Moi, je suis dans le parc. Le parc est à côté de l'école !",
+        "Moi, je suis à la piscine. Le parc est à côté de la boulangerie !",
+        "Moi, je suis dans le parc. Le parc est loin de la boulangerie !"
+      ]
+    },
+    {
+      "id": "listen-nein-ich-fahre-mit-dem-fahrrad-und-du",
+      "type": "listen",
+      "l1": "Non, j'y vais à vélo. Et toi ?",
+      "l2": "Nein, ich fahre mit dem Fahrrad. Und du?",
+      "choices_l1": [
+        "Oui, j'y vais à vélo. Et toi ?",
+        "Non, j'y vais en bus. Et toi ?",
+        "Non, j'y vais à pied. Et toi ?"
+      ]
+    },
+    {
+      "id": "listen-ich-gehe-zu-fu-die-schule-ist-nicht-weit",
+      "type": "listen",
+      "l1": "J'y vais à pied. L'école n'est pas loin !",
+      "l2": "Ich gehe zu Fuß. Die Schule ist nicht weit!",
+      "choices_l1": [
+        "J'y vais à vélo. L'école n'est pas loin !",
+        "J'y vais à pied. L'école est loin !",
+        "J'y vais à pied. Le parc n'est pas loin !"
+      ]
+    },
+    {
+      "id": "listen-geh-geradeaus-dann-nach-rechts",
+      "type": "listen",
+      "l1": "Va tout droit. Ensuite, à droite.",
+      "l2": "Geh geradeaus. Dann nach rechts.",
+      "choices_l1": [
+        "Va tout droit. Ensuite, à gauche.",
+        "Tourne à droite. Ensuite, tout droit.",
+        "Va à pied. Ensuite, à droite."
+      ]
+    },
+    {
+      "id": "listen-nein-nicht-links-rechts-das-schwimmbad-ist-neben-der-schule",
+      "type": "listen",
+      "l1": "Non, pas à gauche, à droite ! La piscine est à côté de l'école.",
+      "l2": "Nein, nicht links, rechts! Das Schwimmbad ist neben der Schule.",
+      "choices_l1": [
+        "Non, pas à droite, à gauche ! La piscine est à côté de l'école.",
+        "Non, pas à gauche, à droite ! La piscine est à côté du parc.",
+        "Oui, à gauche ! La piscine est à côté de l'école."
+      ]
+    },
+    {
+      "id": "listen-das-kostet-drei-euro",
+      "type": "listen",
+      "l1": "Ça coûte trois euros.",
+      "l2": "Das kostet drei Euro.",
+      "choices_l1": [
+        "Ça coûte deux euros.",
+        "Ça coûte dix euros.",
+        "Ça coûte trois dollars."
+      ]
+    },
+    {
+      "id": "blank-wo-bist-du",
+      "type": "fill-blank",
+      "l1": "Où es-tu ?",
+      "l2": "Wo bist du?",
+      "missing_l1": "es-tu",
+      "missing_l2": "bist",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "as-tu",
+        "est-il",
+        "suis-je"
+      ],
+      "choices_l2": [
+        "ist",
+        "bin",
+        "hast"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-entschuldigung-wo-ist-das-schwimmbad",
+      "type": "fill-blank",
+      "l1": "Pardon, où est la piscine ?",
+      "l2": "Entschuldigung, wo ist das Schwimmbad?",
+      "missing_l1": "piscine",
+      "missing_l2": "Schwimmbad",
+      "blank_index_l1": 4,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "boulangerie",
+        "école",
+        "maison"
+      ],
+      "choices_l2": [
+        "Eisdiele",
+        "Bäckerei",
+        "Schule"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-nein-nicht-links-rechts-das-schwimmbad-ist-neben-der-schule",
+      "type": "fill-blank",
+      "l1": "Non, pas à gauche, à droite ! La piscine est à côté de l'école.",
+      "l2": "Nein, nicht links, rechts! Das Schwimmbad ist neben der Schule.",
+      "missing_l1": "gauche",
+      "missing_l2": "links",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "droite",
+        "loin",
+        "vite"
+      ],
+      "choices_l2": [
+        "rechts",
+        "geradeaus",
+        "weit"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-was-kostet-das",
+      "type": "fill-blank",
+      "l1": "Combien ça coûte ?",
+      "l2": "Was kostet das?",
+      "missing_l1": "coûte",
+      "missing_l2": "kostet",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "achète",
+        "a",
+        "va"
+      ],
+      "choices_l2": [
+        "hat",
+        "kauft",
+        "gibt"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-habe-kein-geld",
+      "type": "fill-blank",
+      "l1": "Je n'ai pas d'argent !",
+      "l2": "Ich habe kein Geld!",
+      "missing_l1": "pas",
+      "missing_l2": "kein",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "très",
+        "trop",
+        "aussi"
+      ],
+      "choices_l2": [
+        "nicht",
+        "nein",
+        "auch"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-was-kostet-das",
+      "type": "order",
+      "l1": "Combien ça coûte ?",
+      "l2": "Was kostet das?",
+      "tokens_l1": [
+        "Combien",
+        "ça",
+        "coûte ?"
+      ],
+      "tokens_l2": [
+        "Was",
+        "kostet",
+        "das?"
+      ]
+    },
+    {
+      "id": "order-ich-habe-geld-ich-kaufe-ein-eis",
+      "type": "order",
+      "l1": "J'ai de l'argent. J'achète une glace !",
+      "l2": "Ich habe Geld. Ich kaufe ein Eis!",
+      "tokens_l1": [
+        "J'ai",
+        "de l'argent.",
+        "J'achète",
+        "une glace !"
+      ],
+      "tokens_l2": [
+        "Ich",
+        "habe",
+        "Geld.",
+        "Ich",
+        "kaufe",
+        "ein",
+        "Eis!"
+      ]
+    },
+    {
+      "id": "order-geh-geradeaus-dann-nach-rechts",
+      "type": "order",
+      "l1": "Va tout droit. Ensuite, à droite.",
+      "l2": "Geh geradeaus. Dann nach rechts.",
+      "tokens_l1": [
+        "Va",
+        "tout droit.",
+        "Ensuite,",
+        "à droite."
+      ],
+      "tokens_l2": [
+        "Geh",
+        "geradeaus.",
+        "Dann",
+        "nach",
+        "rechts."
+      ]
+    },
+    {
+      "id": "order-ich-gehe-zu-fu-die-schule-ist-nicht-weit",
+      "type": "order",
+      "l1": "J'y vais à pied. L'école n'est pas loin !",
+      "l2": "Ich gehe zu Fuß. Die Schule ist nicht weit!",
+      "tokens_l1": [
+        "J'y vais",
+        "à pied.",
+        "L'école",
+        "n'est pas",
+        "loin !"
+      ],
+      "tokens_l2": [
+        "Ich",
+        "gehe",
+        "zu Fuß.",
+        "Die",
+        "Schule",
+        "ist",
+        "nicht",
+        "weit!"
+      ]
+    },
+    {
+      "id": "match-cartes-1",
+      "type": "match",
+      "l1": [
+        "Où es-tu ?",
+        "Tu y vas en bus ?",
+        "À gauche ?",
+        "Combien ça coûte ?"
+      ],
+      "l2": [
+        "Wo bist du?",
+        "Fährst du mit dem Bus?",
+        "Nach links?",
+        "Was kostet das?"
+      ]
+    },
+    {
+      "id": "match-cartes-2",
+      "type": "match",
+      "l1": [
+        "Pardon, où est la piscine ?",
+        "On va dans le parc !",
+        "Je n'ai pas d'argent !",
+        "Merci, Tom ! Au revoir !"
+      ],
+      "l2": [
+        "Entschuldigung, wo ist das Schwimmbad?",
+        "Wir gehen in den Park!",
+        "Ich habe kein Geld!",
+        "Danke, Tom! Tschüss!"
       ]
     }
   ]

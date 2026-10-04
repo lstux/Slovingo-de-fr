@@ -39,52 +39,125 @@
 
 ---
 
-## Les phrases
+## Des mini-dialogues pour tout mélanger
 
-! Wollen wir spielen?
-> On joue ?
-> Wollen wir = on… ?
+### Scène 1 — Un match de foot
 
-! Ich spiele mit dem Ball.
-> Je joue avec le ballon.
-> mit dem Ball = avec le ballon
+{{fr:Au parc, Tom propose un match de foot. Il faut former une équipe !}}
 
-! Oh nein, die Puppe ist kaputt!
-> Oh non, la poupée est cassée !
-> kaputt = cassée
+! 🐨 Wollen wir Fußball spielen?
+> On joue au foot ?
+> Wollen wir = on … ? (pour proposer)
+> Fußball spielen = jouer au foot
 
-! Wir spielen Fangen auf dem Spielplatz.
-> On joue au chat à l'aire de jeux.
-> auf dem Spielplatz = à l'aire de jeux
+! 🦊 Ja, ich mache mit!
+> Oui, je joue aussi !
+> Ja = oui
+> ich mache mit = je joue aussi
 
-! Kannst du klettern?
-> Tu sais grimper ?
-> Kannst du = tu sais
+! 🐰 Wir sind eine Mannschaft, [USER_NAME]!
+> On est une équipe, [USER_NAME] !
+> Wir sind = on est
+> eine Mannschaft = une équipe
 
-! Wer ist dran? Ich bin dran!
-> C'est à qui ? C'est à moi !
+! 🐨 Tor! Glückwunsch, Lea!
+> But ! Bravo, Lea !
+> Tor = but
+> Glückwunsch = bravo
 
-! Würfle! Fünf!
-> Lance le dé ! Cinq !
+---
+
+### Scène 2 — Sur l'aire de jeux
+
+{{fr:Lea et toi courez vers l'aire de jeux. Par quoi commencer ?}}
+
+! 🐰 Wir gehen auf den Spielplatz! Die Schaukel ist frei!
+> On va sur l'aire de jeux ! La balançoire est libre !
+> Wir gehen auf den Spielplatz = on va sur l'aire de jeux
+> Die Schaukel = la balançoire
+> frei = libre
+
+! 🦊 Die Rutsche ist sehr groß! Ich klettere gern.
+> Le toboggan est très grand ! J'aime grimper.
+> Die Rutsche = le toboggan
+> sehr groß = très grand
+> Ich klettere gern = j'aime grimper
+
+! 🐰 Spielen wir Fangen?
+> On joue à chat ?
+> Spielen wir = on joue ? (pour proposer)
+> Fangen = au jeu du chat
+
+! 🦊 Ja, gern! Du bist dran!
+> Oui, avec plaisir ! C'est à toi !
+> Ja, gern = oui, avec plaisir
+> Du bist dran = c'est à toi
+
+---
+
+### Scène 3 — Le puzzle perdu
+
+{{fr:Oh non ! Le cerf-volant de Tom est cassé. Que faire à la place ?}}
+
+! 🐨 Oh nein, der Drachen ist kaputt!
+> Oh non, le cerf-volant est cassé !
+> Oh nein = oh non
+> der Drachen = le cerf-volant
+> kaputt = cassé
+
+! 🐰 Wir machen ein Puzzle!
+> On fait un puzzle !
+> Wir machen = on fait
+> ein Puzzle = un puzzle
+
+! 🐨 Gut! Wo ist das Puzzle?
+> Bien ! Où est le puzzle ?
+> Gut = bien
+> Wo ist = où est
+
+! 🦊 Das Puzzle ist unter dem Bett!
+> Le puzzle est sous le lit !
+> Das Puzzle ist = le puzzle est
+> unter dem Bett = sous le lit
+
+! 🐰 Super! Wir spielen jetzt zusammen.
+> Super ! Maintenant, on joue ensemble.
+> Super = super
+> Wir spielen = on joue
+> jetzt zusammen = maintenant ensemble
+
+---
+
+### Scène 4 — Un jeu de dés
+
+{{fr:Il pleut ! On sort le jeu de société et le dé.}}
+
+! 🐰 Wer ist dran? Du bist dran, [USER_NAME]! Würfle!
+> C'est à qui ? C'est à toi, [USER_NAME] ! Lance le dé !
+> Wer ist dran = c'est à qui
+> Du bist dran = c'est à toi
 > Würfle = lance le dé
 
-! Ich gewinne nicht, ich verliere.
-> Je ne gagne pas, je perds.
-> ich verliere = je perds
+! 🦊 Ich würfle… Fünf!
+> Je lance le dé… Cinq !
+> Ich würfle = je lance le dé
+> Fünf = cinq
 
-! Machst du mit? Wir sind eine Mannschaft.
-> Tu joues avec nous ? On est une équipe.
+! 🐨 Du kannst gut würfeln!
+> Tu sais bien lancer le dé !
+> Du kannst = tu sais
+> gut würfeln = bien lancer le dé
 
-! Tor! Glückwunsch!
-> But ! Bravo !
+! 🦊 Ich verliere nicht gern. Ich gewinne!
+> Je n'aime pas perdre. Je gagne !
+> Ich verliere nicht gern = je n'aime pas perdre
+> Ich gewinne = je gagne
 
-! Es regnet. Wollen wir ein Puzzle machen?
-> Il pleut. On fait un puzzle ?
-> Es regnet = il pleut
-
-! Klar! Spielen wir noch einmal?
-> Bien sûr ! On en refait une ?
-> Klar = bien sûr
+! 🐰 Glückwunsch! Wollen wir noch einmal spielen?
+> Bravo ! On rejoue une fois ?
+> Glückwunsch = bravo
+> Wollen wir = on … ? (pour proposer)
+> noch einmal = encore une fois
 
 ---
 

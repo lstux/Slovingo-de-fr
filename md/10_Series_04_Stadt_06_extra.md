@@ -38,55 +38,123 @@
 
 ---
 
-## Les phrases
+## Des mini-dialogues pour tout mélanger
 
-! Wo ist das Schwimmbad?
-> Où est la piscine ?
+### Scène 1 — Où es-tu ?
+
+{{fr:Tom t'appelle : il veut savoir où tu es en ville.}}
+
+! 🐨 Wo bist du?
+> Où es-tu ?
+> Wo = où
+> bist du = es-tu
+
+! 🦊 Ich bin in der Bäckerei. Und du?
+> Je suis à la boulangerie. Et toi ?
+> Ich bin = je suis
+> in der Bäckerei = à la boulangerie
+> Und du = et toi
+
+! 🐨 Ich bin im Park. Der Park ist neben der Bäckerei!
+> Moi, je suis dans le parc. Le parc est à côté de la boulangerie !
+> im Park = dans le parc
+> neben der Bäckerei = à côté de la boulangerie
+
+! 🦊 Ich sehe den Park! Ich gehe zu Fuß.
+> Je vois le parc ! J'y vais à pied.
+> Ich sehe = je vois
+> den Park = le parc
+> zu Fuß = à pied
+
+---
+
+### Scène 2 — Comment aller à l'école ?
+
+{{fr:Lea et toi parlez de votre trajet du matin.}}
+
+! 🐰 Fährst du mit dem Bus?
+> Tu y vas en bus ?
+> Fährst du = tu y vas (en roulant)
+> mit dem Bus = en bus
+
+! 🦊 Nein, ich fahre mit dem Fahrrad. Und du?
+> Non, j'y vais à vélo. Et toi ?
+> ich fahre = j'y vais (en roulant)
+> mit dem Fahrrad = à vélo
+> Und du = et toi
+
+! 🐰 Ich gehe zu Fuß. Die Schule ist nicht weit!
+> J'y vais à pied. L'école n'est pas loin !
+> Ich gehe zu Fuß = j'y vais à pied
+> nicht weit = pas loin
+
+! 🦊 Wir gehen in den Park!
+> On va dans le parc !
+> Wir gehen = on y va (à pied)
+> in den Park = dans le parc
+
+---
+
+### Scène 3 — Où est la piscine ?
+
+{{fr:Tu cherches la piscine. Tom t'explique le chemin.}}
+
+! 🦊 Entschuldigung, wo ist das Schwimmbad?
+> Pardon, où est la piscine ?
+> Entschuldigung = pardon
+> wo ist = où est
 > das Schwimmbad = la piscine
 
-! Geh geradeaus, dann nach rechts.
-> Va tout droit, ensuite à droite.
+! 🐨 Geh geradeaus. Dann nach rechts.
+> Va tout droit. Ensuite, à droite.
+> Geh geradeaus = va tout droit
+> Dann = ensuite
 > nach rechts = à droite
 
-! Die Eisdiele ist neben dem Park.
-> Le glacier est à côté du parc.
-> neben dem Park = à côté du parc
+! 🦊 Nach links?
+> À gauche ?
+> nach links = à gauche
 
-! Ich fahre mit dem Fahrrad.
-> Je vais à vélo.
-> mit dem Fahrrad = à vélo
+! 🐨 Nein, nicht links, rechts! Das Schwimmbad ist neben der Schule.
+> Non, pas à gauche, à droite ! La piscine est à côté de l'école.
+> nicht links, rechts = pas à gauche, à droite
+> neben der Schule = à côté de l'école
 
-! Der Bus kommt!
-> Le bus arrive !
-> kommt = arrive
+! 🦊 Danke, Tom! Tschüss!
+> Merci, Tom ! Au revoir !
+> Danke = merci
+> Tschüss = au revoir
 
-! Ist die Schule weit? Nein, wir gehen zu Fuß.
-> L'école, c'est loin ? Non, on y va à pied.
-> weit = loin
-> wir gehen zu Fuß = on y va à pied
+---
 
-! Was kostet eine Brezel?
-> Combien coûte un bretzel ?
-> Was kostet = combien coûte
+### Scène 4 — Une glace pour trois
 
-! Das kostet einen Euro.
-> Ça coûte un euro.
-> einen Euro = un euro
+{{fr:Il fait chaud ! Tout le monde veut une glace. Mais qui a de l'argent ?}}
 
-! Ich kaufe Brot in der Bäckerei.
-> J'achète du pain à la boulangerie.
+! 🐰 Ich habe Geld. Ich kaufe ein Eis!
+> J'ai de l'argent. J'achète une glace !
+> Ich habe Geld = j'ai de l'argent
 > Ich kaufe = j'achète
+> ein Eis = une glace
 
-! Siehst du den Bus?
-> Tu vois le bus ?
-> Siehst du = tu vois
+! 🦊 Was kostet das?
+> Combien ça coûte ?
+> Was kostet das = combien ça coûte
 
-! Ich treffe Tom im Park.
-> Je retrouve Tom au parc.
-> Ich treffe = je retrouve
+! 🐰 Das kostet drei Euro.
+> Ça coûte trois euros.
+> Das kostet = ça coûte
+> drei Euro = trois euros
 
-! Ich habe mich verlaufen!
-> Je ne trouve plus mon chemin !
+! 🐨 Ich habe kein Geld!
+> Je n'ai pas d'argent !
+> Ich habe = j'ai
+> kein Geld = pas d'argent
+
+! 🦊 Kein Problem! Ich habe Geld.
+> Pas de problème ! J'ai de l'argent.
+> Kein Problem = pas de problème
+> Ich habe Geld = j'ai de l'argent
 
 ---
 

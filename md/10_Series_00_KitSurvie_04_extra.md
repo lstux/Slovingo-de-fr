@@ -31,61 +31,92 @@
 
 ---
 
-## Les phrases
+## Des mini-dialogues pour tout mélanger
 
-! Hallo! Wie geht's?
-> Salut ! Ça va ?
-> Hallo = salut
-> Wie geht's = ça va
+### Scène 1 — Un goûter chez Lea
 
-! Gut, danke!
-> Bien, merci !
-> Gut = bien
-> danke = merci
+{{fr:Lea te propose un goûter. Dis oui ou non, poliment !}}
 
-! Guten Tag! Tschüss!
-> Bonjour ! Au revoir !
-> Guten Tag = bonjour
-> Tschüss = au revoir
+! 🐰 Pizza, [USER_NAME]?
+> De la pizza, [USER_NAME] ?
 
-! Nein, danke. Ja, bitte.
-> Non, merci. Oui, s'il te plaît.
+! 🦊 Nein, danke. Banane, bitte!
+> Non, merci. Une banane, s'il te plaît !
 > Nein, danke = non, merci
-> Ja, bitte = oui, s'il te plaît
+> Banane, bitte = une banane, s'il te plaît
 
-! Entschuldigung, ich verstehe nicht.
-> Pardon, je ne comprends pas.
+! 🐰 Gut! Wasser, [USER_NAME]?
+> Bien ! De l'eau, [USER_NAME] ?
+> Gut = bien
+> Wasser = de l'eau
+
+! 🦊 Ja, bitte!
+> Oui, s'il te plaît !
+> Ja = oui
+> bitte = s'il te plaît
+
+! 🦊 Danke, Lea!
+> Merci, Lea !
+
+! 🐰 Bitte!
+> De rien !
++ Quelqu'un dit {{danke}}, tu réponds {{bitte}}.
+
+---
+
+### Scène 2 — On se présente
+
+{{fr:Tu croises Lea dans la cour. Vous ne vous connaissez pas encore : présente-toi !}}
+
+! 🦊 Entschuldigung, wie heißt du?
+> Pardon, comment tu t'appelles ?
 > Entschuldigung = pardon
-> ich verstehe nicht = je ne comprends pas
+> wie heißt du = comment tu t'appelles
 
-! Ich auch!
-> Moi aussi !
-> Ich = moi
-> auch = aussi
+! 🐰 Ich heiße Lea. Wie heißt du?
+> Je m'appelle Lea. Comment tu t'appelles ?
+> Ich heiße = je m'appelle
+> Wie heißt du = comment tu t'appelles
 
-! Sprichst du Französisch?
-> Tu parles français ?
+! 🦊 Ich heiße [USER_NAME]. Hallo, Lea!
+> Je m'appelle [USER_NAME]. Salut, Lea !
+> Ich heiße = je m'appelle
+> Hallo = salut
+
+! 🐰 Hallo, [USER_NAME]! Sprichst du Deutsch?
+> Salut, [USER_NAME] ! Tu parles allemand ?
 > Sprichst du = tu parles
+> Deutsch = allemand
+
+! 🦊 Nein, ich spreche Französisch.
+> Non, je parle français.
+> Nein = non
+> ich spreche = je parle
 > Französisch = français
 
-! Ich spreche kein Deutsch.
-> Je ne parle pas allemand.
-> Ich spreche = je parle
-> kein Deutsch = pas d'allemand
+! 🐰 Kein Problem, [USER_NAME]! Ich spreche Deutsch.
+> Pas de problème, [USER_NAME] ! Je parle allemand.
+> Kein Problem = pas de problème
+> Ich spreche Deutsch = je parle allemand
 
-! Wie heißt du? Ich heiße [USER_NAME].
-> Comment tu t'appelles ? Je m'appelle [USER_NAME].
-> Wie heißt du = comment tu t'appelles
-> Ich heiße = je m'appelle
+---
 
-! Danke, Lea! Bitte!
-> Merci, Lea ! De rien !
-> Danke = merci
-> Bitte = de rien
+### Scène 3 — Le compte à rebours
 
-! Tschüss, [USER_NAME]!
-> Au revoir, [USER_NAME] !
-> Tschüss = au revoir
+{{fr:Lea et toi lancez une fusée imaginaire. On compte à l'envers, de dix jusqu'à zéro !}}
+
+! 🐰 Zehn, neun, acht, sieben…
+> Dix, neuf, huit, sept…
+
+! 🦊 Sechs, fünf, vier!
+> Six, cinq, quatre !
+
+! 🐰 Drei, zwei, eins…
+> Trois, deux, un…
+
+! 🦊 Null! Tschüss!
+> Zéro ! Au revoir !
++ On dit {{tschüss}} à la fusée qui s'envole.
 
 ---
 
