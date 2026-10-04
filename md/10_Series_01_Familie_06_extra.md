@@ -44,9 +44,9 @@
 
 ### Scène 1 — La photo de famille
 
-{{fr:Tom regarde une photo de ta famille. Il veut tout savoir !}}
+{{fr:Tom, le blaireau, regarde une photo de ta famille de renards. Il veut tout savoir !}}
 
-! 🐨 Hast du eine Schwester?
+! 🦡 Hast du eine Schwester?
 > Tu as une sœur ?
 > Hast du = tu as
 > eine Schwester = une sœur
@@ -56,7 +56,7 @@
 > Meine Schwester = ma sœur
 > ist klein = est petite
 
-! 🐨 Hast du auch einen Bruder?
+! 🦡 Hast du auch einen Bruder?
 > Tu as aussi un frère ?
 > auch = aussi
 > einen Bruder = un frère
@@ -66,7 +66,7 @@
 > Mein Bruder = mon frère
 > zehn Jahre alt = dix ans
 
-! 🐨 Toll! Ich habe einen Bruder und eine Katze.
+! 🦡 Toll! Ich habe einen Bruder und eine Katze.
 > Génial ! J'ai un frère et un chat.
 > Toll = génial
 > Ich habe = j'ai
@@ -77,7 +77,7 @@
 
 ### Scène 2 — Dans le jardin d'Oma Hilde
 
-{{fr:Oma Hilde a un gâteau, et un grand jardin pour tout le monde !}}
+{{fr:Oma Hilde, le hibou, a un gâteau et un grand jardin entre les sapins !}}
 
 ! 🦉 Hallo, Kinder! Das Haus hat einen Garten.
 > Salut, les enfants ! La maison a un jardin.
@@ -111,14 +111,14 @@
 
 ### Scène 3 — Où est le gâteau ?
 
-{{fr:Oh non ! Le gâteau de Tom a disparu…}}
+{{fr:Oh non ! Le gâteau de Tom le blaireau a disparu…}}
 
-! 🐨 Nein! Mein Kuchen!
+! 🦡 Nein! Mein Kuchen!
 > Non ! Mon gâteau !
 > Nein = non
 > Mein Kuchen = mon gâteau
 
-! 🐨 Mein Bruder hat meinen Kuchen!
+! 🦡 Mein Bruder hat meinen Kuchen!
 > Mon frère a mon gâteau !
 > Mein Bruder = mon frère
 > hat = a
@@ -130,7 +130,7 @@
 > Ich habe auch = moi aussi, j'ai
 > einen Kuchen = un gâteau
 
-! 🐨 Danke! Du bist toll!
+! 🦡 Danke! Du bist toll!
 > Merci ! Tu es top !
 > Danke = merci
 > Du bist = tu es
@@ -140,7 +140,7 @@
 
 ### Scène 4 — On se dit à bientôt
 
-{{fr:La journée est finie. Il est temps de se dire au revoir !}}
+{{fr:Le soleil se couche derrière les sapins. Il est temps de se dire au revoir !}}
 
 ! 🐰 Wir spielen gern zusammen, [USER_NAME]!
 > On aime jouer ensemble, [USER_NAME] !

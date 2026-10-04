@@ -2,7 +2,7 @@
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Kids_and_cake_3.jpg?width=800 | Enfants avec gâteau, Wikimedia Commons, licence libre
 
-{{fr:Quel âge as-tu ? On apprend à le dire, et à dire si quelqu'un est grand ou petit.}}
+{{fr:Quel âge as-tu ? Dans la forêt, il y a des petits lièvres et de très grands cerfs. On apprend à dire son âge, et à dire si quelqu'un est grand ou petit.}}
 
 ---
 

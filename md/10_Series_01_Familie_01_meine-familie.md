@@ -2,7 +2,7 @@
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Happy_family.jpg?width=800 | Famille heureuse, Wikimedia Commons, licence libre
 
-{{fr:Nouvelle série : la famille ! Tu vas apprendre à présenter ton papa, ta maman, ton frère ou ta sœur.}}
+{{fr:Nouvelle série : la famille ! Dans la Forêt-Noire, tous les animaux ont une famille, et toi aussi. Tu vas apprendre à présenter ton papa, ta maman, ton frère ou ta sœur.}}
 
 ---
 
