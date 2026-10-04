@@ -35,7 +35,7 @@
 
 ### Scène 1 — Un goûter chez Lea
 
-{{fr:Lea te propose un goûter. Dis oui ou non, poliment !}}
+{{fr:Lea te propose un goûter dans son terrier. Dis oui ou non, poliment !}}
 
 ! 🐰 Pizza, [USER_NAME]?
 > De la pizza, [USER_NAME] ?
@@ -66,7 +66,7 @@
 
 ### Scène 2 — On se présente
 
-{{fr:Tu croises Lea dans la cour. Vous ne vous connaissez pas encore : présente-toi !}}
+{{fr:Tu croises Lea sur le sentier. Vous ne vous connaissez pas encore : présente-toi !}}
 
 ! 🦊 Entschuldigung, wie heißt du?
 > Pardon, comment tu t'appelles ?
@@ -103,7 +103,7 @@
 
 ### Scène 3 — Le compte à rebours
 
-{{fr:Lea et toi lancez une fusée imaginaire. On compte à l'envers, de dix jusqu'à zéro !}}
+{{fr:Lea et toi lancez une fusée imaginaire en haut de la colline. On compte à l'envers, de dix jusqu'à zéro !}}
 
 ! 🐰 Zehn, neun, acht, sieben…
 > Dix, neuf, huit, sept…

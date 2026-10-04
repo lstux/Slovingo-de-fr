@@ -22,6 +22,8 @@
 
 {{fr:En décembre, les villes s'illuminent pour les marchés de Noël. Ça sent bon la cannelle et le pain d'épices !}} En allemand : les {{Weihnachtsmärkte}}.
 
+{{fr:Ta forêt à toi, c'est la Forêt-Noire, dans le sud-ouest de l'Allemagne. Les sapins y sont si serrés qu'il fait tout sombre, d'où son nom !}} En allemand : le {{Schwarzwald}}.
+
 **Le sais-tu ?** {{fr:La Suisse est célèbre pour son chocolat.}} 🍫
 
 ---
