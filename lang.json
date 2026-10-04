@@ -16,16 +16,17 @@
     "css_class": "col-native"
   },
   "site": {
-    "title": "Fuchsbau - Allemand pour enfants",
+    "title": "Fuchsbau - apprends l'allemand",
     "short_name": "Fuchsbau",
-    "description": "Apprenez l'allemand de manière ludique — fiches, dialogues et exercices pour enfants",
+    "description": "Apprenez l'allemand de manière ludique — fiches, dialogues et exercices",
     "theme_color": "#003399",
-    "storage_prefix": "de-fr",
-    "url_path": "/slovingo/de-fr/",
+    "icon_style": "kids",
+    "storage_prefix": "de-fr-kids",
+    "url_path": "/slovingo/de-fr-kids/",
     "user_name_default": "Linus",
     "user_name_placeholder": "Ton nom",
     "deploy_host": "www.lslinux.org",
-    "deploy_path": "/var/www/lslinux.org/htdocs/slovingo/de-fr/"
+    "deploy_path": "/var/www/lslinux.org/htdocs/slovingo/de-fr-kids/"
   },
   "categories": {
     "introduction": "Avant de commencer",
