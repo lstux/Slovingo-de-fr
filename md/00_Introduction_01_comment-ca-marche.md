@@ -32,7 +32,7 @@ Les phrases à apprendre sont dans des cartes. Touche la phrase pour l'écouter,
 
 ## Essaie !
 
-- 🐰 Lea, ton amie allemande
+- 🐰 Lea, ton amie de la Forêt-Noire (c'est un lièvre !)
 - 🦊 Toi
 
 ! 🐰 Hallo!

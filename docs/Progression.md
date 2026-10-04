@@ -194,7 +194,7 @@ Pour rendre le cours moins scolaire, on introduit des personnages récurrents d�
 
 L'enfant rencontre Lea dès la fiche 03 du Kit de Survie (Série 00) : c'est ce dialogue qui justifie les phrases « je ne comprends pas » et « tu parles français ? », et qui introduit aussi « comment tu t'appelles / je m'appelle » via le mécanisme USER_NAME. Les personnages reviennent dans la fiche 05 (dialogue) à partir de la série 01, et plus tard dans les sections culturelles (« Oma Hilde t'explique... »).
 
-Le texte narratif continue de les décrire comme des enfants et une grand-mère (Lea reste « une copine allemande », pas une lapine à proprement parler) : seul l'avatar visuel dans les dialogues est un animal, pas l'univers de l'histoire.
+**Évolution (branche `animals`)** : l'univers devient celui des animaux de la Forêt-Noire, Lea est un lièvre, Tom un blaireau 🦡, Oma Hilde un hibou. Voir [Format-animaux.md](./Format-animaux.md), qui fait foi pour le décor et le casting.
 
 ---
 
