@@ -44,7 +44,7 @@
 
 ### Scène 1 — La visite de la maison
 
-{{fr:Lea te fait visiter sa maison, pièce par pièce.}}
+{{fr:Lea te fait visiter sa maison sous les sapins, pièce par pièce.}}
 
 ! 🐰 Das ist die Küche. Der Tisch ist groß!
 > Voici la cuisine. La table est grande !
@@ -72,9 +72,9 @@
 
 ### Scène 2 — Où est le jouet de Tom ?
 
-{{fr:Tom cherche son jouet dans la chambre. Qui sait où il est ?}}
+{{fr:Tom le blaireau cherche son jouet dans la chambre. Qui sait où il est ?}}
 
-! 🐨 Wo ist mein Spielzeug?
+! 🦡 Wo ist mein Spielzeug?
 > Où est mon jouet ?
 > Wo ist = où est
 > mein Spielzeug = mon jouet
@@ -84,7 +84,7 @@
 > ist nicht = n'est pas
 > im Schrank = dans l'armoire
 
-! 🐨 Das Spielzeug ist nicht auf dem Tisch!
+! 🦡 Das Spielzeug ist nicht auf dem Tisch!
 > Le jouet n'est pas sur la table !
 > auf dem Tisch = sur la table
 
@@ -93,7 +93,7 @@
 > auf dem Bett = sur le lit
 > unter dem Bett = sous le lit
 
-! 🐨 Danke! Du bist toll!
+! 🦡 Danke! Du bist toll!
 > Merci ! Tu es top !
 > Danke = merci
 > Du bist = tu es
@@ -110,7 +110,7 @@
 > Hallo, Kinder = salut, les enfants
 > Ich räume das Wohnzimmer auf = je range le salon
 
-! 🐨 Ich öffne das Fenster.
+! 🦡 Ich öffne das Fenster.
 > J'ouvre la fenêtre.
 > Ich öffne = j'ouvre
 > das Fenster = la fenêtre
@@ -136,13 +136,13 @@
 
 ### Scène 4 — Tom ne dort pas
 
-{{fr:Tom dit qu'il ne dort pas… mais regarde bien la suite !}}
+{{fr:Tom le blaireau dit qu'il ne dort pas… mais regarde bien la suite !}}
 
 ! 🦉 Schläfst du, Tom?
 > Tu dors, Tom ?
 > Schläfst du = tu dors
 
-! 🐨 Nein, ich schlafe nicht!
+! 🦡 Nein, ich schlafe nicht!
 > Non, je ne dors pas !
 > ich schlafe = je dors
 > nicht = pas
@@ -153,7 +153,7 @@
 > das Bett = le lit
 > im Schlafzimmer = dans la chambre
 
-! 🐨 Ich schlafe auf dem Sofa. Tschüss!
+! 🦡 Ich schlafe auf dem Sofa. Tschüss!
 > Je dors sur le canapé. Au revoir !
 > Ich schlafe = je dors
 > auf dem Sofa = sur le canapé

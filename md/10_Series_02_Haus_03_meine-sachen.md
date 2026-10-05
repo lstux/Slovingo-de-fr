@@ -2,7 +2,7 @@
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Kiki-Musee-du-Jouet-Moirans39-byRundvald.jpg?width=800 | Musée des jouets Kiki, Wikimedia Commons, licence libre
 
-{{fr:Tes affaires : tes livres, tes jouets… Et quand on ne les trouve plus, on demande où ils sont !}}
+{{fr:Tes affaires, dans ton terrier : tes livres, tes jouets… Et quand on ne les trouve plus, on demande où ils sont !}}
 
 ---
 
