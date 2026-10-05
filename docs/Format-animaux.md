@@ -2,7 +2,7 @@
 
 Ce document est la « bible » du monde dans lequel se passe le cours. Il s'inspire du cours sk-fr-kids (Zajka, les animaux des Tatras) et l'adapte à l'allemand. Il complète [Format-de-fr.md](./Format-de-fr.md) (format des fiches) et [Progression.md](./Progression.md) (vocabulaire par série). En cas de contradiction sur le décor ou les personnages, **ce document fait foi**.
 
-> Statut : proposition de casting à valider (branche `animals`). Rien n'est encore réécrit dans les fiches.
+> Statut : casting validé et appliqué à tout le cours (branche `animals`). Il reste les images (fin de chantier).
 
 ## Le monde
 
@@ -58,8 +58,8 @@ Le moteur, les formats SMD, les validateurs, le vocabulaire (sauf les cas listé
 La plupart des mots passent tels quels (Mutter, Haus, Tisch, Brot…). Il y a des cas où le monde animal ne colle plus. Ma recommandation est entre parenthèses, à valider :
 
 - **Essen** (fait) : Wurst et Fleisch sont remplacés par Beeren et Gemüse pour garder le monde sans viande.
-- **Tiere** : Haustiere et Zoo (Elefant, Löwe…) sortent au profit des animaux de la forêt et de la ferme (Hirsch, Reh, Wildschwein, Eichhörnchen, Kuh, Pferd…). La série garde le même nombre de mots, et on vérifie à chaque étape que tout est déjà vu avant d'être utilisé en exercice.
-- **Stadt** : Bus et Schwimmbad sont remplacés par des lieux du village (Laden, See, Weg…). Le glacier reste.
+- **Tiere** (fait) : Haustiere et Zoo (Elefant, Löwe…) sortent au profit des animaux de la forêt et de la ferme (Hirsch, Reh, Wildschwein, Eichhörnchen, Kuh, Pferd…). La série garde le même nombre de mots, et on vérifie à chaque étape que tout est déjà vu avant d'être utilisé en exercice.
+- **Stadt** (fait) : Schwimmbad devient der See, Bus devient das Boot. Le glacier reste.
 - **Spiele** : Fußball reste (les animaux jouent au foot) ; Brettspiele reste.
 
 ## Règles de rédaction

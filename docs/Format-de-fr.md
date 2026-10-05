@@ -39,9 +39,9 @@ Exception : le **Kit de Survie** (série 00) n'a que 3 fiches + l'extra.
 
 ### 4. Des dialogues portés par des personnages — et par l'enfant lui-même
 
-Les personnages récurrents (tous avec une tête d'animal comme avatar) sont décrits dans [Progression.md](./Progression.md#personnages-récurrents) : 🦊 l'enfant lui-même, 🐰 Lea, 🐨 Tom, 🦉 Oma Hilde.
+Les personnages récurrents (tous avec une tête d'animal comme avatar) sont décrits dans [Progression.md](./Progression.md#personnages-récurrents) : 🦊 l'enfant lui-même, 🐰 Lea, 🦡 Tom, 🦉 Oma Hilde. Depuis la branche `animals`, ce sont des animaux de la Forêt-Noire, voir [Format-animaux.md](./Format-animaux.md).
 
-Les dialogues remobilisent le vocabulaire de la série dans des situations concrètes : se présenter, jouer à cache-cache, déjeuner chez Oma, se perdre en ville, aller au zoo, soirée jeux…
+Les dialogues remobilisent le vocabulaire de la série dans des situations concrètes : se présenter, jouer à cache-cache, déjeuner chez Oma, se perdre en ville, une promenade en forêt, soirée jeux…
 
 **Le protagoniste, c'est l'enfant lui-même.** Slovingo fournit un mécanisme intégré pour ça (déjà utilisé dans le cours sk-fr) :
 
@@ -256,7 +256,7 @@ Tant que l'image n'est pas choisie : `@ TODO_img/choisir-image.jpg | TODO : choi
 
 ✅ **« Le sais-tu ? En allemand, il existe un mot pour... »**
 ✅ **« En allemand, on dit... quand on veut dire... »**
-✅ Des choses qu'un enfant peut voir ou vivre : la Schultüte, l'Ampelmännchen, le Streichelzoo, Mensch ärgere dich nicht…
+✅ Des choses qu'un enfant peut voir ou vivre : la Schultüte, l'Ampelmännchen, le Nationalpark Schwarzwald, Mensch ärgere dich nicht…
 
 ❌ À éviter : présupposer des connaissances de grammaire avancées
 ❌ À éviter : un ton trop formel ou scolaire, des clichés (« les Allemands adorent l'ordre »)

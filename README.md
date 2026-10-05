@@ -64,7 +64,7 @@ Projet familial : mon fils (8 ans) est le cobaye principal. Le format et le cont
 
 ---
 
-**Statut** : ✍️ Introduction, Kit de Survie et 6 séries écrites (Familie, Haus, Essen, Stadt, Tiere, Spiele — 45 fiches). À venir : illustrations, vérification des exercices, séries suivantes.
+**Statut** : ✍️ Introduction, Kit de Survie et 6 séries écrites (Familie, Haus, Essen, Stadt, Tiere, Spiele — 45 fiches), dans le monde des animaux de la Forêt-Noire (branche `animals`, voir [docs/Format-animaux.md](docs/Format-animaux.md)). À venir : illustrations (photos réelles d'animaux et de paysages), séries suivantes.
 
 ---
 
