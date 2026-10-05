@@ -26,7 +26,7 @@
 | ich mag | j'aime bien |
 | magst du? | tu aimes ? |
 
-{{fr:Et pour dire ce que tu n'aimes pas, ajoute le petit mot du Kit de Survie, qui veut dire « pas de ».}} → {{Ich mag kein Fleisch.}}
+{{fr:Et pour dire ce que tu n'aimes pas, ajoute le petit mot du Kit de Survie, qui veut dire « pas de ».}} → {{Ich mag kein Gemüse.}}
 
 ---
 
@@ -49,9 +49,9 @@
 > Tu aimes le lait ?
 > Magst du = tu aimes
 
-! Ich mag kein Fleisch.
-> Je n'aime pas la viande.
-> kein Fleisch = pas de viande
+! Ich mag kein Gemüse.
+> Je n'aime pas les légumes.
+> kein Gemüse = pas de légumes
 
 ! Die Milch ist kalt.
 > Le lait est froid.

@@ -25,25 +25,25 @@
       ]
     },
     {
-      "id": "listen-wurst-mit-kartoffeln-guten-appetit",
+      "id": "listen-gem-se-mit-kartoffeln-guten-appetit",
       "type": "listen",
-      "l1": "Des saucisses avec des pommes de terre. Bon appétit !",
-      "l2": "Wurst mit Kartoffeln. Guten Appetit!",
+      "l1": "Des légumes avec des pommes de terre. Bon appétit !",
+      "l2": "Gemüse mit Kartoffeln. Guten Appetit!",
       "choices_l1": [
-        "Des saucisses avec du pain. Bon appétit !",
+        "Des légumes avec du pain. Bon appétit !",
         "De la glace avec des fruits. Bon appétit !",
-        "Des saucisses avec des pommes de terre. Merci !"
+        "Des légumes avec des pommes de terre. Merci !"
       ]
     },
     {
-      "id": "listen-ich-mag-kein-fleisch-ich-nehme-kartoffeln-bitte",
+      "id": "listen-ich-mag-kein-gem-se-ich-nehme-beeren-bitte",
       "type": "listen",
-      "l1": "Je n'aime pas la viande. Je prends des pommes de terre, s'il te plaît.",
-      "l2": "Ich mag kein Fleisch. Ich nehme Kartoffeln, bitte.",
+      "l1": "Je n'aime pas les légumes. Je prends des baies, s'il te plaît.",
+      "l2": "Ich mag kein Gemüse. Ich nehme Beeren, bitte.",
       "choices_l1": [
-        "J'aime bien la viande. Je prends des pommes de terre, s'il te plaît.",
-        "Je n'aime pas les pommes de terre. Je prends de la viande, s'il te plaît.",
-        "Je n'aime pas la viande. Je prends du pain, s'il te plaît."
+        "J'aime bien les légumes. Je prends des baies, s'il te plaît.",
+        "Je n'aime pas les baies. Je prends des légumes, s'il te plaît.",
+        "Je n'aime pas les légumes. Je prends du pain, s'il te plaît."
       ]
     },
     {

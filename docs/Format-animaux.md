@@ -21,7 +21,7 @@ Prénoms allemands, avatar emoji = marqueur de locuteur. Les âges et les traits
 | Avatar | Personnage | Animal | Notes |
 |---|---|---|---|
 | 🦊 | Toi (l'enfant) | renard | prénom saisi via `[ASK_USER_NAME]`, repris via `[USER_NAME]` ; tu viens d'arriver en Forêt-Noire |
-| 🐰 | **Lea** | lièvre | 8 ans, ta copine qui parle allemand et t'explique ; n'aime pas la viande |
+| 🐰 | **Lea** | lièvre | 8 ans, ta copine qui parle allemand et t'explique ; n'aime pas les légumes (un lièvre !) |
 | 🦡 | **Tom** | blaireau | 9 ans, ami de Lea (remplace le koala 🐨 qui n'est pas d'ici) ; son terrier sert pour Haus ; grand lanceur de dé |
 | 🦉 | **Oma Hilde** | hibou grand-duc | mamie de Lea, adore cuisiner, joue pour gagner ; on la tutoie |
 | 🦌 | **Opa Karl** | cerf | papi de Lea (série Familie) |
@@ -57,7 +57,7 @@ Le moteur, les formats SMD, les validateurs, le vocabulaire (sauf les cas listé
 
 La plupart des mots passent tels quels (Mutter, Haus, Tisch, Brot…). Il y a des cas où le monde animal ne colle plus. Ma recommandation est entre parenthèses, à valider :
 
-- **Essen** : Wurst, Fleisch, Schnitzel sortent (remplacés par Beeren, Pilze, Nüsse, Honig, Käse…) pour garder le monde sans viande.
+- **Essen** (fait) : Wurst et Fleisch sont remplacés par Beeren et Gemüse pour garder le monde sans viande.
 - **Tiere** : Haustiere et Zoo (Elefant, Löwe…) sortent au profit des animaux de la forêt et de la ferme (Hirsch, Reh, Wildschwein, Eichhörnchen, Kuh, Pferd…). La série garde le même nombre de mots, et on vérifie à chaque étape que tout est déjà vu avant d'être utilisé en exercice.
 - **Stadt** : Bus et Schwimmbad sont remplacés par des lieux du village (Laden, See, Weg…). Le glacier reste.
 - **Spiele** : Fußball reste (les animaux jouent au foot) ; Brettspiele reste.

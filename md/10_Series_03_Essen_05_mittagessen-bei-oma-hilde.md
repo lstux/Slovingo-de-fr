@@ -2,7 +2,7 @@
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Groundhog_eating_a_tulip_poplar_%2857104%29.jpg?width=800 | Marmotte mangeant un peuplier à feuilles de tulipe, Wikimedia Commons, licence libre
 
-{{fr:Dimanche midi, on déjeune chez mamie Hilde ! Écoute bien : tu connais presque tous les mots.}}
+{{fr:Dimanche midi, on déjeune chez Oma Hilde, la mamie hibou de Lea ! Écoute bien : tu connais presque tous les mots.}}
 
 ---
 
@@ -10,8 +10,8 @@
 
 - 🦊 Toi
 - 🐰 Lea
-- 🐨 Tom
-- 🦉 Oma Hilde
+- 🦡 Tom, le blaireau
+- 🦉 Oma Hilde, le hibou
 
 ---
 
@@ -21,19 +21,20 @@
 > Les enfants, le déjeuner est prêt !
 > das Mittagessen = le déjeuner
 
-! 🐨 Super, ich habe Hunger!
+! 🦡 Super, ich habe Hunger!
 > Super, j'ai faim !
 
-! 🦉 Wurst mit Kartoffeln. Guten Appetit!
-> Des saucisses avec des pommes de terre. Bon appétit !
+! 🦉 Gemüse mit Kartoffeln. Guten Appetit!
+> Des légumes avec des pommes de terre. Bon appétit !
 > mit Kartoffeln = avec des pommes de terre
 + Mot nouveau signalé : {{Guten Appetit!}} = bon appétit.
 
-! 🐰 Ich mag kein Fleisch. Ich nehme Kartoffeln, bitte.
-> Je n'aime pas la viande. Je prends des pommes de terre, s'il te plaît.
+! 🐰 Ich mag kein Gemüse. Ich nehme Beeren, bitte.
+> Je n'aime pas les légumes. Je prends des baies, s'il te plaît.
 
 ! 🦊 Hm, das ist lecker!
 > Mmm, c'est trop bon !
++ Le renard 🦊 mange des baies, pas de lièvre : Lea respire !
 
 ! 🦉 Möchtest du Apfelsaft, [USER_NAME]?
 > Tu voudrais du jus de pomme, [USER_NAME] ?
@@ -45,7 +46,7 @@
 > Et maintenant : de la glace !
 > Und jetzt = et maintenant
 
-! 🐨 Super! Eis ist toll!
+! 🦡 Super! Eis ist toll!
 > Super ! La glace, c'est génial !
 
 ! 🦉 Möchtest du noch Eis?

@@ -41,12 +41,12 @@
       "l2": "das Brot",
       "choices_l1": [
         "le lait",
-        "la viande",
+        "les légumes",
         "les fruits"
       ],
       "choices_l2": [
         "die Milch",
-        "das Fleisch",
+        "das Gemüse",
         "das Obst"
       ]
     },
@@ -57,20 +57,20 @@
       "l2": "die Milch",
       "choices_l1": [
         "le pain",
-        "la viande",
+        "les légumes",
         "l'eau"
       ],
       "choices_l2": [
         "das Brot",
-        "das Fleisch",
+        "das Gemüse",
         "das Wasser"
       ]
     },
     {
-      "id": "qcm-das-fleisch",
+      "id": "qcm-das-gem-se",
       "type": "qcm",
-      "l1": "la viande",
-      "l2": "das Fleisch",
+      "l1": "les légumes",
+      "l2": "das Gemüse",
       "choices_l1": [
         "les fruits",
         "le pain",
@@ -88,12 +88,12 @@
       "l1": "les fruits",
       "l2": "das Obst",
       "choices_l1": [
-        "la viande",
+        "les légumes",
         "le pain",
         "le fromage"
       ],
       "choices_l2": [
-        "das Fleisch",
+        "das Gemüse",
         "das Brot",
         "der Käse"
       ]
@@ -106,7 +106,7 @@
       "choices_l1": [
         "Je bois du lait.",
         "Je mange du fromage.",
-        "Je mange de la viande."
+        "Je mange des légumes."
       ]
     },
     {
@@ -154,14 +154,14 @@
       ]
     },
     {
-      "id": "listen-lea-isst-kein-fleisch",
+      "id": "listen-lea-isst-kein-gem-se",
       "type": "listen",
-      "l1": "Lea ne mange pas de viande.",
-      "l2": "Lea isst kein Fleisch.",
+      "l1": "Lea ne mange pas de légumes.",
+      "l2": "Lea isst kein Gemüse.",
       "choices_l1": [
-        "Lea mange de la viande.",
+        "Lea mange des légumes.",
         "Lea ne mange pas de pain.",
-        "Tom ne mange pas de viande."
+        "Tom ne mange pas de légumes."
       ]
     },
     {
@@ -207,11 +207,11 @@
       "show_translation": true
     },
     {
-      "id": "blank-lea-isst-kein-fleisch",
+      "id": "blank-lea-isst-kein-gem-se",
       "type": "fill-blank",
-      "l1": "Lea ne mange pas de viande.",
-      "l2": "Lea isst kein Fleisch.",
-      "missing_l1": "viande",
+      "l1": "Lea ne mange pas de légumes.",
+      "l2": "Lea isst kein Gemüse.",
+      "missing_l1": "légumes",
       "missing_l2": "kein",
       "blank_index_l1": 5,
       "blank_index_l2": 2,
@@ -266,20 +266,20 @@
       ]
     },
     {
-      "id": "order-lea-isst-kein-fleisch",
+      "id": "order-lea-isst-kein-gem-se",
       "type": "order",
-      "l1": "Lea ne mange pas de viande.",
-      "l2": "Lea isst kein Fleisch.",
+      "l1": "Lea ne mange pas de légumes.",
+      "l2": "Lea isst kein Gemüse.",
       "tokens_l1": [
         "Lea",
         "ne mange pas",
-        "de viande."
+        "de légumes."
       ],
       "tokens_l2": [
         "Lea",
         "isst",
         "kein",
-        "Fleisch."
+        "Gemüse."
       ]
     },
     {
@@ -306,13 +306,13 @@
       "l1": [
         "le pain",
         "le lait",
-        "la viande",
+        "les légumes",
         "les fruits"
       ],
       "l2": [
         "das Brot",
         "die Milch",
-        "das Fleisch",
+        "das Gemüse",
         "das Obst"
       ]
     },

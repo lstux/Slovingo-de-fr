@@ -105,12 +105,12 @@
       "l2": "die Kartoffeln",
       "choices_l1": [
         "les fruits",
-        "la viande",
+        "les légumes",
         "le pain"
       ],
       "choices_l2": [
         "das Obst",
-        "das Fleisch",
+        "das Gemüse",
         "das Brot"
       ]
     },
@@ -169,13 +169,13 @@
         "le pain",
         "le lait",
         "la glace",
-        "la saucisse"
+        "les baies"
       ],
       "l2": [
         "das Brot",
         "die Milch",
         "das Eis",
-        "die Wurst"
+        "die Beeren"
       ]
     },
     {
@@ -196,7 +196,7 @@
       "l2": "Möchtest du auch Brot und Käse?",
       "choices_l1": [
         "Tu voudrais aussi du pain et du lait ?",
-        "Tu voudrais aussi de la viande et du fromage ?",
+        "Tu voudrais aussi des légumes et du fromage ?",
         "Je voudrais aussi du pain et du fromage."
       ]
     },
@@ -212,25 +212,36 @@
       ]
     },
     {
-      "id": "listen-ich-habe-hunger-ich-nehme-eine-wurst-bitte",
+      "id": "listen-ich-habe-hunger-ich-nehme-kartoffeln-bitte",
       "type": "listen",
-      "l1": "J'ai faim ! Je prends une saucisse, s'il te plaît.",
-      "l2": "Ich habe Hunger! Ich nehme eine Wurst, bitte.",
+      "l1": "J'ai faim ! Je prends des pommes de terre, s'il te plaît.",
+      "l2": "Ich habe Hunger! Ich nehme Kartoffeln, bitte.",
       "choices_l1": [
-        "J'ai soif ! Je prends une saucisse, s'il te plaît.",
+        "J'ai soif ! Je prends des pommes de terre, s'il te plaît.",
         "J'ai faim ! Je prends un bretzel, s'il te plaît.",
-        "J'ai faim ! Je voudrais une saucisse, merci."
+        "J'ai faim ! Je voudrais des pommes de terre, merci."
       ]
     },
     {
-      "id": "listen-ich-esse-kein-fleisch-ich-nehme-eine-brezel-bitte",
+      "id": "listen-ich-esse-kein-gem-se-ich-nehme-eine-brezel-bitte",
       "type": "listen",
-      "l1": "Je ne mange pas de viande. Je prends un bretzel, s'il te plaît.",
-      "l2": "Ich esse kein Fleisch. Ich nehme eine Brezel, bitte.",
+      "l1": "Je ne mange pas de légumes. Je prends un bretzel, s'il te plaît.",
+      "l2": "Ich esse kein Gemüse. Ich nehme eine Brezel, bitte.",
       "choices_l1": [
-        "Je mange de la viande. Je prends un bretzel, s'il te plaît.",
-        "Je ne mange pas de viande. Je prends une saucisse, s'il te plaît.",
+        "Je mange des légumes. Je prends un bretzel, s'il te plaît.",
+        "Je ne mange pas de légumes. Je prends des pommes de terre, s'il te plaît.",
         "Je ne bois pas de lait. Je prends un bretzel, s'il te plaît."
+      ]
+    },
+    {
+      "id": "listen-ich-nehme-beeren-bitte-magst-du-apfelsaft-tom",
+      "type": "listen",
+      "l1": "Je prends des baies, s'il te plaît. Tu aimes bien le jus de pomme, Tom ?",
+      "l2": "Ich nehme Beeren, bitte. Magst du Apfelsaft, Tom?",
+      "choices_l1": [
+        "Je prends du lait, s'il te plaît. Tu aimes bien le jus de pomme, Tom ?",
+        "Je prends des baies, s'il te plaît. Tu aimes bien la glace, Tom ?",
+        "Je voudrais des baies, s'il te plaît. Tu aimes bien le jus de pomme, Tom ?"
       ]
     },
     {

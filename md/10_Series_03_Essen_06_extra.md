@@ -14,7 +14,7 @@
 | trinken | boire |
 | das Brot | le pain |
 | die Milch | le lait |
-| das Fleisch | la viande |
+| das Gemüse | les légumes |
 | das Obst | les fruits |
 | der Hunger | la faim |
 | der Durst | la soif |
@@ -29,7 +29,7 @@
 | kalt | froid |
 | ich mag | j'aime bien |
 | die Brezel | le bretzel |
-| die Wurst | la saucisse |
+| die Beeren | les baies |
 | die Kartoffeln | les pommes de terre |
 | der Apfelsaft | le jus de pomme |
 | das Eis | la glace |
@@ -76,29 +76,30 @@
 
 ### Scène 2 — On commande
 
-{{fr:Tom a très faim. Il veut commander à manger !}}
+{{fr:Tom le blaireau a très faim. Il veut commander à manger !}}
 
-! 🐨 Ich habe Hunger! Ich nehme eine Wurst, bitte.
-> J'ai faim ! Je prends une saucisse, s'il te plaît.
+! 🦡 Ich habe Hunger! Ich nehme Kartoffeln, bitte.
+> J'ai faim ! Je prends des pommes de terre, s'il te plaît.
 > Ich habe Hunger = j'ai faim
 > Ich nehme = je prends
-> eine Wurst = une saucisse
+> Kartoffeln = des pommes de terre
 
-! 🐰 Ich esse kein Fleisch. Ich nehme eine Brezel, bitte.
-> Je ne mange pas de viande. Je prends un bretzel, s'il te plaît.
-> Ich esse kein Fleisch = je ne mange pas de viande
+! 🐰 Ich esse kein Gemüse. Ich nehme eine Brezel, bitte.
+> Je ne mange pas de légumes. Je prends un bretzel, s'il te plaît.
+> Ich esse kein Gemüse = je ne mange pas de légumes
 > eine Brezel = un bretzel
 
-! 🦊 Ich möchte einen Apfelsaft. Magst du Apfelsaft, Tom?
-> Je voudrais un jus de pomme. Tu aimes bien le jus de pomme, Tom ?
-> Ich möchte = je voudrais
-> einen Apfelsaft = un jus de pomme
+! 🦊 Ich nehme Beeren, bitte. Magst du Apfelsaft, Tom?
+> Je prends des baies, s'il te plaît. Tu aimes bien le jus de pomme, Tom ?
+> Ich nehme = je prends
+> Beeren = des baies
 > Magst du = tu aimes bien
++ Le renard 🦊 prend des baies, pas de lièvre !
 
-! 🐨 Ja, ich mag Apfelsaft! Die Wurst ist heiß!
-> Oui, j'aime bien le jus de pomme ! La saucisse est chaude !
+! 🦡 Ja, ich mag Apfelsaft! Die Kartoffeln sind heiß!
+> Oui, j'aime bien le jus de pomme ! Les pommes de terre sont chaudes !
 > ich mag = j'aime bien
-> Die Wurst ist heiß = la saucisse est chaude
+> Die Kartoffeln sind heiß = les pommes de terre sont chaudes
 
 ---
 
@@ -126,7 +127,7 @@
 > Les pommes de terre sont chaudes !
 > Die Kartoffeln sind warm = les pommes de terre sont chaudes
 
-! 🐨 Das schmeckt gut!
+! 🦡 Das schmeckt gut!
 > C'est bon !
 > schmeckt gut = est bon
 
@@ -141,7 +142,7 @@
 > Möchtest du = tu voudrais
 > noch = encore
 
-! 🐨 Nein, danke. Ich bin satt!
+! 🦡 Nein, danke. Ich bin satt!
 > Non, merci. Je n'ai plus faim !
 > Nein, danke = non, merci
 > Ich bin satt = je n'ai plus faim
