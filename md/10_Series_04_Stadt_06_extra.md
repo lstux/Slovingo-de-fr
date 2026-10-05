@@ -14,12 +14,12 @@
 | der Park | le parc |
 | die Schule | l'école |
 | die Bäckerei | la boulangerie |
-| das Schwimmbad | la piscine |
+| der See | le lac |
 | die Eisdiele | le glacier |
-| der Bus | le bus |
+| das Boot | le bateau |
 | das Fahrrad | le vélo |
 | das Auto | la voiture |
-| fahren | aller (en roulant) |
+| fahren | aller (en véhicule) |
 | gehen | aller (à pied) |
 | zu Fuß | à pied |
 | links | à gauche |
@@ -44,7 +44,7 @@
 
 {{fr:Tom t'appelle : il veut savoir où tu es en ville.}}
 
-! 🐨 Wo bist du?
+! 🦡 Wo bist du?
 > Où es-tu ?
 > Wo = où
 > bist du = es-tu
@@ -55,7 +55,7 @@
 > in der Bäckerei = à la boulangerie
 > Und du = et toi
 
-! 🐨 Ich bin im Park. Der Park ist neben der Bäckerei!
+! 🦡 Ich bin im Park. Der Park ist neben der Bäckerei!
 > Moi, je suis dans le parc. Le parc est à côté de la boulangerie !
 > im Park = dans le parc
 > neben der Bäckerei = à côté de la boulangerie
@@ -72,14 +72,14 @@
 
 {{fr:Lea et toi parlez de votre trajet du matin.}}
 
-! 🐰 Fährst du mit dem Bus?
-> Tu y vas en bus ?
-> Fährst du = tu y vas (en roulant)
-> mit dem Bus = en bus
+! 🐰 Fährst du mit dem Boot?
+> Tu y vas en bateau ?
+> Fährst du = tu y vas (en véhicule)
+> mit dem Boot = en bateau
 
 ! 🦊 Nein, ich fahre mit dem Fahrrad. Und du?
 > Non, j'y vais à vélo. Et toi ?
-> ich fahre = j'y vais (en roulant)
+> ich fahre = j'y vais (en véhicule)
 > mit dem Fahrrad = à vélo
 > Und du = et toi
 
@@ -95,17 +95,17 @@
 
 ---
 
-### Scène 3 — Où est la piscine ?
+### Scène 3 — Où est le lac ?
 
-{{fr:Tu cherches la piscine. Tom t'explique le chemin.}}
+{{fr:Tu cherches le lac. Tom t'explique le chemin.}}
 
-! 🦊 Entschuldigung, wo ist das Schwimmbad?
-> Pardon, où est la piscine ?
+! 🦊 Entschuldigung, wo ist der See?
+> Pardon, où est le lac ?
 > Entschuldigung = pardon
 > wo ist = où est
-> das Schwimmbad = la piscine
+> der See = le lac
 
-! 🐨 Geh geradeaus. Dann nach rechts.
+! 🦡 Geh geradeaus. Dann nach rechts.
 > Va tout droit. Ensuite, à droite.
 > Geh geradeaus = va tout droit
 > Dann = ensuite
@@ -115,8 +115,8 @@
 > À gauche ?
 > nach links = à gauche
 
-! 🐨 Nein, nicht links, rechts! Das Schwimmbad ist neben der Schule.
-> Non, pas à gauche, à droite ! La piscine est à côté de l'école.
+! 🦡 Nein, nicht links, rechts! Der See ist neben der Schule.
+> Non, pas à gauche, à droite ! Le lac est à côté de l'école.
 > nicht links, rechts = pas à gauche, à droite
 > neben der Schule = à côté de l'école
 
@@ -146,7 +146,7 @@
 > Das kostet = ça coûte
 > drei Euro = trois euros
 
-! 🐨 Ich habe kein Geld!
+! 🦡 Ich habe kein Geld!
 > Je n'ai pas d'argent !
 > Ich habe = j'ai
 > kein Geld = pas d'argent
@@ -160,6 +160,6 @@
 
 ## 🇩🇪 Coin allemand
 
-{{fr:Bravo ! Tu sais trouver ton chemin en ville, prendre le bus ou le vélo, et acheter ta glace.}}
+{{fr:Bravo ! Tu sais trouver ton chemin en ville, prendre le bateau ou le vélo, et acheter ta glace.}}
 
-{{fr:La suite, c'est la série sur les animaux : ceux de la maison, de la ferme et du zoo.}} → {{die Tiere}}
+{{fr:La suite, c'est la série sur les animaux : ceux de la forêt et de la ferme.}} → {{die Tiere}}

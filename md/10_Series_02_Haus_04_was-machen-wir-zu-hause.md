@@ -82,3 +82,5 @@
 ## 🇩🇪 Coin allemand
 
 {{fr:Une expression très connue dit qu'il faut de l'ordre. Les Allemands la disent souvent en riant !}} → {{Ordnung muss sein!}}
+
+{{fr:Chez Tom le blaireau, le terrier est toujours en désordre : lui, il n'a pas lu cette expression !}}

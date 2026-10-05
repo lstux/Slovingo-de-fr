@@ -25,7 +25,7 @@
       "l2": "guten Tag",
       "choices_l1": [
         "merci",
-        "ça va ?",
+        "comment ça va ?",
         "bien"
       ],
       "choices_l2": [
@@ -42,7 +42,7 @@
       "choices_l1": [
         "merci",
         "bien",
-        "ça va ?"
+        "comment ça va ?"
       ],
       "choices_l2": [
         "danke",
@@ -53,7 +53,7 @@
     {
       "id": "qcm-wie-geht-s",
       "type": "qcm",
-      "l1": "ça va ?",
+      "l1": "comment ça va ?",
       "l2": "wie geht's",
       "choices_l1": [
         "bonjour",
@@ -106,7 +106,7 @@
       "choices_l1": [
         "Merci !",
         "Bien !",
-        "Ça va ?"
+        "Comment ça va ?"
       ]
     },
     {
@@ -117,7 +117,7 @@
       "choices_l1": [
         "Merci !",
         "Bien !",
-        "Ça va ?"
+        "Comment ça va ?"
       ]
     },
     {
@@ -127,14 +127,14 @@
       "l2": "Tschüss!",
       "choices_l1": [
         "Merci ! (pour remercier)",
-        "Ça va ? (pour demander)",
+        "Comment ça va ? (pour demander)",
         "Bien ! (pour répondre)"
       ]
     },
     {
       "id": "listen-wie-geht-s",
       "type": "listen",
-      "l1": "Ça va ?",
+      "l1": "Comment ça va ?",
       "l2": "Wie geht's?",
       "choices_l1": [
         "Merci !",
@@ -149,18 +149,18 @@
       "l2": "Gut, danke!",
       "choices_l1": [
         "Non, merci.",
-        "Bonjour, ça va ?",
+        "Bonjour, comment ça va ?",
         "Bien, et toi ?"
       ]
     },
     {
       "id": "listen-hallo-wie-geht-s",
       "type": "listen",
-      "l1": "Salut ! Ça va ?",
+      "l1": "Salut ! Comment ça va ?",
       "l2": "Hallo! Wie geht's?",
       "choices_l1": [
         "Salut ! Merci !",
-        "Bien ! Ça va ?",
+        "Bien ! Comment ça va ?",
         "Merci ! Salut !"
       ]
     },
@@ -188,7 +188,7 @@
     {
       "id": "blank-hallo-wie-geht-s",
       "type": "fill-blank",
-      "l1": "Salut ! Ça va ?",
+      "l1": "Salut ! Comment ça va ?",
       "l2": "Hallo! Wie geht's?",
       "missing_l1": "Salut",
       "missing_l2": "Hallo",
@@ -230,16 +230,16 @@
     {
       "id": "blank-wie-geht-s",
       "type": "fill-blank",
-      "l1": "Ça va ?",
+      "l1": "Comment ça va ?",
       "l2": "Wie geht's?",
-      "missing_l1": "va",
+      "missing_l1": "Comment",
       "missing_l2": "Wie",
-      "blank_index_l1": 1,
+      "blank_index_l1": 0,
       "blank_index_l2": 0,
       "choices_l1": [
-        "bien",
-        "merci",
-        "salut"
+        "Bien",
+        "Merci",
+        "Salut"
       ],
       "choices_l2": [
         "Gut",
@@ -251,12 +251,12 @@
     {
       "id": "order-hallo-wie-geht-s",
       "type": "order",
-      "l1": "Salut ! Ça va ?",
+      "l1": "Salut ! Comment ça va ?",
       "l2": "Hallo! Wie geht's?",
       "tokens_l1": [
         "Salut !",
-        "Ça",
-        "va ?"
+        "Comment",
+        "ça va ?"
       ],
       "tokens_l2": [
         "Hallo!",
@@ -270,7 +270,7 @@
       "l1": [
         "salut",
         "bonjour",
-        "ça va ?",
+        "comment ça va ?",
         "merci"
       ],
       "l2": [

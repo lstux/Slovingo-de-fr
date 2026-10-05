@@ -2,7 +2,7 @@
 
 @ https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Children_dancing%2C_Geneva.jpg/960px-Children_dancing%2C_Geneva.jpg | Enfants dansant à Genève, Wikimedia Commons, licence libre
 
-{{fr:Tu rencontres Lea, une copine allemande. Tu vas te présenter, et dire quand tu ne comprends pas !}}
+{{fr:Tu arrives dans la Forêt-Noire et tu rencontres Lea, un lièvre très sympa. Un renard et un lièvre, ça pourrait mal tourner… mais tu es un gentil renard ! Tu vas te présenter, et dire quand tu ne comprends pas !}}
 
 ---
 
@@ -23,14 +23,14 @@
 ## Les personnages
 
 - 🦊 Toi
-- 🐰 Lea, une copine allemande
+- 🐰 Lea, ton amie de la Forêt-Noire (un lièvre)
 
 ---
 
 ## Le dialogue
 
 ! 🐰 Hallo! Wie geht's?
-> Salut ! Ça va ?
+> Salut ! Comment ça va ?
 
 ! 🦊 Gut, danke!
 > Bien, merci !

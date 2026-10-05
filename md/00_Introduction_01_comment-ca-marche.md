@@ -32,7 +32,9 @@ Les phrases à apprendre sont dans des cartes. Touche la phrase pour l'écouter,
 
 ## Essaie !
 
-- 🐰 Lea, ton amie allemande
+{{fr:Lea est un lièvre, et toi un renard. Ça pourrait faire peur… mais tu es un gentil renard, et Lea le sait !}}
+
+- 🐰 Lea, ton amie de la Forêt-Noire (c'est un lièvre !)
 - 🦊 Toi
 
 ! 🐰 Hallo!

@@ -8,30 +8,30 @@
       "l1": "le bretzel",
       "l2": "die Brezel",
       "choices_l1": [
-        "la saucisse",
+        "les baies",
         "la glace",
         "le pain"
       ],
       "choices_l2": [
-        "die Wurst",
+        "die Beeren",
         "das Eis",
         "das Brot"
       ]
     },
     {
-      "id": "qcm-die-wurst",
+      "id": "qcm-die-beeren",
       "type": "qcm",
-      "l1": "la saucisse",
-      "l2": "die Wurst",
+      "l1": "les baies",
+      "l2": "die Beeren",
       "choices_l1": [
         "le bretzel",
         "les pommes de terre",
-        "la viande"
+        "les légumes"
       ],
       "choices_l2": [
         "die Brezel",
         "die Kartoffeln",
-        "das Fleisch"
+        "das Gemüse"
       ]
     },
     {
@@ -40,12 +40,12 @@
       "l1": "les pommes de terre",
       "l2": "die Kartoffeln",
       "choices_l1": [
-        "la saucisse",
+        "les baies",
         "le jus de pomme",
         "les fruits"
       ],
       "choices_l2": [
-        "die Wurst",
+        "die Beeren",
         "der Apfelsaft",
         "das Obst"
       ]
@@ -104,20 +104,20 @@
       "l1": "Je prends un bretzel, s'il te plaît.",
       "l2": "Ich nehme eine Brezel, bitte.",
       "choices_l1": [
-        "Je prends une saucisse, s'il te plaît.",
+        "Je prends une glace, s'il te plaît.",
         "Je voudrais un bretzel, merci.",
-        "Je prends une glace, s'il te plaît."
+        "Je prends des baies, s'il te plaît."
       ]
     },
     {
-      "id": "listen-nimmst-du-eine-wurst",
+      "id": "listen-nimmst-du-beeren",
       "type": "listen",
-      "l1": "Tu prends une saucisse ?",
-      "l2": "Nimmst du eine Wurst?",
+      "l1": "Tu prends des baies ?",
+      "l2": "Nimmst du Beeren?",
       "choices_l1": [
         "Tu prends un bretzel ?",
-        "Tu aimes la saucisse ?",
-        "Je prends une saucisse."
+        "Tu aimes les baies ?",
+        "Je prends des baies."
       ]
     },
     {
@@ -154,14 +154,14 @@
       ]
     },
     {
-      "id": "listen-die-wurst-ist-hei",
+      "id": "listen-die-kartoffeln-sind-hei",
       "type": "listen",
-      "l1": "La saucisse est brûlante !",
-      "l2": "Die Wurst ist heiß!",
+      "l1": "Les pommes de terre sont brûlantes !",
+      "l2": "Die Kartoffeln sind heiß!",
       "choices_l1": [
-        "La saucisse est froide !",
+        "Les pommes de terre sont froides !",
         "La glace est brûlante !",
-        "La saucisse est trop bonne !"
+        "Les pommes de terre sont trop bonnes !"
       ]
     },
     {
@@ -186,10 +186,10 @@
       "show_translation": true
     },
     {
-      "id": "blank-nimmst-du-eine-wurst",
+      "id": "blank-nimmst-du-beeren",
       "type": "fill-blank",
-      "l1": "Tu prends une saucisse ?",
-      "l2": "Nimmst du eine Wurst?",
+      "l1": "Tu prends des baies ?",
+      "l2": "Nimmst du Beeren?",
       "missing_l1": "prends",
       "missing_l2": "Nimmst",
       "blank_index_l1": 1,
@@ -222,7 +222,7 @@
       ],
       "choices_l2": [
         "Brot",
-        "Fleisch",
+        "Gemüse",
         "Obst"
       ],
       "show_translation": true
@@ -267,38 +267,37 @@
       ]
     },
     {
-      "id": "order-ich-habe-hunger-ich-nehme-eine-wurst",
+      "id": "order-ich-habe-hunger-ich-nehme-beeren",
       "type": "order",
-      "l1": "J'ai faim. Je prends une saucisse.",
-      "l2": "Ich habe Hunger. Ich nehme eine Wurst.",
+      "l1": "J'ai faim. Je prends des baies.",
+      "l2": "Ich habe Hunger. Ich nehme Beeren.",
       "tokens_l1": [
         "J'ai",
         "faim.",
         "Je prends",
-        "une saucisse."
+        "des baies."
       ],
       "tokens_l2": [
         "Ich habe",
         "Hunger.",
         "Ich nehme",
-        "eine Wurst."
+        "Beeren."
       ]
     },
     {
-      "id": "order-nimmst-du-eine-wurst",
+      "id": "order-nimmst-du-beeren",
       "type": "order",
-      "l1": "Tu prends une saucisse ?",
-      "l2": "Nimmst du eine Wurst?",
+      "l1": "Tu prends des baies ?",
+      "l2": "Nimmst du Beeren?",
       "tokens_l1": [
         "Tu",
         "prends",
-        "une saucisse ?"
+        "des baies ?"
       ],
       "tokens_l2": [
         "Nimmst",
         "du",
-        "eine",
-        "Wurst?"
+        "Beeren?"
       ]
     },
     {
@@ -306,13 +305,13 @@
       "type": "match",
       "l1": [
         "le bretzel",
-        "la saucisse",
+        "les baies",
         "le jus de pomme",
         "la glace"
       ],
       "l2": [
         "die Brezel",
-        "die Wurst",
+        "die Beeren",
         "der Apfelsaft",
         "das Eis"
       ]

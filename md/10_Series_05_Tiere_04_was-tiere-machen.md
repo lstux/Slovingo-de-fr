@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (animaux qui courent, volent, nagent...) sur Wikimedia Commons
 
-{{fr:Ce que font les animaux : courir, voler, nager, sauter… et manger. Mais attention, un animal ne mange pas comme toi !}}
+{{fr:Ce que font les animaux de la forêt : courir, voler, nager, sauter… et manger. Mais attention, un animal ne mange pas comme toi !}}
 
 ---
 
@@ -35,6 +35,7 @@
 ! Der Hund frisst.
 > Le chien mange.
 > frisst = mange (animal)
++ Les animaux qui parlent, comme Lea, Tom ou le renard, mangent comme toi : {{isst}}.
 
 ! Die Katze läuft schnell.
 > Le chat court vite.

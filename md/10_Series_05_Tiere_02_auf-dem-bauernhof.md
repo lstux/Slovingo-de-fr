@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (ferme, vache, cheval, poules...) sur Wikimedia Commons
 
-{{fr:Les animaux de la ferme ! Et une découverte rigolote : en allemand, les animaux ne font pas le même bruit qu'en français.}}
+{{fr:Les animaux de la ferme, au bord de la forêt ! Et une découverte rigolote : en allemand, les animaux ne font pas le même bruit qu'en français.}}
 
 ---
 

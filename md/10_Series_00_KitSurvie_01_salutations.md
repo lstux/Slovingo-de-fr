@@ -13,7 +13,7 @@
 | hallo | salut |
 | guten Tag | bonjour |
 | tschüss | salut (au revoir) |
-| wie geht's | ça va ? |
+| wie geht's | comment ça va ? |
 | gut | bien |
 | danke | merci |
 
@@ -34,8 +34,8 @@
 + Pour dire au revoir à un copain.
 
 ! Wie geht's?
-> Ça va ?
-> Wie geht's = ça va
+> Comment ça va ?
+> Wie geht's = comment ça va
 
 ! Gut, danke!
 > Bien, merci !
@@ -43,7 +43,7 @@
 > danke = merci
 
 ! Hallo! Wie geht's?
-> Salut ! Ça va ?
+> Salut ! Comment ça va ?
 
 ---
 

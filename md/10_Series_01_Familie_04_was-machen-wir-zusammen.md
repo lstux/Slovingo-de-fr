@@ -2,7 +2,7 @@
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Children%27s_Games_.jpg?width=800 | Jeux d'enfants, Wikimedia Commons, licence libre
 
-{{fr:Qu'est-ce qu'on fait en famille ? On joue, on chante, on rit… Et tu vas apprendre à dire ce que tu aimes faire.}}
+{{fr:Qu'est-ce qu'on fait en famille, au milieu des sapins ? On joue, on chante, on rit… Et tu vas apprendre à dire ce que tu aimes faire.}}
 
 ---
 

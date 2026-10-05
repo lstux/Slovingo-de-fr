@@ -3,10 +3,10 @@
   "sync": "full",
   "exercises": [
     {
-      "id": "qcm-der-bus",
+      "id": "qcm-das-boot",
       "type": "qcm",
-      "l1": "le bus",
-      "l2": "der Bus",
+      "l1": "le bateau",
+      "l2": "das Boot",
       "choices_l1": [
         "le vélo",
         "la voiture",
@@ -24,12 +24,12 @@
       "l1": "le vélo",
       "l2": "das Fahrrad",
       "choices_l1": [
-        "le bus",
+        "le bateau",
         "la voiture",
         "le parc"
       ],
       "choices_l2": [
-        "der Bus",
+        "das Boot",
         "das Auto",
         "der Park"
       ]
@@ -41,19 +41,19 @@
       "l2": "das Auto",
       "choices_l1": [
         "le vélo",
-        "le bus",
+        "le bateau",
         "la ville"
       ],
       "choices_l2": [
         "das Fahrrad",
-        "der Bus",
+        "das Boot",
         "die Stadt"
       ]
     },
     {
       "id": "qcm-fahren",
       "type": "qcm",
-      "l1": "aller (en roulant)",
+      "l1": "aller (en véhicule)",
       "l2": "fahren",
       "choices_l1": [
         "aller (à pied)",
@@ -72,7 +72,7 @@
       "l1": "aller (à pied)",
       "l2": "gehen",
       "choices_l1": [
-        "aller (en roulant)",
+        "aller (en véhicule)",
         "manger",
         "chanter"
       ],
@@ -99,10 +99,10 @@
       ]
     },
     {
-      "id": "listen-ich-fahre-mit-dem-bus",
+      "id": "listen-ich-fahre-mit-dem-boot",
       "type": "listen",
-      "l1": "Je vais en bus.",
-      "l2": "Ich fahre mit dem Bus.",
+      "l1": "Je vais en bateau.",
+      "l2": "Ich fahre mit dem Boot.",
       "choices_l1": [
         "Je vais à vélo.",
         "Je vais en voiture.",
@@ -115,7 +115,7 @@
       "l1": "Tu vas à vélo ?",
       "l2": "Fährst du mit dem Fahrrad?",
       "choices_l1": [
-        "Tu vas en bus ?",
+        "Tu vas en bateau ?",
         "Tu vas à pied ?",
         "Je vais à vélo."
       ]
@@ -127,7 +127,7 @@
       "l2": "Ich gehe zu Fuß.",
       "choices_l1": [
         "Je vais à vélo.",
-        "Je vais en bus.",
+        "Je vais en bateau.",
         "Lea va à pied."
       ]
     },
@@ -137,19 +137,19 @@
       "l1": "Papa va en voiture.",
       "l2": "Papa fährt mit dem Auto.",
       "choices_l1": [
-        "Papa va en bus.",
+        "Papa va en bateau.",
         "Maman va en voiture.",
         "Papa va à pied."
       ]
     },
     {
-      "id": "listen-der-bus-kommt",
+      "id": "listen-das-boot-kommt",
       "type": "listen",
-      "l1": "Le bus arrive !",
-      "l2": "Der Bus kommt!",
+      "l1": "Le bateau arrive !",
+      "l2": "Das Boot kommt!",
       "choices_l1": [
         "La voiture arrive !",
-        "Le bus est là-bas !",
+        "Le bateau est là-bas !",
         "Le vélo arrive !"
       ]
     },
@@ -160,7 +160,7 @@
       "l2": "Wir gehen in den Park.",
       "choices_l1": [
         "On va à l'école.",
-        "On va à la piscine.",
+        "On va au lac.",
         "On joue au parc."
       ]
     },
@@ -175,7 +175,7 @@
       "blank_index_l2": 1,
       "choices_l1": [
         "vélo",
-        "bus",
+        "bateau",
         "voiture"
       ],
       "choices_l2": [
@@ -186,11 +186,11 @@
       "show_translation": true
     },
     {
-      "id": "blank-ich-fahre-mit-dem-bus",
+      "id": "blank-ich-fahre-mit-dem-boot",
       "type": "fill-blank",
-      "l1": "Je vais en bus.",
-      "l2": "Ich fahre mit dem Bus.",
-      "missing_l1": "bus",
+      "l1": "Je vais en bateau.",
+      "l2": "Ich fahre mit dem Boot.",
+      "missing_l1": "bateau",
       "missing_l2": "fahre",
       "blank_index_l1": 3,
       "blank_index_l2": 1,
@@ -222,7 +222,7 @@
       ],
       "choices_l2": [
         "Auto",
-        "Bus",
+        "Boot",
         "Haus"
       ],
       "show_translation": true
@@ -237,7 +237,7 @@
       "blank_index_l1": 3,
       "blank_index_l2": 2,
       "choices_l1": [
-        "bus",
+        "bateau",
         "train",
         "avion"
       ],
@@ -249,19 +249,19 @@
       "show_translation": true
     },
     {
-      "id": "order-ich-fahre-mit-dem-bus",
+      "id": "order-ich-fahre-mit-dem-boot",
       "type": "order",
-      "l1": "Je vais en bus.",
-      "l2": "Ich fahre mit dem Bus.",
+      "l1": "Je vais en bateau.",
+      "l2": "Ich fahre mit dem Boot.",
       "tokens_l1": [
         "Je",
         "vais",
-        "en bus."
+        "en bateau."
       ],
       "tokens_l2": [
         "Ich",
         "fahre",
-        "mit dem Bus."
+        "mit dem Boot."
       ]
     },
     {
@@ -300,13 +300,13 @@
       "id": "match-transports",
       "type": "match",
       "l1": [
-        "le bus",
+        "le bateau",
         "le vélo",
         "la voiture",
         "à pied"
       ],
       "l2": [
-        "der Bus",
+        "das Boot",
         "das Fahrrad",
         "das Auto",
         "zu Fuß"

@@ -2,7 +2,7 @@
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Living_room_%28Unsplash%29.jpg?width=800 | Salon, Wikimedia Commons, licence libre
 
-{{fr:On visite la maison ! La cuisine, le salon, la chambre… et une formule magique pour dire « il y a ».}}
+{{fr:On visite la maison de Lea, cachée sous les sapins ! La cuisine, le salon, la chambre… et une formule magique pour dire « il y a ».}}
 
 ---
 
@@ -69,3 +69,5 @@
 ## 🇩🇪 Coin allemand
 
 {{fr:Dans beaucoup de maisons allemandes, on enlève ses chaussures en entrant. Souvent, on prête même des chaussons aux invités !}} → {{die Hausschuhe}}
+
+{{fr:Chez Lea aussi : on essuie ses pattes pleines de boue avant d'entrer !}}

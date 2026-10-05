@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (aire de jeux, balançoire, toboggan, enfants qui courent...) sur Wikimedia Commons
 
-{{fr:On sort jouer ! Le foot, le jeu du chat, la balançoire, le toboggan…}}
+{{fr:On sort jouer dans la clairière ! Le foot, le jeu du chat, la balançoire, le toboggan…}}
 
 ---
 
@@ -39,6 +39,7 @@
 ! Spielen wir Fangen?
 > On joue au chat ?
 > Fangen = au chat
++ Un renard qui court après un lièvre ? Seulement pour jouer, bien sûr !
 
 ! Die Schaukel ist frei!
 > La balançoire est libre !

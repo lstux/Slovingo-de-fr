@@ -58,7 +58,7 @@ Pour écrire une nouvelle série, s'appuyer sur ce qui existe déjà — et ne p
 | Familie | un point par fiche : mein/meine (comme en français pour la famille) ; **sein** (ich bin, du bist, er/sie ist, sie sind) + âge, adjectif invariable après sein ; **haben** (habe, hast, hat, haben) + **ein → einen** et mein → meinen, donnés « à l'oreille », sans règle ; verbes réguliers au présent (ich, du, er/sie, wir) + **gern**. En passant, dans les cartes : und, aber, zu Hause, mit. Pas de dein/deine (aucune série suivante n'en a besoin) |
 | Haus | un point par fiche : **es gibt** (+ astuce : le dernier mot d'un mot collé décide de l'article) ; **im / in der**, en formules toutes faites ; **wo ist / wo sind** + pluriel toujours en die ; **nicht**. Donnés tels quels, sans théorie : ich räume … auf (verbe à ressort), er schläft / schläfst du, auf / unter / hinter dem…, ich verstecke mich, wo seid ihr |
 | Essen | un point par fiche : **pas d'article partitif** (Ich esse Brot) ; **ich möchte / möchtest du** (+ avoir faim, soif avec haben) ; **ich mag / magst du** + kein ; **ich nehme / nimmst du** pour commander. Donnés tels quels : du isst, das schmeckt gut, oder, sehr, Probier mal. Pas de « zum Frühstück » (verbe en 2ᵉ position) : à garder pour plus tard |
-| Stadt | un point par fiche : **im / in der** pour les lieux (rappel de Haus) ; **fahren vs gehen** + mit dem Bus / Fahrrad / Auto ; **Geh…!** + nach links / rechts, geradeaus ; **Was kostet das?** (+ nombres, Euro sans s). Donnés tels quels : du fährst, du siehst, in den Park / in die Schule, um die Ecke, ich habe mich verlaufen. Retirés : le vouvoiement (Ihre Hilfe), la comptine du feu rouge |
+| Stadt | un point par fiche : **im / in der** pour les lieux (rappel de Haus) ; **fahren vs gehen** + mit dem Boot / Fahrrad / Auto ; **Geh…!** + nach links / rechts, geradeaus ; **Was kostet das?** (+ nombres, Euro sans s). Donnés tels quels : du fährst, du siehst, in den Park / in die Schule, um die Ecke, ich habe mich verlaufen. Retirés : le vouvoiement (Ihre Hilfe), la comptine du feu rouge |
 | Tiere | un point par fiche : les mots en **-chen** (toujours das, invariables au pluriel) ; les **bruits d'animaux** (die Kuh macht Muh) ; le **comparatif** kleiner / größer **als** ; **essen vs fressen**. Donnés tels quels : die Vögel, die Hühner, er läuft, möchtet ihr, kommt ! |
 | Spiele | un point par fiche : **spielen mit dem / der** (formules) ; jeu **sans article** (Ich spiele Fußball) ; **können** (+ savoir faire, verbe à la fin) ; **Wollen wir…?** Donnés tels quels : Wer ist dran? / Ich bin dran!, Machst du mit? / Ich mache mit! (verbe à ressort), es regnet. Retirés : einladen, anfangen, recht haben |
 
@@ -94,11 +94,11 @@ Pour écrire une nouvelle série, s'appuyer sur ce qui existe déjà — et ne p
 
 **Haus (allégée) :** 27 mots (6 + 5 + 6 + 6, plus *Verstecken, unter, hinter, lustig* signalés dans le dialogue). Retirés : Flur, Keller, Balkon, Regal, Teppich, Schlüssel, offen, geschlossen, suchen, sitzen, helfen, aufwachen, lieber (*gemütlich* reste en Coin allemand). Gardés pour la suite : es gibt, dort, auf, unter, lustig, viele, jetzt, mich, ihr, schläft, Bett.
 
-**Essen (allégée) :** 26 mots (6 + 6 + 6 + 6, plus *Guten Appetit* et *satt* signalés dans le dialogue). Retirés : Gemüse, Apfel, Abendessen, Brötchen (en Coin allemand), schmecken (gardé en formule), heiß, probieren, Schnitzel, Pommes, Apfelstrudel. Gardés pour la suite : Brezel, Brot, Eis, Hunger, lecker, mag, mal, möchte, möchtest, nehme, oder, sehr, super, süß.
+**Essen (allégée) :** 26 mots (6 + 6 + 6 + 6, plus *Guten Appetit* et *satt* signalés dans le dialogue). Dans le monde animalier (branche `animals`), *Fleisch* et *Wurst* sont remplacés par *Gemüse* (Lea n'en mange pas : un lièvre !) et *Beeren* (le renard 🦊 adore ça). Retirés : Fleisch, Wurst, Apfel, Abendessen, Brötchen (en Coin allemand), schmecken (gardé en formule), heiß, probieren, Schnitzel, Pommes, Apfelstrudel. Gardés pour la suite : Brezel, Brot, Eis, Hunger, lecker, mag, mal, möchte, möchtest, nehme, oder, sehr, super, süß.
 
-**Stadt (allégée) :** 25 mots (6 + 6 + 6 + 6, plus *weit* et *ich habe mich verlaufen* signalés dans le dialogue). Retirés : Straße, Supermarkt, Kino, Spielplatz, Straßenbahn, Zug, Haltestelle, Bahnhof, die Ecke, Ampel, rot, grün, kosten (gardé en formule), Taschengeld (en Coin allemand), teuer, billig, einfach. Gardés pour la suite : Eisdiele, gehen, kommt, neben, Park, sehen, was.
+**Stadt (allégée) :** 25 mots (6 + 6 + 6 + 6, plus *weit* et *ich habe mich verlaufen* signalés dans le dialogue). Dans le monde animalier, *Schwimmbad* devient *der See* (im See) et *der Bus* devient *das Boot*. Retirés : Straße, Supermarkt, Kino, Spielplatz, Straßenbahn, Zug, Haltestelle, Bahnhof, die Ecke, Ampel, rot, grün, kosten (gardé en formule), Taschengeld (en Coin allemand), teuer, billig, einfach. Gardés pour la suite : Eisdiele, gehen, kommt, neben, Park, sehen, was.
 
-**Tiere (allégée) :** 26 mots (6 + 6 + 6 + 6, plus *Schau mal* et *der Streichelzoo* signalés dans le dialogue). Retirés : Schildkröte, Aquarium, füttern (gardé en formule dans le dialogue), streicheln, Ziege, Hahn, Gras, rosa, Bär, Streifen (gardé dans une carte), braun, Fell, Schwanz, Flügel, Ente (gardée dans une carte), Schnabel, Gehege, Teich, Gern geschehen. Gardés pour Spiele : fliegt, schwimmen, springen.
+**Tiere (refaite pour la forêt) :** 27 mots (6 + 6 + 6 + 6, plus *Schau mal*, *bleibt* et *der Weg* signalés dans le dialogue). Les animaux domestiques et le zoo laissent la place aux animaux de la Forêt-Noire : Fuchs, Hase, Eichhörnchen, Kaninchen, Vogel, Fisch (fiche 01) ; Wald, Hirsch, Reh, Wildschwein, Dachs, stark (fiche 03) ; fiche 02 (ferme) et 04 (verbes) inchangées. Fiches renommées : `waldtiere`, `tiere-im-wald`, `im-wald-mit-oma-hilde`. Anciennement retirés : Schildkröte, Aquarium, füttern (gardé en formule dans le dialogue), streicheln, Ziege, Hahn, Gras, rosa, Bär, Streifen (gardé dans une carte), braun, Fell, Schwanz, Flügel, Ente (gardée dans une carte), Schnabel, Gehege, Teich, Gern geschehen. Gardés pour Spiele : fliegt, schwimmen, springen.
 
 **Spiele (allégée) :** 26 mots (6 + 6 + 6 + 6, plus *es regnet* et *klar* signalés dans le dialogue). Retirés : Bauklötze, Roboter, neu, schaukeln, rutschen, Trampolin, Karte, Regel, So ein Pech, einladen, Rennen, anfangen, recht haben. Dernière série : aucune dépendance en aval.
 - Cartes décomposées morceau par morceau
@@ -186,15 +186,16 @@ Pour écrire une nouvelle série, s'appuyer sur ce qui existe déjà — et ne p
 Pour rendre le cours moins scolaire, on introduit des personnages récurrents dès la série 00. Tous portent une tête d'animal en emoji (marqueur de locuteur dans les dialogues) plutôt qu'une silhouette humaine — plus ludique, et ça évite de devoir choisir un genre pour l'avatar de l'enfant :
 
 - **🦊 L'enfant lui-même** — pas un personnage nommé à l'avance : on utilise le mécanisme intégré de Slovingo (`[ASK_USER_NAME]` / `[USER_NAME]`) pour que l'enfant soit littéralement le protagoniste des dialogues, sous son propre prénom. Voir [Format-de-fr.md](./Format-de-fr.md) pour le détail technique.
-- **🐰 Lea** (8 ans, allemande) — copine récurrente, celle qui parle allemand et fait découvrir le vocabulaire
-- **🐨 Tom** (9 ans, allemand) — ami de Lea
-- **🦉 Oma Hilde** — grand-mère de Lea
+- **🐰 Lea** (8 ans, un lièvre) — copine récurrente, celle qui parle allemand et fait découvrir le vocabulaire
+- **🦡 Tom** (9 ans, un blaireau) — ami de Lea
+- **🦉 Oma Hilde** (un hibou) — grand-mère de Lea
+- **🦌 Opa Karl** (un cerf), **🦔 Frau Stachel** (hérisson, boulangerie), **🦅 Herr Falke** (faucon, garde du parc) : figurants
 
-**Traits déjà établis** (à respecter pour la cohérence) : Lea n'aime pas la viande (Essen 05) ; Tom adore l'escalope et lance bien le dé ; Oma Hilde adore cuisiner et joue pour gagner ; tout le monde se retrouve au glacier (Stadt 05, Tiere 05). On tutoie Oma Hilde.
+**Traits déjà établis** (à respecter pour la cohérence) : Lea n'aime pas les légumes (Essen 05) ; Tom (blaireau) lance bien le dé ; Oma Hilde adore cuisiner et joue pour gagner ; tout le monde se retrouve au glacier (Stadt 05, Tiere 05). On tutoie Oma Hilde.
 
 L'enfant rencontre Lea dès la fiche 03 du Kit de Survie (Série 00) : c'est ce dialogue qui justifie les phrases « je ne comprends pas » et « tu parles français ? », et qui introduit aussi « comment tu t'appelles / je m'appelle » via le mécanisme USER_NAME. Les personnages reviennent dans la fiche 05 (dialogue) à partir de la série 01, et plus tard dans les sections culturelles (« Oma Hilde t'explique... »).
 
-Le texte narratif continue de les décrire comme des enfants et une grand-mère (Lea reste « une copine allemande », pas une lapine à proprement parler) : seul l'avatar visuel dans les dialogues est un animal, pas l'univers de l'histoire.
+**Évolution (branche `animals`)** : l'univers devient celui des animaux de la Forêt-Noire, Lea est un lièvre, Tom un blaireau 🦡, Oma Hilde un hibou. Voir [Format-animaux.md](./Format-animaux.md), qui fait foi pour le décor et le casting.
 
 ---
 

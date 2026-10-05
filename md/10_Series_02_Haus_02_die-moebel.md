@@ -2,7 +2,7 @@
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Bed_Room.jpg?width=800 | Chambre à coucher, Wikimedia Commons, licence libre
 
-{{fr:La table, le lit, le canapé… et comment dire dans quelle pièce ils sont.}}
+{{fr:La table, le lit, le canapé… chez Lea et dans le terrier de Tom. On apprend comment dire dans quelle pièce ils sont.}}
 
 ---
 

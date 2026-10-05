@@ -73,7 +73,7 @@
       "l2": "was kostet das?",
       "choices_l1": [
         "où est l'école ?",
-        "ça va ?"
+        "comment ça va ?"
       ],
       "choices_l2": [
         "wo ist die Schule?",
@@ -189,7 +189,7 @@
       "blank_index_l2": 1,
       "choices_l1": [
         "pomme",
-        "saucisse",
+        "tarte",
         "brioche"
       ],
       "choices_l2": [

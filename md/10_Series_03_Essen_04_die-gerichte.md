@@ -2,7 +2,7 @@
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/BrezelnSalz02_%28cropped%29.JPG?width=800 | Bretzels avec sel, Wikimedia Commons, licence libre
 
-{{fr:Les plats qu'on te servira vraiment en Allemagne. Et une formule pour commander comme un grand !}}
+{{fr:Les petits plats de la forêt et du village. Et une formule pour commander comme un grand !}}
 
 ---
 
@@ -11,7 +11,7 @@
 | Deutsch | Français |
 |---------|----------|
 | die Brezel | le bretzel |
-| die Wurst | la saucisse |
+| die Beeren | les baies |
 | die Kartoffeln | les pommes de terre |
 | der Apfelsaft | le jus de pomme |
 | das Eis | la glace |
@@ -21,7 +21,7 @@
 
 ## Pour commander
 
-{{fr:À la boulangerie ou au restaurant, dis « je prends », puis ce que tu veux, et s'il te plaît. C'est gagné !}} → {{Ich nehme eine Brezel, bitte.}}
+{{fr:À la boulangerie ou chez le glacier, dis « je prends », puis ce que tu veux, et s'il te plaît. C'est gagné !}} → {{Ich nehme eine Brezel, bitte.}}
 
 | Deutsch | Français |
 |---------|----------|
@@ -37,9 +37,10 @@
 > Ich nehme = je prends
 > eine Brezel = un bretzel
 
-! Nimmst du eine Wurst?
-> Tu prends une saucisse ?
+! Nimmst du Beeren?
+> Tu prends des baies ?
 > Nimmst du = tu prends
+> Beeren = des baies
 + Le e devient i, comme {{du isst}} : {{ich nehme}}, mais {{du nimmst}}.
 
 ! Ich möchte einen Apfelsaft.
@@ -54,16 +55,18 @@
 > La glace est froide et sucrée.
 > Das Eis = la glace
 
-! Die Wurst ist heiß!
-> La saucisse est brûlante !
+! Die Kartoffeln sind heiß!
+> Les pommes de terre sont brûlantes !
+> Die Kartoffeln sind = les pommes de terre sont
 > heiß = brûlant
++ Mot nouveau signalé : {{heiß}} = brûlant, encore plus chaud que {{warm}}.
 
 ---
 
 ## On révise
 
-! Ich habe Hunger. Ich nehme eine Wurst.
-> J'ai faim. Je prends une saucisse.
+! Ich habe Hunger. Ich nehme Beeren.
+> J'ai faim. Je prends des baies.
 > Ich habe Hunger = j'ai faim
 
 ! Die Brezel ist lecker!
@@ -74,4 +77,4 @@
 
 ## 🇩🇪 Coin allemand
 
-{{fr:Le plat préféré de beaucoup d'enfants allemands : une saucisse coupée en rondelles, avec une sauce tomate au curry.}} → {{die Currywurst}}
+{{fr:Dans la Forêt-Noire, en été, on ramasse des myrtilles sauvages. En allemand, ça s'appelle des}} {{Heidelbeeren}}. {{fr:Et on remporte ses déchets : comme ça, la forêt reste propre pour tous les animaux !}}

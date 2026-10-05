@@ -132,12 +132,12 @@
       ]
     },
     {
-      "id": "listen-ich-mag-kein-fleisch",
+      "id": "listen-ich-mag-kein-gem-se",
       "type": "listen",
-      "l1": "Je n'aime pas la viande.",
-      "l2": "Ich mag kein Fleisch.",
+      "l1": "Je n'aime pas les légumes.",
+      "l2": "Ich mag kein Gemüse.",
       "choices_l1": [
-        "J'aime bien la viande.",
+        "J'aime bien les légumes.",
         "Je n'aime pas le fromage.",
         "Je ne mange pas de pain."
       ]
@@ -176,11 +176,11 @@
       ]
     },
     {
-      "id": "blank-ich-mag-kein-fleisch",
+      "id": "blank-ich-mag-kein-gem-se",
       "type": "fill-blank",
-      "l1": "Je n'aime pas la viande.",
-      "l2": "Ich mag kein Fleisch.",
-      "missing_l1": "viande",
+      "l1": "Je n'aime pas les légumes.",
+      "l2": "Ich mag kein Gemüse.",
+      "missing_l1": "légumes",
       "missing_l2": "mag",
       "blank_index_l1": 4,
       "blank_index_l2": 1,
@@ -282,20 +282,20 @@
       ]
     },
     {
-      "id": "order-ich-mag-kein-fleisch",
+      "id": "order-ich-mag-kein-gem-se",
       "type": "order",
-      "l1": "Je n'aime pas la viande.",
-      "l2": "Ich mag kein Fleisch.",
+      "l1": "Je n'aime pas les légumes.",
+      "l2": "Ich mag kein Gemüse.",
       "tokens_l1": [
         "Je",
         "n'aime pas",
-        "la viande."
+        "les légumes."
       ],
       "tokens_l2": [
         "Ich",
         "mag",
         "kein",
-        "Fleisch."
+        "Gemüse."
       ]
     },
     {

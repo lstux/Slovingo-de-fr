@@ -58,6 +58,7 @@
 ! Es ist um die Ecke.
 > C'est juste au coin de la rue.
 > um die Ecke = au coin de la rue
++ Mot nouveau signalé : {{die Ecke}} = le coin de la rue.
 
 ---
 

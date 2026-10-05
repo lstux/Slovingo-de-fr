@@ -1,0 +1,326 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-der-wald",
+      "type": "qcm",
+      "l1": "la forêt",
+      "l2": "der Wald",
+      "choices_l1": [
+        "le cerf",
+        "le chevreuil",
+        "le sanglier"
+      ],
+      "choices_l2": [
+        "der Hirsch",
+        "das Reh",
+        "das Wildschwein"
+      ]
+    },
+    {
+      "id": "qcm-der-hirsch",
+      "type": "qcm",
+      "l1": "le cerf",
+      "l2": "der Hirsch",
+      "choices_l1": [
+        "la forêt",
+        "le sanglier",
+        "le blaireau"
+      ],
+      "choices_l2": [
+        "der Wald",
+        "das Wildschwein",
+        "der Dachs"
+      ]
+    },
+    {
+      "id": "qcm-das-reh",
+      "type": "qcm",
+      "l1": "le chevreuil",
+      "l2": "das Reh",
+      "choices_l1": [
+        "la forêt",
+        "le cerf",
+        "le blaireau"
+      ],
+      "choices_l2": [
+        "der Wald",
+        "der Hirsch",
+        "der Dachs"
+      ]
+    },
+    {
+      "id": "qcm-das-wildschwein",
+      "type": "qcm",
+      "l1": "le sanglier",
+      "l2": "das Wildschwein",
+      "choices_l1": [
+        "le blaireau",
+        "le chevreuil",
+        "le cerf"
+      ],
+      "choices_l2": [
+        "der Dachs",
+        "das Reh",
+        "der Hirsch"
+      ]
+    },
+    {
+      "id": "qcm-der-dachs",
+      "type": "qcm",
+      "l1": "le blaireau",
+      "l2": "der Dachs",
+      "choices_l1": [
+        "le sanglier",
+        "le chevreuil",
+        "la forêt"
+      ],
+      "choices_l2": [
+        "das Wildschwein",
+        "das Reh",
+        "der Wald"
+      ]
+    },
+    {
+      "id": "qcm-stark",
+      "type": "qcm",
+      "l1": "fort",
+      "l2": "stark",
+      "choices_l1": [
+        "grand",
+        "petit",
+        "drôle"
+      ],
+      "choices_l2": [
+        "groß",
+        "klein",
+        "lustig"
+      ]
+    },
+    {
+      "id": "listen-der-hirsch-ist-gro",
+      "type": "listen",
+      "l1": "Le cerf est grand.",
+      "l2": "Der Hirsch ist groß.",
+      "choices_l1": [
+        "Le cerf est petit.",
+        "Le sanglier est grand.",
+        "Le cerf est fort."
+      ]
+    },
+    {
+      "id": "listen-der-hirsch-ist-gr-er-als-das-reh",
+      "type": "listen",
+      "l1": "Le cerf est plus grand que le chevreuil.",
+      "l2": "Der Hirsch ist größer als das Reh.",
+      "choices_l1": [
+        "Le chevreuil est plus grand que le cerf.",
+        "Le cerf est plus petit que le chevreuil.",
+        "Le cerf est plus grand que le sanglier."
+      ]
+    },
+    {
+      "id": "listen-der-dachs-ist-kleiner-als-der-hirsch",
+      "type": "listen",
+      "l1": "Le blaireau est plus petit que le cerf.",
+      "l2": "Der Dachs ist kleiner als der Hirsch.",
+      "choices_l1": [
+        "Le blaireau est plus grand que le cerf.",
+        "Le sanglier est plus petit que le cerf.",
+        "Le blaireau est plus petit que le chevreuil."
+      ]
+    },
+    {
+      "id": "listen-das-wildschwein-ist-stark",
+      "type": "listen",
+      "l1": "Le sanglier est fort.",
+      "l2": "Das Wildschwein ist stark.",
+      "choices_l1": [
+        "Le sanglier est drôle.",
+        "Le cerf est fort.",
+        "Le sanglier est petit."
+      ]
+    },
+    {
+      "id": "listen-ich-mag-eichh-rnchen-sie-sind-lustig",
+      "type": "listen",
+      "l1": "J'aime bien les écureuils. Ils sont drôles !",
+      "l2": "Ich mag Eichhörnchen. Sie sind lustig!",
+      "choices_l1": [
+        "J'aime bien les sangliers. Ils sont forts !",
+        "J'aime bien les écureuils. Ils sont petits !",
+        "J'aime bien les cerfs. Ils sont drôles !"
+      ]
+    },
+    {
+      "id": "listen-der-dachs-hat-streifen",
+      "type": "listen",
+      "l1": "Le blaireau a des rayures.",
+      "l2": "Der Dachs hat Streifen.",
+      "choices_l1": [
+        "Le blaireau est grand.",
+        "Le cerf a des rayures.",
+        "Le blaireau a faim."
+      ]
+    },
+    {
+      "id": "blank-der-hirsch-ist-gr-er-als-das-reh",
+      "type": "fill-blank",
+      "l1": "Le cerf est plus grand que le chevreuil.",
+      "l2": "Der Hirsch ist größer als das Reh.",
+      "missing_l1": "grand",
+      "missing_l2": "größer",
+      "blank_index_l1": 4,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "petit",
+        "fort",
+        "drôle"
+      ],
+      "choices_l2": [
+        "kleiner",
+        "groß",
+        "stark"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-der-dachs-ist-kleiner-als-der-hirsch",
+      "type": "fill-blank",
+      "l1": "Le blaireau est plus petit que le cerf.",
+      "l2": "Der Dachs ist kleiner als der Hirsch.",
+      "missing_l1": "que",
+      "missing_l2": "als",
+      "blank_index_l1": 5,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "et",
+        "mais",
+        "ou"
+      ],
+      "choices_l2": [
+        "und",
+        "aber",
+        "oder"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-das-wildschwein-ist-stark",
+      "type": "fill-blank",
+      "l1": "Le sanglier est fort.",
+      "l2": "Das Wildschwein ist stark.",
+      "missing_l1": "sanglier",
+      "missing_l2": "Wildschwein",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "blaireau",
+        "loup",
+        "ours"
+      ],
+      "choices_l2": [
+        "Dachs",
+        "Hirsch",
+        "Hund"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-im-wald-sehe-ich-hirsche-und-rehe",
+      "type": "fill-blank",
+      "l1": "Dans la forêt, je vois des cerfs et des chevreuils.",
+      "l2": "Im Wald sehe ich Hirsche und Rehe.",
+      "missing_l1": "vois",
+      "missing_l2": "sehe",
+      "blank_index_l1": 4,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "ai",
+        "mange",
+        "achète"
+      ],
+      "choices_l2": [
+        "habe",
+        "esse",
+        "kaufe"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-der-hirsch-ist-gr-er-als-das-reh",
+      "type": "order",
+      "l1": "Le cerf est plus grand que le chevreuil.",
+      "l2": "Der Hirsch ist größer als das Reh.",
+      "tokens_l1": [
+        "Le cerf",
+        "est",
+        "plus grand",
+        "que",
+        "le chevreuil."
+      ],
+      "tokens_l2": [
+        "Der Hirsch",
+        "ist",
+        "größer",
+        "als",
+        "das Reh."
+      ]
+    },
+    {
+      "id": "order-der-hund-ist-kleiner-als-das-pferd",
+      "type": "order",
+      "l1": "Le chien est plus petit que le cheval.",
+      "l2": "Der Hund ist kleiner als das Pferd.",
+      "tokens_l1": [
+        "Le chien",
+        "est",
+        "plus petit",
+        "que",
+        "le cheval."
+      ],
+      "tokens_l2": [
+        "Der Hund",
+        "ist",
+        "kleiner",
+        "als",
+        "das Pferd."
+      ]
+    },
+    {
+      "id": "order-das-wildschwein-ist-stark",
+      "type": "order",
+      "l1": "Le sanglier est fort.",
+      "l2": "Das Wildschwein ist stark.",
+      "tokens_l1": [
+        "Le",
+        "sanglier",
+        "est",
+        "fort."
+      ],
+      "tokens_l2": [
+        "Das",
+        "Wildschwein",
+        "ist",
+        "stark."
+      ]
+    },
+    {
+      "id": "match-foret",
+      "type": "match",
+      "l1": [
+        "le cerf",
+        "le chevreuil",
+        "le sanglier",
+        "le blaireau"
+      ],
+      "l2": [
+        "der Hirsch",
+        "das Reh",
+        "das Wildschwein",
+        "der Dachs"
+      ]
+    }
+  ]
+}

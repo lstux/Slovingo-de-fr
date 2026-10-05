@@ -2,7 +2,7 @@
 
 @ https://upload.wikimedia.org/wikipedia/commons/8/81/Birthday_party_with_party_horns.JPG | Fête d'anniversaire avec trompettes, Wikimedia Commons, licence libre
 
-{{fr:Tu vas chez Lea ! Tu rencontres son copain Tom et sa mamie Hilde. Écoute bien : tu connais presque tous les mots.}}
+{{fr:Tu vas chez Lea ! Tu rencontres son copain Tom, un blaireau, et sa mamie Hilde, un hibou. Écoute bien : tu connais presque tous les mots.}}
 
 ---
 
@@ -10,8 +10,8 @@
 
 - 🦊 Toi
 - 🐰 Lea
-- 🐨 Tom, le copain de Lea
-- 🦉 Oma Hilde, la mamie de Lea
+- 🦡 Tom, le copain de Lea (un blaireau)
+- 🦉 Oma Hilde, la mamie de Lea (un hibou)
 
 ---
 
@@ -29,14 +29,14 @@
 > Voici Tom. C'est mon copain.
 > Er ist mein Freund = c'est mon copain
 
-! 🐨 Hallo! Wie heißt du?
+! 🦡 Hallo! Wie heißt du?
 > Salut ! Comment tu t'appelles ?
 
 ! 🦊 Ich heiße [USER_NAME]. Wie alt bist du?
 > Je m'appelle [USER_NAME]. Quel âge as-tu ?
 > Wie alt bist du = quel âge as-tu
 
-! 🐨 Ich bin neun Jahre alt. Und du?
+! 🦡 Ich bin neun Jahre alt. Und du?
 > J'ai neuf ans. Et toi ?
 > Und du = et toi
 

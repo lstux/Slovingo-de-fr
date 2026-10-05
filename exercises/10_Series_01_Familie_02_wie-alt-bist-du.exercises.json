@@ -72,7 +72,7 @@
       "l1": "quel âge",
       "l2": "wie alt",
       "choices_l1": [
-        "ça va ?",
+        "comment ça va ?",
         "comment tu t'appelles",
         "petit"
       ],
@@ -121,7 +121,7 @@
       "l2": "Wie alt bist du?",
       "choices_l1": [
         "Comment tu t'appelles ?",
-        "Ça va ?",
+        "Comment ça va ?",
         "Tu parles français ?"
       ]
     },

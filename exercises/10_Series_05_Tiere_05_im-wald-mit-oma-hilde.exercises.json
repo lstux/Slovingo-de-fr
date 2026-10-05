@@ -3,80 +3,80 @@
   "sync": "full",
   "exercises": [
     {
-      "id": "listen-wir-sind-im-zoo-was-m-chtet-ihr-sehen",
+      "id": "listen-wir-sind-im-wald-was-m-chtet-ihr-sehen",
       "type": "listen",
-      "l1": "On est au zoo ! Qu'est-ce que vous voulez voir ?",
-      "l2": "Wir sind im Zoo! Was möchtet ihr sehen?",
+      "l1": "On est dans la forêt ! Qu'est-ce que vous voulez voir ?",
+      "l2": "Wir sind im Wald! Was möchtet ihr sehen?",
       "choices_l1": [
         "On est à la ferme ! Qu'est-ce que vous voulez voir ?",
-        "On est au zoo ! Qu'est-ce que vous voulez manger ?",
+        "On est dans la forêt ! Qu'est-ce que vous voulez manger ?",
         "On est au parc ! Qu'est-ce que vous voulez faire ?"
       ]
     },
     {
-      "id": "listen-ich-m-chte-die-giraffen-sehen",
+      "id": "listen-ich-m-chte-die-rehe-sehen",
       "type": "listen",
-      "l1": "Je voudrais voir les girafes !",
-      "l2": "Ich möchte die Giraffen sehen!",
+      "l1": "Je voudrais voir les chevreuils !",
+      "l2": "Ich möchte die Rehe sehen!",
       "choices_l1": [
-        "Je voudrais voir les lions !",
-        "Je voudrais voir les singes !",
-        "J'aime bien les girafes !"
+        "Je voudrais voir les cerfs !",
+        "Je voudrais voir les sangliers !",
+        "J'aime bien les chevreuils !"
       ]
     },
     {
-      "id": "listen-schau-mal-ein-elefant",
+      "id": "listen-schau-mal-ein-hirsch",
       "type": "listen",
-      "l1": "Regarde, un éléphant !",
-      "l2": "Schau mal, ein Elefant!",
+      "l1": "Regarde, un cerf !",
+      "l2": "Schau mal, ein Hirsch!",
       "choices_l1": [
-        "Regarde, un lion !",
-        "Regarde, une girafe !",
-        "C'est un éléphant !"
+        "Regarde, un sanglier !",
+        "Regarde, un chevreuil !",
+        "C'est un cerf !"
       ]
     },
     {
-      "id": "listen-er-ist-so-gro-gr-er-als-ein-auto",
+      "id": "listen-er-ist-so-gro-gr-er-als-ein-pferd",
       "type": "listen",
-      "l1": "Il est tellement grand ! Plus grand qu'une voiture !",
-      "l2": "Er ist so groß! Größer als ein Auto!",
+      "l1": "Il est tellement grand ! Plus grand qu'un cheval !",
+      "l2": "Er ist so groß! Größer als ein Pferd!",
       "choices_l1": [
-        "Il est tellement petit ! Plus petit qu'une voiture !",
+        "Il est tellement petit ! Plus petit qu'un cheval !",
         "Il est tellement grand ! Plus grand qu'une maison !",
-        "Il est tellement fort ! Plus fort qu'une voiture !"
+        "Il est tellement fort ! Plus fort qu'un cheval !"
       ]
     },
     {
-      "id": "listen-und-der-l-we-schl-ft",
+      "id": "listen-und-das-wildschwein-schl-ft",
       "type": "listen",
-      "l1": "Et le lion dort.",
-      "l2": "Und der Löwe schläft.",
+      "l1": "Et le sanglier dort.",
+      "l2": "Und das Wildschwein schläft.",
       "choices_l1": [
-        "Et le lion mange.",
-        "Et le singe dort.",
-        "Et le lion court."
+        "Et le sanglier mange.",
+        "Et le cerf dort.",
+        "Et le sanglier court."
       ]
     },
     {
-      "id": "listen-die-affen-sind-lustig-sie-springen",
+      "id": "listen-die-eichh-rnchen-sind-lustig-sie-springen",
       "type": "listen",
-      "l1": "Les singes sont drôles ! Ils sautent !",
-      "l2": "Die Affen sind lustig! Sie springen!",
+      "l1": "Les écureuils sont drôles ! Ils sautent !",
+      "l2": "Die Eichhörnchen sind lustig! Sie springen!",
       "choices_l1": [
-        "Les singes sont drôles ! Ils courent !",
-        "Les lions sont drôles ! Ils sautent !",
-        "Les singes sont forts ! Ils sautent !"
+        "Les écureuils sont drôles ! Ils courent !",
+        "Les sangliers sont drôles ! Ils sautent !",
+        "Les écureuils sont forts ! Ils sautent !"
       ]
     },
     {
-      "id": "listen-m-chtet-ihr-die-schafe-f-ttern-im-streichelzoo",
+      "id": "listen-guten-tag-kinder-bleibt-bitte-auf-dem-weg",
       "type": "listen",
-      "l1": "Vous voulez nourrir les moutons ? Au mini-zoo !",
-      "l2": "Möchtet ihr die Schafe füttern? Im Streichelzoo!",
+      "l1": "Bonjour, les enfants ! Restez sur le chemin, s'il vous plaît !",
+      "l2": "Guten Tag, Kinder! Bleibt bitte auf dem Weg!",
       "choices_l1": [
-        "Vous voulez voir les moutons ? Au mini-zoo !",
-        "Vous voulez nourrir les canards ? Au mini-zoo !",
-        "Vous voulez nourrir les moutons ? À la ferme !"
+        "Bonjour, les enfants ! Restez à la maison, s'il vous plaît !",
+        "Au revoir, les enfants ! Restez sur le chemin, s'il vous plaît !",
+        "Bonjour, les enfants ! Venez sur le chemin, s'il vous plaît !"
       ]
     },
     {
@@ -96,37 +96,37 @@
       "l1": "Venez, on va au glacier !",
       "l2": "Kommt, wir gehen in die Eisdiele!",
       "choices_l1": [
-        "Venez, on va au zoo !",
+        "Venez, on va dans la forêt !",
         "Venez, on va au parc !",
         "Venez, on mange une glace !"
       ]
     },
     {
-      "id": "blank-schau-mal-ein-elefant",
+      "id": "blank-schau-mal-ein-hirsch",
       "type": "fill-blank",
-      "l1": "Regarde, un éléphant !",
-      "l2": "Schau mal, ein Elefant!",
-      "missing_l1": "éléphant",
-      "missing_l2": "Elefant",
+      "l1": "Regarde, un cerf !",
+      "l2": "Schau mal, ein Hirsch!",
+      "missing_l1": "cerf",
+      "missing_l2": "Hirsch",
       "blank_index_l1": 2,
       "blank_index_l2": 3,
       "choices_l1": [
-        "lion",
-        "singe",
-        "ours"
+        "blaireau",
+        "renard",
+        "lièvre"
       ],
       "choices_l2": [
-        "Löwe",
-        "Affe",
-        "Zebra"
+        "Dachs",
+        "Fuchs",
+        "Hase"
       ],
       "show_translation": true
     },
     {
-      "id": "blank-und-der-l-we-schl-ft",
+      "id": "blank-und-das-wildschwein-schl-ft",
       "type": "fill-blank",
-      "l1": "Et le lion dort.",
-      "l2": "Und der Löwe schläft.",
+      "l1": "Et le sanglier dort.",
+      "l2": "Und das Wildschwein schläft.",
       "missing_l1": "dort",
       "missing_l2": "schläft",
       "blank_index_l1": 3,
@@ -144,10 +144,10 @@
       "show_translation": true
     },
     {
-      "id": "blank-die-affen-sind-lustig-sie-springen",
+      "id": "blank-die-eichh-rnchen-sind-lustig-sie-springen",
       "type": "fill-blank",
-      "l1": "Les singes sont drôles ! Ils sautent !",
-      "l2": "Die Affen sind lustig! Sie springen!",
+      "l1": "Les écureuils sont drôles ! Ils sautent !",
+      "l2": "Die Eichhörnchen sind lustig! Sie springen!",
       "missing_l1": "sautent",
       "missing_l2": "springen",
       "blank_index_l1": 6,
@@ -165,23 +165,23 @@
       "show_translation": true
     },
     {
-      "id": "blank-ich-m-chte-die-giraffen-sehen",
+      "id": "blank-ich-m-chte-die-rehe-sehen",
       "type": "fill-blank",
-      "l1": "Je voudrais voir les girafes !",
-      "l2": "Ich möchte die Giraffen sehen!",
-      "missing_l1": "girafes",
-      "missing_l2": "Giraffen",
+      "l1": "Je voudrais voir les chevreuils !",
+      "l2": "Ich möchte die Rehe sehen!",
+      "missing_l1": "chevreuils",
+      "missing_l2": "Rehe",
       "blank_index_l1": 4,
       "blank_index_l2": 3,
       "choices_l1": [
-        "lions",
-        "singes",
-        "zèbres"
+        "poules",
+        "oiseaux",
+        "chevaux"
       ],
       "choices_l2": [
-        "Affen",
         "Hühner",
-        "Vögel"
+        "Vögel",
+        "Pferde"
       ],
       "show_translation": true
     },
@@ -202,20 +202,20 @@
       ]
     },
     {
-      "id": "order-ich-m-chte-die-giraffen-sehen",
+      "id": "order-ich-m-chte-die-rehe-sehen",
       "type": "order",
-      "l1": "Je voudrais voir les girafes !",
-      "l2": "Ich möchte die Giraffen sehen!",
+      "l1": "Je voudrais voir les chevreuils !",
+      "l2": "Ich möchte die Rehe sehen!",
       "tokens_l1": [
         "Je",
         "voudrais",
         "voir",
-        "les girafes !"
+        "les chevreuils !"
       ],
       "tokens_l2": [
         "Ich",
         "möchte",
-        "die Giraffen",
+        "die Rehe",
         "sehen!"
       ]
     },
@@ -241,16 +241,16 @@
       "id": "match-repliques",
       "type": "match",
       "l1": [
-        "Regarde, un éléphant !",
-        "Et le lion dort.",
-        "J'aime bien les zèbres !",
-        "Oui, avec plaisir !"
+        "Regarde, un cerf !",
+        "Et le sanglier dort.",
+        "J'aime bien les sangliers !",
+        "D'accord, Monsieur Falke !"
       ],
       "l2": [
-        "Schau mal, ein Elefant!",
-        "Und der Löwe schläft.",
-        "Ich mag die Zebras!",
-        "Ja, gern!"
+        "Schau mal, ein Hirsch!",
+        "Und das Wildschwein schläft.",
+        "Ich mag Wildschweine!",
+        "Gut, Herr Falke!"
       ]
     }
   ]

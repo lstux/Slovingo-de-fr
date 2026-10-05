@@ -2,7 +2,7 @@
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Breakfast%5E_-_geograph.org.uk_-_2358203.jpg?width=800 | Petit-déjeuner, Wikimedia Commons/geograph.org.uk, licence libre
 
-{{fr:À table ! Le pain, le lait, la viande… et deux verbes indispensables : manger et boire.}}
+{{fr:À table ! Le pain, le lait, les légumes… et deux verbes indispensables : manger et boire.}}
 
 ---
 
@@ -14,7 +14,7 @@
 | trinken | boire |
 | das Brot | le pain |
 | die Milch | le lait |
-| das Fleisch | la viande |
+| das Gemüse | les légumes |
 | das Obst | les fruits |
 
 ---
@@ -56,9 +56,10 @@
 > Ich esse gern = j'aime manger
 > Obst = des fruits
 
-! Lea isst kein Fleisch.
-> Lea ne mange pas de viande.
-> kein Fleisch = pas de viande
+! Lea isst kein Gemüse.
+> Lea ne mange pas de légumes.
+> kein Gemüse = pas de légumes
++ Un lièvre qui n'aime pas les légumes ? Eh oui, c'est Lea !
 
 ---
 
