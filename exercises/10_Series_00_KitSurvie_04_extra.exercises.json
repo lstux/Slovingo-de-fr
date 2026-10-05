@@ -74,7 +74,7 @@
       "choices_l1": [
         "je m'appelle",
         "tu parles",
-        "ça va ?"
+        "comment ça va ?"
       ],
       "choices_l2": [
         "ich heiße",
@@ -104,7 +104,7 @@
       "l1": "comment tu t'appelles",
       "l2": "wie heißt du",
       "choices_l1": [
-        "ça va ?",
+        "comment ça va ?",
         "tu parles",
         "je m'appelle"
       ],
@@ -121,7 +121,7 @@
         "salut",
         "bonjour",
         "salut (au revoir)",
-        "ça va ?"
+        "comment ça va ?"
       ],
       "l2": [
         "hallo",

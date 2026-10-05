@@ -13,7 +13,7 @@
 | hallo | salut |
 | guten Tag | bonjour |
 | tschüss | salut (au revoir) |
-| wie geht's | ça va ? |
+| wie geht's | comment ça va ? |
 | gut | bien |
 | danke | merci |
 | bitte | s'il te plaît / de rien |

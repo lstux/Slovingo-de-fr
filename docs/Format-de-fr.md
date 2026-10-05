@@ -180,9 +180,9 @@ Les explications et l'intro de la fiche sont en `{{fr:…}}` (à écouter), sans
 ## Le dialogue
 
 ! 🐰 Hallo! Wie geht's?
-> Salut ! Ça va ?
+> Salut ! Comment ça va ?
 > Hallo = salut
-> Wie geht's = ça va
+> Wie geht's = comment ça va
 ```
 
 - 10-15 répliques formant une scène continue
@@ -225,7 +225,7 @@ Les explications et l'intro de la fiche sont en `{{fr:…}}` (à écouter), sans
 > Salut, je suis [ASK_USER_NAME].
 
 ! 🐰 Hallo! Wie geht's?
-> Salut ! Ça va ?
+> Salut ! Comment ça va ?
 ```
 
 ⚠️ **Pas** `🐰 ! Hallo` : dans ce cas le convertisseur ne reconnaît pas la carte (paragraphe + citation, pas d'audio, pas de bouton « Lire le dialogue »).

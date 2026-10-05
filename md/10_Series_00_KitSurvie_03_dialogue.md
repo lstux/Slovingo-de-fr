@@ -30,7 +30,7 @@
 ## Le dialogue
 
 ! 🐰 Hallo! Wie geht's?
-> Salut ! Ça va ?
+> Salut ! Comment ça va ?
 
 ! 🦊 Gut, danke!
 > Bien, merci !
