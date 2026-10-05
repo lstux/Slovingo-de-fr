@@ -43,9 +43,9 @@
 
 ### Scène 1 — Un match de foot
 
-{{fr:Au parc, Tom propose un match de foot. Il faut former une équipe !}}
+{{fr:Dans la clairière, Tom le blaireau propose un match de foot. Il faut former une équipe !}}
 
-! 🐨 Wollen wir Fußball spielen?
+! 🦡 Wollen wir Fußball spielen?
 > On joue au foot ?
 > Wollen wir = on … ? (pour proposer)
 > Fußball spielen = jouer au foot
@@ -60,7 +60,7 @@
 > Wir sind = on est
 > eine Mannschaft = une équipe
 
-! 🐨 Tor! Glückwunsch, Lea!
+! 🦡 Tor! Glückwunsch, Lea!
 > But ! Bravo, Lea !
 > Tor = but
 > Glückwunsch = bravo
@@ -99,7 +99,7 @@
 
 {{fr:Oh non ! Le cerf-volant de Tom est cassé. Que faire à la place ?}}
 
-! 🐨 Oh nein, der Drachen ist kaputt!
+! 🦡 Oh nein, der Drachen ist kaputt!
 > Oh non, le cerf-volant est cassé !
 > Oh nein = oh non
 > der Drachen = le cerf-volant
@@ -110,7 +110,7 @@
 > Wir machen = on fait
 > ein Puzzle = un puzzle
 
-! 🐨 Gut! Wo ist das Puzzle?
+! 🦡 Gut! Wo ist das Puzzle?
 > Bien ! Où est le puzzle ?
 > Gut = bien
 > Wo ist = où est
@@ -143,7 +143,7 @@
 > Ich würfle = je lance le dé
 > Fünf = cinq
 
-! 🐨 Du kannst gut würfeln!
+! 🦡 Du kannst gut würfeln!
 > Tu sais bien lancer le dé !
 > Du kannst = tu sais
 > gut würfeln = bien lancer le dé

@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (soirée jeux de société entre enfants et grand-mère...) sur Wikimedia Commons
 
-{{fr:Un soir de pluie, soirée jeux chez Lea ! Écoute bien : tu connais presque tous les mots.}}
+{{fr:Un soir de pluie dans la forêt, soirée jeux chez Lea ! Écoute bien : tu connais presque tous les mots.}}
 
 ---
 
@@ -10,8 +10,8 @@
 
 - 🦊 Toi
 - 🐰 Lea
-- 🐨 Tom
-- 🦉 Oma Hilde
+- 🦡 Tom, le blaireau
+- 🦉 Oma Hilde, le hibou
 
 ---
 
@@ -24,7 +24,7 @@
 ! 🦊 Ja, gern! Machst du mit, Tom?
 > Oui, avec plaisir ! Tu joues aussi, Tom ?
 
-! 🐨 Klar, ich mache mit!
+! 🦡 Klar, ich mache mit!
 > Bien sûr, je joue aussi !
 + Mot nouveau signalé : {{klar}} = bien sûr.
 
@@ -34,14 +34,14 @@
 ! 🐰 Wer ist dran?
 > C'est à qui ?
 
-! 🐨 Ich bin dran! Ich würfle… Sechs!
+! 🦡 Ich bin dran! Ich würfle… Sechs!
 > C'est à moi ! Je lance le dé… Six !
 > Ich würfle = je lance le dé
 
 ! 🦊 Du kannst gut würfeln, Tom!
 > Tu sais bien lancer le dé, Tom !
 
-! 🐨 Ich gewinne!
+! 🦡 Ich gewinne!
 > Je gagne !
 
 ! 🦊 Nein, ich gewinne!
@@ -55,7 +55,7 @@
 > Et… je gagne ! Youpi !
 > Juhu = youpi
 
-! 🐨 Glückwunsch, [USER_NAME]! Noch einmal?
+! 🦡 Glückwunsch, [USER_NAME]! Noch einmal?
 > Bravo, [USER_NAME] ! On en refait une ?
 > Noch einmal = encore une fois
 
