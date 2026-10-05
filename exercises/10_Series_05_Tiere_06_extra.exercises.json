@@ -35,10 +35,10 @@
       ]
     },
     {
-      "id": "qcm-der-streichelzoo",
+      "id": "qcm-der-weg",
       "type": "qcm",
-      "l1": "le mini-zoo",
-      "l2": "der Streichelzoo",
+      "l1": "le chemin",
+      "l2": "der Weg",
       "choices_l1": [
         "la ferme",
         "le parc",
@@ -83,19 +83,19 @@
       ]
     },
     {
-      "id": "qcm-das-meerschweinchen",
+      "id": "qcm-der-fuchs",
       "type": "qcm",
-      "l1": "le cochon d'Inde",
-      "l2": "das Meerschweinchen",
+      "l1": "le renard",
+      "l2": "der Fuchs",
       "choices_l1": [
-        "le cochon",
+        "le lièvre",
         "le lapin",
-        "le hamster"
+        "l'écureuil"
       ],
       "choices_l2": [
-        "das Schwein",
+        "der Hase",
         "das Kaninchen",
-        "der Hamster"
+        "das Eichhörnchen"
       ]
     },
     {
@@ -134,16 +134,16 @@
       "id": "match-animaux",
       "type": "match",
       "l1": [
-        "le hamster",
+        "le renard",
         "la vache",
-        "le lion",
-        "le singe"
+        "le cerf",
+        "le sanglier"
       ],
       "l2": [
-        "der Hamster",
+        "der Fuchs",
         "die Kuh",
-        "der Löwe",
-        "der Affe"
+        "der Hirsch",
+        "das Wildschwein"
       ]
     },
     {
@@ -169,46 +169,35 @@
         "fort",
         "vite",
         "regarde",
-        "le mini-zoo"
+        "le chemin"
       ],
       "l2": [
         "stark",
         "schnell",
         "Schau mal",
-        "der Streichelzoo"
+        "der Weg"
       ]
     },
     {
-      "id": "listen-ich-habe-einen-hamster-mein-hamster-ist-klein",
+      "id": "listen-ist-das-ein-hase",
       "type": "listen",
-      "l1": "J'ai un hamster. Mon hamster est petit.",
-      "l2": "Ich habe einen Hamster. Mein Hamster ist klein.",
+      "l1": "C'est un lièvre ?",
+      "l2": "Ist das ein Hase?",
       "choices_l1": [
-        "J'ai un hamster. Mon hamster est grand.",
-        "J'ai un oiseau. Mon oiseau est petit.",
-        "Tu as un hamster. Ton hamster est petit."
+        "C'est un lapin ?",
+        "C'est un renard ?",
+        "Je suis un lièvre."
       ]
     },
     {
-      "id": "listen-ich-habe-kein-haustier-aber-lea-hat-eine-katze",
+      "id": "listen-kein-problem-tom-er-isst-gern-beeren",
       "type": "listen",
-      "l1": "Moi, je n'ai pas d'animal, mais Lea a un chat.",
-      "l2": "Ich habe kein Haustier, aber Lea hat eine Katze.",
+      "l1": "Pas de problème, Tom ! Il aime manger des baies.",
+      "l2": "Kein Problem, Tom! Er isst gern Beeren.",
       "choices_l1": [
-        "Moi, j'ai un animal, mais Lea a un chat.",
-        "Moi, je n'ai pas d'animal, mais Lea a un chien.",
-        "Moi, je n'ai pas d'animal, et Lea n'a pas de chat."
-      ]
-    },
-    {
-      "id": "listen-meine-katze-l-uft-schnell",
-      "type": "listen",
-      "l1": "Mon chat court vite !",
-      "l2": "Meine Katze läuft schnell!",
-      "choices_l1": [
-        "Mon chat saute vite !",
-        "Mon chien court vite !",
-        "Mon chat court lentement !"
+        "Pas de problème, Tom ! Il aime manger du pain.",
+        "Pas de problème, Lea ! Il aime manger des baies.",
+        "Pas de problème, Tom ! Elle aime manger des baies."
       ]
     },
     {
@@ -218,61 +207,72 @@
       "l2": "Die Kuh macht Muh! Das Schaf ist auf dem Bauernhof.",
       "choices_l1": [
         "Le cheval fait meuh ! Le mouton est à la ferme.",
-        "La vache fait meuh ! Le mouton est au zoo.",
+        "La vache fait meuh ! Le mouton est dans la forêt.",
         "La vache fait meuh ! Le cochon est à la ferme."
       ]
     },
     {
-      "id": "listen-der-elefant-ist-gr-er-als-das-pferd",
+      "id": "listen-der-hirsch-ist-gr-er-als-das-pferd",
       "type": "listen",
-      "l1": "L'éléphant est plus grand que le cheval !",
-      "l2": "Der Elefant ist größer als das Pferd!",
+      "l1": "Le cerf est plus grand que le cheval !",
+      "l2": "Der Hirsch ist größer als das Pferd!",
       "choices_l1": [
-        "L'éléphant est plus petit que le cheval !",
-        "Le cheval est plus grand que l'éléphant !",
-        "L'éléphant est plus grand que le lion !"
+        "Le cerf est plus petit que le cheval !",
+        "Le cheval est plus grand que le cerf !",
+        "Le cerf est plus grand que le sanglier !"
       ]
     },
     {
-      "id": "listen-der-l-we-ist-stark-aber-der-affe-ist-lustig",
+      "id": "listen-das-wildschwein-ist-stark-aber-das-eichh-rnchen-ist-lustig",
       "type": "listen",
-      "l1": "Le lion est fort, mais le singe est drôle !",
-      "l2": "Der Löwe ist stark, aber der Affe ist lustig!",
+      "l1": "Le sanglier est fort, mais l'écureuil est drôle !",
+      "l2": "Das Wildschwein ist stark, aber das Eichhörnchen ist lustig!",
       "choices_l1": [
-        "Le lion est drôle, mais le singe est fort !",
-        "Le lion est fort, et le singe aussi !",
-        "Le lion est fort, mais le zèbre est drôle !"
+        "Le sanglier est drôle, mais l'écureuil est fort !",
+        "Le sanglier est fort, et l'écureuil aussi !",
+        "Le sanglier est fort, mais le cerf est drôle !"
       ]
     },
     {
-      "id": "listen-schau-mal-das-kaninchen-springt",
+      "id": "listen-ja-herr-falke-schau-mal-das-kaninchen-springt",
       "type": "listen",
-      "l1": "Regarde, le lapin saute !",
-      "l2": "Schau mal, das Kaninchen springt!",
+      "l1": "Oui, Monsieur Falke ! Regarde, le lapin saute !",
+      "l2": "Ja, Herr Falke! Schau mal, das Kaninchen springt!",
       "choices_l1": [
-        "Regarde, le lapin court !",
-        "Regarde, le hamster saute !",
-        "Regarde, le lapin mange !"
+        "Oui, Monsieur Falke ! Regarde, le lapin court !",
+        "Oui, Monsieur Falke ! Regarde, le renard saute !",
+        "Non, Monsieur Falke ! Regarde, le lapin saute !"
       ]
     },
     {
-      "id": "blank-meine-katze-l-uft-schnell",
+      "id": "listen-guten-tag-kinder-bleibt-auf-dem-weg-bitte",
+      "type": "listen",
+      "l1": "Bonjour, les enfants ! Restez sur le chemin, s'il vous plaît !",
+      "l2": "Guten Tag, Kinder! Bleibt auf dem Weg, bitte!",
+      "choices_l1": [
+        "Bonjour, les enfants ! Restez à la ferme, s'il vous plaît !",
+        "Au revoir, les enfants ! Restez sur le chemin, s'il vous plaît !",
+        "Bonjour, les enfants ! Venez sur le chemin, s'il vous plaît !"
+      ]
+    },
+    {
+      "id": "blank-und-der-vogel-fliegt-er-ist-schnell",
       "type": "fill-blank",
-      "l1": "Mon chat court vite !",
-      "l2": "Meine Katze läuft schnell!",
-      "missing_l1": "court",
-      "missing_l2": "läuft",
+      "l1": "Et l'oiseau vole ! Il est rapide !",
+      "l2": "Und der Vogel fliegt! Er ist schnell!",
+      "missing_l1": "vole",
+      "missing_l2": "fliegt",
       "blank_index_l1": 2,
-      "blank_index_l2": 2,
+      "blank_index_l2": 3,
       "choices_l1": [
         "mange",
         "saute",
-        "vole"
+        "nage"
       ],
       "choices_l2": [
         "frisst",
         "springt",
-        "fliegt"
+        "schwimmt"
       ],
       "show_translation": true
     },
@@ -319,18 +319,39 @@
       "show_translation": true
     },
     {
-      "id": "blank-schau-mal-der-elefant-ist-gro",
+      "id": "blank-kein-problem-tom-er-isst-gern-beeren",
       "type": "fill-blank",
-      "l1": "Regarde ! L'éléphant est grand !",
-      "l2": "Schau mal! Der Elefant ist groß!",
+      "l1": "Pas de problème, Tom ! Il aime manger des baies.",
+      "l2": "Kein Problem, Tom! Er isst gern Beeren.",
+      "missing_l1": "baies",
+      "missing_l2": "Beeren",
+      "blank_index_l1": 9,
+      "blank_index_l2": 6,
+      "choices_l1": [
+        "pain",
+        "fruits",
+        "fromage"
+      ],
+      "choices_l2": [
+        "Brot",
+        "Obst",
+        "Käse"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-schau-mal-der-hirsch-ist-gro",
+      "type": "fill-blank",
+      "l1": "Regarde ! Le cerf est grand !",
+      "l2": "Schau mal! Der Hirsch ist groß!",
       "missing_l1": "Regarde",
       "missing_l2": "Schau",
       "blank_index_l1": 0,
       "blank_index_l2": 0,
       "choices_l1": [
-        "Merci",
         "Salut",
-        "Pardon"
+        "Merci",
+        "Bien"
       ],
       "choices_l2": [
         "Hallo",
@@ -340,51 +361,12 @@
       "show_translation": true
     },
     {
-      "id": "blank-hallo-kinder-das-schaf-frisst",
-      "type": "fill-blank",
-      "l1": "Salut, les enfants ! Le mouton mange.",
-      "l2": "Hallo, Kinder! Das Schaf frisst.",
-      "missing_l1": "mange",
-      "missing_l2": "frisst",
-      "blank_index_l1": 6,
-      "blank_index_l2": 4,
-      "choices_l1": [
-        "dort",
-        "nage",
-        "vole"
-      ],
-      "choices_l2": [
-        "schläft",
-        "schwimmt",
-        "fliegt"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "order-meine-katze-l-uft-schnell",
+      "id": "order-der-hirsch-ist-gr-er-als-das-pferd",
       "type": "order",
-      "l1": "Mon chat court vite !",
-      "l2": "Meine Katze läuft schnell!",
+      "l1": "Le cerf est plus grand que le cheval !",
+      "l2": "Der Hirsch ist größer als das Pferd!",
       "tokens_l1": [
-        "Mon",
-        "chat",
-        "court",
-        "vite !"
-      ],
-      "tokens_l2": [
-        "Meine",
-        "Katze",
-        "läuft",
-        "schnell!"
-      ]
-    },
-    {
-      "id": "order-der-elefant-ist-gr-er-als-das-pferd",
-      "type": "order",
-      "l1": "L'éléphant est plus grand que le cheval !",
-      "l2": "Der Elefant ist größer als das Pferd!",
-      "tokens_l1": [
-        "L'éléphant",
+        "Le cerf",
         "est",
         "plus grand",
         "que",
@@ -392,7 +374,7 @@
       ],
       "tokens_l2": [
         "Der",
-        "Elefant",
+        "Hirsch",
         "ist",
         "größer",
         "als",
@@ -401,57 +383,61 @@
       ]
     },
     {
-      "id": "order-schau-mal-das-kaninchen-springt",
+      "id": "order-ja-herr-falke-schau-mal-das-kaninchen-springt",
       "type": "order",
-      "l1": "Regarde, le lapin saute !",
-      "l2": "Schau mal, das Kaninchen springt!",
+      "l1": "Oui, Monsieur Falke ! Regarde, le lapin saute !",
+      "l2": "Ja, Herr Falke! Schau mal, das Kaninchen springt!",
       "tokens_l1": [
+        "Oui,",
+        "Monsieur Falke !",
         "Regarde,",
         "le lapin",
         "saute !"
       ],
       "tokens_l2": [
-        "Schau",
-        "mal,",
-        "das",
-        "Kaninchen",
+        "Ja,",
+        "Herr Falke!",
+        "Schau mal,",
+        "das Kaninchen",
         "springt!"
       ]
     },
     {
-      "id": "order-hast-du-ein-haustier",
+      "id": "order-und-der-vogel-fliegt-er-ist-schnell",
       "type": "order",
-      "l1": "Tu as un animal de compagnie ?",
-      "l2": "Hast du ein Haustier?",
+      "l1": "Et l'oiseau vole ! Il est rapide !",
+      "l2": "Und der Vogel fliegt! Er ist schnell!",
       "tokens_l1": [
-        "Tu",
-        "as",
-        "un",
-        "animal de compagnie ?",
-        "une"
+        "Et",
+        "l'oiseau",
+        "vole !",
+        "Il est",
+        "rapide !",
+        "saute"
       ],
       "tokens_l2": [
-        "Hast",
-        "du",
-        "ein",
-        "Haustier?",
-        "einen"
+        "Und",
+        "der Vogel",
+        "fliegt!",
+        "Er ist",
+        "schnell!",
+        "springt"
       ]
     },
     {
       "id": "match-cartes-1",
       "type": "match",
       "l1": [
-        "Tu as un animal de compagnie ?",
-        "Mon chat court vite !",
-        "Regarde, le lapin saute !",
-        "Génial ! Le chat est mignon !"
+        "C'est un lièvre ?",
+        "Un renard ? Oh !",
+        "Oui, Monsieur Falke ! Regarde, le lapin saute !",
+        "Bien, les enfants ! À bientôt !"
       ],
       "l2": [
-        "Hast du ein Haustier?",
-        "Meine Katze läuft schnell!",
-        "Schau mal, das Kaninchen springt!",
-        "Toll! Die Katze ist süß!"
+        "Ist das ein Hase?",
+        "Ein Fuchs? Oh!",
+        "Ja, Herr Falke! Schau mal, das Kaninchen springt!",
+        "Gut, Kinder! Bis bald!"
       ]
     },
     {
@@ -460,14 +446,14 @@
       "l1": [
         "Le cheval est grand et court vite !",
         "Moi, j'aime bien les chevaux. Et toi ?",
-        "J'aime bien les singes. Ils sautent !",
-        "Le mouton mange, mais moi, je mange des fruits !"
+        "J'aime bien les écureuils. Ils sautent !",
+        "Oui, j'aime manger des baies !"
       ],
       "l2": [
         "Das Pferd ist groß und läuft schnell!",
         "Ich mag Pferde. Und du?",
-        "Ich mag Affen. Sie springen!",
-        "Das Schaf frisst, aber ich esse Obst!"
+        "Ich mag Eichhörnchen. Sie springen!",
+        "Ja, ich esse gern Beeren!"
       ]
     }
   ]

@@ -162,4 +162,4 @@
 
 {{fr:Bravo ! Tu sais trouver ton chemin en ville, prendre le bateau ou le vélo, et acheter ta glace.}}
 
-{{fr:La suite, c'est la série sur les animaux : ceux de la maison, de la ferme et du zoo.}} → {{die Tiere}}
+{{fr:La suite, c'est la série sur les animaux : ceux de la forêt et de la ferme.}} → {{die Tiere}}

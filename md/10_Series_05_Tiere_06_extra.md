@@ -1,6 +1,6 @@
 # Série Tiere (extra) — Alles zusammen
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (collage d'animaux domestiques, ferme, zoo...) sur Wikimedia Commons
+@ TODO_img/choisir-image.jpg | TODO : choisir une image (collage d'animaux de la forêt et de la ferme...) sur Wikimedia Commons
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Tiere, et on mélange les mots dans de nouvelles phrases !}}
 
@@ -10,11 +10,11 @@
 
 | Deutsch | Français |
 |---------|----------|
-| das Haustier | l'animal de compagnie |
-| der Hamster | le hamster |
-| der Vogel | l'oiseau |
+| der Fuchs | le renard |
+| der Hase | le lièvre |
+| das Eichhörnchen | l'écureuil |
 | das Kaninchen | le lapin |
-| das Meerschweinchen | le cochon d'Inde |
+| der Vogel | l'oiseau |
 | der Fisch | le poisson |
 | der Bauernhof | la ferme |
 | die Kuh | la vache |
@@ -22,11 +22,11 @@
 | das Schaf | le mouton |
 | das Schwein | le cochon |
 | das Huhn | la poule |
-| der Löwe | le lion |
-| der Elefant | l'éléphant |
-| der Affe | le singe |
-| die Giraffe | la girafe |
-| das Zebra | le zèbre |
+| der Wald | la forêt |
+| der Hirsch | le cerf |
+| das Reh | le chevreuil |
+| das Wildschwein | le sanglier |
+| der Dachs | le blaireau |
 | stark | fort |
 | fressen | manger (pour un animal) |
 | laufen | courir |
@@ -35,50 +35,48 @@
 | springen | sauter |
 | schnell | vite |
 | Schau mal | regarde |
-| der Streichelzoo | le mini-zoo |
+| bleibt | restez |
+| der Weg | le chemin |
 
 ---
 
 ## Des mini-dialogues pour tout mélanger
 
-### Scène 1 — Les animaux de la maison
+### Scène 1 — Un renard dans la forêt
 
-{{fr:Tom te demande si tu as un animal de compagnie. Lea aussi veut tout savoir !}}
+{{fr:Tom ne connaît pas encore le renard. Lea le présente !}}
 
-! 🐨 Hast du ein Haustier?
-> Tu as un animal de compagnie ?
-> Hast du = tu as
-> ein Haustier = un animal de compagnie
+! 🦡 Ist das ein Hase?
+> C'est un lièvre ?
+> Ist das = est-ce
+> ein Hase = un lièvre
 
-! 🦊 Ich habe einen Hamster. Mein Hamster ist klein.
-> J'ai un hamster. Mon hamster est petit.
-> Ich habe = j'ai
-> einen Hamster = un hamster
-> Mein Hamster ist klein = mon hamster est petit
+! 🐰 Ja, ich bin ein Hase. Und das ist [USER_NAME]: ein Fuchs!
+> Oui, je suis un lièvre. Et voici [USER_NAME] : un renard !
+> ich bin = je suis
+> ein Fuchs = un renard
 
-! 🐨 Ich habe kein Haustier, aber Lea hat eine Katze.
-> Moi, je n'ai pas d'animal, mais Lea a un chat.
-> kein Haustier = pas d'animal
-> aber = mais
-> Lea hat = Lea a
-> eine Katze = un chat
+! 🦡 Ein Fuchs? Oh!
+> Un renard ? Oh !
+> Ein Fuchs = un renard
 
-! 🐰 Meine Katze läuft schnell!
-> Mon chat court vite !
-> Meine Katze = mon chat
-> läuft = court
-> schnell = vite
+! 🐰 Kein Problem, Tom! Er isst gern Beeren.
+> Pas de problème, Tom ! Il aime manger des baies.
+> Kein Problem = pas de problème
+> Er isst gern = il aime manger
+> Beeren = des baies
++ Voilà pourquoi un lièvre peut être ami avec un renard !
 
-! 🐨 Toll! Die Katze ist süß!
-> Génial ! Le chat est mignon !
-> Toll = génial
-> süß = mignon
+! 🦊 Ja, ich esse gern Beeren!
+> Oui, j'aime manger des baies !
+> ich esse gern = j'aime manger
+> Beeren = des baies
 
 ---
 
 ### Scène 2 — À la ferme
 
-{{fr:Lea et toi visitez une ferme. Quels animaux allez-vous voir ?}}
+{{fr:Lea et toi visitez une ferme au bord de la forêt. Quels animaux allez-vous voir ?}}
 
 ! 🐰 Die Kuh macht Muh! Das Schaf ist auf dem Bauernhof.
 > La vache fait meuh ! Le mouton est à la ferme.
@@ -105,66 +103,70 @@
 
 ---
 
-### Scène 3 — Au zoo, qui est le plus fort ?
+### Scène 3 — Dans la forêt, qui est le plus fort ?
 
-{{fr:Au zoo, Tom et toi comparez les animaux.}}
+{{fr:Dans la forêt, Tom et toi comparez les animaux.}}
 
-! 🐨 Schau mal! Der Elefant ist groß!
-> Regarde ! L'éléphant est grand !
+! 🦡 Schau mal! Der Hirsch ist groß!
+> Regarde ! Le cerf est grand !
 > Schau mal = regarde
-> Der Elefant ist groß = l'éléphant est grand
+> Der Hirsch ist groß = le cerf est grand
 
-! 🦊 Der Elefant ist größer als das Pferd!
-> L'éléphant est plus grand que le cheval !
+! 🦊 Der Hirsch ist größer als das Pferd!
+> Le cerf est plus grand que le cheval !
 > größer als = plus grand que
 > das Pferd = le cheval
 
-! 🐨 Der Löwe ist stark, aber der Affe ist lustig!
-> Le lion est fort, mais le singe est drôle !
-> Der Löwe ist stark = le lion est fort
-> der Affe ist lustig = le singe est drôle
+! 🦡 Das Wildschwein ist stark, aber das Eichhörnchen ist lustig!
+> Le sanglier est fort, mais l'écureuil est drôle !
+> Das Wildschwein ist stark = le sanglier est fort
+> das Eichhörnchen ist lustig = l'écureuil est drôle
 
-! 🦊 Ich mag Affen. Sie springen!
-> J'aime bien les singes. Ils sautent !
-> Ich mag Affen = j'aime bien les singes
+! 🦊 Ich mag Eichhörnchen. Sie springen!
+> J'aime bien les écureuils. Ils sautent !
+> Ich mag Eichhörnchen = j'aime bien les écureuils
 > Sie springen = ils sautent
 
-! 🐨 Ich mag Löwen. Sie sind stark!
-> Moi, j'aime bien les lions. Ils sont forts !
-> Ich mag Löwen = j'aime bien les lions
+! 🦡 Ich mag Wildschweine. Sie sind stark!
+> Moi, j'aime bien les sangliers. Ils sont forts !
+> Ich mag Wildschweine = j'aime bien les sangliers
 > Sie sind stark = ils sont forts
 
 ---
 
-### Scène 4 — Au mini-zoo
+### Scène 4 — Sur le chemin
 
-{{fr:Oma Hilde te laisse nourrir les animaux du mini-zoo.}}
+{{fr:Herr Falke, le garde du parc, surveille le sentier.}}
 
-! 🦉 Hallo, Kinder! Das Schaf frisst.
-> Salut, les enfants ! Le mouton mange.
-> Hallo, Kinder = salut, les enfants
-> Das Schaf frisst = le mouton mange
+! 🦅 Guten Tag, Kinder! Bleibt auf dem Weg, bitte!
+> Bonjour, les enfants ! Restez sur le chemin, s'il vous plaît !
+> Guten Tag = bonjour
+> Bleibt = restez
+> auf dem Weg = sur le chemin
 
-! 🐰 Das Schaf frisst, aber ich esse Obst!
-> Le mouton mange, mais moi, je mange des fruits !
-> aber = mais
-> ich esse Obst = je mange des fruits
-
-! 🦊 Schau mal, das Kaninchen springt!
-> Regarde, le lapin saute !
+! 🐰 Ja, Herr Falke! Schau mal, das Kaninchen springt!
+> Oui, Monsieur Falke ! Regarde, le lapin saute !
+> Ja = oui
 > Schau mal = regarde
 > das Kaninchen = le lapin
 > springt = saute
 
-! 🦉 Das Schaf ist toll, Kinder! Bis bald!
-> Le mouton est génial, les enfants ! À bientôt !
-> Das Schaf ist toll = le mouton est génial
+! 🦊 Und der Vogel fliegt! Er ist schnell!
+> Et l'oiseau vole ! Il est rapide !
+> Und = et
+> der Vogel = l'oiseau
+> fliegt = vole
+> Er ist schnell = il est rapide
+
+! 🦅 Gut, Kinder! Bis bald!
+> Bien, les enfants ! À bientôt !
+> Gut = bien
 > Bis bald = à bientôt
 
 ---
 
 ## 🇩🇪 Coin allemand
 
-{{fr:Bravo ! Tu sais parler des animaux de la maison, de la ferme et du zoo, et dire ce qu'ils font.}}
+{{fr:Bravo ! Tu sais parler des animaux de la forêt et de la ferme, et dire ce qu'ils font.}}
 
 {{fr:La suite, c'est la série sur les jeux : les jouets, les jeux dehors, et comment proposer une partie.}} → {{die Spiele}}

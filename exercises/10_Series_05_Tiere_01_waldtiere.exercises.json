@@ -1,0 +1,344 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-der-fuchs",
+      "type": "qcm",
+      "l1": "le renard",
+      "l2": "der Fuchs",
+      "choices_l1": [
+        "le lièvre",
+        "le lapin",
+        "le poisson"
+      ],
+      "choices_l2": [
+        "der Hase",
+        "das Kaninchen",
+        "der Fisch"
+      ]
+    },
+    {
+      "id": "qcm-der-hase",
+      "type": "qcm",
+      "l1": "le lièvre",
+      "l2": "der Hase",
+      "choices_l1": [
+        "le renard",
+        "l'écureuil",
+        "l'oiseau"
+      ],
+      "choices_l2": [
+        "der Fuchs",
+        "das Eichhörnchen",
+        "der Vogel"
+      ]
+    },
+    {
+      "id": "qcm-das-eichh-rnchen",
+      "type": "qcm",
+      "l1": "l'écureuil",
+      "l2": "das Eichhörnchen",
+      "choices_l1": [
+        "le lapin",
+        "le lièvre",
+        "l'oiseau"
+      ],
+      "choices_l2": [
+        "das Kaninchen",
+        "der Hase",
+        "der Vogel"
+      ]
+    },
+    {
+      "id": "qcm-das-kaninchen",
+      "type": "qcm",
+      "l1": "le lapin",
+      "l2": "das Kaninchen",
+      "choices_l1": [
+        "l'écureuil",
+        "le renard",
+        "le poisson"
+      ],
+      "choices_l2": [
+        "das Eichhörnchen",
+        "der Fuchs",
+        "der Fisch"
+      ]
+    },
+    {
+      "id": "qcm-der-vogel",
+      "type": "qcm",
+      "l1": "l'oiseau",
+      "l2": "der Vogel",
+      "choices_l1": [
+        "le poisson",
+        "le lièvre",
+        "le lapin"
+      ],
+      "choices_l2": [
+        "der Fisch",
+        "der Hase",
+        "das Kaninchen"
+      ]
+    },
+    {
+      "id": "qcm-der-fisch",
+      "type": "qcm",
+      "l1": "le poisson",
+      "l2": "der Fisch",
+      "choices_l1": [
+        "l'oiseau",
+        "le renard",
+        "l'écureuil"
+      ],
+      "choices_l2": [
+        "der Vogel",
+        "der Fuchs",
+        "das Eichhörnchen"
+      ]
+    },
+    {
+      "id": "listen-das-ist-ein-fuchs",
+      "type": "listen",
+      "l1": "C'est un renard.",
+      "l2": "Das ist ein Fuchs.",
+      "choices_l1": [
+        "C'est un lièvre.",
+        "C'est un lapin.",
+        "C'est un oiseau."
+      ]
+    },
+    {
+      "id": "listen-lea-ist-ein-hase",
+      "type": "listen",
+      "l1": "Lea est un lièvre.",
+      "l2": "Lea ist ein Hase.",
+      "choices_l1": [
+        "Lea est un lapin.",
+        "Tom est un lièvre.",
+        "Lea est un renard."
+      ]
+    },
+    {
+      "id": "listen-das-eichh-rnchen-ist-klein",
+      "type": "listen",
+      "l1": "L'écureuil est petit.",
+      "l2": "Das Eichhörnchen ist klein.",
+      "choices_l1": [
+        "L'écureuil est grand.",
+        "Le lapin est petit.",
+        "L'écureuil est mignon."
+      ]
+    },
+    {
+      "id": "listen-das-kaninchen-ist-s",
+      "type": "listen",
+      "l1": "Le lapin est mignon.",
+      "l2": "Das Kaninchen ist süß.",
+      "choices_l1": [
+        "Le lapin est petit.",
+        "Le renard est mignon.",
+        "Le lapin est sucré."
+      ]
+    },
+    {
+      "id": "listen-ich-sehe-zwei-eichh-rnchen",
+      "type": "listen",
+      "l1": "Je vois deux écureuils.",
+      "l2": "Ich sehe zwei Eichhörnchen.",
+      "choices_l1": [
+        "Je vois trois écureuils.",
+        "Je vois deux lapins.",
+        "Tu vois deux écureuils ?"
+      ]
+    },
+    {
+      "id": "listen-der-vogel-ist-klein",
+      "type": "listen",
+      "l1": "L'oiseau est petit.",
+      "l2": "Der Vogel ist klein.",
+      "choices_l1": [
+        "L'oiseau est grand.",
+        "Le poisson est petit.",
+        "Le lapin est petit."
+      ]
+    },
+    {
+      "id": "listen-der-fuchs-isst-kein-kaninchen",
+      "type": "listen",
+      "l1": "Le renard ne mange pas de lapin !",
+      "l2": "Der Fuchs isst kein Kaninchen!",
+      "choices_l1": [
+        "Le renard mange un lapin !",
+        "Le lièvre ne mange pas de lapin !",
+        "Le renard ne mange pas de poisson !"
+      ]
+    },
+    {
+      "id": "listen-der-fisch-ist-im-wasser",
+      "type": "listen",
+      "l1": "Le poisson est dans l'eau.",
+      "l2": "Der Fisch ist im Wasser.",
+      "choices_l1": [
+        "Le poisson est dans le jardin.",
+        "L'oiseau est dans l'eau.",
+        "Le chat est dans l'eau."
+      ]
+    },
+    {
+      "id": "blank-lea-ist-ein-hase",
+      "type": "fill-blank",
+      "l1": "Lea est un lièvre.",
+      "l2": "Lea ist ein Hase.",
+      "missing_l1": "lièvre",
+      "missing_l2": "Hase",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "renard",
+        "oiseau",
+        "poisson"
+      ],
+      "choices_l2": [
+        "Fuchs",
+        "Vogel",
+        "Fisch"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-der-fuchs-isst-kein-kaninchen",
+      "type": "fill-blank",
+      "l1": "Le renard ne mange pas de lapin !",
+      "l2": "Der Fuchs isst kein Kaninchen!",
+      "missing_l1": "lapin",
+      "missing_l2": "kein",
+      "blank_index_l1": 6,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "poisson",
+        "pain",
+        "fruit"
+      ],
+      "choices_l2": [
+        "nicht",
+        "nein",
+        "auch"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-das-kaninchen-ist-s",
+      "type": "fill-blank",
+      "l1": "Le lapin est mignon.",
+      "l2": "Das Kaninchen ist süß.",
+      "missing_l1": "lapin",
+      "missing_l2": "Kaninchen",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "renard",
+        "poisson",
+        "chat"
+      ],
+      "choices_l2": [
+        "Fuchs",
+        "Vogel",
+        "Fisch"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ich-sehe-zwei-eichh-rnchen",
+      "type": "fill-blank",
+      "l1": "Je vois deux écureuils.",
+      "l2": "Ich sehe zwei Eichhörnchen.",
+      "missing_l1": "deux",
+      "missing_l2": "zwei",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "trois",
+        "dix",
+        "huit"
+      ],
+      "choices_l2": [
+        "drei",
+        "zehn",
+        "acht"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-der-fuchs-isst-kein-kaninchen",
+      "type": "order",
+      "l1": "Le renard ne mange pas de lapin !",
+      "l2": "Der Fuchs isst kein Kaninchen!",
+      "tokens_l1": [
+        "Le renard",
+        "ne mange pas",
+        "de lapin !"
+      ],
+      "tokens_l2": [
+        "Der",
+        "Fuchs",
+        "isst",
+        "kein",
+        "Kaninchen!"
+      ]
+    },
+    {
+      "id": "order-lea-ist-ein-hase",
+      "type": "order",
+      "l1": "Lea est un lièvre.",
+      "l2": "Lea ist ein Hase.",
+      "tokens_l1": [
+        "Lea",
+        "est",
+        "un",
+        "lièvre."
+      ],
+      "tokens_l2": [
+        "Lea",
+        "ist",
+        "ein",
+        "Hase."
+      ]
+    },
+    {
+      "id": "order-der-fisch-ist-im-wasser",
+      "type": "order",
+      "l1": "Le poisson est dans l'eau.",
+      "l2": "Der Fisch ist im Wasser.",
+      "tokens_l1": [
+        "Le",
+        "poisson",
+        "est",
+        "dans l'eau."
+      ],
+      "tokens_l2": [
+        "Der",
+        "Fisch",
+        "ist",
+        "im Wasser."
+      ]
+    },
+    {
+      "id": "match-animaux",
+      "type": "match",
+      "l1": [
+        "le renard",
+        "le lièvre",
+        "l'écureuil",
+        "le lapin"
+      ],
+      "l2": [
+        "der Fuchs",
+        "der Hase",
+        "das Eichhörnchen",
+        "das Kaninchen"
+      ]
+    }
+  ]
+}
