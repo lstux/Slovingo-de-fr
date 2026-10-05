@@ -58,12 +58,12 @@
       "choices_l1": [
         "la glace",
         "la boulangerie",
-        "la piscine"
+        "le lac"
       ],
       "choices_l2": [
         "das Eis",
         "die Bäckerei",
-        "das Schwimmbad"
+        "der See"
       ]
     },
     {
@@ -105,12 +105,12 @@
       "l2": "der Euro",
       "choices_l1": [
         "l'argent",
-        "le bus",
+        "le bateau",
         "le parc"
       ],
       "choices_l2": [
         "das Geld",
-        "der Bus",
+        "das Boot",
         "der Park"
       ]
     },
@@ -121,26 +121,26 @@
         "la ville",
         "le parc",
         "la boulangerie",
-        "la piscine"
+        "le lac"
       ],
       "l2": [
         "die Stadt",
         "der Park",
         "die Bäckerei",
-        "das Schwimmbad"
+        "der See"
       ]
     },
     {
       "id": "match-transports",
       "type": "match",
       "l1": [
-        "le bus",
+        "le bateau",
         "le vélo",
         "la voiture",
         "à pied"
       ],
       "l2": [
-        "der Bus",
+        "das Boot",
         "das Fahrrad",
         "das Auto",
         "zu Fuß"
@@ -180,7 +180,7 @@
       "l2": "Ich bin im Park. Der Park ist neben der Bäckerei!",
       "choices_l1": [
         "Moi, je suis dans le parc. Le parc est à côté de l'école !",
-        "Moi, je suis à la piscine. Le parc est à côté de la boulangerie !",
+        "Moi, je suis dans le lac. Le parc est à côté de la boulangerie !",
         "Moi, je suis dans le parc. Le parc est loin de la boulangerie !"
       ]
     },
@@ -191,7 +191,7 @@
       "l2": "Nein, ich fahre mit dem Fahrrad. Und du?",
       "choices_l1": [
         "Oui, j'y vais à vélo. Et toi ?",
-        "Non, j'y vais en bus. Et toi ?",
+        "Non, j'y vais en bateau. Et toi ?",
         "Non, j'y vais à pied. Et toi ?"
       ]
     },
@@ -218,14 +218,14 @@
       ]
     },
     {
-      "id": "listen-nein-nicht-links-rechts-das-schwimmbad-ist-neben-der-schule",
+      "id": "listen-nein-nicht-links-rechts-der-see-ist-neben-der-schule",
       "type": "listen",
-      "l1": "Non, pas à gauche, à droite ! La piscine est à côté de l'école.",
-      "l2": "Nein, nicht links, rechts! Das Schwimmbad ist neben der Schule.",
+      "l1": "Non, pas à gauche, à droite ! Le lac est à côté de l'école.",
+      "l2": "Nein, nicht links, rechts! Der See ist neben der Schule.",
       "choices_l1": [
-        "Non, pas à droite, à gauche ! La piscine est à côté de l'école.",
-        "Non, pas à gauche, à droite ! La piscine est à côté du parc.",
-        "Oui, à gauche ! La piscine est à côté de l'école."
+        "Non, pas à droite, à gauche ! Le lac est à côté de l'école.",
+        "Non, pas à gauche, à droite ! Le lac est à côté du parc.",
+        "Oui, à gauche ! Le lac est à côté de l'école."
       ]
     },
     {
@@ -261,12 +261,12 @@
       "show_translation": true
     },
     {
-      "id": "blank-entschuldigung-wo-ist-das-schwimmbad",
+      "id": "blank-entschuldigung-wo-ist-der-see",
       "type": "fill-blank",
-      "l1": "Pardon, où est la piscine ?",
-      "l2": "Entschuldigung, wo ist das Schwimmbad?",
-      "missing_l1": "piscine",
-      "missing_l2": "Schwimmbad",
+      "l1": "Pardon, où est le lac ?",
+      "l2": "Entschuldigung, wo ist der See?",
+      "missing_l1": "lac",
+      "missing_l2": "See",
       "blank_index_l1": 4,
       "blank_index_l2": 4,
       "choices_l1": [
@@ -282,10 +282,10 @@
       "show_translation": true
     },
     {
-      "id": "blank-nein-nicht-links-rechts-das-schwimmbad-ist-neben-der-schule",
+      "id": "blank-nein-nicht-links-rechts-der-see-ist-neben-der-schule",
       "type": "fill-blank",
-      "l1": "Non, pas à gauche, à droite ! La piscine est à côté de l'école.",
-      "l2": "Nein, nicht links, rechts! Das Schwimmbad ist neben der Schule.",
+      "l1": "Non, pas à gauche, à droite ! Le lac est à côté de l'école.",
+      "l2": "Nein, nicht links, rechts! Der See ist neben der Schule.",
       "missing_l1": "gauche",
       "missing_l2": "links",
       "blank_index_l1": 3,
@@ -428,13 +428,13 @@
       "type": "match",
       "l1": [
         "Où es-tu ?",
-        "Tu y vas en bus ?",
+        "Tu y vas en bateau ?",
         "À gauche ?",
         "Combien ça coûte ?"
       ],
       "l2": [
         "Wo bist du?",
-        "Fährst du mit dem Bus?",
+        "Fährst du mit dem Boot?",
         "Nach links?",
         "Was kostet das?"
       ]
@@ -443,13 +443,13 @@
       "id": "match-cartes-2",
       "type": "match",
       "l1": [
-        "Pardon, où est la piscine ?",
+        "Pardon, où est le lac ?",
         "On va dans le parc !",
         "Je n'ai pas d'argent !",
         "Merci, Tom ! Au revoir !"
       ],
       "l2": [
-        "Entschuldigung, wo ist das Schwimmbad?",
+        "Entschuldigung, wo ist der See?",
         "Wir gehen in den Park!",
         "Ich habe kein Geld!",
         "Danke, Tom! Tschüss!"

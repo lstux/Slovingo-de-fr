@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (rue piétonne avec boulangerie, enfants, vélos...) sur Wikimedia Commons
 
-{{fr:On part en ville ! L'école, la boulangerie, la piscine, le parc… et le glacier, bien sûr !}}
+{{fr:On part en ville, au bord de la forêt ! L'école, la boulangerie de Frau Stachel (une dame hérisson), le lac, le parc… et le glacier, bien sûr !}}
 
 ---
 
@@ -14,7 +14,7 @@
 | der Park | le parc |
 | die Schule | l'école |
 | die Bäckerei | la boulangerie |
-| das Schwimmbad | la piscine |
+| der See | le lac |
 | die Eisdiele | le glacier |
 
 ---
@@ -26,7 +26,7 @@
 | Deutsch | Français |
 |---------|----------|
 | im Park | au parc |
-| im Schwimmbad | à la piscine |
+| im See | dans le lac |
 | in der Schule | à l'école |
 | in der Bäckerei | à la boulangerie |
 
@@ -50,9 +50,9 @@
 > Tom est au parc.
 > im Park = au parc
 
-! Das Schwimmbad ist toll!
-> La piscine, c'est génial !
-> Das Schwimmbad = la piscine
+! Der See ist toll!
+> Le lac, c'est génial !
+> Der See = le lac
 
 ! Wo ist die Eisdiele?
 > Où est le glacier ?

@@ -2,14 +2,14 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (enfant qui cherche son chemin, glacier en ville...) sur Wikimedia Commons
 
-{{fr:Tu as rendez-vous avec Lea au glacier… mais tu ne sais plus où tu es ! Heureusement, tu croises Tom.}}
+{{fr:Tu as rendez-vous avec Lea au glacier… mais tu ne sais plus où tu es ! Heureusement, tu croises Tom le blaireau, qui connaît tous les sentiers.}}
 
 ---
 
 ## Les personnages
 
 - 🦊 Toi
-- 🐨 Tom
+- 🦡 Tom
 - 🐰 Lea
 
 ---
@@ -20,21 +20,21 @@
 > Tom ! Salut ! Je ne trouve plus mon chemin.
 + Mot nouveau signalé : {{Ich habe mich verlaufen}} = je ne trouve plus mon chemin.
 
-! 🐨 Oh! Was suchst du?
+! 🦡 Oh! Was suchst du?
 > Oh ! Qu'est-ce que tu cherches ?
 > Was suchst du = qu'est-ce que tu cherches
 
 ! 🦊 Die Eisdiele. Ich treffe Lea dort.
 > Le glacier. Je retrouve Lea là-bas.
 
-! 🐨 Geh geradeaus. Dann nach links.
+! 🦡 Geh geradeaus. Dann nach links.
 > Va tout droit. Ensuite, à gauche.
 
 ! 🦊 Ist es weit?
 > C'est loin ?
 + Mot nouveau signalé : {{weit}} = loin.
 
-! 🐨 Nein! Fünf Minuten zu Fuß. Ich komme mit!
+! 🦡 Nein! Fünf Minuten zu Fuß. Ich komme mit!
 > Non ! Cinq minutes à pied. Je viens avec toi !
 > Ich komme mit = je viens avec toi
 
@@ -54,7 +54,7 @@
 ! 🦊 Ich nehme ein Eis, bitte!
 > Je prends une glace, s'il vous plaît !
 
-! 🐨 Ich auch! Lecker!
+! 🦡 Ich auch! Lecker!
 > Moi aussi ! Trop bon !
 
 ---

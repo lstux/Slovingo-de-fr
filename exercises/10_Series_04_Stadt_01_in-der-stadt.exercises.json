@@ -25,12 +25,12 @@
       "l2": "der Park",
       "choices_l1": [
         "la ville",
-        "la piscine",
+        "le lac",
         "le glacier"
       ],
       "choices_l2": [
         "die Stadt",
-        "das Schwimmbad",
+        "der See",
         "die Eisdiele"
       ]
     },
@@ -41,12 +41,12 @@
       "l2": "die Schule",
       "choices_l1": [
         "la boulangerie",
-        "la piscine",
+        "le lac",
         "le parc"
       ],
       "choices_l2": [
         "die Bäckerei",
-        "das Schwimmbad",
+        "der See",
         "der Park"
       ]
     },
@@ -67,10 +67,10 @@
       ]
     },
     {
-      "id": "qcm-das-schwimmbad",
+      "id": "qcm-der-see",
       "type": "qcm",
-      "l1": "la piscine",
-      "l2": "das Schwimmbad",
+      "l1": "le lac",
+      "l2": "der See",
       "choices_l1": [
         "le parc",
         "l'école",
@@ -89,12 +89,12 @@
       "l2": "die Eisdiele",
       "choices_l1": [
         "la boulangerie",
-        "la piscine",
+        "le lac",
         "le parc"
       ],
       "choices_l2": [
         "die Bäckerei",
-        "das Schwimmbad",
+        "der See",
         "der Park"
       ]
     },
@@ -105,12 +105,12 @@
       "l2": "in der Schule",
       "choices_l1": [
         "au parc",
-        "à la piscine",
+        "dans le lac",
         "à la boulangerie"
       ],
       "choices_l2": [
         "im Park",
-        "im Schwimmbad",
+        "im See",
         "in der Bäckerei"
       ]
     },
@@ -121,7 +121,7 @@
       "l2": "Wo ist die Schule?",
       "choices_l1": [
         "Où est le parc ?",
-        "Où est la piscine ?",
+        "Où est le lac ?",
         "C'est l'école."
       ]
     },
@@ -143,7 +143,7 @@
       "l2": "Ich bin in der Schule.",
       "choices_l1": [
         "Je suis au parc.",
-        "Je suis à la piscine.",
+        "Je suis dans le lac.",
         "Tom est à l'école."
       ]
     },
@@ -155,17 +155,17 @@
       "choices_l1": [
         "Tom est à l'école.",
         "Lea est au parc.",
-        "Tom est à la piscine."
+        "Tom est dans le lac."
       ]
     },
     {
-      "id": "listen-das-schwimmbad-ist-toll",
+      "id": "listen-der-see-ist-toll",
       "type": "listen",
-      "l1": "La piscine, c'est génial !",
-      "l2": "Das Schwimmbad ist toll!",
+      "l1": "Le lac, c'est génial !",
+      "l2": "Der See ist toll!",
       "choices_l1": [
         "Le parc, c'est génial !",
-        "La piscine est grande !",
+        "Le lac est grand !",
         "L'école, c'est génial !"
       ]
     },
@@ -177,7 +177,7 @@
       "choices_l1": [
         "Où est la glace ?",
         "Où est la boulangerie ?",
-        "Où est la piscine ?"
+        "Où est le lac ?"
       ]
     },
     {
@@ -232,7 +232,7 @@
       "blank_index_l1": 4,
       "blank_index_l2": 4,
       "choices_l1": [
-        "piscine",
+        "lac",
         "cuisine",
         "école"
       ],
@@ -298,13 +298,13 @@
       "l1": [
         "le parc",
         "l'école",
-        "la piscine",
+        "le lac",
         "le glacier"
       ],
       "l2": [
         "der Park",
         "die Schule",
-        "das Schwimmbad",
+        "der See",
         "die Eisdiele"
       ]
     },
@@ -313,13 +313,13 @@
       "type": "match",
       "l1": [
         "au parc",
-        "à la piscine",
+        "dans le lac",
         "à l'école",
         "à la boulangerie"
       ],
       "l2": [
         "im Park",
-        "im Schwimmbad",
+        "im See",
         "in der Schule",
         "in der Bäckerei"
       ]

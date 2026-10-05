@@ -21,7 +21,7 @@
 
 ## Jouer avec…
 
-{{fr:Pour dire « jouer avec », on utilise le petit mot qui veut dire « avec », comme pour le bus et le vélo. Retiens ces formules toutes faites.}}
+{{fr:Pour dire « jouer avec », on utilise le petit mot qui veut dire « avec », comme pour le bateau et le vélo. Retiens ces formules toutes faites.}}
 
 | Deutsch | Français |
 |---------|----------|
