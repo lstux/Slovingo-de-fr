@@ -5,7 +5,7 @@
     {
       "id": "qcm-fahren",
       "type": "qcm",
-      "l1": "aller (en roulant)",
+      "l1": "aller (en véhicule)",
       "l2": "fahren",
       "choices_l1": [
         "aller (à pied)",

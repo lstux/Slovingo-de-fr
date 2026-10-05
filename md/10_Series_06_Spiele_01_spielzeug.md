@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (jouets variés, ballon, poupée, puzzle...) sur Wikimedia Commons
 
-{{fr:Les jouets, dans le terrier de Lea ! Le ballon, la poupée, le puzzle… Et comment dire avec quoi tu joues.}}
+{{fr:Les jouets, chez Lea ! Le ballon, la poupée, le puzzle… Et comment dire avec quoi tu joues.}}
 
 ---
 

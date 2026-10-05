@@ -90,11 +90,12 @@
 > Der Garten ist groß = le jardin est grand
 > Hast du = tu as
 
-! 🦊 Nein, aber Oma hat einen Hund.
-> Non, mais mamie a un chien.
+! 🦊 Nein, aber ich habe einen Hund.
+> Non, mais moi, j'ai un chien.
 > Nein = non
 > aber = mais
-> Oma hat = mamie a
+> ich habe = j'ai
+> einen Hund = un chien
 
 ! 🦉 Ich habe einen Kuchen! Wir lachen zusammen!
 > J'ai un gâteau ! On rit ensemble !

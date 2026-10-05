@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (bus, tram, vélos en ville...) sur Wikimedia Commons
 
-{{fr:En bateau sur le lac, à vélo, en voiture ou à pied ? Il y a deux verbes pour dire « aller » : un pour ce qui roule, un pour tes deux jambes.}}
+{{fr:En bateau sur le lac, à vélo, en voiture ou à pied ? Il y a deux verbes pour dire « aller » : un pour ce qui se conduit, un pour tes deux jambes.}}
 
 ---
 
@@ -13,7 +13,7 @@
 | das Boot | le bateau |
 | das Fahrrad | le vélo |
 | das Auto | la voiture |
-| fahren | aller (en roulant) |
+| fahren | aller (en véhicule) |
 | gehen | aller (à pied) |
 | zu Fuß | à pied |
 
@@ -21,7 +21,7 @@
 
 ## Rouler ou marcher ?
 
-{{fr:Pour tout ce qui roule, on utilise un verbe. Pour marcher, on en utilise un autre. Et « en bateau » ou « à vélo » se disent avec le même petit mot, qui veut dire « avec ».}}
+{{fr:Pour tout ce qui se conduit ou se pilote (bateau, vélo, voiture), on utilise un verbe. Pour marcher, on en utilise un autre. Et « en bateau » ou « à vélo » se disent avec le même petit mot, qui veut dire « avec ».}}
 
 | Deutsch | Français |
 |---------|----------|
@@ -35,12 +35,12 @@
 
 ! Ich fahre mit dem Boot.
 > Je vais en bateau.
-> Ich fahre = je vais (en roulant)
+> Ich fahre = je vais (en véhicule)
 > mit dem Boot = en bateau
 
 ! Fährst du mit dem Fahrrad?
 > Tu vas à vélo ?
-> Fährst du = tu vas (en roulant)
+> Fährst du = tu vas (en véhicule)
 + Le a devient ä, comme {{du schläfst}} : {{ich fahre}}, mais {{du fährst}}.
 
 ! Ich gehe zu Fuß.

@@ -2,7 +2,7 @@
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Living_room_%28Unsplash%29.jpg?width=800 | Salon, Wikimedia Commons, licence libre
 
-{{fr:Retour chez Lea ! Cette fois, on joue à cache-cache dans toute la maison. Un lièvre qui joue à cache-cache avec un renard, c'est drôle, mais Lea n'a pas peur : elle sait que tu es gentil ! Écoute bien où chacun se cache !}}
+{{fr:Retour chez Lea ! Cette fois, on joue à cache-cache dans toute la maison. Un lièvre qui joue à cache-cache avec un renard, c'est drôle, mais Lea n'a pas peur : un renard gentil, ça se reconnaît ! Écoute bien où chacun se cache !}}
 
 ---
 

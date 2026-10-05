@@ -21,7 +21,7 @@
 
 ## Pour commander
 
-{{fr:À la boulangerie ou au restaurant, dis « je prends », puis ce que tu veux, et s'il te plaît. C'est gagné !}} → {{Ich nehme eine Brezel, bitte.}}
+{{fr:À la boulangerie ou chez le glacier, dis « je prends », puis ce que tu veux, et s'il te plaît. C'est gagné !}} → {{Ich nehme eine Brezel, bitte.}}
 
 | Deutsch | Français |
 |---------|----------|
@@ -59,6 +59,7 @@
 > Les pommes de terre sont brûlantes !
 > Die Kartoffeln sind = les pommes de terre sont
 > heiß = brûlant
++ Mot nouveau signalé : {{heiß}} = brûlant, encore plus chaud que {{warm}}.
 
 ---
 

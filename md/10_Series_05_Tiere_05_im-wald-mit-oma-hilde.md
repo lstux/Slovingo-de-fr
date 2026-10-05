@@ -30,8 +30,8 @@
 > Regarde, un cerf !
 + Mot nouveau signalé : {{Schau mal}} = regarde.
 
-! 🦊 Er ist so groß! Größer als ein Auto!
-> Il est tellement grand ! Plus grand qu'une voiture !
+! 🦊 Er ist so groß! Größer als ein Pferd!
+> Il est tellement grand ! Plus grand qu'un cheval !
 > so groß = tellement grand
 
 ! 🐰 Und das Wildschwein schläft.
@@ -40,7 +40,7 @@
 ! 🦡 Die Eichhörnchen sind lustig! Sie springen!
 > Les écureuils sont drôles ! Ils sautent !
 
-! 🦊 Ich mag die Wildschweine!
+! 🦊 Ich mag Wildschweine!
 > J'aime bien les sangliers !
 
 ! 🦅 Guten Tag, Kinder! Bleibt bitte auf dem Weg!

@@ -93,10 +93,10 @@
     {
       "id": "listen-ich-nehme-ein-eis-bitte",
       "type": "listen",
-      "l1": "Je prends une glace, s'il vous plaît !",
+      "l1": "Je prends une glace, s'il te plaît !",
       "l2": "Ich nehme ein Eis, bitte!",
       "choices_l1": [
-        "Je prends un bretzel, s'il vous plaît !",
+        "Je prends un bretzel, s'il te plaît !",
         "J'achète une glace, merci !",
         "Tu prends une glace ?"
       ]

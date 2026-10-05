@@ -21,7 +21,7 @@
 
 ## Au parc, à l'école
 
-{{fr:Comme dans la maison, retiens ces formules toutes faites. Pour l'école, la boulangerie et le glacier, ce sont des mots féminins, alors c'est un peu différent.}}
+{{fr:Comme dans la maison, retiens ces formules toutes faites. Pour l'école et la boulangerie, ce sont des mots féminins, alors c'est un peu différent.}}
 
 | Deutsch | Français |
 |---------|----------|

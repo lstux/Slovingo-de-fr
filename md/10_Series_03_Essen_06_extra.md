@@ -34,6 +34,7 @@
 | der Apfelsaft | le jus de pomme |
 | das Eis | la glace |
 | ich nehme | je prends |
+| heiß | brûlant |
 | Guten Appetit | bon appétit |
 | satt | rassasié |
 
@@ -76,7 +77,7 @@
 
 ### Scène 2 — On commande
 
-{{fr:Tom le blaireau a très faim. Il veut commander à manger !}}
+{{fr:Tom le blaireau a très faim. À la boulangerie de Frau Stachel, tout le monde commande !}}
 
 ! 🦡 Ich habe Hunger! Ich nehme Kartoffeln, bitte.
 > J'ai faim ! Je prends des pommes de terre, s'il te plaît.
@@ -97,9 +98,9 @@
 + Le renard 🦊 prend des baies, pas de lièvre !
 
 ! 🦡 Ja, ich mag Apfelsaft! Die Kartoffeln sind heiß!
-> Oui, j'aime bien le jus de pomme ! Les pommes de terre sont chaudes !
+> Oui, j'aime bien le jus de pomme ! Les pommes de terre sont brûlantes !
 > ich mag = j'aime bien
-> Die Kartoffeln sind heiß = les pommes de terre sont chaudes
+> Die Kartoffeln sind heiß = les pommes de terre sont brûlantes
 
 ---
 

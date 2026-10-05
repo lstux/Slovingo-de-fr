@@ -212,14 +212,14 @@
       ]
     },
     {
-      "id": "listen-nein-aber-oma-hat-einen-hund",
+      "id": "listen-nein-aber-ich-habe-einen-hund",
       "type": "listen",
-      "l1": "Non, mais mamie a un chien.",
-      "l2": "Nein, aber Oma hat einen Hund.",
+      "l1": "Non, mais moi, j'ai un chien.",
+      "l2": "Nein, aber ich habe einen Hund.",
       "choices_l1": [
-        "Oui, mais mamie a un chien.",
-        "Non, mais papi a un chien.",
-        "Non, mais mamie a un chat."
+        "Oui, mais moi, j'ai un chien.",
+        "Non, mais toi, tu as un chien.",
+        "Non, mais moi, j'ai un chat."
       ]
     },
     {
@@ -403,23 +403,23 @@
       ]
     },
     {
-      "id": "order-nein-aber-oma-hat-einen-hund",
+      "id": "order-nein-aber-ich-habe-einen-hund",
       "type": "order",
-      "l1": "Non, mais mamie a un chien.",
-      "l2": "Nein, aber Oma hat einen Hund.",
+      "l1": "Non, mais moi, j'ai un chien.",
+      "l2": "Nein, aber ich habe einen Hund.",
       "tokens_l1": [
         "Non,",
         "mais",
-        "mamie",
-        "a",
+        "moi,",
+        "j'ai",
         "un",
         "chien."
       ],
       "tokens_l2": [
         "Nein,",
         "aber",
-        "Oma",
-        "hat",
+        "ich",
+        "habe",
         "einen",
         "Hund."
       ]

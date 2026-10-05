@@ -23,7 +23,7 @@
 
 ## 🇩🇪 Coin allemand
 
-**Le sais-tu ?** {{fr:Tu connais les œufs Kinder ?}} {{Kinder}} {{fr:veut dire « enfants » en allemand !}} 🥚
+**Le sais-tu ?** {{fr:Tu connais les œufs en chocolat avec une surprise ? Leur nom,}} {{Kinder}}{{fr:, veut dire « enfants » en allemand !}} 🥚
 
 {{Kindergarten}} = {{Kinder}} + {{Garten}} : {{fr:les enfants plus le jardin, ça fait un jardin d'enfants !}}
 

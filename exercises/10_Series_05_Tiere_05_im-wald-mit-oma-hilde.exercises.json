@@ -36,14 +36,14 @@
       ]
     },
     {
-      "id": "listen-er-ist-so-gro-gr-er-als-ein-auto",
+      "id": "listen-er-ist-so-gro-gr-er-als-ein-pferd",
       "type": "listen",
-      "l1": "Il est tellement grand ! Plus grand qu'une voiture !",
-      "l2": "Er ist so groß! Größer als ein Auto!",
+      "l1": "Il est tellement grand ! Plus grand qu'un cheval !",
+      "l2": "Er ist so groß! Größer als ein Pferd!",
       "choices_l1": [
-        "Il est tellement petit ! Plus petit qu'une voiture !",
+        "Il est tellement petit ! Plus petit qu'un cheval !",
         "Il est tellement grand ! Plus grand qu'une maison !",
-        "Il est tellement fort ! Plus fort qu'une voiture !"
+        "Il est tellement fort ! Plus fort qu'un cheval !"
       ]
     },
     {
@@ -249,7 +249,7 @@
       "l2": [
         "Schau mal, ein Hirsch!",
         "Und das Wildschwein schläft.",
-        "Ich mag die Wildschweine!",
+        "Ich mag Wildschweine!",
         "Gut, Herr Falke!"
       ]
     }

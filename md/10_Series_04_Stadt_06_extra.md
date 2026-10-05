@@ -19,7 +19,7 @@
 | das Boot | le bateau |
 | das Fahrrad | le vélo |
 | das Auto | la voiture |
-| fahren | aller (en roulant) |
+| fahren | aller (en véhicule) |
 | gehen | aller (à pied) |
 | zu Fuß | à pied |
 | links | à gauche |
@@ -74,12 +74,12 @@
 
 ! 🐰 Fährst du mit dem Boot?
 > Tu y vas en bateau ?
-> Fährst du = tu y vas (en roulant)
+> Fährst du = tu y vas (en véhicule)
 > mit dem Boot = en bateau
 
 ! 🦊 Nein, ich fahre mit dem Fahrrad. Und du?
 > Non, j'y vais à vélo. Et toi ?
-> ich fahre = j'y vais (en roulant)
+> ich fahre = j'y vais (en véhicule)
 > mit dem Fahrrad = à vélo
 > Und du = et toi
 

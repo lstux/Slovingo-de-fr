@@ -35,7 +35,7 @@
 
 ### Scène 1 — Un goûter chez Lea
 
-{{fr:Lea te propose un goûter dans son terrier. Dis oui ou non, poliment !}}
+{{fr:Lea te propose un goûter dans sa maison sous les sapins. Dis oui ou non, poliment !}}
 
 ! 🐰 Pizza, [USER_NAME]?
 > De la pizza, [USER_NAME] ?
@@ -66,7 +66,7 @@
 
 ### Scène 2 — On se présente
 
-{{fr:Tu croises Lea sur le sentier. Vous ne vous connaissez pas encore : présente-toi !}}
+{{fr:Tu recroises Lea sur le sentier. Rejoue votre première rencontre : présente-toi !}}
 
 ! 🦊 Entschuldigung, wie heißt du?
 > Pardon, comment tu t'appelles ?

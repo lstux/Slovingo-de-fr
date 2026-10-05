@@ -2,7 +2,7 @@
 
 @ https://upload.wikimedia.org/wikipedia/commons/e/e8/Maison_typique_des_%C3%AEles_frisonnes%2C_Amrum%2C_Allemagne_%2814499013013%29.jpg | Maison typique des îles frisonnes, Wikimedia Commons, licence libre
 
-{{fr:On va chez la mamie et le papi de Lea : Oma Hilde, un hibou, et Opa Karl, un cerf. Il y a une maison, un jardin, des animaux… et un gâteau !}}
+{{fr:On va chez la mamie et le papi de Lea : Oma Hilde, un hibou, et Opa Karl, un cerf. Il y a une maison, un jardin, un chien, un chat… et un gâteau !}}
 
 ---
 

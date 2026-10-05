@@ -36,7 +36,9 @@
 
 ! 🦡 Nein! Fünf Minuten zu Fuß. Ich komme mit!
 > Non ! Cinq minutes à pied. Je viens avec toi !
+> Fünf Minuten = cinq minutes
 > Ich komme mit = je viens avec toi
++ Mot nouveau signalé : {{Minuten}} = minutes.
 
 ! 🦊 Super! Danke, Tom!
 > Super ! Merci, Tom !
@@ -52,7 +54,7 @@
 > Deux euros.
 
 ! 🦊 Ich nehme ein Eis, bitte!
-> Je prends une glace, s'il vous plaît !
+> Je prends une glace, s'il te plaît !
 
 ! 🦡 Ich auch! Lecker!
 > Moi aussi ! Trop bon !

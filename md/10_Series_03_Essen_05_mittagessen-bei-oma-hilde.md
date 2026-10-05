@@ -34,7 +34,7 @@
 
 ! 🦊 Hm, das ist lecker!
 > Mmm, c'est trop bon !
-+ Le renard 🦊 mange des baies, pas de lièvre : Lea respire !
++ Pas de lièvre au menu pour le renard 🦊 : Lea respire !
 
 ! 🦉 Möchtest du Apfelsaft, [USER_NAME]?
 > Tu voudrais du jus de pomme, [USER_NAME] ?
@@ -55,7 +55,7 @@
 
 ! 🦊 Nein, danke. Ich bin satt.
 > Non, merci. Je n'ai plus faim.
-+ Mot nouveau signalé : {{satt}}. Mot à mot : « je suis rempli ».
++ Mot nouveau signalé : {{satt}}. Mot à mot : « je suis rassasié ».
 
 ! 🐰 Oma, du kochst sehr gut!
 > Mamie, tu cuisines très bien !
