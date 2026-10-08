@@ -420,7 +420,16 @@
         "encore",
         "du pain,",
         "Tom ?",
-        "aussi"
+        "Et",
+        "les",
+        "pommes",
+        "de",
+        "terre",
+        "?",
+        "Chaudes",
+        "ou",
+        "froides",
+        "?"
       ],
       "tokens_l2": [
         "Möchtest",
@@ -428,7 +437,12 @@
         "noch",
         "Brot,",
         "Tom?",
-        "auch"
+        "Und",
+        "die",
+        "Kartoffeln?",
+        "Warm",
+        "oder",
+        "kalt?"
       ]
     },
     {

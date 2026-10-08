@@ -413,7 +413,15 @@
         "vole !",
         "Il est",
         "rapide !",
-        "saute"
+        "Oui,",
+        "Monsieur",
+        "Falke",
+        "!",
+        "Regarde,",
+        "le",
+        "lapin",
+        "saute",
+        "!"
       ],
       "tokens_l2": [
         "Und",
@@ -421,7 +429,14 @@
         "fliegt!",
         "Er ist",
         "schnell!",
-        "springt"
+        "Ja,",
+        "Herr",
+        "Falke!",
+        "Schau",
+        "mal,",
+        "das",
+        "Kaninchen",
+        "springt!"
       ]
     },
     {
