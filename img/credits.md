@@ -4,7 +4,7 @@ Licence et auteur : à compléter depuis la page de chaque fichier sur Wikimedia
 
 | Fichier | Nom d'origine | Source | Licence | Auteur |
 |---------|---------------|--------|---------|--------|
-| `style_default.jpg` | Hohenpeißenberg Panorama.jpg | https://commons.wikimedia.org/wiki/File:Hohenpei%C3%9Fenberg_Panorama.jpg | à vérifier | à vérifier |
+| `style_default.jpg` | Bannière Intro (forêt, hibou, blaireau, cerf) | *Généré avec ChatGPT* | Libre d'usage — généré pour ce projet (2026) | OpenAI ChatGPT |
 | `style_basics.jpg` | Beetzendorf Willkommen.jpg | https://commons.wikimedia.org/wiki/File:Beetzendorf_Willkommen.jpg | à vérifier | à vérifier |
 | `style_family.jpg` | Family Portrait.jpg | https://commons.wikimedia.org/wiki/File:Family_Portrait.jpg | à vérifier | à vérifier |
 | `style_house.jpg` | Nordisches Einfamilienhaus.jpg | https://commons.wikimedia.org/wiki/File:Nordisches_Einfamilienhaus.jpg | à vérifier | à vérifier |
