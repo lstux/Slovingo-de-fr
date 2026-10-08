@@ -66,6 +66,14 @@ Projet familial : mon fils (8 ans) est le cobaye principal. Le format et le cont
 
 **Statut** : ✍️ Introduction, Kit de Survie et 6 séries écrites (Familie, Haus, Essen, Stadt, Tiere, Spiele — 45 fiches), dans le monde des animaux de la Forêt-Noire (branche `animals`, voir [docs/Format-animaux.md](docs/Format-animaux.md)). À venir : illustrations (photos réelles d'animaux et de paysages), séries suivantes.
 
+## 🌐 Déploiement (GitHub Pages)
+
+À chaque push sur `main`, le workflow `.github/workflows/pages.yml` construit le site avec le moteur [Slovingo](https://github.com/lstux/Slovingo) et le publie sur **https://lstux.github.io/slovingo-de-fr-kids/**. L'`url_path` est adapté au moment du build (sans modifier `lang.json` dans le repo).
+
+Réglage à faire **une seule fois** : *Settings → Pages → Build and deployment → Source : GitHub Actions*.
+
+Le workflow `build-release.yml` (release tarball, à lancer à la main) reste en place.
+
 ---
 
 *Slovingo est libre et open-source, sous licence [GPL-3.0](./LICENSE).*
