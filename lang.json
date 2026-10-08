@@ -207,6 +207,7 @@
     "spiele": "games"
   },
   "map": {
+    "direction": "up",
     "icons": {
       "familie": "👨‍👩‍👧",
       "haus": "🏠",
