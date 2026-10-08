@@ -60,6 +60,9 @@ jobs:
           print("url_path =", cfg["site"]["url_path"])
           PY
 
+      - name: Dépendances (Pillow, pour les icônes)
+        run: python3 -m pip install -r engine/requirements.txt
+
       - name: Build
         run: |
           cd engine
