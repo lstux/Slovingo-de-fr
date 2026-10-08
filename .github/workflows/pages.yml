@@ -66,6 +66,8 @@ jobs:
           python3 src/build.py --lang-dir langs/de-fr-kids --static-dir static
 
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true
 
       - name: Préparer l'artefact Pages
         run: |
