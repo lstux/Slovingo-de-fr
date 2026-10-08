@@ -23,83 +23,124 @@
 ## INTRO (à placer dans une fiche)
 
 ### intro-arrivee-foret
-Image format 16/9 paysage (1920x1080px), style Zootopia. 
-Lea la lièvre accueille Toi le renard qui arrive en Forêt-Noire. 
-Scène : sentier forestier avec grands sapins, prairie ensoleillée. 
-Lea souriante, les bras ouverts, présentant la forêt. Toi admiratif. 
-Tom le blaireau arrive aussi pour dire bonjour. Oma Hilde (hibou) vole doucement au-dessus. 
-Premier plan : arrivée chaleureuse, fleurs sauvages, myrtilles. 
-Ambiance première rencontre, amitié naissante, accueil en Forêt-Noire, joie de découvrir.
+Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique.
+
+Scène : Sentier forestier de la Forêt-Noire allemande — première rencontre.
+Un jeune renard roux arrive, une jeune lièvre grise l'accueille chaleureusement.
+Un jeune blaireau arrive aussi pour dire bonjour, un hibou grand-duc vole doucement au-dessus.
+
+Sentier avec grands sapins majestueux, prairie ensoleillée, fleurs sauvages, myrtilles.
+
+Lumière : dorée et chaleureuse, fin d'après-midi.
+
+Ambiance : première rencontre, amitié naissante, accueil chaleureux en Forêt-Noire, joie de découvrir, pour enfants.
 
 ---
 
 ## KIT DE SURVIE (fiche 3 — dialogue)
 
 ### kit-dialogue-sentier
-Image format 16/9 paysage (1920x1080px), style Zootopia. 
-Scène : Lea et Toi en train de discuter sur un sentier de montagne de la Forêt-Noire. 
-Lea pointe le chemin avec un geste amical, elle explique quelque chose (langage corporel de guide/amie). 
-Toi l'écoute avec intérêt. 
-Autour : herbe alpine, petites fleurs, sapins majestueux, ciel dégagé. 
-Ambiance apprentissage bienveillant, guidance, sécurité, premiers pas en allemand.
+Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique.
+
+Scène : Sentier de montagne de la Forêt-Noire — apprentissage et guidance.
+Une jeune lièvre grise pointe le chemin avec un geste amical.
+Un jeune renard roux l'écoute avec intérêt, apprenant les premiers pas en allemand.
+
+Herbe alpine, petites fleurs sauvages, sapins majestueux, ciel dégagé.
+
+Lumière : douce et dorée, fin d'après-midi.
+
+Ambiance : apprentissage bienveillant, guidance, sécurité, confiance entre amis, pour enfants.
 
 ---
 
 ## SÉRIES — FICHES 5 (DIALOGUES PRINCIPAUX)
 
 ### serie-01-familie-chez-oma
-Image format 16/9 paysage (1920x1080px), style Zootopia. 
-Scène : Chez Oma Hilde et Opa Karl. 
-Oma Hilde (hibou) accueillante, Opa Karl (cerf) souriants. 
-Autour d'eux : Toi (renard), Lea (lièvre), Tom (blaireau), tous souriants, se connaissant déjà. 
-Première rencontre avec la mamie et le papi. 
-Premier plan : jardin avec gâteau de Forêt-Noire, table accueillante, fleurs, maison chaleureuse en arrière-plan. 
-Ambiance chaleur familiale, générosité, apprentissage des liens familiaux, goûter allemand.
+Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique.
+
+Scène : Jardin d'une maison chaleureuse de la Forêt-Noire — première rencontre familiale.
+Une grand-mère hibou grand-duc accueillante et un grand-père cerf souriant.
+Quatre jeunes animaux (renard roux, lièvre grise, blaireau, autre ami) autour, souriants, heureux de se rencontrer.
+
+Jardin avec table accueillante, gâteau de Forêt-Noire, fleurs, maison chaleureuse en arrière-plan.
+
+Lumière : douce et dorée, fin d'après-midi.
+
+Ambiance : chaleur familiale, générosité, apprentissage des liens familiaux, traditions allemandes, pour enfants.
 
 ### serie-02-haus-bau-tom
-Image format 16/9 paysage (1920x1080px), style Zootopia. 
-Scène : Visite du terrier (Bau) de Tom le blaireau, ou du nid d'Oma Hilde. 
-Tom montre fièrement son intérieur : petit mobilier, lampe chaleureuse. 
-Toi, Lea arrivent impressionnés. 
-Oma Hilde vole à proximité. Forêt dense autour, sapins hauts. 
-Premier plan : entrée accueillante du terrier avec détails cosy. 
-Ambiance hospitalité, maison accueillante, confort, découverte d'un foyer dans la forêt.
+Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique.
+
+Scène : Entrée chaleureuse d'un terrier (Bau) de blaireau en Forêt-Noire.
+Un jeune blaireau montre fièrement son intérieur : petit mobilier cosy, lampe chaleureuse.
+Deux jeunes animaux (renard roux, lièvre grise) arrivent impressionnés, enthousiastes.
+Une grand-mère hibou vole à proximité.
+
+Entrée du terrier avec détails accueillants, forêt dense avec sapins hauts autour.
+
+Lumière : chaleureuse et intime, fin d'après-midi.
+
+Ambiance : hospitalité, maison accueillante, confort, découverte d'un foyer dans la forêt, amitié, pour enfants.
 
 ### serie-03-essen-pique-nique
-Image format 16/9 paysage (1920x1080px), style Zootopia. 
-Scène : Pique-nique en prairie de la Forêt-Noire. 
-Oma Hilde et les enfants (Toi, Lea, Tom) autour d'une couverture. 
-Étalage : pain, fromage, miel, myrtilles, framboises, champignons de saison. 
-Toi le renard dégustant les myrtilles avec joie (gag du renard gentil). 
-Lumière chaude, prairie fleurie, sapins en arrière-plan. 
-Ambiance partage, tradition culinaire allemande, convivialité, nature généreuse.
+Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique.
+
+Scène : Pique-nique en prairie fleurie de la Forêt-Noire.
+Une grand-mère hibou et trois jeunes animaux (renard roux, lièvre grise, blaireau) assis autour d'une couverture.
+Étalage festif : pain, fromage, miel, myrtilles, framboises, champignons de saison.
+Un renard roux qui déguste les myrtilles avec joie.
+
+Prairie fleurie avec fleurs sauvages, sapins en arrière-plan, ciel bleu dégagé.
+
+Lumière : chaude et dorée, fin d'après-midi.
+
+Ambiance : partage, tradition culinaire allemande, convivialité, nature généreuse, joie, pour enfants.
 
 ### serie-04-stadt-boutique
-Image format 16/9 paysage (1920x1080px), style Zootopia. 
-Scène : Petite boutique chaleureuse de Frau Stachel (hérisson) au village au bord de la forêt. 
-Commerçante hérisson accueillante derrière son comptoir. 
-Toi, Lea, Tom arrivent pour acheter. 
-Étals avec produits locaux : pain, fromage, miel, fruits, gâteaux. 
-Vitrines avec détails pittoresques allemands. Lac visible en arrière-plan. 
-Ambiance commerce local, échange, vie de village, rencontre avec les habitants, hospitalité.
+Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique.
+
+Scène : Petite boutique traditionnelle chaleureuse d'un village au bord de la Forêt-Noire.
+Une commerçante hérisson accueillante derrière son comptoir en bois.
+Trois jeunes animaux (renard roux, lièvre grise, blaireau) arrivent pour acheter, enthousiastes.
+
+Comptoir avec étals : pain, fromage, miel, fruits locaux, gâteaux traditionnels.
+Vitrines avec détails pittoresques allemands (céramiques, broderies).
+Lac visible en arrière-plan, maisons du village.
+
+Lumière : douce et chaleureuse, fin d'après-midi.
+
+Ambiance : commerce local, échange, vie de village, rencontre avec les habitants, hospitalité, traditions, pour enfants.
 
 ### serie-05-tiere-parc-herr-falke
-Image format 16/9 paysage (1920x1080px), style Zootopia. 
-Scène : Parc de la Forêt-Noire avec animaux. 
-Herr Falke (faucon pèlerin) en vol majestueux, garde du parc souriant. 
-Au sol : Toi (renard), Lea (lièvre), Tom (blaireau), et animaux de la forêt : cerf, chevreuil, écureuil. 
-Herr Falke montrant et expliquant la faune. 
-Premier plan : prairie alpine, rochers, animaux à différents niveaux (ciel, sol, buissons). 
-Ambiance respect de la nature, biodiversité, protection, enchantement sauvage.
+Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique.
+
+Scène : Parc naturel de la Forêt-Noire avec animaux sauvages.
+Un faucon pèlerin majestueux en vol, garde du parc bienveillant.
+Au sol : trois jeunes animaux (renard roux, lièvre grise, blaireau), et animaux sauvages du lieu (cerf, chevreuil, écureuil).
+Le faucon montrant et expliquant la faune locale.
+
+Prairie alpine avec rochers, animaux visibles à différents niveaux (ciel, sol, buissons).
+Sapins et forêt en arrière-plan.
+
+Lumière : douce et dorée, fin d'après-midi.
+
+Ambiance : respect de la nature, biodiversité, protection, enchantement sauvage, apprentissage, merveille, pour enfants.
 
 ### serie-06-spiele-cache-cache
-Image format 16/9 paysage (1920x1080px), style Zootopia. 
-Scène : Grande prairie fleurie de la Forêt-Noire. 
-Toi (renard) en train de jouer au cache-cache avec Lea, Tom, et autres amis. 
-Action dynamique : un caché derrière un grand sapin, un qui cherche, les autres qui rient. 
-Mouvement, joie, énergie positive. 
-Premier plan : prairie avec fleurs sauvages, grands sapins, rochers à grimper. 
-Soleil bas, ombres ludiques. Ambiance enfance insouciante, amitié, aventure, jeu.
+Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique.
+
+Scène : Grande prairie fleurie de la Forêt-Noire — jeux dynamiques.
+Quatre jeunes animaux (un renard roux, une lièvre grise, un blaireau, un autre ami) en train de jouer au cache-cache.
+Action dynamique : un caché derrière un grand sapin, un qui cherche, les autres qui rient et jouent.
+Mouvement, joie, énergie positive.
+
+Prairie avec fleurs sauvages violettes et jaunes, grands sapins majestueux, rochers à grimper.
+Forêt dense en arrière-plan.
+
+Lumière : dorée et chaleureuse, soleil bas créant des ombres ludiques.
+
+Ambiance : enfance insouciante, amitié, aventure, jeu sans danger, rires, liberté, pour enfants.
 
 ---
 
