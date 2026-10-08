@@ -1,14 +1,16 @@
 name: GitHub Pages
 
 # Publie deux sites sur la même Page :
-#   - la racine (/)     : la branche main
-#   - /ai/              : la branche feat/ai-illustrations (aperçu, storage_prefix distinct)
-# Déclenché par un push sur main ou manuellement (Run workflow). Un push sur la
-# branche d'aperçu ne redéclenche pas le déploiement : relancer le workflow à la main.
+#   - la racine (/) : la branche main
+#   - /ai/          : la branche feat/ai-illustrations (aperçu, storage_prefix distinct)
+# Déclenché par un push sur main ou sur la branche d'aperçu, ou manuellement.
+# Le site est toujours reconstruit entier (main + aperçu), donc un push sur
+# l'une ou l'autre branche republie les deux.
+# Si la branche d'aperçu n'existe plus (mergée et supprimée), seule la racine est publiée.
 
 on:
   push:
-    branches: [main]
+    branches: [main, feat/ai-illustrations]
   workflow_dispatch:
     inputs:
       slovingo_ref:
@@ -34,9 +36,12 @@ jobs:
       - name: Checkout contenu (main)
         uses: actions/checkout@v5
         with:
+          ref: main
           path: content
 
-      - name: Checkout contenu (aperçu)
+      - name: Checkout contenu (aperçu, facultatif)
+        id: preview
+        continue-on-error: true
         uses: actions/checkout@v5
         with:
           ref: ${{ inputs.preview_ref || 'feat/ai-illustrations' }}
@@ -57,21 +62,28 @@ jobs:
       - name: Dépendances (Pillow, pour les icônes)
         run: python3 -m pip install -r engine/requirements.txt
 
-      - name: Placer les deux contenus au format attendu par build.py
+      - name: Placer les contenus au format attendu par build.py
         run: |
-          mkdir -p engine/langs/de-fr-kids engine/langs/de-fr-kids-ai
+          mkdir -p engine/langs/de-fr-kids
           tar --exclude=.git --exclude=.github --exclude=LICENSE --exclude='README*' \
             -cf - -C content . | tar -xf - -C engine/langs/de-fr-kids
-          tar --exclude=.git --exclude=.github --exclude=LICENSE --exclude='README*' \
-            -cf - -C content-ai . | tar -xf - -C engine/langs/de-fr-kids-ai
+          if [ "${{ steps.preview.outcome }}" = "success" ]; then
+            mkdir -p engine/langs/de-fr-kids-ai
+            tar --exclude=.git --exclude=.github --exclude=LICENSE --exclude='README*' \
+              -cf - -C content-ai . | tar -xf - -C engine/langs/de-fr-kids-ai
+          else
+            echo "Pas de branche d'aperçu : seule la racine est publiée."
+          fi
 
       - name: Adapter url_path et storage_prefix (sans toucher aux repos)
         run: |
           python3 - <<'PY'
           import json, os, pathlib
           repo = os.environ["GITHUB_REPOSITORY"].split("/", 1)[1]
-          for d, path, suffix in [("engine/langs/de-fr-kids", f"/{repo}/", ""),
-                                  ("engine/langs/de-fr-kids-ai", f"/{repo}/ai/", "-ai")]:
+          targets = [("engine/langs/de-fr-kids", f"/{repo}/", "")]
+          if os.path.isdir("engine/langs/de-fr-kids-ai"):
+              targets.append(("engine/langs/de-fr-kids-ai", f"/{repo}/ai/", "-ai"))
+          for d, path, suffix in targets:
               p = pathlib.Path(d) / "lang.json"
               cfg = json.loads(p.read_text(encoding="utf-8"))
               cfg["site"]["url_path"] = path
@@ -81,11 +93,13 @@ jobs:
               print(d, "url_path =", path)
           PY
 
-      - name: Build (main et aperçu)
+      - name: Build (racine et aperçu)
         run: |
           cd engine
           python3 src/build.py --lang-dir langs/de-fr-kids --static-dir static
-          python3 src/build.py --lang-dir langs/de-fr-kids-ai --static-dir static
+          if [ -d langs/de-fr-kids-ai ]; then
+            python3 src/build.py --lang-dir langs/de-fr-kids-ai --static-dir static
+          fi
 
       - uses: actions/configure-pages@v6
         with:
@@ -93,9 +107,12 @@ jobs:
 
       - name: Préparer l'artefact Pages
         run: |
-          mkdir -p _site/ai
+          mkdir -p _site
           cp -r engine/langs/de-fr-kids/dist/. _site/
-          cp -r engine/langs/de-fr-kids-ai/dist/. _site/ai/
+          if [ -d engine/langs/de-fr-kids-ai/dist ]; then
+            mkdir -p _site/ai
+            cp -r engine/langs/de-fr-kids-ai/dist/. _site/ai/
+          fi
           touch _site/.nojekyll
 
       - uses: actions/upload-pages-artifact@v5
@@ -104,7 +121,6 @@ jobs:
 
   deploy:
     needs: build
-    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     permissions:
       contents: read
