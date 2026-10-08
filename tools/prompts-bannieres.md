@@ -23,60 +23,65 @@
 
 ### default (Intro)
 Image format 1200x280px, style films d'animation Zootopia. 
-Cadre de la Forêt-Noire, chemin forestier avec sapins. 
-Au premier plan, un renard roux joue avec une lièvre dans une clairière ensoleillée. 
-En arrière-plan, un blaireau dans son terrier, un hibou grand-duc dans un nid, un cerf qui regarde. 
-Ambiance fin de journée, soleil douce, joyeux et accueillant. 
-Fleurs sauvages, myrtilles, ambiance nature allemande.
+Cadre de la Forêt-Noire, chemin forestier avec sapins, clairière ensoleillée.
+**Pas de personnages au premier plan** — focus sur la nature.
+Animaux sauvages du lieu : renard roux observant, lièvre au loin, blaireau près de son terrier, hibou grand-duc dans un nid, cerf qui regarde, papillons, myrtilles.
+Ambiance fin de journée, soleil douce, joyeux et accueillant.
+Ambiance nature allemande.
 
 ### basics (Kit de survie)
 Image format 1200x280px, style Zootopia. 
-Une jeune lièvre (Lea) en tenue de randonnée, sac à dos, souriant avec confiance. 
-À ses côtés, un renard ami pointant le sentier d'une montagne majestueuse de la Forêt-Noire. 
-Sentier sinueux entre sapins, prairie alpine, coucher de soleil doré. 
-Ambiance aventure, guidance bienveillante, sécurité. Quelques papillons, myrtilles au premier plan.
+Sentier sinueux entre sapins de la Forêt-Noire, prairie alpine, montagne majestueuse.
+**Pas de personnages** — focus sur le paysage.
+Animaux du lieu : lièvre attentive sur le sentier, renard en exploration, papillons, myrtilles, prairie alpine.
+Ambiance aventure, guidance naturelle, sécurité.
+Lumière : coucher de soleil doré.
 
 ### house (Haus)
 Image format 1200x280px, style Zootopia. 
-Terrier confortable d'un blaireau (Tom) en détail principal, avec entrée accueillante. 
-Une lièvre (Lea) et un renard (Toi) devant la porte, souriants. 
-À proximité, un nid dans un grand sapin où habite Oma Hilde (hibou). 
-Forêt dense, cosy, lumière chaleureuse. Ambiance foyer, amitié, confort.
+Terrier confortable d'un blaireau en détail principal, avec entrée accueillante. 
+Nid dans un grand sapin où habite Oma Hilde (hibou).
+**Pas de personnages au premier plan** — focus sur les habitats.
+Animaux du lieu : lièvre au loin, renard observant, blaireau curieux à son terrier, hibou dans le nid, forêt dense.
+Ambiance foyer, amitié, confort, lumière chaleureuse.
 
 ### family (Familie)
 Image format 1200x280px, style Zootopia. 
-Chez Oma Hilde et Opa Karl : un hibou grand-duc accueillant et un cerf noble autour d'une table de jardin. 
-Lea (lièvre) avec son ami Toi (renard) à proximité. 
-Maison avec jardin en arrière-plan, gâteau de Forêt-Noire sur la table, fleurs. 
-Ambiance famille chaleureuse, générosité, jardin allemand pittoresque.
+Table de jardin avec gâteau, fleurs, maison en arrière-plan.
+**Pas de personnages au premier plan** — focus sur le jardin et la nature.
+Animaux du lieu : hibou grand-duc, cerf noble observant le jardin, lièvre curieuse, renard au loin, fleurs, jardin allemand pittoresque.
+Ambiance famille, générosité, nature bienveillante, lumière chaleureuse.
 
 ### food (Essen)
 Image format 1200x280px, style Zootopia. 
-Un renard roux dégustant des myrtilles et framboises avec joie, dans une prairie de Forêt-Noire. 
-Autour, des champignons, du pain, du fromage, du miel, des baies sauvages étalés. 
-Lea (lièvre) partageant un pique-nique joyeux. 
-Lumière chaude, ambiance gourmande et naturelle, nature généreuse.
+Prairie de Forêt-Noire avec champignons, pain, fromage, miel, baies sauvages étalés sur le sol.
+**Pas de personnages au premier plan** — focus sur la nature généreuse.
+Animaux du lieu dégustant : renard roux gourmand, lièvre partageant, oiseaux picotant, papillons sur les fleurs, myrtilles et framboises.
+Ambiance gourmande et naturelle, lumière chaude.
 
 ### city (Stadt)
 Image format 1200x280px, style Zootopia. 
-Petit village allemand au bord de la forêt : maisons colorées, boutique de Frau Stachel (hérisson). 
-Enfants animaux (lièvre, renard, blaireau) se promenant dans les rues. 
-Lac en arrière-plan, glacier visible, clocher église. 
-Ambiance communauté chaleureux, village accueillant, point de rendez-vous.
+Petit village allemand au bord de la forêt : maisons colorées, boutique de Frau Stachel (hérisson).
+Lac en arrière-plan, glacier visible, clocher église.
+**Pas de personnages au premier plan** — focus sur le village et la nature.
+Animaux du lieu : lièvre au loin, renard observant, blaireau curieux, passants animaux, hérisson commerçante visible en vitrine.
+Ambiance communauté, village accueillant, point de rendez-vous.
 
 ### animals (Tiere)
 Image format 1200x280px, style Zootopia. 
-Parade d'animaux de la Forêt-Noire : cerf noble, chevreuil gracieux, écureuil roux, faucon pèlerin en vol, blaireau curieux. 
-Herr Falke (faucon) observant comme garde du parc. 
-Paysage varié : rochers, forêt de sapins, prairie alpine. 
+Parade d'animaux de la Forêt-Noire : cerf noble, chevreuil gracieux, écureuil roux, faucon pèlerin en vol.
+Herr Falke (faucon) observant comme garde du parc.
+**Pas de personnages humains** — focus sur la faune sauvage.
+Paysage varié : rochers, forêt de sapins, prairie alpine.
 Ambiance faune riche, biodiversité, respect de la nature, couleurs naturelles.
 
 ### games (Spiele)
 Image format 1200x280px, style Zootopia. 
-Bande de jeunes animaux jouant dans une prairie fleurie de la Forêt-Noire : cache-cache dans les buissons, course, jeux sur l'herbe. 
-Renard (Toi), lièvre (Lea), blaireau (Tom) riant et bougeant. 
-Rire, mouvement, énergie positive. Premier plan : jeux, fleurs sauvages, petits rochers. 
-Soleil bas, ombres ludiques. Ambiance joie, amitié, aventure sans danger, enfance insouciante.
+Prairie fleurie de la Forêt-Noire : buissons, rochers, herbe, fleurs sauvages.
+**Pas de personnages au premier plan** — focus sur l'environnement de jeu.
+Animaux jouant et se cachant : renard en exploration, lièvre sautillante, blaireau curieux, papillons, oiseaux, petits rochers à grimper.
+Ambiance joie, amitié, aventure, enfance insouciante.
+Lumière : soleil bas, ombres ludiques.
 
 ---
 
