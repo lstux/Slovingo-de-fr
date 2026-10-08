@@ -1,6 +1,6 @@
 # Slovingo-de-fr 🇩🇪 🇫🇷
 
-🌐 **Le cours en ligne : [lstux.github.io/slovingo-de-fr-kids](https://lstux.github.io/slovingo-de-fr-kids/)**
+🌐 **Le cours en ligne : [lstux.github.io/Slovingo-de-fr-kids](https://lstux.github.io/Slovingo-de-fr-kids/)**
 
 **Apprendre l'allemand de manière ludique — pour les enfants à partir de 8 ans**
 
@@ -70,7 +70,7 @@ Projet familial : mon fils (8 ans) est le cobaye principal. Le format et le cont
 
 ## 🌐 Déploiement (GitHub Pages)
 
-À chaque push sur `main`, le workflow `.github/workflows/pages.yml` construit le site avec le moteur [Slovingo](https://github.com/lstux/Slovingo) et le publie sur **https://lstux.github.io/slovingo-de-fr-kids/**. L'`url_path` est adapté au moment du build (sans modifier `lang.json` dans le repo).
+À chaque push sur `main`, le workflow `.github/workflows/pages.yml` construit le site avec le moteur [Slovingo](https://github.com/lstux/Slovingo) et le publie sur **https://lstux.github.io/Slovingo-de-fr-kids/**. L'`url_path` est adapté au moment du build (sans modifier `lang.json` dans le repo).
 
 Réglage à faire **une seule fois** : *Settings → Pages → Build and deployment → Source : GitHub Actions*.
 
