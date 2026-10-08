@@ -15,14 +15,14 @@
 
 ## ✅ À GÉNÉRER
 
-### default (Intro)
+### default (Intro) — ✅ DONE (`img/style_default.jpg`, ChatGPT)
 Image format 1200x280px, illustration jeunesse, style animation numérique.
 Cadre de la Forêt-Noire : chemin forestier entre grands sapins, clairière ensoleillée.
 Animaux sauvages du lieu : renard roux qui observe, lièvre au loin, blaireau près de son terrier, hibou grand-duc dans un nid, cerf qui regarde, papillons, myrtilles.
 Lumière : fin de journée, soleil doux.
 Ambiance : joyeuse, accueillante, nature allemande, pour enfants.
 
-### basics (Kit de survie)
+### basics (Kit de survie) — ✅ DONE (`img/style_basics.jpg`, ChatGPT)
 Image format 1200x280px, illustration jeunesse, style animation numérique.
 Sentier sinueux entre sapins de la Forêt-Noire, prairie alpine, montagne majestueuse en arrière-plan.
 Animaux du lieu : lièvre sur le sentier, renard en exploration, papillons, myrtilles dans la prairie.

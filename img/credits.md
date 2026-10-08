@@ -5,7 +5,7 @@ Licence et auteur : à compléter depuis la page de chaque fichier sur Wikimedia
 | Fichier | Nom d'origine | Source | Licence | Auteur |
 |---------|---------------|--------|---------|--------|
 | `style_default.jpg` | Bannière Intro (forêt, hibou, blaireau, cerf) | *Généré avec ChatGPT* | Libre d'usage — généré pour ce projet (2026) | OpenAI ChatGPT |
-| `style_basics.jpg` | Beetzendorf Willkommen.jpg | https://commons.wikimedia.org/wiki/File:Beetzendorf_Willkommen.jpg | à vérifier | à vérifier |
+| `style_basics.jpg` | Bannière Kit de survie (renard, lièvre, sentier) | *Généré avec ChatGPT* | Libre d'usage — généré pour ce projet (2026) | OpenAI ChatGPT |
 | `style_family.jpg` | Family Portrait.jpg | https://commons.wikimedia.org/wiki/File:Family_Portrait.jpg | à vérifier | à vérifier |
 | `style_house.jpg` | Nordisches Einfamilienhaus.jpg | https://commons.wikimedia.org/wiki/File:Nordisches_Einfamilienhaus.jpg | à vérifier | à vérifier |
 | `style_food.jpg` | Brotscheiben auf dem Frühstückstisch.jpg | https://commons.wikimedia.org/wiki/File:Brotscheiben_auf_dem_Fr%C3%BChst%C3%BCckstisch.jpg | à vérifier | à vérifier |
