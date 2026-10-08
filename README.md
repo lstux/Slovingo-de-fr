@@ -1,5 +1,7 @@
 # Slovingo-de-fr 🇩🇪 🇫🇷
 
+🌐 **Le cours en ligne : [lstux.github.io/slovingo-de-fr-kids](https://lstux.github.io/slovingo-de-fr-kids/)**
+
 **Apprendre l'allemand de manière ludique — pour les enfants à partir de 8 ans**
 
 Un cours d'allemand construit sur le framework [Slovingo](https://github.com/lstux/Slovingo), conçu spécialement pour les enfants francophones.
