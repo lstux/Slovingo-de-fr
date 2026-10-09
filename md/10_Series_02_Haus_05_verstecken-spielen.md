@@ -1,6 +1,6 @@
 # Série Haus (5/5) — Verstecken spielen
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Living_room_%28Unsplash%29.jpg?width=800 | Salon, Wikimedia Commons, licence libre
+@ img/serie-02-haus-bau-tom.jpg | Le terrier du blaireau : lampe, hibou et renard à la clairière, généré avec Google Gemini, libre d'usage
 
 {{fr:Retour chez Lea ! Cette fois, on joue à cache-cache dans toute la maison. Un lièvre qui joue à cache-cache avec un renard, c'est drôle, mais Lea n'a pas peur : un renard gentil, ça se reconnaît ! Écoute bien où chacun se cache !}}
 

@@ -1,6 +1,6 @@
 # Série Stadt (1/5) — In der Stadt
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (rue piétonne avec boulangerie, enfants, vélos...) sur Wikimedia Commons
+@ img/serie-04-stadt-boutique.jpg | La boutique du village : hérisson, fromage et produits régionaux, généré avec Google Gemini, libre d'usage
 
 {{fr:On part en ville, au bord de la forêt ! L'école, la boulangerie de Frau Stachel (une dame hérisson), le lac, le parc… et le glacier, bien sûr !}}
 

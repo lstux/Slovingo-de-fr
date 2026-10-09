@@ -1,6 +1,6 @@
 # Série Familie (5/5) — Bei Lea zu Hause
 
-@ https://upload.wikimedia.org/wikipedia/commons/8/81/Birthday_party_with_party_horns.JPG | Fête d'anniversaire avec trompettes, Wikimedia Commons, licence libre
+@ img/serie-01-familie-chez-oma.jpg | Chez la grand-mère : jardin, gâteau et animaux de la Forêt-Noire, généré avec Google Gemini, libre d'usage
 
 {{fr:Tu vas chez Lea ! Tu rencontres son copain Tom, un blaireau, et sa mamie Hilde, un hibou. Écoute bien : tu connais presque tous les mots.}}
 

@@ -1,6 +1,6 @@
 # Kit de Survie (3/3) — Erste Begegnung
 
-@ https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Children_dancing%2C_Geneva.jpg/960px-Children_dancing%2C_Geneva.jpg | Enfants dansant à Genève, Wikimedia Commons, licence libre
+@ img/kit-dialogue-sentier.jpg | Premier sentier : lièvre et renard devant le panneau, généré avec Google Gemini, libre d'usage
 
 {{fr:Tu arrives dans la Forêt-Noire et tu rencontres Lea, un lièvre très sympa. Un renard et un lièvre, ça pourrait mal tourner… mais tu es un gentil renard ! Tu vas te présenter, et dire quand tu ne comprends pas !}}
 

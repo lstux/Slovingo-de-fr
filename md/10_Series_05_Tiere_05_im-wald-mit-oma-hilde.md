@@ -1,6 +1,6 @@
 # Série Tiere (5/5) — Im Wald mit Oma Hilde
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (chemin dans la Forêt-Noire, sentier entre les sapins...) sur Wikimedia Commons
+@ img/serie-05-tiere-parc-herr-falke.jpg | Le parc de la Forêt-Noire : faucon, cerf et écureuil, généré avec Google Gemini, libre d'usage
 
 {{fr:Une promenade en forêt avec Oma Hilde ! Écoute bien : tu connais presque tous les mots.}}
 

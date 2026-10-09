@@ -1,6 +1,6 @@
 # Série Essen (5/5) — Mittagessen bei Oma Hilde
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Groundhog_eating_a_tulip_poplar_%2857104%29.jpg?width=800 | Marmotte mangeant un peuplier à feuilles de tulipe, Wikimedia Commons, licence libre
+@ img/serie-03-essen-pique-nique.jpg | Pique-nique en prairie : pain, miel, myrtilles et champignons, généré avec Google Gemini, libre d'usage
 
 {{fr:Dimanche midi, on déjeune chez Oma Hilde, la mamie hibou de Lea ! Écoute bien : tu connais presque tous les mots.}}
 

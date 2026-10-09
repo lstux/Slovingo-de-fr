@@ -1,6 +1,6 @@
 # Série Tiere (1/5) — Waldtiere
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (renard, lièvre, écureuil dans la Forêt-Noire...) sur Wikimedia Commons
+@ img/serie-05-tiere-parc-herr-falke.jpg | Le parc de la Forêt-Noire : faucon, cerf et écureuil, généré avec Google Gemini, libre d'usage
 
 {{fr:Les animaux de la forêt : le renard, le lièvre, l'écureuil… Et une petite fin de mot qui rend tout mignon !}}
 

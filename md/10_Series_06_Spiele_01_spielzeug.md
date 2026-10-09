@@ -1,6 +1,6 @@
 # Série Spiele (1/5) — Spielzeug
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (jouets variés, ballon, poupée, puzzle...) sur Wikimedia Commons
+@ img/serie-06-spiele-cache-cache.jpg | Jeu de cache-cache dans la prairie, généré avec Google Gemini, libre d'usage
 
 {{fr:Les jouets, chez Lea ! Le ballon, la poupée, le puzzle… Et comment dire avec quoi tu joues.}}
 

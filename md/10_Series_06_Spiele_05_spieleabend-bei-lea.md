@@ -1,6 +1,6 @@
 # Série Spiele (5/5) — Spieleabend bei Lea
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (soirée jeux de société entre enfants et grand-mère...) sur Wikimedia Commons
+@ img/serie-06-spiele-cache-cache.jpg | Jeu de cache-cache dans la prairie, généré avec Google Gemini, libre d'usage
 
 {{fr:Un soir de pluie dans la forêt, soirée jeux chez Lea ! Écoute bien : tu connais presque tous les mots.}}
 

@@ -1,6 +1,6 @@
 # Série Essen (1/5) — Was wir essen
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Breakfast%5E_-_geograph.org.uk_-_2358203.jpg?width=800 | Petit-déjeuner, Wikimedia Commons/geograph.org.uk, licence libre
+@ img/serie-03-essen-pique-nique.jpg | Pique-nique en prairie : pain, miel, myrtilles et champignons, généré avec Google Gemini, libre d'usage
 
 {{fr:À table ! Le pain, le lait, les légumes… et deux verbes indispensables : manger et boire.}}
 

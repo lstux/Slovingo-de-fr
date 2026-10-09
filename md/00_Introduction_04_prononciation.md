@@ -1,6 +1,6 @@
 # Introduction (4/5) — Comment ça se prononce ?
 
-@ https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Smiling_Red_Kids.jpg/960px-Smiling_Red_Kids.jpg | Enfants souriants, Wikimedia Commons, licence libre
+@ img/intro-arrivee-foret.jpg | Arrivée dans la forêt : renard, lièvre, blaireau et hibou, généré avec Google Gemini, libre d'usage
 
 {{fr:Bonne nouvelle : en allemand, on lit presque comme c'est écrit ! Il suffit de retenir cinq astuces. Écoute bien, et répète à voix haute.}}
 

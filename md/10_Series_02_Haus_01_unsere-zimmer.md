@@ -1,6 +1,6 @@
 # Série Haus (1/5) — Unsere Zimmer
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Living_room_%28Unsplash%29.jpg?width=800 | Salon, Wikimedia Commons, licence libre
+@ img/serie-02-haus-bau-tom.jpg | Le terrier du blaireau : lampe, hibou et renard à la clairière, généré avec Google Gemini, libre d'usage
 
 {{fr:On visite la maison de Lea, cachée sous les sapins ! La cuisine, le salon, la chambre… et une formule magique pour dire « il y a ».}}
 
