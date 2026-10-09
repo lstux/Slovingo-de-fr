@@ -29,7 +29,7 @@ Animaux du lieu : lièvre sur le sentier, renard en exploration, papillons, myrt
 Lumière : coucher de soleil doré.
 Ambiance : aventure, guidance naturelle, sécurité, pour enfants.
 
-### house (Haus)
+### house (Haus) — ✅ DONE (`img/style_house.jpg`, ChatGPT)
 Image format 1200x280px, illustration jeunesse, style animation numérique.
 Terrier confortable de blaireau en premier plan, entrée accueillante.
 Nid de hibou grand-duc dans un grand sapin.
@@ -37,14 +37,14 @@ Animaux du lieu : lièvre au loin, renard qui observe, blaireau à l'entrée de 
 Lumière : chaude, intime.
 Ambiance : foyer, confort, nature bienveillante, pour enfants.
 
-### family (Familie)
+### family (Familie) — ✅ DONE (`img/style_family.jpg`, ChatGPT)
 Image format 1200x280px, illustration jeunesse, style animation numérique.
 Jardin de maison allemande : table en bois avec gâteau, fleurs, maison en arrière-plan.
 Animaux du lieu : hibou grand-duc posé sur une branche, cerf qui observe le jardin depuis la lisière, lièvre curieux, renard au loin.
 Lumière : chaleureuse, fin d'après-midi.
 Ambiance : famille, générosité, nature proche, pour enfants.
 
-### food (Essen)
+### food (Essen) — ✅ DONE (`img/style_food.jpg`, ChatGPT)
 Image format 1200x280px, illustration jeunesse, style animation numérique.
 Prairie de Forêt-Noire : champignons, pain, fromage, miel, baies sauvages posés sur l'herbe.
 Animaux du lieu : renard roux qui picore des baies, lièvre, oiseaux, papillons sur les fleurs, myrtilles et framboises.
