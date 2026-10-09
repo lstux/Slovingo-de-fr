@@ -64,7 +64,7 @@ Fleurs, maison aux volets verts en arrière-plan.
 Lumière : douce et dorée, fin d'après-midi.
 Ambiance : chaleur familiale, générosité, traditions allemandes, pour enfants.
 
-### serie-02-haus-bau-tom
+### serie-02-haus-bau-tom — ✅ DONE (`img/serie-02-haus-bau-tom.jpg`, Google Gemini)
 Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique, couleurs chaudes et lumineuses, pour enfants.
 Scène : Entrée d'un terrier de blaireau au bord d'une clairière de la Forêt-Noire.
 Un blaireau devant l'entrée de son terrier, lampe chaleureuse visible à l'intérieur.
@@ -74,7 +74,7 @@ Forêt dense avec sapins hauts autour.
 Lumière : chaleureuse et intime, fin d'après-midi.
 Ambiance : hospitalité, confort, découverte d'un foyer dans la forêt, pour enfants.
 
-### serie-03-essen-pique-nique
+### serie-03-essen-pique-nique — ✅ DONE (`img/serie-03-essen-pique-nique.jpg`, Google Gemini)
 Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique, couleurs chaudes et lumineuses, pour enfants.
 Scène : Pique-nique sur une couverture à carreaux dans une prairie fleurie de la Forêt-Noire.
 Étalage : pain, fromage, miel, myrtilles, framboises, champignons de saison.
@@ -84,7 +84,7 @@ Prairie fleurie, sapins en arrière-plan, ciel bleu dégagé.
 Lumière : chaude et dorée, fin d'après-midi.
 Ambiance : convivialité, tradition culinaire allemande, nature généreuse, pour enfants.
 
-### serie-04-stadt-boutique
+### serie-04-stadt-boutique — ✅ DONE (`img/serie-04-stadt-boutique.jpg`, Google Gemini)
 Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique, couleurs chaudes et lumineuses, pour enfants.
 Scène : Petite boutique traditionnelle d'un village au bord de la Forêt-Noire.
 Un hérisson derrière son comptoir en bois, produits posés devant elle.

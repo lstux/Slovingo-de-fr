@@ -26,3 +26,6 @@ Licence et auteur : à compléter depuis la page de chaque fichier sur Wikimedia
 | `intro-arrivee-foret.jpg` | Intro · Arrivée dans la forêt | *Généré avec Google Gemini* | Google Gemini | Libre d'usage — généré pour ce projet (2026) |
 | `kit-dialogue-sentier.jpg` | Kit 03 · Dialogue (le sentier) | *Généré avec Google Gemini* | Google Gemini | Libre d'usage — généré pour ce projet (2026) |
 | `serie-01-familie-chez-oma.jpg` | Série 1 · Chez la grand-mère | *Généré avec Google Gemini* | Google Gemini | Libre d'usage — généré pour ce projet (2026) |
+| `serie-02-haus-bau-tom.jpg` | Série 2 · Le terrier | *Généré avec Google Gemini* | Google Gemini | Libre d'usage — généré pour ce projet (2026) |
+| `serie-03-essen-pique-nique.jpg` | Série 3 · Pique-nique | *Généré avec Google Gemini* | Google Gemini | Libre d'usage — généré pour ce projet (2026) |
+| `serie-04-stadt-boutique.jpg` | Série 4 · La boutique | *Généré avec Google Gemini* | Google Gemini | Libre d'usage — généré pour ce projet (2026) |
