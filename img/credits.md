@@ -18,3 +18,9 @@ Licence et auteur : à compléter depuis la page de chaque fichier sur Wikimedia
 | Fichier | Source | Auteur | Licence |
 |---------|--------|--------|---------|
 | `homepage-carte-schwarzwald.jpg` | *Généré avec Google Gemini* | Google Gemini | Libre d'usage — généré pour ce projet (2026) |
+
+## Images de dialogues (fiches)
+
+| Fichier | Fiche | Source | Auteur | Licence |
+|---------|-------|--------|--------|---------|
+| `intro-arrivee-foret.jpg` | Intro · Arrivée dans la forêt | *Généré avec Google Gemini* | Google Gemini | Libre d'usage — généré pour ce projet (2026) |
