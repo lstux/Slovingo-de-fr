@@ -51,14 +51,14 @@ Animaux du lieu : renard roux qui picore des baies, lièvre, oiseaux, papillons 
 Lumière : chaude, dorée.
 Ambiance : gourmande, naturelle, convivialité, pour enfants.
 
-### city (Stadt)
+### city (Stadt) — ✅ DONE (`img/style_city.jpg`, ChatGPT)
 Image format 1200x280px, illustration jeunesse, style animation numérique.
 Petit village allemand au bord de la forêt : maisons colorées, clocher d'église, petit lac en arrière-plan, glacier visible au loin.
 Animaux du lieu : lièvre au loin, renard qui observe, blaireau, hérisson près d'une boutique, oiseaux sur les toits.
 Lumière : douce, ciel bleu tendre.
 Ambiance : village accueillant, vie de quartier, pour enfants.
 
-### animals (Tiere)
+### animals (Tiere) — ✅ DONE (`img/style_animals.jpg`, ChatGPT)
 Image format 1200x280px, illustration jeunesse, style animation numérique.
 Faune de la Forêt-Noire : cerf noble, chevreuil, écureuil roux, faucon pèlerin en vol au-dessus.
 Paysage varié : rochers, forêt de sapins, prairie alpine.
@@ -66,7 +66,7 @@ Pas de personnage humain, focus sur la faune sauvage.
 Lumière : naturelle, couleurs chaudes.
 Ambiance : biodiversité, respect de la nature, pour enfants.
 
-### games (Spiele)
+### games (Spiele) — ✅ DONE (`img/style_games.jpg`, ChatGPT)
 Image format 1200x280px, illustration jeunesse, style animation numérique.
 Prairie fleurie de la Forêt-Noire : buissons, rochers à grimper, herbe, fleurs sauvages.
 Animaux qui jouent : renard en exploration, lièvre qui bondit, blaireau curieux, papillons, oiseaux.
