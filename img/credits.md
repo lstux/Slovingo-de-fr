@@ -29,3 +29,5 @@ Licence et auteur : à compléter depuis la page de chaque fichier sur Wikimedia
 | `serie-02-haus-bau-tom.jpg` | Série 2 · Le terrier | *Généré avec Google Gemini* | Google Gemini | Libre d'usage — généré pour ce projet (2026) |
 | `serie-03-essen-pique-nique.jpg` | Série 3 · Pique-nique | *Généré avec Google Gemini* | Google Gemini | Libre d'usage — généré pour ce projet (2026) |
 | `serie-04-stadt-boutique.jpg` | Série 4 · La boutique | *Généré avec Google Gemini* | Google Gemini | Libre d'usage — généré pour ce projet (2026) |
+| `serie-05-tiere-parc-herr-falke.jpg` | Série 5 · Le parc | *Généré avec Google Gemini* | Google Gemini | Libre d'usage — généré pour ce projet (2026) |
+| `serie-06-spiele-cache-cache.jpg` | Série 6 · Le jeu | *Généré avec Google Gemini* | Google Gemini | Libre d'usage — généré pour ce projet (2026) |

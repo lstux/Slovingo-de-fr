@@ -94,7 +94,7 @@ Lac visible en arrière-plan, maisons du village.
 Lumière : douce et chaleureuse, fin d'après-midi.
 Ambiance : vie de village, commerce local, traditions, pour enfants.
 
-### serie-05-tiere-parc-herr-falke
+### serie-05-tiere-parc-herr-falke — ✅ DONE (`img/serie-05-tiere-parc-herr-falke.jpg`, Google Gemini)
 Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique, couleurs chaudes et lumineuses, pour enfants.
 Scène : Parc naturel de la Forêt-Noire avec animaux sauvages.
 Un faucon pèlerin en plein vol au-dessus de la prairie.
@@ -103,7 +103,7 @@ Prairie alpine avec rochers, sapins et forêt en arrière-plan.
 Lumière : douce et dorée, fin d'après-midi.
 Ambiance : respect de la nature, biodiversité, enchantement sauvage, pour enfants.
 
-### serie-06-spiele-cache-cache
+### serie-06-spiele-cache-cache — ✅ DONE (`img/serie-06-spiele-cache-cache.jpg`, Google Gemini)
 Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique, couleurs chaudes et lumineuses, pour enfants.
 Scène : Grande prairie fleurie de la Forêt-Noire, moment de jeu.
 Un renard roux caché derrière un grand sapin, seule la queue dépasse.
