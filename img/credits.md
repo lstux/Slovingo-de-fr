@@ -24,3 +24,5 @@ Licence et auteur : à compléter depuis la page de chaque fichier sur Wikimedia
 | Fichier | Fiche | Source | Auteur | Licence |
 |---------|-------|--------|--------|---------|
 | `intro-arrivee-foret.jpg` | Intro · Arrivée dans la forêt | *Généré avec Google Gemini* | Google Gemini | Libre d'usage — généré pour ce projet (2026) |
+| `kit-dialogue-sentier.jpg` | Kit 03 · Dialogue (le sentier) | *Généré avec Google Gemini* | Google Gemini | Libre d'usage — généré pour ce projet (2026) |
+| `serie-01-familie-chez-oma.jpg` | Série 1 · Chez la grand-mère | *Généré avec Google Gemini* | Google Gemini | Libre d'usage — généré pour ce projet (2026) |

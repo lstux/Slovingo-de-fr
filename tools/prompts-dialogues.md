@@ -42,7 +42,7 @@ Ambiance : curiosité, nature, première rencontre, pour enfants.
 
 ## KIT DE SURVIE (fiche 3 — dialogue)
 
-### kit-dialogue-sentier
+### kit-dialogue-sentier — ✅ DONE (`img/kit-dialogue-sentier.jpg`, Google Gemini)
 Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique, couleurs chaudes et lumineuses, pour enfants.
 Scène : Sentier de montagne de la Forêt-Noire, fin de matinée.
 Une jeune lièvre grise arrêtée au bord du chemin, regardant un panneau de randonnée en bois, sans texte.
@@ -55,7 +55,7 @@ Ambiance : apprentissage, guidance, sécurité, pour enfants.
 
 ## SÉRIES — FICHES 5 (DIALOGUES PRINCIPAUX)
 
-### serie-01-familie-chez-oma
+### serie-01-familie-chez-oma — ✅ DONE (`img/serie-01-familie-chez-oma.jpg`, Google Gemini)
 Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique, couleurs chaudes et lumineuses, pour enfants.
 Scène : Jardin d'une maison de la Forêt-Noire, table en bois dressée.
 Une grand-mère hibou assise près de la table, un gâteau de Forêt-Noire posé devant elle.
