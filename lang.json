@@ -217,15 +217,15 @@
       "spiele": "🎲"
     },
     "positions": {
-      "intro": [29.7, 2.8],
-      "series-kitsurvie": [71.2, 11.8],
-      "series-familie": [50, 19.8],
+      "intro": [36.8, 6.5],
+      "series-kitsurvie": [73.8, 17.7],
+      "series-familie": [56.5, 26.2],
       "series-haus": [24.1, 30.7],
-      "series-essen": [62.1, 32.7],
-      "series-stadt": [65.7, 47.7],
-      "series-tiere": [29.2, 63.1],
-      "series-spiele": [50.6, 71.7],
-      "final-exam": [84.7, 76.3]
+      "series-essen": [34.1, 46.5],
+      "series-stadt": [61.8, 47.3],
+      "series-tiere": [31.2, 64],
+      "series-spiele": [55.9, 71.3],
+      "final-exam": [91.2, 87.7]
     }
   }
 }
